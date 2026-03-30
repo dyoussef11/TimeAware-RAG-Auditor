@@ -1,0 +1,1 @@
+{"summary": "dell gaming", "intent": "diagnosis", "detected_fault": "thermal throttling issue due to age and usage", "suggested_solution": ["replace thermal paste/pads", "upgrade external fan"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-06-14", "periodo_referencia": "2025-06"}}

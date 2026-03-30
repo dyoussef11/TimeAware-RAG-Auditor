@@ -1,0 +1,18 @@
+{
+    "reddit_params": {
+        "limit_posts_per_keyword": 100,
+        "subreddits": "all",
+        "search_groups": {
+            "performance": ["fps drop", "stuttering", "bottleneck", "benchmarks", "low performance"],
+            "thermal": ["overheating", "thermal throttling", "undervolt", "repaste", "fan noise"],
+            "energy": ["battery drain", "battery health", "not charging", "cycle count"],
+            "display": ["backlight bleed", "flickering", "ips glow", "dead pixels"],
+            "stability": ["bsod", "system freeze", "driver crash", "blue screen", "bootloop"]
+        },
+        "user_agent": "LaptopSentimentBot/1.0"
+    },
+    "paths": {
+        "input_csv": "../00_datasets_referencia/dataset_final_csv/dataset_laptops_GAMER_ONLY.csv",
+        "output_bruto": "data/bruto/"
+    }
+}

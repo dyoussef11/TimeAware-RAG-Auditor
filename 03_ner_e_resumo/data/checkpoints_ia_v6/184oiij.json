@@ -1,0 +1,1 @@
+{"summary": "asus rog zephyrus m16", "intent": "analysis", "detected_fault": "Thermal Throttling due to high ambient temperatures", "suggested_solution": "Proper cooling and ventilation, setting Silent mode", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2023-11-26", "periodo_referencia": "2023-11"}}

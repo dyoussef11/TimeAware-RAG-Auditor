@@ -1,0 +1,1 @@
+{"summary": "hp pavilion", "intent": "Troubleshooting", "detected_fault": "Power Supply Issue", "suggested_solution": ["Upgrade to modern NVIDIA or AMD graphics card", "Consider upgrading power supply unit (PSU)"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2025-07-30", "periodo_referencia": "2025-07"}}

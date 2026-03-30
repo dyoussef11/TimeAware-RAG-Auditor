@@ -1,0 +1,30 @@
+{
+    "PADROES_REMOVER": [
+        "_intel_core.*",
+        "_amd_ryzen.*",
+        "_rtx.*",
+        "_gtx.*",
+        "_-.*",
+        "_\\d+gb.*",
+        "_\\d+th_gen.*",
+        "_\\(.*\\)",
+        "_nh\\..*",
+        "_nx\\..*",
+        "_8gb.*",
+        "_16gb.*",
+        "_512gb.*",
+        "_an\\d+.*",
+        "_ph\\d+.*",
+        "_g[1-5]-.*"
+    ],
+    "TERMOS_ACESSORIOS": [
+        "mouse",
+        "pad",
+        "headphone",
+        "cable",
+        "battery",
+        "keyboard",
+        "amplifier",
+        "earbuds"
+    ]
+}

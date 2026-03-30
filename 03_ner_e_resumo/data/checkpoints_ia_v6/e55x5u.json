@@ -1,0 +1,1 @@
+{"summary": "asus vivobook gaming", "intent": "analysis", "detected_fault": "thermal throttling", "suggested_solution": "check cooling system and driver/BiOS versions", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2019-12-02", "periodo_referencia": "2019-12"}}

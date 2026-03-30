@@ -1,0 +1,1 @@
+{"summary": "msi pulse gl66 gaming", "intent": "Analyze system for thermal throttling issue", "detected_fault": "Thermal Throttling", "suggested_solution": "Upgrade cooling system or adjust GPU usage", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2024-07-24", "periodo_referencia": "2024-07"}}

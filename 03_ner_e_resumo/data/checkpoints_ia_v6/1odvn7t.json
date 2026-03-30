@@ -1,0 +1,1 @@
+{"summary": "Lenovo Legion 5 15ACH6", "intent": "Repair/Upgrade", "detected_fault": "Thermal Throttling (HTT)", "suggested_solution": ["Replace thermal paste or clean heat sink", "Check for BIOS updates"], "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2025-10-23", "periodo_referencia": "2025-10"}}

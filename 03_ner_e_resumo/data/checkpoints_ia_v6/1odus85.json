@@ -1,0 +1,1 @@
+{"summary": "hp envy", "intent": "diagnosis", "detected_fault": "Performance Bottleneck", "suggested_solution": "Optimize system resources, update graphics drivers, and address overheating issues", "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2025-10-23", "periodo_referencia": "2025-10"}}

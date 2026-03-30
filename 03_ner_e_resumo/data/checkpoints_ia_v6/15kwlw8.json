@@ -1,0 +1,1 @@
+{"summary": "asus tuf gaming f15", "intent": "Prevent Thermal Throttling", "detected_fault": "Thermal Throttling", "suggested_solution": ["Thermal Monitoring", "Power Management", "Driver Updates", "BIOS Updates"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2023-08-07", "periodo_referencia": "2023-08"}}

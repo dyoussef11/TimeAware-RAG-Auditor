@@ -1,0 +1,1 @@
+{"summary": "acer swift x", "intent": "Technical Analysis", "detected_fault": "Thermal Throttling", "suggested_solution": ["BIOS Update", "Driver Updates", "Thermal Paste Replacement"], "technical_severity": "Medium", "discussion_timeline": "2021-01-01 to 2021-12-31", "ancoragem_temporal": {"data_post": "2025-12-15", "periodo_referencia": "2025-12"}}

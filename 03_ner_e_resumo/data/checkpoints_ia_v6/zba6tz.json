@@ -1,0 +1,1 @@
+{"summary": "ASUS ROG STRIX G15", "intent": "Troubleshooting", "detected_fault": "Not charging", "suggested_solution": ["Clean the fan", "Update BIOS", "Battery driver updates"], "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-02-25", "ancoragem_temporal": {"data_post": "2022-12-03", "periodo_referencia": "2022-12"}}

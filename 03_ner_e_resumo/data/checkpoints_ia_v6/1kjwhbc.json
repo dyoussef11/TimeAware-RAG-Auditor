@@ -1,0 +1,1 @@
+{"summary": "asus tuf gaming f17", "intent": "Analyze system state baseline for thermal throttling issue", "detected_fault": "Thermal Throttling", "suggested_solution": "Update driver and BIOS to latest versions", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-05-11", "periodo_referencia": "2025-05"}}

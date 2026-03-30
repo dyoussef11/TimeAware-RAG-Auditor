@@ -1,0 +1,894 @@
+Company,Product,Cpu,Ram,Gpu,OpSys,Inches,Price,Cpu_brand,Gpu_brand,HDD,SSD,LogPrice
+HP,Victus 15-fb0157AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB AMD Radeon RX 6500M,Windows 11 OS,15.6,49900,"Hexa Core,",4GB,0,512,10.81777628
+HP,15s-fq5007TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,39900,Hexa Core,Intel,0,512,10.5941316
+Acer,One 14 Z8-415 Laptop,"Dual Core, 4 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,26990,"Dual Core,",Intel,0,512,10.20322171
+Lenovo,Yoga Slim 6 14IAP8 82WU0095IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,59729,12 Cores,Intel,0,512,10.99757294
+Apple,MacBook Air 2020 MGND3HN Laptop,Octa Core (4P + 4E),8,Apple M1 Integrated Graphics,Mac OS,13.3,69990,Octa Core,Apple,0,256,11.15610765
+Acer,Extensa EX214-53 Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,39990,12 Cores,Intel,0,512,10.5963847
+Dell,Inspiron 3520 D560896WIN9B Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,36790,Hexa Core,Intel,0,512,10.51298135
+Acer,Nitro V ANV15-51 2023 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,76990,Octa Core,6GB,0,512,11.25143082
+Asus,Vivobook 15 X1502ZA-EJ523WS Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Iris Xe,Windows 11 OS,15.6,48990,12 Cores,Intel,0,512,10.79937147
+Samsung,Galaxy Book2 Pro 13 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,74990,12 Cores,Intel,0,512,11.22511005
+Lenovo,V15 G3 IAP 82TTA08AIN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated UHD,Windows 11 OS,15.6,49990,10 Cores,Intel,0,512,10.81957826
+Ultimus,Pro NU14U3INC43BN-CS Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD Graphics,Windows 11 OS,14.1,10990,"Dual Core,",Intel,0,128,9.304741047
+Asus,TUF Gaming F15 2022 FX507ZC4-HN116W Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,72990,12 Cores,4GB,0,512,11.19807772
+Primebook,4G Android Laptop,Octa Core,4,ARM Mali G72,Android 11 OS,11.6,10990,Octa Core,ARM,0,0,9.304741047
+Lenovo,V15 G4 ‎82YU00W7IN Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,29990,"Quad Core,",AMD,0,512,10.30861927
+Asus,TUF Gaming F15 FX506HF-HN024W Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,53649,"Hexa Core,",4GB,0,512,10.89021811
+MSI,Modern 14 C11M-031IN Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,14,33990,"Dual Core,",Intel,0,512,10.43382164
+Infinix,Zerobook 2023 Laptop,"14 Cores (6P + 8E), 20 Threads",32,Intel Integrated Iris Xe,Windows 11 OS,15.6,79990,14 Cores,Intel,0,1000,11.28965691
+HP,Victus 15-fa0666TX Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,68990,Octa Core,4GB,0,512,11.14171685
+Lenovo,IdeaPad Gaming 3 15IHU6 82K101GSIN Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,45990,"Quad Core,",4GB,0,512,10.73617926
+Asus,Vivobook 16X 2022 M1603QA-MB502WS Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Vega 7,Windows 11 OS,16,49900,"Hexa Core,",AMD,0,512,10.81777628
+Apple,MacBook Air 2022 Laptop,Octa Core (4P + 4E),8,8-Core GPU,Mac OS,13.6,104990,Octa Core,8-Core,0,256,11.56162039
+Acer,Aspire 7 A715-76G UN.QMYSI.002 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,54990,Octa Core,4GB,0,512,10.91490663
+HP,15s-fq2510tu Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,49580,"Quad Core,",Intel,0,512,10.81134281
+Asus,Vivobook 16X 2022 M1603QA-MB711WS Laptop,"Octa Core, 16 Threads",16,AMD Radeon Vega 7,Windows 11 OS,16,55990,"Octa Core,",AMD,0,512,10.93292838
+HP,15s-eq2132AU Laptop,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,15.6,43990,"Hexa Core,",AMD,0,512,10.69171761
+HP,255 G9 840T7PA Laptop,"Dual Core, 2 Threads",4,AMD Integrated,DOS OS,15.6,19850,"Dual Core,",AMD,0,256,9.895959286
+Acer,Extensa 15 EX215-33 2023 Laptop,"Octa Core, 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,28990,"Octa Core,",Intel,0,512,10.27470622
+Acer,Aspire 5 A515-57G UN.K9TSI.002 Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,54999,12 Cores,4GB,0,512,10.91507028
+Dell,Inspiron 3530 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel UHD Graphics,Windows 11 OS,15.6,70990,10 Cores,Intel,0,512,11.1702943
+Lenovo,IdeaPad Gaming 3 82SB00V2IN Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,56889,"Hexa Core,",4GB,0,512,10.94885728
+Acer,Predator Helios Neo 16 2023 PHN16-71 Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",16,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,16,179880,24 Cores,8GB,0,1000,12.10004524
+HP,Victus 15-fb0150AX Gaming Laptop,"Hexa Core, 12 Threads",16,4GB AMD Radeon RX 6500M Graphics,Windows 11 OS,15.6,53790,"Hexa Core,",4GB,0,512,10.89284286
+Acer,Aspire Lite AL15 Laptop,"Hexa Core, 12 Threads",16,AMD Graphics,Windows 11 OS,15.6,37990,"Hexa Core,",AMD,0,512,10.54507825
+Acer,Nitro 5 AN515-58 NH.QFSSI.001 Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,8GB NVIDIA GeForce RTX 3070 Ti,Windows 11 OS,15.6,96990,10 Cores,8GB,0,1000,11.48236316
+HP,Pavilion 15-eg3081TU Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Integrated,Windows 11 OS,15.6,71990,12 Cores,Intel,0,512,11.1842825
+HP,Victus 16-d0333TX Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,16.1,59990,"Hexa Core,",4GB,0,512,11.00193316
+Lenovo,IdeaPad Slim 5 14IAH8 83BF0045IN Laptop,"Octa Core (4P + 4E), 12 Threads",16,Intel Graphics,Windows 11 OS,14,62990,Octa Core,Intel,0,1000,11.05073126
+Infinix,INBook X3 Slim XL422 2023 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,14,30990,Hexa Core,Intel,0,512,10.34141985
+Lenovo,LOQ 15IRH8 82XV00F5IN 2023 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,74990,Octa Core,6GB,0,512,11.22511005
+HP,15s-fr2515TU Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,36490,"Dual Core,",Intel,0,512,10.50479353
+Dell,G15-5520 2023 Laptop,"12 Cores (4P + 8E), 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,77990,12 Cores,4GB,0,1000,11.26433589
+Samsung,Galaxy Book2 NP550XED-KA2IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated UHD,Windows 11 OS,15.6,54990,10 Cores,Intel,0,512,10.91490663
+Lenovo,IdeaPad 3 15IAU7 82RK00WXIN Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics ,Windows 11 OS,15.6,41190,Hexa Core,Intel,0,256,10.62595079
+Asus,ROG Strix G16 2023 G614JJ-N3086WS Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,16,89990,10 Cores,6GB,0,512,11.40745383
+Lenovo,Legion 9i 2023 Laptop,"24 Cores (8P + 16E), 32 Threads",32,16GB NVIDIA GeForce RTX 4090,Windows 11 OS,16,399999,24 Cores,16GB,0,1000,12.89921733
+Wings,Nuvobook V1 Laptop,"Quad Core, 8 Threads",8,Intel Graphics,Windows 11 OS,15.6,31990,"Quad Core,",Intel,0,512,10.37317863
+Dell,Inspiron 3525 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Radeon Graphics,Windows 11 OS,15.6,31490,"Quad Core,",AMD,0,512,10.35742531
+HP,Victus 15-fa0555TX  Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,70590,Octa Core,4GB,0,512,11.16464377
+Asus,TUF Gaming F15 2023 FX507ZV-LP094W Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,104990,14 Cores,8GB,0,512,11.56162039
+Lenovo,V15 82QYA00MIN Laptop,"Dual Core, 2 Threads",8,Intel Integrated Intel UHD Graphics,Windows 11 OS,15.6,23990,"Dual Core,",Intel,0,256,10.08539236
+HP,255 G9 7B1L8PA Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,37999,"Hexa Core,",AMD,0,512,10.54531512
+Honor,MagicBook X14 2023 ‎FRI-F56 Laptop,"Octa Core (4P + 4E), 12 Threads",16,Intel UHD Graphics,Windows 11 OS,14,52990,Octa Core,Intel,0,512,10.8778585
+Lenovo,V15 82KDA01BIH Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,30849,"Quad Core,",AMD,0,512,10.33685961
+HP,Victus 15-fa0070TX Laptop,"Octa Core (4P + 4E), 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,58990,Octa Core,4GB,0,512,10.98512322
+Zebronics,ZEB-NBC 2S Laptop,"Quad Core, 8 Threads",16,Intel Integrated UHD,Windows 11 OS,15.6,34990,"Quad Core,",Intel,0,512,10.46281759
+Lenovo,ThinkBook 15 Gen 5 21JF0026MJ Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,16,49990,"Octa Core,",AMD,0,512,10.81957826
+HP,15S-FQ5202TU Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,51780,10 Cores,Intel,0,512,10.85475925
+Asus,TUF Gaming F15 FX506HE-HN382W Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050 Ti,Windows 11 OS,15.6,68990,"Octa Core,",4GB,0,512,11.14171685
+Asus,TUF Gaming F15 FX577ZC-HN192W Gaming Laptop,"14 Cores, 20 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,85990,"14 Cores,",4GB,0,1000,11.36198629
+Lenovo,LOQ 15IRH8 82XV00BQIN 2023 Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,96990,10 Cores,6GB,0,512,11.48236316
+Lenovo,Legion Y9000X 2023 Laptop,"14 Cores (6P + 8E), 20 Threads",32,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,148990,14 Cores,8GB,0,1000,11.91163447
+Asus,TUF Gaming F17 FX707ZC4-HX067W Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,17.3,72990,12 Cores,4GB,0,512,11.19807772
+Dell,Inspiron 5430 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,84490,12 Cores,Intel,0,1000,11.34438846
+Asus,Vivobook 15 X1502ZA-EJ741WS Laptop,"10 Cores (6P + 4E), 16 Threads",16,Intel Iris Xe,Windows 11 OS,15.6,60990,10 Cores,Intel,0,512,11.0184652
+Infinix,INBook X2 Slim Series XL23 Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,33990,"Quad Core,",Intel,0,512,10.43382164
+Asus,VivoBook 14 X415EA-EK344WS Notebook,"Dual Core, 4 Threads",16,Intel Integrated Intel UHD,Windows 11 OS,14,35990,"Dual Core,",Intel,0,512,10.4909964
+Acer,Aspire 7 A715-76G NH.QMFSI.004 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce GTX 3050,Windows 11 OS,15.6,60990,Octa Core,4GB,0,512,11.0184652
+Xiaomi,Redmi Book 14 2023 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,43990,12 Cores,Intel,0,512,10.69171761
+Asus,Vivobook 16X 2023 K3605ZF-MB541WS Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,16,62990,Octa Core,4GB,0,512,11.05073126
+MSI,GF63 Thin 11UC-1294IN Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,65990,"Octa Core,",4GB,0,0,11.09725849
+Infinix,INBook Y1 Plus Neo XL30 Laptop,"Quad Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,23990,"Quad Core,",Intel,0,512,10.08539236
+Asus,TUF Gaming F15 FX506HC-HN362WS Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,61990,"Hexa Core,",4GB,0,512,11.03472836
+Dell,Inspiron 3525 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Radeon Graphics,Windows 11 OS,15.6,36990,"Quad Core,",AMD,0,512,10.51840288
+Asus,Vivobook 16X 2022 M1603QA-MB511WS Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Vega 7 Graphics,Windows 11 OS,16,50970,"Hexa Core,",AMD,0,512,10.8389925
+Dell,Precision 5550 Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA ,Windows 10 OS,15.6,184999,"Hexa Core,",4GB,0,512,12.1281057
+HP,Omen 16-XD0007ax Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16.1,109990,"Octa Core,",6GB,0,1000,11.60814473
+Zebronics,Pro Series Z ZEB-NBC 4S Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated,Windows 11 OS,15.6,42990,10 Cores,Intel,0,512,10.66872281
+HP,15s-fq5185TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,39150,Hexa Core,Intel,0,512,10.5751557
+Acer,Swift Go NXKPZSI002 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,92999,12 Cores,Intel,0,512,11.44034402
+HP,Victus 16-s0095AX Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,16.1,80990,"Octa Core,",6GB,0,512,11.30208097
+HP,Victus 15-FB1001AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,55850,"Hexa Core,",4GB,0,512,10.9304248
+Acer,Aspire Lite AL15-51 UN.431SI.288 Laptop,"Quad Core, 8 Threads",8,Intel Iris XE Graphics ,Windows 11 OS,15.6,38990,"Quad Core,",Intel,0,512,10.57106048
+MSI,Thin GF63 11UCX-1492IN Gaming Laptop,"Hexa Core, 12 Threads",16,GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,53990,"Hexa Core,",GB,0,0,10.89655412
+Infinix,INBook X3 Slim XL422 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,38990,10 Cores,Intel,0,512,10.57106048
+HP,Omen 16-xf0060AX Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,139234,"Octa Core,",8GB,0,1000,11.84391125
+MSI,Thin GF63 11UC-1490IN Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,57990,"Hexa Core,",4GB,0,0,10.96802586
+Lenovo,LOQ 2023 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",8,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,89999,Octa Core,8GB,0,512,11.40755384
+Acer,One 14 Z8-415 ‎2023 Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,37990,"Quad Core,",Intel,0,512,10.54507825
+Asus,VivoBook 14 X415EA-EK326WS Notebook,"Dual Core, 4 Threads",8,Intel Integrated Intel UHD,Windows 11 OS,14,30990,"Dual Core,",Intel,0,512,10.34141985
+Dell,G15-5530 GN5530D83M6002ORB1 Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,92990,10 Cores,6GB,0,512,11.44024724
+HP,15s-fr5009TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,42990,Hexa Core,Intel,0,512,10.66872281
+Asus,TUF Gaming F15 FX506HF-HN025W Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,59089,"Hexa Core,",4GB,0,512,10.98680006
+HP,Victus 15-fa0998TX Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,72999,Octa Core,4GB,0,512,11.19820102
+HP,Omen 16-n0123AX Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 3070 Ti ,Windows 11 OS,16.1,126742,"Octa Core,",8GB,0,1000,11.7499088
+Apple,MacBook Air 15 2023 Laptop,Octa Core (4P + 4E),8,10-Core GPU,Mac OS,15.3,126990,Octa Core,10-Core,0,256,11.75186362
+Samsung,Galaxy Book2 NP550XED-KA1IN 15 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,49990,10 Cores,Intel,0,512,10.81957826
+Dell,Inspiron 5420 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated UHD,Windows 11 OS,14,74390,12 Cores,Intel,0,512,11.2170768
+Dell,Inspiron 3520 D560871WIN9B Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,52990,10 Cores,Intel,0,512,10.8778585
+Lenovo,IdeaPad Gaming 3 15IHU6 82K101EDIN Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce RTX 3050 Graphics,Windows 11 OS,15.6,60990,"Quad Core,",4GB,0,512,11.0184652
+HP,Omen 16-n0079AX Gaming Laptop,"Octa Core, 16 Threads",16,8GB AMD Radeon RX 6650M,Windows 11 OS,16.1,98174,"Octa Core,",8GB,0,512,11.49449669
+Lenovo,E41-55 Laptop,"Dual Core, 2 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,18990,"Dual Core,",AMD,0,256,9.851667804
+Asus,VivoBook 15 X515EA-EJ522WS Laptop,"Quad Core, 8 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,15.6,38990,"Quad Core,",Intel,0,512,10.57106048
+HP,14s-fq1092au Laptop,"Hexa Core, 12 Threads",8,AMD Radeon AMD,Windows 11 OS,14,41950,"Hexa Core,",AMD,0,512,10.64423371
+Xiaomi,Mi Notebook Ultra Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 10  OS,15.6,46990,"Quad Core,",Intel,0,512,10.75769009
+iBall,Excelance CompBook Laptop,Quad Core,2,Intel HD Graphics,Windows 10 OS,11.6,9999,Quad Core,Intel,0,0,9.210240367
+Asus,Vivobook 15 X1502ZA-EJ385WS Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,40990,10 Cores,Intel,0,512,10.62108341
+Lenovo,IdeaPad Gaming 3 82SB00V5IN Laptop,"Octa Core, 16 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,74990,"Octa Core,",4GB,0,512,11.22511005
+Zebronics,ZEB-NBC 3S 2023 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated,Windows 11 OS,15.6,33990,Hexa Core,Intel,0,512,10.43382164
+Zebronics,Pro Series Z ZEB-NBC 4S 2023 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated,Windows 11 OS,15.6,39990,10 Cores,Intel,0,512,10.5963847
+Asus,CX1101CMA-GJ0004 Chromebook,"Dual Core, 2 Threads",4,Intel UHD Graphics 600,Chrome OS,11.6,10990,"Dual Core,",Intel,0,0,9.304741047
+MSI,Katana 15 B13UDXK-1482IN Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",32,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,88990,12 Cores,6GB,0,1000,11.39627928
+HP,15s-fy5007TU Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,54990,10 Cores,Intel,0,512,10.91490663
+Lenovo,ThinkBook 15 G5 21JFA00BIN Laptop,"Octa Core, 16 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,49990,"Octa Core,",AMD,0,512,10.81957826
+Asus,Vivobook 16 2023 X1605VA-MB947WS Laptop,"14 Cores (6P + 8E), 20 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,16,80739,14 Cores,Integrated,0,512,11.29897701
+Lenovo,Thinkpad E15 G4 21DJA0Y0IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,62990,10 Cores,Intel,0,512,11.05073126
+HP,Victus 15-fa1132TX Laptop,"Octa Core (4P + 4E), 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,62990,Octa Core,4GB,0,512,11.05073126
+HP,Victus 15-fb1017AX Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,69501,"Hexa Core,",4GB,0,512,11.14909642
+Lenovo,IdeaPad Slim 5 14IAH8 83BF000UIN Laptop,"Octa Core (4P + 4E), 12 Threads",16,Intel UHD Graphics,Windows 11 OS,14,59990,Octa Core,Intel,0,512,11.00193316
+HP,Victus 15-fb1015AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,54990,"Hexa Core,",4GB,0,512,10.91490663
+Lenovo,LOQ 15IRH8 82XV00F4IN 2023 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,64990,Octa Core,4GB,0,512,11.08198869
+MSI,Modern 15 B12M-612IN Laptop,"Hexa Core (2P + 4E), 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,37729,Hexa Core,Intel,0,512,10.53818431
+Lenovo,IdeaPad Gaming 3 82K2025MIN Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,50712,"Hexa Core,",4GB,0,512,10.83391785
+MSI,Modern 14 C11M-029IN Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,44990,"Quad Core,",Intel,0,512,10.71419552
+Chuwi,CoreBook X Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,14,23990,"Dual Core,",Intel,0,512,10.08539236
+HP,15s-ey2001AU Laptop,"Octa Core, 16 Threads",16,AMD Radeon Radeon,Windows 11 OS,15.6,49990,"Octa Core,",AMD,0,512,10.81957826
+HP,Pavilion 15-eg3079TU Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,72990,12 Cores,Intel,0,512,11.19807772
+Lenovo,IdeaPad Slim 3 82H803B6IN Laptop,"Quad Core, 8 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,52101,"Quad Core,",Integrated,0,512,10.86093942
+Infinix,INBook X2 Slim Series Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD Graphics,Windows 11 OS,14,28990,"Dual Core,",Intel,0,512,10.27470622
+HP,Pavilion 15s-fq5190TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe,Windows 11 OS,15.6,69490,10 Cores,Intel,0,512,11.14893814
+Acer,Aspire 5 A515-58P NX.KHJSI.001 Gaming Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,39965,Hexa Core,Intel,0,512,10.59575935
+Acer,Aspire 5 14 A514-56GM 2023 Gaming Laptop,"10 Cores (2P + 8E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,14,54990,10 Cores,4GB,0,512,10.91490663
+Asus,Vivobook 15 X1502ZA-EJ532WS Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe,Windows 11 OS,15.6,46999,10 Cores,Intel,0,512,10.7578816
+Asus,Vivobook S15 OLED 2023 S5504VA-MA543WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,83990,12 Cores,Intel,0,512,11.33845302
+HP,Victus 15-fb0108AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB AMD Radeon RX 6500M Graphics,Windows 11 OS,15.6,51499,"Hexa Core,",4GB,0,512,10.84931767
+Dell,Vostro 3425 M552321WIN9S Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,50990,"Hexa Core,",AMD,0,512,10.83938481
+HP,Chromebook 15a-na0012TU Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD Graphics,Chrome OS,15.6,23990,"Dual Core,",Intel,0,0,10.08539236
+Acer,Aspire 3 A315-24P NX.KDESI.003 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphiics,Windows 11 OS,15.6,27990,"Quad Core,",AMD,0,512,10.23960258
+HP,Pavilion x360 14-ek1010TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,79990,10 Cores,Intel,0,1000,11.28965691
+Samsung,Galaxy Book 3 NP750XFG-KA3IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,84390,10 Cores,Intel,0,512,11.34320419
+Infinix,INBook Y1 Plus Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,24990,"Dual Core,",Intel,0,256,10.12623102
+Samsung,Galaxy Book 3 Ultra NP960XFH-XA1IN Laptop,"14 Cores (6P + 8E), 20 Threads",32,NVIDIA GeForce RTX 4070,Windows 11 OS,16,281990,14 Cores,NVIDIA,0,1000,12.54962689
+Lenovo,IdeaPad 1 15AMN7 82VG00EQIN Laptop,"Dual Core, 2 Threads",8,AMD Radeon 610M Graphics,Windows 11 OS,15.6,26590,"Dual Core,",AMD,0,512,10.18829048
+Infinix,INBook X2 Slim Series XL23 2023 Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,37990,"Quad Core,",Intel,0,1000,10.54507825
+Asus,Vivobook Pro 15 M6500RC-HN741WS Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,71189,"Octa Core,",4GB,0,512,11.17309359
+HP,Victus 16-s0095AX Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,16.1,85999,"Octa Core,",6GB,0,512,11.36209095
+Lenovo,Yoga 7 82YM0074IN Laptop,"Octa Core, 16 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,93990,"Octa Core,",AMD,0,1000,11.45094367
+Asus,Zenbook Flip 14 OLED UP5401ZA-KU541WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,84990,12 Cores,Intel,0,512,11.35028888
+Dell,Inspiron 3530 2023 Laptop,"5 Cores (1P + 4E), 6 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,44190,5 Cores,Intel,0,1000,10.6962538
+Acer,Predator 16 NH.QLUSI.005 Laptop,"24 Cores (8P + 16E), 32 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,159990,24 Cores,8GB,0,1000,11.98286659
+HP,Victus 15-fb0134AX Gaming Laptop,"Hexa Core, 12 Threads",16,4GB AMD Radeon RX 6500M Graphics,Windows 11 OS,15.6,52990,"Hexa Core,",4GB,0,512,10.8778585
+Acer,Aspire Lite 2023 AL15-51 Laptop,"Quad Core, 8 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,39990,"Quad Core,",Intel,0,512,10.5963847
+Dell,Inspiron 2023 14 5430 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,73990,10 Cores,Intel,0,1000,11.21168523
+Lenovo,IdeaPad Gaming 3 82K101L7IN Laptop,"Quad Core, 8 Threads",16,4GB NVIDIA GTX 1650,Windows 11 OS,15.6,57500,"Quad Core,",4GB,0,512,10.95954023
+Asus,Vivobook Pro 15 M6500QF-HN521WS Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,59990,"Hexa Core,",4GB,0,512,11.00193316
+Acer,Aspire 7 A715-76G UN.QMESI.004 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,53990,Octa Core,4GB,0,512,10.89655412
+Asus,VivoBook 14 X415EA-EK326WS Notebook,"Dual Core, 4 Threads",8,Intel Integrated Intel UHD,Windows 11 OS,14,33990,"Dual Core,",Intel,0,512,10.43382164
+Dell,Inspiron 5630 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,16,75990,12 Cores,Intel,0,512,11.23835703
+Apple,MacBook Air 15 2023 Laptop,Octa Core (4P + 4E),8,10-Core GPU,Mac OS,15.3,144990,Octa Core,10-Core,0,512,11.88442005
+Asus,Vivobook 15 X1502ZA-EJ542WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe,Windows 11 OS,15.6,60539,12 Cores,Intel,0,512,11.01104306
+Asus,Vivobook 15 M1502QA-EJ742WS Laptop,"Octa Core, 16 Threads",16,AMD Radeon,Windows OS,15.6,56990,"Octa Core,",AMD,0,512,10.95063109
+HP,Pavilion 15-eg3027TU Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,75533,12 Cores,Intel,0,512,11.23232493
+Dell,G15-5530 GN553064GRM002ORB1 Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",8,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,74990,10 Cores,6GB,0,512,11.22511005
+Asus,TUF Gaming A15 FA577NU-LP082W Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,94990,"Octa Core,",6GB,0,512,11.4615269
+Asus,ROG Strix G16 2023 G614JV-N4141WS Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,179990,24 Cores,8GB,0,1000,12.10065657
+Asus,Vivobook 16X 2023 K3605ZC-MB541WS Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,16,77990,Octa Core,4GB,0,512,11.26433589
+HP,15s-fr5009TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,37990,Hexa Core,Intel,0,512,10.54507825
+HP,15-fd0013TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Integrated,Windows 11 OS,15.6,62990,10 Cores,Intel,0,512,11.05073126
+Acer,Predator Helios Neo 16 PHN16-71 2023 Gaming Laptop,"16 Cores (8P + 8E), 24 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,129999,16 Cores,8GB,0,1000,11.77528204
+HP,Pavilion 15-eh2050AU Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,52990,"Hexa Core,",AMD,0,512,10.8778585
+Acer,Predator Helios Neo 16 PHN16-71 Laptop,"16 Cores (8P + 8E), 24 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,104990,16 Cores,6GB,0,512,11.56162039
+Realme,Book Prime CloudPro002 Laptop,"Quad Core, 8 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,47999,"Quad Core,",Intel,0,512,10.77893546
+Acer,Predator Helios Neo 16 PHN16-71 Gaming Laptop,"16 Cores (8P + 8E), 24 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,114499,16 Cores,6GB,0,1000,11.64832137
+HP,Pavilion 15-eg2017TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,49990,Hexa Core,Intel,0,512,10.81957826
+Asus,Vivobook 15 X1502ZA-EJ953WS Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Iris Xe,Windows 11 OS,15.6,39990,Hexa Core,Intel,0,512,10.5963847
+Acer,Nitro 5 AN515-47 2023 Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,68990,"Hexa Core,",4GB,0,512,11.14171685
+Acer,Nitro 5 AN515-47 Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,79990,"Octa Core,",4GB,0,512,11.28965691
+MSI,GF63 Thin 11UC-1293IN Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA Geforce RTX 3050,Windows 11 OS,15.6,66490,"Octa Core,",4GB,0,512,11.10480684
+Asus,Vivobook S14 Flip 2022 TN3402QA-LZ741WS Laptop,"Octa Core, 16 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,69990,"Octa Core,",AMD,0,512,11.15610765
+Asus,Vivobook S15 OLED 2023 S5504VA-MA543WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,86490,12 Cores,Intel,0,512,11.36778408
+HP,15-fc0025AU Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,32790,"Quad Core,",AMD,0,512,10.39787887
+Asus,ROG Zephyrus Duo 16,"16 Cores, 32 Threads",32,16GB NVIDIA GeForce RTX 4090,Windows 11 OS,16,429990,"16 Cores,",16GB,0,2000,12.97151723
+Dell,Vostro 3425 M552321WIN9S Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,49990,"Hexa Core,",AMD,0,512,10.81957826
+MSI,Modern 14 C7M-062IN Laptop,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,14,43990,"Hexa Core,",AMD,0,512,10.69171761
+MSI,Modern 14 C11M-030IN Laptop,"Quad Core, 8 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,14,36990,"Quad Core,",Intel,0,512,10.51840288
+MSI,Sword 15 A12VF-401IN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,102990,10 Cores,8GB,0,1000,11.54238718
+Acer,Extensa 15 EX215-33 Laptop,"Octa Core, 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,29990,"Octa Core,",Intel,0,256,10.30861927
+HP,Pavilion x360 14-ek1010TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,77889,10 Cores,Intel,0,1000,11.26304002
+Samsung,Galaxy Book 3 NP750XFG-KB1IN Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,69990,10 Cores,Intel,0,512,11.15610765
+Samsung,Galaxy Book 3 360 NP750QFG-KA3IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,138990,12 Cores,Intel,0,1000,11.84215727
+HP,Victus 15-fb0777AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB AMD Radeon RX 6500M Graphics,Windows 11 OS,15.6,51990,"Hexa Core,",4GB,0,512,10.85880667
+Samsung,Galaxy Book 3 Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,69990,12 Cores,Intel,0,512,11.15610765
+Asus,Vivobook Pro 15 OLED M3500QC-L1502WS Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,72990,"Hexa Core,",4GB,0,512,11.19807772
+Asus,Vivobook 16X M1603QA-MB512WS Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Vega 7,Windows 11 OS,16,50400,"Hexa Core,",AMD,0,512,10.82774645
+Dell,Latitude 3430 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,108000,10 Cores,Intel,0,512,11.58988651
+Dell,Inspiron 3520 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,50990,10 Cores,Intel,0,0,10.83938481
+Lenovo,IdeaPad Gaming 3 15IHU6 82K101EDIN Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce RTX 3050 Graphics,Windows 11 OS,15.6,47990,"Quad Core,",4GB,0,512,10.77874793
+HP,Omen 16-n0079AX Gaming Laptop,"Octa Core, 16 Threads",16,8GB AMD Radeon RX 6650M,Windows 11 OS,16.1,91990,"Octa Core,",8GB,0,512,11.42943515
+Acer,One 14 Z2-493 Laptop,"Dual Core, 4 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,25449,"Dual Core,",AMD,0,256,10.14443173
+Acer,Aspire 3 A315-59 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Graphics ,Windows 11 OS,15.6,33207,Hexa Core,Intel,0,512,10.41051598
+HP,Pavilion 15s-FR5007TU Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe,Windows 11 OS,15.6,52990,10 Cores,Intel,0,512,10.8778585
+Dell,Vostro 3425 Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,42434,"Hexa Core,",AMD,0,512,10.65570521
+HP,15s-du3614TU Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,42200,"Dual Core,",Intel,0,0,10.6501755
+HP,Pavilion 15s-eq2182AU Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,15.6,41990,"Hexa Core,",AMD,0,512,10.64518677
+Asus,TUF Gaming A15 2022 FA577RE-HN055WS Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050 Ti,Windows 11 OS,15.6,80900,"Octa Core,",4GB,0,512,11.3009691
+Asus,Vivobook 15 Touch X515EA-EZ311WS Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD Graphics,Windows 11 OS,15.6,38990,"Dual Core,",Intel,0,512,10.57106048
+Apple,MacBook Air 2022 Laptop,Octa Core,8,10-Core GPU,Mac OS,13.6,135990,Octa Core,10-Core,0,512,11.82033663
+Asus,Vivobook S15 OLED K3502ZA-L501WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris XE Graphics,Windows 11 OS,15.6,72490,12 Cores,Intel,0,512,11.1912039
+Asus,Vivobook S14 OLED S3402ZA-KM501WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,72490,12 Cores,Intel,0,512,11.1912039
+Dell,Inspiron 3511 Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.56,35990,"Dual Core,",Intel,0,512,10.4909964
+Xiaomi,Mi Notebook Ultra Laptop,"Quad Core, 8 Threads",8,Intel Iris Xe Graphics,Windows 10  OS,15.6,45989,"Quad Core,",Intel,0,512,10.73615752
+Dell,Inspiron 3501 Laptop,"Quad Core, 8 Threads",8,Intel Iris Xe Graphics,Windows 10 OS,15.6,52500,"Quad Core,",Intel,0,0,10.86856845
+Dell,Latitude 3410 Laptop,"Quad Core, 8 Threads",8,Intel HD,Ubuntu OS,14,59999,"Quad Core,",Intel,0,512,11.00208317
+Apple,MacBook Air 2020 MGN73HN Laptop,Octa Core (4P + 4E),8,Apple M1 Integrated Graphics,Mac OS,13.3,112990,Octa Core,Apple,0,512,11.6350546
+Avita,Pura NS14A6 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Vega 8,Windows 10 OS,14,21990,"Quad Core,",AMD,0,512,9.998343084
+Apple,MacBook Pro 16 Laptop,Octa Core,32,4GB Radeon Pro 5500M,Mac Catalina OS,16,201498,Octa Core,4GB,0,2000,12.21353473
+HP,Victus 15-fa1145TX Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,64990,Octa Core,4GB,0,1000,11.08198869
+Lenovo,Thinkpad E14 G4 21E3S00P00 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,DOS OS,14,68999,10 Cores,Intel,0,512,11.14184729
+Lenovo,Ideapad Gaming 3 15ARH7 82SB00QJIN Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,60990,"Hexa Core,",4GB,0,512,11.0184652
+Dell,Inspiron 3520 IN3520P9K46002ORS1 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,40990,Hexa Core,Intel,0,512,10.62108341
+Lenovo,LOQ 15APH8 82XT004KIN Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,107690,"Octa Core,",8GB,0,512,11.58701201
+Lenovo,V15 G4 Laptop,"Dual Core, 2 Threads",8,AMD Radeon 610M,Windows 11 OS,15.6,25490,"Dual Core,",AMD,0,512,10.1460415
+HP,15s-FR5012TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,38999,Hexa Core,Intel,0,512,10.57129128
+Infinix,INBook Y1 Plus 15 XL28 Laptop,"Quad Core, 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,59990,"Quad Core,",Intel,0,512,11.00193316
+HP,Victus 15-FA1098TX Laptop,"Octa Core (4P + 4E), 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,60990,Octa Core,4GB,0,512,11.0184652
+HP,Victus 15-fb1002AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,55500,"Hexa Core,",4GB,0,512,10.9241383
+HP,Pavilion Plus ‎16-ab0456TX Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,16,124999,14 Cores,6GB,0,1000,11.73606102
+HP,Omen 16-XD0007ax Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16.1,104990,"Octa Core,",6GB,0,1000,11.56162039
+MSI,Katana 15 B12VGK-1295IN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,15.6,136990,10 Cores,8GB,0,1000,11.82766321
+Lenovo,Legion Slim 5 82Y9009JIN Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,131990,"Octa Core,",8GB,0,1000,11.79048144
+Lenovo,IdeaPad Slim 3 14ITL6 82H701N3IN Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,14,36490,"Dual Core,",Intel,0,512,10.50479353
+Asus,ROG Flow X13 GV302XV-MU016WS Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,13.4,188752,"Octa Core,",8GB,0,1000,12.14818926
+HP,250 G9 7M657PA Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated,Windows 11 OS,15.6,36999,Hexa Core,Intel,0,512,10.51864616
+Lenovo,Yoga 7 82YL0095IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,14,92890,12 Cores,Integrated,0,1000,11.43917128
+Dell,Inspiron 7430 2 in 1 2023 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,14,57990,Hexa Core,Intel,0,256,10.96802586
+HP,15s-fy5007TU Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,51999,10 Cores,Intel,0,512,10.85897977
+Lenovo,Yoga Slim 6 83E00006IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,79990,12 Cores,Intel,0,512,11.28965691
+Lenovo,IdeaPad Flex 5 14IRU8 82Y00051IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,76890,10 Cores,Intel,0,512,11.25013111
+Lenovo,IdeaPad 1 15ALC7 82R400BSIN Laptop,"Hexa Core, 12 Threads",8,AMD Radeon,Windows 11 OS,15.6,37790,"Hexa Core,",AMD,0,512,10.5397998
+Acer,One 11 Z8-284 UN.013SI.033 Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD,Windows 11 OS,11.6,17990,"Dual Core,",Intel,0,128,9.797571327
+HP,15s-fy5006TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,38990,Hexa Core,Intel,0,512,10.57106048
+Lenovo,IdeaPad 3 15ITL6 82H803LJIN Laptop,"Quad Core, 8 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,41990,"Quad Core,",Intel,0,512,10.64518677
+Lenovo,IdeaPad Slim 5 82XD005RIN Laptop,"Octa Core (4P + 4E), 12 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,14,68990,Octa Core,Integrated,0,512,11.14171685
+HP,Pavilion 14-dv2153TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,69990,10 Cores,Intel,0,1000,11.15610765
+Acer,TravelMate P2 TMP214-53 Business Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,56990,"Quad Core,",Intel,0,1000,10.95063109
+Asus,ROG Strix G15 G513RC-HN251WS Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX RTX 3050,Windows 11 OS,15.6,89990,"Octa Core,",4GB,0,1000,11.40745383
+MSI,Thin GF63 12UC-846IN Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,62990,Octa Core,4GB,0,512,11.05073126
+Lenovo,IdeaPad Slim 3 82RK00VWIN Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,37990,Hexa Core,Intel,0,512,10.54507825
+Lenovo,IdeaPad Gaming 3 82SB00V4IN Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,58990,"Hexa Core,",4GB,0,512,10.98512322
+Lenovo,IdeaPad 1 15AMN7 82VG00EQIN Laptop,"Dual Core, 2 Threads",8,AMD Radeon 610M Graphics,Windows 11 OS,15.6,26990,"Dual Core,",AMD,0,512,10.20322171
+Asus,ROG Strix G16 2023 G614JJ-N3088WS Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,16,94990,10 Cores,6GB,0,1000,11.4615269
+Asus,ROG Strix G17 G713RC-HX109WS Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,17.3,86189,"Octa Core,",4GB,0,512,11.36429784
+Chuwi,FreeBook Laptop,"Hexa Core (2P + 4E), 8 Threads",12,Intel Integrated Intel UHD Graphics,Windows 11 OS,13.5,37990,Hexa Core,Intel,0,512,10.54507825
+Lenovo,Legion Slim 7 16IRH8 82Y3007QIN Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,194990,14 Cores,8GB,0,1000,12.18070355
+Lenovo,IdeaPad Gaming 3 15IHU6 82K101PBIN Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,51990,"Quad Core,",4GB,0,512,10.85880667
+Lenovo,IdeaPad Slim 3 82H803U0IN Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,31990,"Dual Core,",Intel,0,256,10.37317863
+Acer,Aspire 5 A515-58M NX.KHFSI.003 Gaming Laptop,"5 Cores (1P + 4E), 6 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,41990,5 Cores,Intel,0,512,10.64518677
+Asus,VivoBook 15 X1500EA-EJ311W Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,31990,"Dual Core,",Intel,0,256,10.37317863
+Asus,Vivobook 15 X1504ZA-NJ542WS Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,51390,10 Cores,Intel,0,512,10.84719888
+HP,Pavilion 15-eg3018TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,76900,10 Cores,Intel,0,1000,11.25026116
+HP,15s-fq3066TU Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,27890,"Dual Core,",Intel,0,512,10.23602348
+Lenovo,IdeaPad 3 82H803HRIN Laptop,"Quad Core, 8 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,56990,"Quad Core,",Integrated,0,512,10.95063109
+Asus,Vivobook Pro 15 M6500QC-HN751WS Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,73990,"Octa Core,",4GB,0,1000,11.21168523
+HP,255 G9 841W6PA Laptop,"Dual Core, 4 Threads",8,AMD Radeon Graphics,DOS 3.0 OS,15.6,24999,"Dual Core,",AMD,0,512,10.1265911
+HP,255 G8 7J035AA Laptop,"Hexa Core, 12 Threads",8,AMD Radeon ,Windows 11  OS,15.6,33999,"Hexa Core,",AMD,0,256,10.43408639
+Lenovo,IdeaPad Slim 5 16IAH8 83BG000PIN Laptop,"Octa Core (4P + 4E), 12 Threads",16,Intel UHD Graphics,Windows 11 OS,16,61990,Octa Core,Intel,0,512,11.03472836
+HP,Victus15-fb0147AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB AMD Radeon AMD Radeon RX 6500M,Windows 11 OS,15.6,47990,"Hexa Core,",4GB,0,512,10.77874793
+Asus,TUF Gaming F15  FX506HF-HN075W Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,53990,"Hexa Core,",4GB,0,512,10.89655412
+HP,15S-EQ1550AU Laptop,"Dual Core, 4 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,31890,"Dual Core,",AMD,0,512,10.37004776
+Asus,Vivobook Pro 15 M6500QF-HN541WS Creator Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce GTX 2050,Windows 11 OS,15.6,62390,"Hexa Core,",4GB,0,512,11.04116029
+Wings,Nuvobook Pro Laptop,"Quad Core, 8 Threads",16,Intel Graphics,Windows 11 OS,14,49990,"Quad Core,",Intel,0,512,10.81957826
+Wings,Nuvobook S1 Laptop,"Quad Core, 8 Threads",8,Intel Graphics,Windows 11 OS,15.6,29990,"Quad Core,",Intel,0,256,10.30861927
+Infinix,INBook X3 Slim Series XL422 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,49990,10 Cores,Intel,0,512,10.81957826
+Dell,Vostro 3430 Laptop,"5 Cores (1P + 4E), 6 Threads",8,Intel UHD Graphics,Windows 11 OS,14,43490,5 Cores,Intel,0,512,10.68028631
+Dell,Inspiron 7430 2 in 1 Touch Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,95640,10 Cores,Intel,0,1000,11.46834642
+HP,Omen 16-xf0060AX Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,125990,"Octa Core,",8GB,0,1000,11.74395782
+HP,Pavilion 15-eg3017TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,72990,10 Cores,Intel,0,1000,11.19807772
+MSI,Thin GF63 11UCX-1497IN Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,47990,"Hexa Core,",4GB,0,512,10.77874793
+HP,Victus  15-fa1060TX  Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,99999,12 Cores,6GB,0,512,11.51291546
+Asus,Vivobook 15 X1504ZA-NJ325WS Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Integrated Intel UHD Graphics,Windows 11 OS,15.6,40990,Hexa Core,Integrated,0,512,10.62108341
+Asus,Zenbook Flip 14 OLED UP5401ZA-KU741WS Laptop,"14 Cores (6P + 8E), 20 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,94990,14 Cores,Intel,0,512,11.4615269
+Asus,VivoBook 15 X1500EA-EJ326WS Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,37990,"Dual Core,",Intel,0,512,10.54507825
+Lenovo,LOQ 15IRH8 82XV00F4IN 2023 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,73990,Octa Core,4GB,0,512,11.21168523
+Lenovo,LOQ 15APH8 82XT009CIN 2023 Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,109990,"Octa Core,",8GB,0,512,11.60814473
+Acer,Nitro 5 AN515-58 NH.QFHSI.008 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,65999,Octa Core,4GB,0,512,11.09739487
+Acer,Aspire Lite AL15-51 2023 Laptop,"Hexa Core, 12 Threads",8,AMD Graphics,Windows 11 OS,15.6,35990,"Hexa Core,",AMD,0,512,10.4909964
+Asus,Vivobook 15 X1504ZA-NJ321WS Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Integrated Intel UHD Graphics,Windows 11 OS,15.6,37980,Hexa Core,Integrated,0,512,10.54481498
+MSI,Modern 15 B11M-061IN Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,40789,"Quad Core,",Intel,0,512,10.61616772
+Dell,Alienware M18 R1 2023 Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",64,16GB NVIDIA GeForce RTX 4090,Windows 11 OS,18,450039,24 Cores,16GB,0,1000,13.01708952
+Asus,Vivobook 14X K3405ZFB-KM752WS Laptop,"10 Cores (6P + 4E), 16 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,14,89990,10 Cores,4GB,0,1000,11.40745383
+Acer,Aspire 5 15 A515-58M Gaming Laptop,"10 Cores (2P + 8E), 12 Threads",16,4GB NVIDIA GeForce RTX2050,Windows 11 OS,15.6,56990,10 Cores,4GB,0,512,10.95063109
+Walker,NU14A1 Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD Graphics,Windows 11 OS,14.1,16990,"Dual Core,",Intel,0,128,9.740380215
+Acer,Swift 3 OLED SF314-71 NX.K9PSI.003 Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,14,54990,12 Cores,Intel,0,512,10.91490663
+Dell,Inspiron 14 5430 2023 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,67000,10 Cores,Intel,0,1000,11.1124479
+Lenovo,ThinkBook 15 21JF002CIN Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,DOS OS,15.6,34499,"Quad Core,",AMD,0,512,10.44868562
+HP,Pavilion Plus ‎14-eh1047TU Laptop,"14 Cores (6P + 8E), 20 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,107763,14 Cores,Intel,0,512,11.58768965
+Dell,Inspiron 7430 2 in 1 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,14,61490,Hexa Core,Intel,0,1000,11.02662984
+HP,Pavilion Plus 14-eh1022TU Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,80490,12 Cores,Intel,0,512,11.29588823
+Lenovo,Ideapad Gaming 3 82SB00NXIN Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,57990,"Hexa Core,",4GB,0,512,10.96802586
+MSI,Modern 14 C11M-029IN Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,39990,"Quad Core,",Intel,0,512,10.5963847
+Lenovo,Ideapad Flex 5i 14IAU7 82R70067IN Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,Windows 11 OS,14,53990,Hexa Core,Intel,0,512,10.89655412
+Dell,Inspiron 3535 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,44500,"Quad Core,",AMD,0,512,10.70324447
+HP,14-hr0000AU Laptop,"Quad Core, 8 Threads",16,AMD Radeon AMD,Windows 11 OS,14,48999,"Quad Core,",AMD,0,512,10.79955517
+HP,Envy 15-fe0032TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris X Graphics,Windows 11 OS,15.6,116990,10 Cores,Intel,0,1000,11.66984374
+Acer,Aspire 3 NX.KDESI.008 Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,30990,"Quad Core,",AMD,0,512,10.34141985
+Lenovo,IdeaPad Slim 3 82XQ008EIN Laptop,"Quad Core, 8 Threads",8,AMD Radeon 610M Graphics,Windows 11 OS,15.6,33790,"Quad Core,",AMD,0,512,10.42792018
+MSI,Thin GF63 11UCX-1476IN Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 2050 ,Windows 11 OS,15.6,51990,"Hexa Core,",4GB,0,512,10.85880667
+Asus,Vivobook 15 X1504ZA-NJ521WS Laptop,"10 Cores (2P + 8E), 12 Threads",8,Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,45990,10 Cores,Integrated,0,512,10.73617926
+MSI,Thin GF63 11UC-1475IN Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 3050 ,Windows 11 OS,15.6,51990,"Hexa Core,",4GB,0,512,10.85880667
+Lenovo,V15 G3 IAP 82TTA00UIH Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,DOS OS,15.6,34099,Hexa Core,Intel,0,512,10.43702334
+HP,Pavilion 15-EH3101AU Laptop,"Octa Core, 16 Threads",16,AMD Radeon Vega 8 Graphics,Windows 11 OS,15.6,65600,"Octa Core,",AMD,0,512,11.09133097
+Lenovo,V15 G4 82YU00W6IN Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,DOS OS,15.6,27990,"Quad Core,",AMD,0,512,10.23960258
+Lenovo,V14 G3 IAP Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,14,46990,10 Cores,Intel,0,512,10.75769009
+Dell,‎G16-7630 2023 Gaming Laptop,14 Cores (6P + 8E),16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,161590,14 Cores,8GB,0,1000,11.99281754
+Dell,Inspiron 7430 IC7430FD64T001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,98990,10 Cores,Intel,0,512,11.50277411
+Lenovo,Legion 5 Pro 2023 Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",32,16GB NVIDIA GeForce RTX 4090,Windows 11 OS,16,172990,14 Cores,16GB,0,1000,12.06098907
+Acer,One 14 Z8-415UN.599SI.009 Laptop,"Dual Core, 4 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,25990,"Dual Core,",Intel,0,256,10.16546713
+HP,Victus 15-fb0136AX Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,61990,"Hexa Core,",4GB,0,512,11.03472836
+Asus,Zenbook 14X OLED 2023 UM5401QA-KM751WS Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,14,76990,"Octa Core,",AMD,0,1000,11.25143082
+Dell,G15-5530 Gaming Laptop,14 Cores (6P + 8E),16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,126790,14 Cores,6GB,0,512,11.75028745
+Asus,ROG Flow Z13 2023 GZ301VV-MU014WS Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,13.4,209990,14 Cores,8GB,0,1000,12.25481519
+Asus,ROG Strix G16 2023 G614JI-N4151WS Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",16,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,16,209990,24 Cores,8GB,0,1000,12.25481519
+Asus,ROG Strix G16 2023 G614JU-N3200WS Gaming Laptop,14 Cores (6P + 8E),16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,142990,14 Cores,6GB,0,1000,11.87052998
+Asus,Vivobook Pro 15 OLED K6502VU-MA951WS Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,156990,14 Cores,6GB,0,1000,11.96393739
+Asus,Vivobook 14X OLED 2023 K3405VCB-KM542WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,4GB NVIDIA Geforce RTX 3050,Windows 11 OS,14,93980,12 Cores,4GB,0,512,11.45083727
+Asus,TUF Gaming F17 FX706HF-HX018W Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,17.3,53990,"Hexa Core,",4GB,0,512,10.89655412
+HP,15s-fy5002TU Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated Integrated,Windows 11 OS,15.6,51990,10 Cores,Intel,0,512,10.85880667
+Asus,VivoBook 15 X515EA-EJ342WS Laptop,"Dual Core, 4 Threads",16,Intel UHD Graphics,Windows 11 OS,15.6,35990,"Dual Core,",Intel,0,512,10.4909964
+HP,15s-fy5003TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,37990,Hexa Core,Intel,0,512,10.54507825
+HP,15-fc0030AU Laptop,"Quad Core, 8 Threads",16,AMD Radeon AMD,Windows 11 OS,15.6,46490,"Quad Core,",AMD,0,512,10.74699251
+HP,15-eg3036TU Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Integrated,Windows 11 OS,15.6,90490,12 Cores,Intel,0,1000,11.41299463
+HP,Victus 15-fb0122AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,55990,"Hexa Core,",4GB,0,512,10.93292838
+Asus,Vivobook Pro 16 OLED 2023 K6602VU-LZ952WS Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,159990,14 Cores,6GB,0,1000,11.98286659
+HP,15-fd0011TU Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated Integrated,Windows 11 OS,15.6,57990,10 Cores,Intel,0,512,10.96802586
+Acer,Predator Helios Neo 16 NH.QLTSI.002 Laptop,"16 Cores (8P + 8E), 24 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,104990,16 Cores,6GB,0,512,11.56162039
+Acer,Predator Helios Neo 16 NH.QLTSI.001 Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,99990,14 Cores,6GB,0,512,11.51282546
+MSI,Cyborg 15 A12UCX-264IN Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB Nvidia GeForce RTX 2050,Windows 11 OS,15.6,80500,Octa Core,4GB,0,512,11.29601246
+Dell,Vostro 3425 Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,37990,"Hexa Core,",AMD,0,512,10.54507825
+HP,15-fc0026AU Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,34250,"Quad Core,",AMD,0,512,10.44144184
+HP,Victus 15-fa1066TX Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,109990,14 Cores,6GB,0,512,11.60814473
+HP,15s-fq2738TU Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD Graphics,Windows 11 OS,15.6,33990,"Dual Core,",Intel,0,512,10.43382164
+Asus,Zenbook S13 OLED 2023 UX5304VA-NQ542WS Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Intel Iris Xe Graphics,Windows 11 OS,13.3,79990,10 Cores,Intel,0,512,11.28965691
+Asus,Vivobook 15 2023 X1502VA-NJ541WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Integrated Intel iris Xe Graphics,Windows 11 OS,15.6,64990,12 Cores,Integrated,0,512,11.08198869
+Asus,Vivobook S15 OLED 2023 S5504VA-MA953WS Laptop,"14 Cores (6P + 8E), 20 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,109990,14 Cores,Intel,0,1000,11.60814473
+MSI,Bravo 15 B5ED-035IN Gaming Laptop,"Octa Core, 16 Threads",16,4GB AMD Radeon RX6500M,Windows 11 OS,15.6,62990,"Octa Core,",4GB,0,512,11.05073126
+Huawei,MateBook D14 2023 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,58999,12 Cores,Intel,0,512,10.98527577
+MSI,Titan GT77 HX 13VH-093IN Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",64,12GB NVIDIA GeForce RTX 4080,Windows 11 OS,17.3,420000,24 Cores,12GB,0,2000,12.94800999
+Lenovo,E41-55 Laptop,"Dual Core, 2 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,23990,"Dual Core,",AMD,0,256,10.08539236
+HP,15-fc0028AU Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,42999,"Quad Core,",AMD,0,512,10.66893214
+HP,15s-eq2223AU Laptop,"Hexa Core, 12 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,38861,"Hexa Core,",AMD,0,512,10.56774646
+Lenovo,V15 G3 82TTA00VIH Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,33590,Hexa Core,Intel,0,512,10.42198368
+HP,Chromebook 15a-na0012TU Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD Graphics,Chrome OS,15.6,15990,"Dual Core,",Intel,0,0,9.679718806
+Asus,Vivobook Go 14 2023 E1404FA-NK322WS Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,14,33980,"Quad Core,",AMD,0,512,10.4335274
+Acer,Nitro 5 AN515-47 NH.QL3SI.001 Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,78400,"Hexa Core,",4GB,0,512,11.26957921
+Asus,Vivobook Pro 15 M6500QC-HN742WS Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,79990,"Octa Core,",4GB,0,512,11.28965691
+Acer,Aspire 5 UN.K3JSI.004 Laptop,"10 Cores (2P + 8E), 12 Threads",12,Intel Iris Xe Graphic,Windows 11 OS,15.6,47990,10 Cores,Intel,0,512,10.77874793
+Asus,Vivobook Pro 15 M6500QC-HN542WS Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,74990,"Hexa Core,",4GB,0,512,11.22511005
+MSI,Modern 15 B13M-291IN Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,15.6,45889,10 Cores,Intel,0,512,10.73398072
+Asus,Zenbook 14 OLED 2023 UM3402YA-KM741WS Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,14,90990,"Octa Core,",AMD,0,512,11.41850489
+Asus,Vivobook Go 15 OLED 2023 E1504FA-LK521WS Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,50990,"Quad Core,",AMD,0,512,10.83938481
+Samsung,Galaxy Book 3 NP750XFG-KA2IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,74990,10 Cores,Intel,0,512,11.22511005
+Infinix,INBook Y1 Plus XL28 Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,25990,"Dual Core,",Intel,0,512,10.16546713
+Samsung,Galaxy Book 3 360 13 NP730QFG-KA3IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,133990,10 Cores,Intel,0,1000,11.80552045
+Samsung,Galaxy Book 3 Pro NP960XFG-KC2IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,16,165990,12 Cores,Intel,0,1000,12.01968282
+Samsung,Galaxy Book 3 Pro 360 NP960QFG-KA1IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,16,163990,12 Cores,Intel,0,512,12.00756073
+Samsung,Galaxy Book 3 360 13 NP730QFG-KA2IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,109990,10 Cores,Intel,0,512,11.60814473
+Samsung,Galaxy Book 3 Pro 14 NP940XFG-KC4IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,139990,12 Cores,Intel,0,512,11.84932627
+Samsung,Galaxy Book 3 360 13 NP730QFG-KA1IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,109990,10 Cores,Intel,0,512,11.60814473
+Samsung,Galaxy Book 3 Pro NP960XFG-KC1IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,16,149990,12 Cores,Intel,0,512,11.9183239
+Samsung,Galaxy Book 3 Pro 360 NP960QFG-KA3IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,16,179990,12 Cores,Intel,0,1000,12.10065657
+Samsung,Galaxy Book 3 Pro 360 NP960QFG-KA2IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,16,155990,12 Cores,Intel,0,512,11.95754718
+Samsung,Galaxy Book 3 Ultra Laptop,"14 Cores (6P + 8E), 20 Threads",32,NVIDIA GeForce RTX 4070,Windows 11 OS,16,229900,14 Cores,NVIDIA,0,512,12.34539971
+Lenovo,V15 ‎82C70005UK Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,35990,"Hexa Core,",AMD,0,512,10.4909964
+HP,15s-fq2717TU Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,37990,"Dual Core,",Intel,0,512,10.54507825
+HP,14s-dq2649TU Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,14,34999,"Dual Core,",Intel,0,512,10.46307477
+Apple,MacBook Pro 14 inch Laptop,12 Cores,32,30-core GPU,Mac OS,14.2,290990,12 Cores,30-core,0,1000,12.58104418
+Apple,MacBook Pro 14 inch Laptop,12 Cores,16,19-core GPU,Mac OS,14.2,234990,12 Cores,19-core,0,1000,12.36729824
+HP,Pavilion Plus 14-eh0037TU Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,82799,12 Cores,Intel,0,512,11.32417126
+Dell,Vostro 3425 D552308WIN9B Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,14,31790,"Quad Core,",AMD,0,256,10.36690705
+Lenovo,IdeaPad Gaming 3 15ACH6 82K2022XIN Laptop,"Octa Core, 16 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,60990,"Octa Core,",4GB,0,512,11.0184652
+MSI,Thin GF63 12VF-268IN Laptop,"Octa Core (4P + 4E), 12 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,86990,Octa Core,8GB,0,0,11.37354845
+Dell,Vostro 3420 Laptop,"Quad Core, 8 Threads",16,Intel Graphics,Windows 11 OS,14,52990,"Quad Core,",Intel,0,512,10.8778585
+Dell,Vostro 3425 Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,38990,"Hexa Core,",AMD,0,512,10.57106048
+Asus,Vivobook Go 15 OLED 2023 E1504FA-LK545WS Laptop,"Quad Core, 8 Threads",16,AMD Radeon AMD,Windows 11 OS,15.6,52558,"Quad Core,",AMD,0,512,10.8696726
+Asus,VivoBook 14 X1400EA-EK322WS Notebook,"Dual Core, 4 Threads",8,Intel Integrated Intel UHD,Windows 11 OS,14,31990,"Dual Core,",Intel,0,512,10.37317863
+HP,15-fc0026AU Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,34499,"Quad Core,",AMD,0,512,10.44868562
+Asus,Zenbook 14 OLED 2023 UX3402VA-KN541WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,94490,12 Cores,Intel,0,512,11.45624929
+HP,15s-fq2738TU Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD Graphics,Windows 11 OS,15.6,33800,"Dual Core,",Intel,0,512,10.42821608
+Samsung,Galaxy Book 3  NP750XFG-KB2IN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,74390,10 Cores,Intel,0,512,11.2170768
+Asus,Zenbook 14 Flip OLED 2023 UP3404VA-KN542WS Laptop,"12 Cores (4P + 8E), 16 Threads",16, Intel Iris Xe Graphics,Windows 11 OS,14,104490,12 Cores,Intel,0,512,11.55684665
+Asus,Vivobook S15 OLED 2023 S5504VA-MA953WS Laptop,"14 Cores (6P + 8E), 20 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,105739,14 Cores,Intel,0,1000,11.56872907
+Lenovo,Thinkpad E15 21E6S05A00 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,45500,Hexa Core,Intel,0,512,10.7254676
+Asus,Vivobook Go 15 OLED 2023 E1504FA-LK541WS Laptop,"Quad Core, 8 Threads",16,AMD Radeon AMD,Windows 11 OS,15.6,50760,"Quad Core,",AMD,0,512,10.83486392
+Asus,Vivobook Go 14 2023 E1404FA-NK542WS Laptop,"Quad Core, 8 Threads",16,AMD Radeon AMD,Windows 11 OS,14,49990,"Quad Core,",AMD,0,512,10.81957826
+Asus,Vivobook Go 14 2023 E1404FA-NK322WS Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,14,33199,"Quad Core,",AMD,0,512,10.41027503
+Asus,Vivobook Pro 15 M6500QC-HN742WS Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,70990,"Octa Core,",4GB,0,512,11.1702943
+Acer,Nitro 5 AN515-47 NH.QL3SI.001 Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,64990,"Hexa Core,",4GB,0,512,11.08198869
+Asus,Vivobook 16 2023 M1605YA-MB541WS Laptop,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,16,59990,"Hexa Core,",AMD,0,512,11.00193316
+Asus,Zenbook 14 OLED 2023 UM3402YA-KM741WS Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,14,88990,"Octa Core,",AMD,0,512,11.39627928
+Asus,Vivobook Go 15 2023 E1504FA-NJ522WS Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,44990,"Quad Core,",AMD,0,512,10.71419552
+HP,Pavilion Aero 13-be2047AU Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,13.3,77990,"Octa Core,",AMD,0,1000,11.26433589
+Asus,Vivobook 16 2023 M1605YA-MB741WS Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,16,70990,"Octa Core,",AMD,0,512,11.1702943
+Lenovo,IdeaPad  82K2022TIN Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,55990,"Hexa Core,",4GB,0,512,10.93292838
+Tecno,Megabook T1 Laptop,"Quad Core, 8 Threads",16,Intel UHD Graphics,Windows 11 OS,15.6,43999,"Quad Core,",Intel,0,512,10.69192219
+Acer,Aspire 3 A315-24P NX.KDESI.004 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphiics,Windows 11 OS,15.6,37990,"Quad Core,",AMD,0,512,10.54507825
+HP,Victus 15-fb0106AX Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,64990,"Hexa Core,",4GB,0,512,11.08198869
+Lenovo,IdeaPad Slim 1 82VG009MIN Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,32990,"Quad Core,",AMD,0,512,10.40395976
+Samsung,Galaxy Book 3 Pro 360 NP960QFG-KA3IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,16,179490,12 Cores,Intel,0,1000,12.09787478
+Infinix,Zero Book Series ZL12 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows OS,15.6,56990,12 Cores,Intel,0,512,10.95063109
+HP,Victus 16-d0310TX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,16.1,56990,"Hexa Core,",4GB,0,512,10.95063109
+Asus,VivoBook 15 X1500EA-EJ3381WS Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,34990,"Dual Core,",Intel,0,512,10.46281759
+HP,Pavilion Plus 14-eh0037TU Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,83249,12 Cores,Intel,0,512,11.3295914
+Dell,Vostro 3420 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel UHD Graphics,Windows 11 OS,14,57990,10 Cores,Intel,0,512,10.96802586
+HP,Envy x360 13-bf0121TU  Laptop,"10 Cores, 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,13.4,85490,"10 Cores,",Intel,0,512,11.35615469
+Dell,Vostro 3520 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,55890,10 Cores,Intel,0,512,10.93114075
+Asus,Vivobook 15 X1502ZA-EJ381WS Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,40689,10 Cores,Intel,0,512,10.61371306
+Acer,Aspire 5 A515-57 2022 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphic,Windows 11 OS,15.6,48990,10 Cores,Intel,0,512,10.79937147
+HP,Pavilion 14-dv2014TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated UHD Graphics,Windows 11 OS,14,66648,10 Cores,Intel,0,512,11.10718032
+Acer,Aspire 5 A515-57 NX.K2VSI.002 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,36990,Hexa Core,Intel,0,512,10.51840288
+Gigabyte,G5 KE RC55KE Laptop,"12 Cores (4P + 8E), 16 Threads",16,6GB NVIDIA GeForce RTX 3060,Windows 11 OS,15.6,74990,12 Cores,6GB,0,512,11.22511005
+Lenovo,Legion 5 Pro 82RF00E1IN Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",32,8GB NVIDIA GeForce RTX 3070Ti,Windows 11 OS,16,144990,14 Cores,8GB,0,1000,11.88442005
+Dell,Latitude 7420 Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 10 OS,14,118499,"Quad Core,",Intel,0,512,11.6826598
+Lenovo,V15 82KDA00XIH Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,35490,"Hexa Core,",AMD,0,512,10.47700625
+Lenovo,IdeaPad Flex 5 82R90068IN Laptop,"Octa Core, 16 Threads",16,AMD Radeon,Windows 11 OS,14,62889,"Octa Core,",AMD,0,512,11.04912655
+Lenovo,IdeaPad Gaming 3 82K201YAIN Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,63999,"Hexa Core,",4GB,0,512,11.06662274
+Honor,MagicBook 14 WDQ9BHNE Laptop,"Hexa Core, 12 Threads",8,AMD Radeon,Windows 11 OS,14,41990,"Hexa Core,",AMD,0,512,10.64518677
+Asus,VivoBook 14 2022 X1402ZA-MW311WS Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,14,49990,10 Cores,Intel,0,512,10.81957826
+Asus,VivoBook 14 2022 X1402ZA-EK521WS Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,14,54990,10 Cores,Intel,0,512,10.91490663
+Lenovo,IdeaPad Gaming 3 82SA00B2IN Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 3060,Windows 11 OS,16,119990,14 Cores,6GB,0,512,11.69516368
+MSI,Creator M16 A12UD-633IN Laptop,"14 Cores (6P + 8E), 20 Threads",16,4GB NVIDIA GeForce RTX 3050 Ti,Windows 11 OS,16,85990,14 Cores,4GB,0,512,11.36198629
+MSI,Creator Pro M16 A12UIS-634IN Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,4GB NVIDIA GeForce RTX A1000,Windows 11 OS,16,85590,14 Cores,4GB,0,1000,11.35732373
+Lenovo,V15 82KDA01EIH Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,31990,"Quad Core,",AMD,0,512,10.37317863
+Asus,Vivobook S14 Flip 2022 TN3402QA-LZ501WS Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,55800,"Hexa Core,",AMD,0,512,10.92952915
+Xiaomi,Notebook Pro 120G Laptop,"Octa Core, 12 Threads",16,Intel UHD Graphics,Windows 11 OS,14,72422,"Octa Core,",Intel,0,512,11.1902654
+Acer,Extensa 15 EX215-54 Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,31500,"Dual Core,",Intel,0,512,10.35774282
+Asus,VivoBook 14 X415EA-EK322WS Notebook,"Dual Core, 4 Threads",8,Intel Integrated Intel UHD,Windows 11 OS,14,37990,"Dual Core,",Intel,0,512,10.54507825
+HP,Victus 15-fb0050AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,63490,"Hexa Core,",4GB,0,512,11.05863769
+Lenovo,IdeaPad Slim 5 82SF008YIN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,60990,10 Cores,Intel,0,512,11.0184652
+Lenovo,IdeaPad Slim 3 82KU017EIN Laptop,"Hexa Core, 12 Threads",8,AMD Radeon,Windows 11 OS,15.6,39900,"Hexa Core,",AMD,0,512,10.5941316
+Asus,VivoBook 15 X1500EA-EJ322WS Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,33990,"Dual Core,",Intel,0,512,10.43382164
+HP,Pavilion 15s-fq5112TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,57580,10 Cores,Intel,0,512,10.96093056
+Asus,ROG Zephyrus Duo 16 2022 GX650RXZ-LO227WS Gaming Laptop,"Octa Core, 16 Threads",32,16GB NVIDIA GeForce RTX 3080 Ti,Windows 11 OS,16,339990,"Octa Core,",16GB,0,2000,12.73667148
+HP,15s-fq2672TU Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,34999,"Dual Core,",Intel,0,512,10.46307477
+HP,15s-fq5111TU Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe,Windows 11 OS,15.6,54990,10 Cores,Intel,0,512,10.91490663
+HP,15s-dr3506TU Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,35999,"Dual Core,",Intel,0,0,10.49124644
+HP,15s-du3614TU Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,41710,"Dual Core,",Intel,0,0,10.63849619
+Dell,Vostro 5625 laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,16,50090,"Hexa Core,",AMD,0,512,10.82157667
+HP,Pavilion 14s- fy1003AU Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,45890,"Hexa Core,",AMD,0,512,10.73400251
+HP,15s-eq1559AU Laptop,"Dual Core, 2 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,29990,"Dual Core,",AMD,0,512,10.30861927
+HP,15s-FR2511TU Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,37672,"Dual Core,",Intel,0,512,10.53667239
+Dell,G15-5525 Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,83523,"Octa Core,",4GB,0,512,11.33287732
+Acer,Aspire 5 A515-57G Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,52128,12 Cores,4GB,0,512,10.86145751
+Acer,Aspire 3 A315-59 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics ,Windows 11 OS,15.6,39990,10 Cores,Intel,0,512,10.5963847
+Dell,Inspiron 3525 Laptop,"Octa Core, 16 Threads",8,AMD Radeon Radeon Graphics,Windows 11 OS,15.6,54790,"Octa Core,",AMD,0,512,10.91126297
+Acer,Predator Triton 500 SE PT516-52s NH.QFQSI.001 Laptop,"14 Cores (6P + 8E), 20 Threads",32,8GB NVIDIA GeForce RTX 3070 Ti,Windows 11 OS,16,147090,14 Cores,8GB,0,2000,11.89879992
+HP,Pavilion 14-dv2041TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,67990,10 Cores,Intel,0,512,11.12711591
+MSI,Thin GF63 11SC-853IN Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA Geforce GTX1650 Max Q,Windows 10 OS,15.6,49290,"Hexa Core,",4GB,0,512,10.8054765
+Asus,TUF Gaming F15 FX506LHB-HN355WS Gaming Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11  OS,15.6,51990,"Quad Core,",4GB,0,512,10.85880667
+HP,Pavilion 14-dv2015TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,83149,10 Cores,Intel,0,1000,11.32838946
+HP,Pavilion 15s-FQ5009TU Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe,Windows 11 OS,15.6,54999,10 Cores,Intel,0,512,10.91507028
+Samsung,Galaxy Book2 15 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,74990,10 Cores,Intel,0,512,11.22511005
+Lenovo,IdeaPad Gaming 3 82K200X3IN Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,66990,"Octa Core,",4GB,0,512,11.11229863
+HP,Pavilion 15-eg2009TU Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Iris Xe,Windows 11 OS,15.6,61990,12 Cores,Intel,0,512,11.03472836
+HP,Pavilion 14-ec1003AU Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,51573,"Hexa Core,",AMD,0,512,10.85075356
+Acer,Aspire 3 A315-58 Laptop UN.ADDSI.036 Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows OS,15.6,31500,"Dual Core,",Intel,0,256,10.35774282
+Acer,Extensa EX215-54 NX.EGJSI.00E Laptop,"Dual Core, 4 Threads",4,Intel Integrated UHD,Windows 11 OS,15.6,29000,"Dual Core,",Intel,0,256,10.27505111
+HP,15s-eq2143au Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows OS,15.6,32990,"Quad Core,",AMD,0,512,10.40395976
+Lenovo,Ideapad 15ALC6 82KU017KIN Laptop,"Hexa Core, 12 Threads",8,AMD Radeon,Windows 11 OS,15.6,36990,"Hexa Core,",AMD,0,512,10.51840288
+Apple,MacBook Pro 14 inch MKGQ3HN Laptop,10 Cores (8P + 2E),16,16-core GPU,Mac OS,14.2,239900,10 Cores,16-core,0,1000,12.38797745
+Apple,MacBook Pro 16 inch MK1A3HN Laptop,10 Cores,32,32-core GPU,Mac OS,16.2,309490,10 Cores,32-core,0,1000,12.64268106
+Dell,Inspiron 3511 Laptop,"Quad Core, 8 Threads",8,Intel Iris Xe Graphics,Windows 10  OS,15.6,49990,"Quad Core,",Intel,0,512,10.81957826
+Dell,Inspiron 3511 Laptop,"Dual Core, 4 Threads",8,Intel Integrated,Windows 10 OS,15.6,40250,"Dual Core,",Intel,0,0,10.60286528
+Asus,VivoBook F571LH-BQ435T Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce GTX 1650,Windows 10 OS,15.6,59990,"Octa Core,",4GB,0,512,11.00193316
+Dell,Inspiron 3511 Laptop,"Quad Core, 8 Threads",8,2GB NVIDIA GeForce MX350,Windows 10 OS,15.6,57990,"Quad Core,",2GB,0,0,10.96802586
+Realme,Book Slim Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 10 OS,14,36999,"Dual Core,",Intel,0,256,10.51864616
+Xiaomi,RedmiBook Pro 15 Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 10  OS,15.6,53990,"Hexa Core,",AMD,0,512,10.89655412
+Xiaomi,RedmiBook Pro 14 Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 10  OS,14,48990,"Hexa Core,",AMD,0,512,10.79937147
+Vaio,SE14 NP14V3IN033P Laptop,"Quad Core, 8 Threads",8,Intel Iris Xe Graphics,Windows 10 OS,14,39990,"Quad Core,",Intel,0,512,10.5963847
+HP,15s-GR0012AU Laptop,"Dual Core, 4 Threads",8,AMD Radeon Vega 6,Windows 10 OS,15.6,37290,"Dual Core,",AMD,0,0,10.52648047
+Microsoft,Surface Laptop 3 1873,"Quad Core, 8 Threads",8,AMD Radeon Vega 9,Windows 10 OS,15,60390,"Quad Core,",AMD,0,128,11.00857881
+Huawei,MateBook D15 Laptop,"Quad Core, 8 Threads",8,2GB NVIDIA GeForce MX250,Windows 10 OS,15.6,54999,"Quad Core,",2GB,0,256,10.91507028
+HP,EliteBook 840 G6,"Quad Core, 8 Threads",8,Integrated UHD Graphics 620,Windows 10 OS,14,90464,"Quad Core,",Integrated,0,512,11.41270726
+Acer,Swift SF514-52T NX.GTMSI.025 Laptop,"Quad Core, 8 Threads",8,Intel Integrated UHD 620,Windows 10 OS,14,54490,"Quad Core,",Intel,0,512,10.90577248
+Apple,MacBook Pro 2018 13-inch Touch Bar Laptop,Quad Core,8,Intel Iris Plus Graphics 655,Mac High Sierra OS,13.3,199900,Quad Core,Intel,0,512,12.20557252
+Dell,Latitude 13 5320 2 in 1 Laptop,"Quad Core, 8 Threads",8,Intel UHD Graphics,Windows 10  OS,13.3,89999,"Quad Core,",Intel,0,256,11.40755384
+Dell,Latitude 9430 Laptop,"10 Cores (2P + 8E), 12 Threads",32,Intel Iris Xe Graphics,Windows OS,14.1,260000,10 Cores,Intel,0,1000,12.46843691
+Acer,Aspire Lite 15 AL15-51 2023  Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,45999,"Quad Core,",Intel,0,1000,10.73637494
+Lenovo,Thinkpad P16s 21BTS0DG00 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel UHD Graphics,Windows 11 OS,16,106990,12 Cores,Intel,0,1000,11.58049065
+Lenovo,ThinkPad X1 Carbon 21HMS00000 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,221990,10 Cores,Intel,0,1000,12.31038761
+Acer,Predator Triton 500 SE PT516-52s NH.QFQSI.001 Laptop,"14 Cores (6P + 8E), 20 Threads",32,8GB NVIDIA GeForce RTX 3070 Ti,Windows 11 OS,16,146990,14 Cores,8GB,0,2000,11.89811984
+Asus,TUF Gaming F15 FX506LHB-HN355WS Gaming Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11  OS,15.6,52990,"Quad Core,",4GB,0,512,10.8778585
+Acer,Swift 3 SF314-512 NX.K0FSI.002 Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,14,59990,12 Cores,Intel,0,512,11.00193316
+Dell,Inspiron 15 3511 Laptop,"Quad Core, 8 Threads",8,Intel Integrated UHD Graphics,Windows 11  OS,15.6,52990,"Quad Core,",Intel,0,512,10.8778585
+Samsung,Galaxy Book2 15 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,64490,10 Cores,Intel,0,512,11.07426545
+Samsung,Galaxy Book2 Laptop,"12 Cores (4P + 8E), 16 Threads",8,4GB Intel Arc A350M Graphics,Windows 11 OS,15.6,78990,12 Cores,4GB,0,512,11.27707654
+Samsung,Galaxy Book2 15 Laptop,"10 Cores, 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,59900,"10 Cores,",Intel,0,512,11.00043178
+HP,Pavilion 14-EC1019AU Laptop,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,14,55990,"Hexa Core,",AMD,0,512,10.93292838
+Lenovo,V15-IGL 82C3A008IH Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD,DOS OS,15.6,19990,"Dual Core,",Intel,0,256,9.902987427
+Realme,Book Prime Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,47990,"Quad Core,",Intel,0,512,10.77874793
+Samsung,Galaxy Book2 Pro 360 13 Laptop,"Octa Core, 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,112990,"Octa Core,",Intel,0,512,11.6350546
+Samsung,Galaxy Book2 Pro 13 Laptop,"Octa Core, 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,101990,"Octa Core,",Intel,0,512,11.53263005
+Samsung,Galaxy Book2 Pro 360 13 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,102990,12 Cores,Intel,0,512,11.54238718
+Asus,Vivobook 13 Slate OLED T3300KA-LQ122WS Laptop,"Quad Core, 4 Threads",4,Intel UHD Graphics,Windows 11 OS,13.3,33499,"Quad Core,",Intel,0,0,10.41927087
+HP,15s-eq2143au Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows OS,15.6,33999,"Quad Core,",AMD,0,512,10.43408639
+Apple,MacBook Pro 16 inch MK183HN Laptop,10 Cores,16,16-core GPU,Mac OS,16.2,215994,10 Cores,16-core,0,512,12.28300591
+Apple,MacBook Pro 14 inch MKGQ3HN Laptop,10 Cores (8P + 2E),16,16-core GPU,Mac OS,14.2,215994,10 Cores,16-core,0,1000,12.28300591
+Asus,VivoBook X509FA-BR301T Laptop,"Dual Core, 4 Threads",4,Intel UHD Graphics,Windows 10 OS,15.6,26500,"Dual Core,",Intel,0,0,10.18490001
+Xiaomi,Mi Notebook Pro X 15 Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 10  OS,15.6,79990,"Quad Core,",Intel,0,512,11.28965691
+Dell,Inspiron 5518 Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 10 OS,15.6,68000,"Quad Core,",Intel,0,512,11.12726298
+Lenovo,IdeaPad 3 15ITL6 82H8014BIN Laptop,"Quad Core, 8 Threads",8,Intel Integrated Iris Xe,Windows 10 OS,15.6,47925,"Quad Core,",Intel,0,512,10.77739257
+Xiaomi,RedmiBook Pro 15 Laptop,"Octa Core, 16 Threads",16,AMD Radeon Graphics,Windows 10  OS,15.6,59990,"Octa Core,",AMD,0,512,11.00193316
+Dell,Latitude 3410 Laptop,"Quad Core, 8 Threads",8,Intel HD,Ubuntu OS,14,67800,"Quad Core,",Intel,0,512,11.12431747
+Microsoft,Surface Laptop 3 1873,"Quad Core, 8 Threads",8,AMD Radeon Vega 9,Windows 10 OS,15,60490,"Quad Core,",AMD,0,128,11.01023334
+Apple,MacBook Air 2020 Laptop,"Quad Core, 8 Threads",8,Intel Iris Plus,"Mac 10.15.3	 OS",13.3,72999,"Quad Core,",Intel,0,256,11.19820102
+Apple,MacBook Air 2020 Laptop,"Quad Core, 8 Threads",8,Intel Iris Plus,"Mac 10.15.3	 OS",13.3,109999,"Quad Core,",Intel,0,512,11.60822655
+Dell,Inspiron 5370 Laptop,"Quad Core, 8 Threads",8,4GB Geforce MX130,Windows 10 OS,13.3,87990,"Quad Core,",4GB,0,256,11.38497845
+HP,ZBook 15 G6 Laptop,"Hexa Core, 12 Threads",16,Intel UHD Graphics 630,Windows 10 OS,15.6,121900,"Hexa Core,",Intel,0,512,11.71095632
+Asus,ZenBook Pro 15 UX580GE-E2032T Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA Geforce GTX 1050Ti,Windows 10 OS,15.6,136490,"Hexa Core,",4GB,0,1000,11.82400663
+Gigabyte,G5 MF-E2IN313SHLaptop,"12 Cores (4P + 8E), 16 Threads",8,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,143700,12 Cores,6GB,0,512,11.87548307
+HP,15s-er2004AU Laptop,"Octa Core, 16 Threads",16,AMD Radeon,Windows 11 OS,15.6,50490,"Octa Core,",AMD,0,512,10.82953058
+Dell,Inspiron 3530 IN3530RMD8W001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel UHD Graphics,Windows 11 OS,15.6,71990,10 Cores,Intel,0,1000,11.1842825
+Dell,G15-5530 15 2023 Gaming Laptop,14 Cores (6P + 8E),16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,136899,14 Cores,6GB,0,1000,11.82699871
+Lenovo,IdeaPad Flex 5 82R9008FIN Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,62990,"Hexa Core,",AMD,0,512,11.05073126
+Asus,Vivobook Go 14 E1404FA-NK547WS Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,14,43990,"Quad Core,",AMD,0,512,10.69171761
+Acer,Aspire 3 A315-24P NX.KDESI.00B Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,33990,"Quad Core,",AMD,0,512,10.43382164
+Asus,Vivobook 15X OLED M3504YA-LK552WS Laptop,"Hexa Core, 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,58990,"Hexa Core,",Intel,0,1000,10.98512322
+MSI,Pulse 15 B13VGK-1296IN Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,15.6,154990,14 Cores,8GB,0,1000,11.95111588
+MSI,Summit B15 A11M-236IN Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe,Windows 10 OS,15.6,69990,"Quad Core,",Intel,0,1000,11.15610765
+Lenovo,Thinkpad L14 Gen 2 ‎20X1S10V00 Laptop,"Dual Core, 4 Threads",8,Intel Iris Xe Graphics,DOS OS,14,50000,"Dual Core,",Intel,0,512,10.81977828
+Lenovo,V15 G4 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,36990,"Quad Core,",AMD,0,512,10.51840288
+Asus,Vivobook 15X OLED M3504YA-LK741WS Laptop,"Octa Core, 16 Threads",16,Integrated AMD Radeon Graphics,Windows 11 OS,15.6,76500,"Octa Core,",Integrated,0,512,11.24504602
+Lenovo,IdeaPad 3 15IAU7 82RK00WXIN Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics ,Windows 11 OS,15.6,33990,Hexa Core,Intel,0,256,10.43382164
+Lenovo,IdeaPad 1 15AMN7 82VG00ERIN Laptop,"Quad Core, 8 Threads",8,AMD Radeon 610M,Windows 11 OS,15.6,32990,"Quad Core,",AMD,0,512,10.40395976
+Asus,Vivobook 16X K3605VU-MB541WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,6GB NVIDIA Geforce RTX 4050,Windows 11 OS,16,103221,12 Cores,6GB,0,512,11.5446276
+Asus,Vivobook 16X K3605ZU-MB542WS Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA Geforce RTX 4050,Windows 11 OS,16,89990,Octa Core,6GB,0,512,11.40745383
+Lenovo,IdeaPad Gaming 3 15IHU6 82K101R9IN Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce RTX 2050 ,Windows 11 OS,15.6,56990,"Quad Core,",4GB,0,512,10.95063109
+Asus,Vivobook Go 14 E1404FA-NK543WS Laptop,"Quad Core, 8 Threads",16,AMD Radeon AMD,Windows 11 OS,14,44980,"Quad Core,",AMD,0,512,10.71397323
+Asus,Vivobook Go 14 E410KA-EK013W Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD,Windows OS,14,23990,"Dual Core,",Intel,0,256,10.08539236
+Asus,Vivobook Pro 15 OLED M6500QC-LK741WS Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,76990,"Octa Core,",4GB,0,512,11.25143082
+Acer,Chromebook CB314-3H NX.K04SI.008 Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD,Chrome OS,14,26920,"Dual Core,",Intel,0,64,10.20062478
+Ultimus,Lite NU14U4INC44BN-CS Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD Graphics,Windows 11 OS,14.1,14490,"Dual Core,",Intel,0,256,9.581214035
+Dell,Inspiron 3520 IN3520KTMFJS01ORS1 Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,38990,"Dual Core,",Intel,0,512,10.57106048
+Lenovo,IdeaPad Gaming 3 15ACH6 82K20289IN Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,52990,"Quad Core,",4GB,0,512,10.8778585
+HP,Omen 17-ck2011TX Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",32,16GB NVIDIA GeForce RTX 4090 ,Windows 11  OS,17.3,362999,24 Cores,16GB,0,1000,12.80215536
+Acer,Aspire 5 A515-58GM 15 2023 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,64990,Octa Core,4GB,0,512,11.08198869
+Acer,Nitro V ANV15-51 UN.QNASI.002 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,62990,Octa Core,4GB,0,512,11.05073126
+Acer,One 11 Z8-284 UN.013SI.032 Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD,Windows 11 OS,11.6,18990,"Dual Core,",Intel,0,256,9.851667804
+HP,Omen 16-u0022TX Gaming Laptop,"16 Cores (8P + 8E), 24 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16.1,169999,16 Cores,6GB,0,512,12.04354783
+HP,Omen 16-u0021TX Gaming Laptop,"16 Cores (8P + 8E), 24 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16.1,189999,16 Cores,8GB,0,1000,12.15477409
+HP,Omen 16-u0024TX Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",32,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,16.1,298999,24 Cores,8GB,0,2000,12.60819551
+HP,Pavilion Plus ‎14-ey0789AU Laptop,"Octa Core, 16 Threads",16,AMD Radeon 780M Graphics,Windows 11 OS,14,99999,"Octa Core,",AMD,0,1000,11.51291546
+HP,Omen 17-ck2008AX Gaming Laptop,"16 Cores (8P + 8E), 24 Threads",16,12GB NVIDIA GeForce RTX 4080,Windows 11 OS,17.3,267999,16 Cores,12GB,0,1000,12.49873853
+Lenovo,IdeaPad Pro 5 83AQ005SIN Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11  OS,16,108990,14 Cores,6GB,0,1000,11.59901141
+Lenovo,IdeaPad Gaming 3 15IHU6 82K101R3IN Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,51990,"Quad Core,",4GB,0,512,10.85880667
+Asus,TUF Gaming F17 FX706HF-HX019W Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,17.3,62608,"Hexa Core,",4GB,0,512,11.04464834
+Acer,Aspire 5 A515-57G-58R7 Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,57999,12 Cores,4GB,0,512,10.96818105
+Dell,Inspiron 5430 IN5430FR0KC001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,62990,10 Cores,Intel,0,512,11.05073126
+Lenovo,IdeaPad Slim 5 82XD005RIN Laptop,"Octa Core (4P + 4E), 12 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,14,71990,Octa Core,Integrated,0,512,11.1842825
+Lenovo,Legion Pro 7 2023 82WQ007TIN Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",32,12GB NVIDIA Geforce RTX 4080,Windows 11 OS,16,297990,24 Cores,12GB,0,1000,12.60481521
+Lenovo,Legion Slim 5 82YA00DXIN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,138490,10 Cores,8GB,0,1000,11.8385534
+Lenovo,Legion 5 Pro 82JQ010EIN Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 3060,Windows 11 OS,16,103395,"Octa Core,",6GB,0,512,11.54631188
+Lenovo,IdeaPad 5 Pro 82SN00F0IN Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11  OS,16,88990,"Octa Core,",4GB,0,512,11.39627928
+MSI,CreatorPro Z16 HX B13VKTO-214IN Laptop,24 Cores (8P + 16E),64,8GB NVIDIA RTX 3000 Ada,Windows 11 OS,16,419990,24 Cores,8GB,0,2000,12.94798618
+Lenovo,IdeaPad Flex 5 14IRU8 82Y0004TIN Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,87990,10 Cores,Intel,0,512,11.38497845
+Lenovo,IdeaPad Slim 3 82RK00EMIN Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,48990,10 Cores,Intel,0,512,10.79937147
+MSI,Bravo 15 B7ED-011IN Gaming Laptop,"Octa Core, 16 Threads",16,4GB AMD Radeon RX6550M,Windows 11 OS,15.6,79990,"Octa Core,",4GB,0,512,11.28965691
+Lenovo,IdeaPad 3 15IAU7 82RK00XDIN Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics ,Windows 11 OS,15.6,33990,Hexa Core,Intel,0,256,10.43382164
+HP,14s-dr3002TU Laptop,"Dual Core, 2 Threads",8,Intel UHD Graphics,Windows 11 OS,14,26990,"Dual Core,",Intel,0,512,10.20322171
+Acer,C734 NX.H8VSI.004 Chromebook Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD,Chrome OS,11.6,13990,"Dual Core,",Intel,0,0,9.546098068
+Acer,TravelMate P2 TMP214-53 Business Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,49990,"Quad Core,",Intel,0,1000,10.81957826
+MSI,Bravo 15 B7ED-012IN Gaming Laptop,"Hexa Core, 12 Threads",8,4GB AMD Radeon RX6550M,Windows 11 OS,15.6,59990,"Hexa Core,",4GB,0,512,11.00193316
+Asus,ROG Strix G15 G513RC-HN251WS Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX RTX 3050,Windows 11 OS,15.6,91990,"Octa Core,",4GB,0,1000,11.42943515
+Asus,Vivobook 16 2023 X1605VA-MB957WS Laptop,"14 Cores (6P + 8E), 20 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,16,95689,14 Cores,Integrated,0,1000,11.46885863
+Acer,Chromebook CB314-3H NX.K04SI.007 Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD,Chrome OS,14,26732,"Dual Core,",Intel,0,128,10.19361663
+HP,Zbook FireFly 14 G8 4F0W6PA Laptop,"Quad Core, 8 Threads",16,Intel UHD Graphics,Windows 11 OS,14,89999,"Quad Core,",Intel,0,512,11.40755384
+Asus,Vivobook S14 Flip TN3402QA-LZ751WS Laptop,"Octa Core, 16 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,69990,"Octa Core,",AMD,0,1000,11.15610765
+Asus,Vivobook S14 Flip TN3402QA-LZ551WS Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,65391,"Hexa Core,",AMD,0,1000,11.08813991
+Lenovo,Thinkpad T14 Laptop,"Octa Core, 16 Threads",16,AMD Radeon Graphics,Windows 10 OS,14,90000,"Octa Core,",AMD,0,512,11.40756495
+Lenovo,IdeaPad Slim 3 82RK00VWIN Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,38390,Hexa Core,Intel,0,512,10.55555229
+Lenovo,IdeaPad 1 15AMN7 82VG00J5IN Laptop,"Quad Core, 8 Threads",8,AMD Radeon 610M,Windows 11 OS,15.6,40990,"Quad Core,",AMD,0,512,10.62108341
+Lenovo,IdeaPad Gaming 3 82K2028AIN Laptop,"Quad Core, 8 Threads",8,4GB  NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,50990,"Quad Core,",4GB,0,512,10.83938481
+Dell,Vostro 3520 Laptop,"Quad Core, 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,47990,"Quad Core,",Intel,0,512,10.77874793
+Dell,Inspiron 15 3520 IN352092K4N001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Graphics,Windows 11 OS,15.6,59990,10 Cores,Intel,0,512,11.00193316
+Dell,Vostro 3530 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated Graphics ,Windows 11 OS,15.6,61990,10 Cores,Intel,0,512,11.03472836
+Lenovo,V14 G4 Laptop,"Quad Core, 8 Threads",8,AMD Radeon,Windows 11 OS,14,31990,"Quad Core,",AMD,0,512,10.37317863
+MSI,Creator M16 B13VE-1271IN Laptop,"14 Cores (6P + 8E), 20 Threads",32,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,129990,14 Cores,6GB,0,1000,11.7752128
+Lenovo,V15 G3 82TTA02UIH Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,49989,10 Cores,Intel,0,512,10.81955826
+Dell,Vostro 3525 Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,42990,"Hexa Core,",AMD,0,512,10.66872281
+MSI,Creator Pro M16 B13VJ-1272IN Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",32,8GB NVIDIA GeForce RTX A2000 Ada,Windows 11 OS,16,259990,14 Cores,8GB,0,1000,12.46839845
+Lenovo,IdeaPad Slim 3i 82X70032IN Laptop,"5 Cores (1P + 4E), 6 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,44690,5 Cores,Intel,0,512,10.70750504
+Lenovo,IdeaPad Flex 5 Gen 8 82XX0070IN Laptop,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,14,61990,"Hexa Core,",AMD,0,512,11.03472836
+HP,ZBook Firefly 16 G9 6V2X7PA Workstation PC Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,16,123300,10 Cores,Intel,0,1000,11.72237569
+Dell,Inspiron 3530 15 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel UHD Graphics,Windows 11 OS,15.6,74499,10 Cores,Intel,0,1000,11.21854098
+Lenovo,IdeaPad Gaming 3 15IHU6 82K101PCIN Laptop,"Quad Core, 8 Threads",8,4GB NVIDIA GeForce GTX 2050,Windows 11 OS,15.6,47990,"Quad Core,",4GB,0,512,10.77874793
+Lenovo,Yoga 6 13ABR8 83B2007UIN Laptop,"Octa Core, 16 Threads",16,AMD Radeon Graphics,Windows 11 OS,13.3,85990,"Octa Core,",AMD,0,1000,11.36198629
+Lenovo,IdeaPad Flex 5 82R900D4IN Laptop,"Octa Core, 16 Threads",16,AMD Radeon,Windows 11 OS,14,61990,"Octa Core,",AMD,0,512,11.03472836
+Ultimus,Neo NU14U3INT54BN Laptop,"Dual Core, 4 Threads",8,Intel Integrated Iris,Windows 11 OS,14.1,21990,"Dual Core,",Intel,0,256,9.998343084
+HP,Victus 15-fb0158AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB AMD Radeon RX 6500M,Windows 11 OS,15.6,49990,"Hexa Core,",4GB,0,512,10.81957826
+Lenovo,Legion Slim 5 82Y9009KIN Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,112990,"Octa Core,",6GB,0,512,11.6350546
+Lenovo,Legion Slim 5 16APH8 82Y90042IN Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,127990,"Octa Core,",8GB,0,512,11.75970741
+HP,Pavilion x360 14-ek1021TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,91590,10 Cores,Intel,0,512,11.42507737
+HP,Victus 15-fa1062TX Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,103060,12 Cores,6GB,0,512,11.54306662
+HP,15-fc0027AU Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,39600,"Quad Core,",AMD,0,512,10.5865844
+Lenovo,Legion Slim 5 16APH8 82Y9008MIN Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,137590,"Octa Core,",8GB,0,512,11.83203353
+Lenovo,ThinkBook 15 Gen 5 21JF0026MJ Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,16,53980,"Octa Core,",AMD,0,512,10.89636889
+Acer,Swift Go 14 NX.KG3SI.005 Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,54990,"Hexa Core,",AMD,0,512,10.91490663
+Asus,VivoBook 15 X515MA-BR022WS Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD 600,Windows OS,15.6,28099,"Dual Core,",Intel,0,512,10.24348927
+HP,Spectre 17-cs0097nr Foldable Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,17,415000,10 Cores,Intel,0,1000,12.9360338
+Fujitsu,CH‎ 4ZR1L82433 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,64990,10 Cores,Intel,0,512,11.08198869
+Fujitsu,CH‎ 4ZR1L82434 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,84990,10 Cores,Intel,0,1000,11.35028888
+Tecno,Megabook T1 Laptop,"Quad Core, 8 Threads",16,Intel UHD Graphics,Windows 11 OS,15.6,52999,"Quad Core,",Intel,0,1000,10.87802832
+Tecno,Megabook T1 Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,34999,"Dual Core,",Intel,0,512,10.46307477
+Asus,Vivobook 15X OLED M3504YA-LK752WS Laptop,"Octa Core, 16 Threads",16,Integrated AMD Radeon Graphics,Windows 11 OS,15.6,65990,"Octa Core,",Integrated,0,1000,11.09725849
+HP,Victus 15-fb1016AX  Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,56990,"Hexa Core,",4GB,0,512,10.95063109
+Lenovo,ThinkPad E15 20TDS0AD00 Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 10 OS,15.6,88999,"Quad Core,",Intel,0,1000,11.39638041
+Lenovo,Ideapad 3 15ITL06 82H803GUIN Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,35990,"Dual Core,",Intel,0,512,10.4909964
+Lenovo,Yoga 7 82YL0060IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,14,111490,12 Cores,Integrated,0,512,11.62169018
+HP,250 G9 7N179PA Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,50990,10 Cores,Intel,0,512,10.83938481
+Lenovo,Thinkpad E15 21E6S07S00 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,89500,10 Cores,Intel,0,512,11.4019939
+Lenovo,Ideapad Slim 5 82XE004QIN Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,66388,"Hexa Core,",AMD,0,512,11.1032716
+Asus,Vivobook Pro 15 M6500QC-HN551WS Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,66990,"Hexa Core,",4GB,0,1000,11.11229863
+Asus,Vivobook Pro 15 M6500QC-HN751WS Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,74990,"Octa Core,",4GB,0,1000,11.22511005
+HP,255 G9 841W6PA Laptop,"Dual Core, 4 Threads",8,AMD Radeon Graphics,DOS 3.0 OS,15.6,26990,"Dual Core,",AMD,0,512,10.20322171
+Dell,15 Inspiron 3530 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,65990,10 Cores,Intel,0,1000,11.09725849
+Asus,Vivobook 16X 2023 K3605ZC-MBN752WS Laptop,"10 Cores (6P + 4E), 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,16,87990,10 Cores,4GB,0,1000,11.38497845
+Dell,Inspiron 3520 IN3520KTMFJS1ORGR1 Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,36480,"Dual Core,",Intel,0,512,10.50451944
+Dell,Inspiron 3530 IN3530RW8JY001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated Integrated Intel® UHD Graphics,Windows 11 OS,15.6,63989,10 Cores,Intel,0,1000,11.06646647
+Asus,TUF Gaming F15 90NR0GW1-M00F00 Laptop,20 Threads,16,4GB NVIDIA GeForce RTX 3050,Windows 11  OS,15.6,90990,20 Threads,4GB,0,1000,11.41850489
+Asus,Vivobook 16X 2023 K3605ZV-MBN741WS Laptop,"10 Cores (6P + 4E), 16 Threads",16,NVIDIA Geforce RTX,Windows 11 OS,16,104990,10 Cores,NVIDIA,0,512,11.56162039
+HP,240 G9 ALC 7M658PA Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated,DOS OS,14,64800,10 Cores,Intel,0,512,11.07906088
+Asus,Chromebook CX1400FKA-EC0158 Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD,Chrome OS,14,27990,"Dual Core,",Intel,0,64,10.23960258
+Asus,Chromebook CX1400CKA-EK0335 Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD,Chrome OS,14,14990,"Dual Core,",Intel,0,128,9.615138591
+Asus,Chromebook CX1500CKA-EJ0241 Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD,Chrome OS,15.6,22990,"Dual Core,",Intel,0,64,10.04281462
+Asus,Chromebook CX1500CKA-EJ0277 Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD,Chrome OS,15.6,23990,"Dual Core,",Intel,0,128,10.08539236
+HP,250 G9 7M659PA Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated,Windows 11 OS,15.6,42900,Hexa Core,Intel,0,512,10.6666271
+Gigabyte,G6 KF Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,130000,10 Cores,8GB,0,512,11.77528973
+Gigabyte,G5 KF-E3IN313SH Laptop,"12 Cores (4P + 8E), 16 Threads",8,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,94990,12 Cores,8GB,0,512,11.4615269
+Lenovo,ThinkBook 15 G3 ACL 21A4003KUS Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,15.6,57990,"Octa Core,",AMD,0,512,10.96802586
+Asus,Vivobook 16X K3605ZU-MBN742WS Laptop,"10 Cores (6P + 4E), 16 Threads",16,6GB NVIDIA Geforce RTX 4050,Windows 11 OS,16,104222,10 Cores,6GB,0,512,11.55427852
+Fujitsu,UH-X ‎4ZR1M37246 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,69990,10 Cores,Intel,0,512,11.15610765
+Lenovo,IdeaPad Slim 5 82XE0072IN Laptop,"Octa Core, 16 Threads",16,AMD Integrated SoC,Windows 11 OS,14,63990,"Octa Core,",AMD,0,512,11.0664821
+Lenovo,IdeaPad Slim 3 82XQ008UIN Laptop,"Quad Core, 8 Threads",8,AMD Radeon 610M Graphics,Windows 11 OS,15.6,48990,"Quad Core,",AMD,0,512,10.79937147
+Lenovo,V15 G3 IAP 82TT004VIH Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,DOS OS,15.6,46990,10 Cores,Intel,0,512,10.75769009
+HP,Victus 15-fb1015AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,55990,"Hexa Core,",4GB,0,512,10.93292838
+Asus,Vivobook 16X K3605ZC-MBN542WS Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,16,66990,Octa Core,4GB,0,512,11.11229863
+Asus,Vivobook 16X K3605ZU-MBN541WS Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA Geforce RTX 4050,Windows 11 OS,16,89990,Octa Core,6GB,0,512,11.40745383
+MSI,Thin GF63 11UC-1291IN Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,62990,"Hexa Core,",4GB,0,512,11.05073126
+MSI,Katana 15 B12UDXK-1004IN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,85990,10 Cores,6GB,0,512,11.36198629
+Lenovo,Thinkpad E15 21E6S0W700 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,47100,Hexa Core,Intel,0,512,10.76002828
+Lenovo,Yoga 7 82YM004UIN Laptop,"Octa Core, 16 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,91990,"Octa Core,",AMD,0,512,11.42943515
+Asus,Vivobook Pro 15 OLED M6500QC-LK541WS Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050 GPU,Windows 11 OS,15.6,67990,"Hexa Core,",4GB,0,512,11.12711591
+Acer,TMP214-41-G3 UN.VSQSI.007 Notebook,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,14,39990,"Hexa Core,",AMD,0,512,10.5963847
+Acer,TMP214-41-G3 UN.VSQSI.006 Notebook,"Hexa Core, 12 Threads",8,AMD Radeon AMD,Windows 11 OS,14,36990,"Hexa Core,",AMD,0,512,10.51840288
+Asus,Vivobook Go 14 2023 E1404FA-NK327WS Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,14,33990,"Quad Core,",AMD,0,512,10.43382164
+Lenovo,V14 82KAA055IH Laptop,"Quad Core, 8 Threads",8,Intel UHD Graphics ,DOS OS,14,43800,"Quad Core,",Intel,0,512,10.6873891
+HP,Omen 16-xf0043AX Gaming Laptop,"Octa Core, 16 Threads",32,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,16.1,179490,"Octa Core,",8GB,0,1000,12.09787478
+Gigabyte,Aero 14 OLED BMF Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,14,164990,14 Cores,6GB,0,1000,12.01364014
+Dell,Inspiron 5430 IN54308DXWP001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,84990,10 Cores,Intel,0,1000,11.35028888
+Fujitsu,UH-X ‎4ZR1L73352 2-in-1 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,104990,12 Cores,Intel,0,1000,11.56162039
+Asus,TUF Gaming F15 FX506HF-HN076W Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,57990,"Hexa Core,",4GB,0,512,10.96802586
+HP,Victus 15-fb1018AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,58990,"Hexa Core,",4GB,0,512,10.98512322
+Dell,Alienware x15 R2 D569947WIN9 Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",32,8GB NVIDIA GeForce RTX 3070 Ti,Windows 11 OS,15.6,304990,14 Cores,8GB,0,1000,12.62803427
+Asus,Vivobook Go 14 2023 E1404FA-NK325WS Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,14,33990,"Quad Core,",AMD,0,512,10.43382164
+Ultimus,Elite NU14U3INF56BN-CS Laptop,"Quad Core, 8 Threads",8,Intel Integrated Iris,Windows 11 OS,14.1,28990,"Quad Core,",Intel,0,512,10.27470622
+Acer,Aspire 3 Spin 14 NX.KENSI.002 Laptop,"Octa Core, 8 Threads",8,Intel UHD Graphics,Windows 11 OS,14,39900,"Octa Core,",Intel,0,512,10.5941316
+Lenovo,IdeaPad 3 15ITL6 82H803GSIN Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,36490,"Dual Core,",Intel,0,512,10.50479353
+Lenovo,IdeaPad Slim 5i 82XD0040IN Laptop,"10 Cores (6P + 4E), 16 Threads",16,Intel Integrated UHD,Windows 11 OS,14,87490,10 Cores,Intel,0,512,11.37927978
+Dell,Inspiron 3530 2023 Laptop,"5 Cores (1P + 4E), 6 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,44990,5 Cores,Intel,0,1000,10.71419552
+Lenovo,Yoga 7 Flip 82YL005YIN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,107990,12 Cores,Intel,0,512,11.58979391
+Dell,Inspiron 3535 2023 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,46900,"Quad Core,",AMD,0,1000,10.75577295
+Dell,Inspiron 13 5330 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,98890,12 Cores,Intel,0,1000,11.5017634
+Dell,Inspiron 7430 2023 2 in 1 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,76990,10 Cores,Intel,0,1000,11.25143082
+Dell,Inspiron 5330 2023 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,86990,12 Cores,Intel,0,1000,11.37354845
+Dell,Inspiron 7430 2 in 1 Touch Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,86990,10 Cores,Intel,0,1000,11.37354845
+Dell,Vostro 3430 VN3430RHXFG001ORB1 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,58490,10 Cores,Intel,0,512,10.97661108
+HP,Victus 15-FB0142AX Gaming Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,69199,"Hexa Core,",4GB,0,512,11.14474169
+MSI,Thin GF63 11SC-1494IN Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,45990,"Hexa Core,",4GB,0,512,10.73617926
+MSI,Thin GF63 12VF-663IN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,94990,10 Cores,8GB,0,512,11.4615269
+MSI,Katana 17 B12VFK-668IN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",8,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,17.3,97990,10 Cores,8GB,0,1000,11.49262071
+MSI,Pulse 17 B13VGK-652IN Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,17.3,179990,14 Cores,8GB,0,1000,12.10065657
+MSI,Pulse 17 B13VGK-666IN Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",8,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,17.3,125990,14 Cores,8GB,0,1000,11.74395782
+HP,Victus  15-fa1060TX  Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,116463,12 Cores,6GB,0,512,11.6653289
+HP,Victus 15-fa1064TX Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,109990,14 Cores,6GB,0,512,11.60814473
+HP,Omen 16-wf0052TX Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16.1,153625,14 Cores,6GB,0,512,11.94226985
+HP,Omen 16-u0023TX Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",32,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,16.1,270129,24 Cores,8GB,0,1000,12.5066549
+Gigabyte,Aorus 15 9SF Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",16,8GB NVIDIA GeForce RTX 4070,Windows 11  OS,15.6,149990,12 Cores,8GB,0,1000,11.9183239
+Lenovo,IdeaPad Slim 5 82XE004RIN Laptop,"Hexa Core, 12 Threads",16,AMD Integrated SoC,Windows 11 OS,14,58990,"Hexa Core,",AMD,0,512,10.98512322
+HP,Envy x360 13-bf0141tu Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,13.3,107190,10 Cores,Intel,0,512,11.58235824
+Chuwi,CoreBook X Pro Laptop,"Quad Core, 8 Threads",16,Intel UHD Graphics,Windows 11 OS,15.6,32999,"Quad Core,",Intel,0,512,10.40423254
+HP,Omen 16-wd0770TX Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16.1,102090,Octa Core,6GB,0,512,11.53361006
+HP,Dragonfly G4 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.5,231746,10 Cores,Intel,0,512,12.35339722
+Asus,Vivobook 16X 2023 K3605ZC-MBN741WS Laptop,"10 Cores (6P + 4E), 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,16,81990,10 Cores,4GB,0,512,11.31435257
+Dell,Inspiron 3520 IN3520KTMFJ001ORS1 Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,36890,"Dual Core,",Intel,0,512,10.51569579
+Lenovo,LOQ 15IRH8 82XV00F6IN 2023 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,87990,Octa Core,6GB,0,512,11.38497845
+HP,Pavilion x360 14-ek1074TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,77990,10 Cores,Intel,0,512,11.26433589
+Gigabyte,Aorus 15 9KF Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",8,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,117574,12 Cores,8GB,0,512,11.6748232
+Lenovo,LOQ 15APH8 82XT004JIN 2023 Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,97990,"Octa Core,",6GB,0,512,11.49262071
+MSI,Vector GP68HX 13VH-072IN Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",32,12GB NVIDIA GeForce RTX 4080,Windows 11 OS,16,284990,24 Cores,12GB,0,1000,12.56020937
+MSI,Vector GP78HX 13VI-409IN Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",32,16GB NVIDIA GeForce RTX 4090,Windows 11 OS,17,344990,24 Cores,16GB,0,2000,12.75127071
+HP,Omen 16-wf0111TX Gaming Laptop,"16 Cores (8P + 8E), 24 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16.1,146599,16 Cores,8GB,0,1000,11.89545625
+Acer,Aspire 5 A515-56G NX.AT2SI.001 Laptop,"Quad Core, 8 Threads",8,2GB NVIDIA GeForce MX450,Windows 11 OS,15.6,44990,"Quad Core,",2GB,0,512,10.71419552
+Lenovo,IdeaPad Slim 5 Light 14ABR8 82XS002RIN Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,57990,"Hexa Core,",AMD,0,512,10.96802586
+HP,Omen 16-xf0059AX Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,128599,"Octa Core,",8GB,0,512,11.76445431
+Asus,Vivobook Go 15 E510MA-EJ001W Laptop,"Dual Core, 2 Threads",4,Integrated Intel UHD Graphics,Windows 11 OS,15.6,21990,"Dual Core,",Integrated,0,256,9.998343084
+HP,Omen 16-wf0055TX Gaming Laptop,"16 Cores (8P + 8E), 24 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16.1,151990,16 Cores,8GB,0,512,11.93157001
+Infinix,INBook X2 Plus Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,52990,"Quad Core,",Intel,0,1000,10.8778585
+Lenovo,ThinkBook 14s Yoga 20WEA00WIH Laptop,"Quad Core, 8 Threads",16,Intel Integrated,Windows 10 OS,14,119888,"Quad Core,",Intel,0,1000,11.69431325
+HP,255 G8 Laptop,"Dual Core, 2 Threads",4,AMD Integrated,Windows 11 OS,15.6,22990,"Dual Core,",AMD,0,256,10.04281462
+Lenovo,Yoga 6 83B2006BIN Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,13.3,76888,"Hexa Core,",AMD,0,512,11.2501051
+Dell,XPS 15 9530 Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA RTX 4050,Windows 11 OS,15.6,256990,14 Cores,6GB,0,1000,12.45679245
+Dell,Inspiron 5330 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,13.3,83090,12 Cores,Intel,0,512,11.32767964
+Dell,Inspiron 5518 D560667WIN9S Laptop,"Quad Core, 8 Threads",16,2GB NVIDIA GeForce MX450,Windows 11 OS,15.6,67999,"Quad Core,",2GB,0,512,11.12724828
+Acer,Nitro 5 AN515-58 NH.QFHSI.007 Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,96256,14 Cores,4GB,0,512,11.47476659
+MSI,Prestige 14 Evo B12M-472IN Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,77990,12 Cores,Intel,0,512,11.26433589
+Dell,Alienware X16 R1 2023 Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",32,12GB NVIDIA GeForce RTX 4080,Windows 11 OS,16,323290,24 Cores,12GB,0,1000,12.68630503
+Dell,Inspiron 5425 Laptop,"Octa Core, 16 Threads",16,AMD Radeon Radeon,Windows 11 OS,14,67990,"Octa Core,",AMD,0,512,11.12711591
+MSI,Prestige 13 Evo B12M-085IN Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,13.3,82990,12 Cores,Intel,0,512,11.3264754
+Dell,Alienware m16 2023 Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GEFORCE RTX 4060,Windows 11 OS,16,199990,"Octa Core,",8GB,0,1000,12.20602264
+Gigabyte,Aero 16 XE5 OLED Laptop,"14 Cores (6P + 8E), 20 Threads",16,8GB NVIDIA GeForce RTX 3070Ti,Windows 11  OS,16,189999,14 Cores,8GB,0,1000,12.15477409
+Lenovo,Yoga 6 83B2005TIN Laptop,"Hexa Core, 12 Threads",16,AMD Radeon,Windows 11 OS,13.3,73990,"Hexa Core,",AMD,0,512,11.21168523
+Asus,Vivobook Pro 15 M6500QC-LK542WS Laptop,"Hexa Core, 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,67990,"Hexa Core,",4GB,0,512,11.12711591
+Asus,ROG Zephyrus G16 2023 GU603ZU-N3023WS Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16,142990,14 Cores,6GB,0,1000,11.87052998
+Lenovo,IdeaPad Flex 5 82R900D9IN Laptop,"Octa Core, 16 Threads",16,AMD Radeon,Windows 11 OS,14,64990,"Octa Core,",AMD,0,512,11.08198869
+Asus,Vivobook 16X 2023 K3605ZF-MBN741WS Laptop,"10 Cores (6P + 4E), 16 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,16,84800,10 Cores,4GB,0,512,11.34805082
+Lenovo,IdeaPad Flex 5 82XX007KIN Laptop,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,14,64990,"Hexa Core,",AMD,0,512,11.08198869
+Acer,Nitro 16 ‎AN16-41 Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,129990,"Octa Core,",8GB,0,512,11.7752128
+Acer,Nitro 16 ‎AN16-41 2023 Gaming Laptop,"Octa Core, 16 Threads",8,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,114990,"Octa Core,",8GB,0,512,11.65260045
+Acer,Aspire 5 2023 A515-58M Gaming Laptop,"10 Cores (2P + 8E), 12 Threads",8,4GB NVIDIA GeForce RTX2050,Windows 11 OS,15.6,80000,10 Cores,4GB,0,512,11.28978191
+Acer,Aspire 5 15 A515-58M Gaming Laptop,"10 Cores (2P + 8E), 12 Threads",16,4GB NVIDIA GeForce RTX2050,Windows 11 OS,15.6,54990,10 Cores,4GB,0,512,10.91490663
+LG,Gram 14 2023 ‎‎14Z90R-G.CH54A2 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,98999,12 Cores,Intel,0,512,11.50286503
+Dell,Latitude 5420 Business Laptop,"Quad Core, 8 Threads",8,Intel UHD Graphics,Windows 10  OS,14,69990,"Quad Core,",Intel,0,512,11.15610765
+Asus,Vivobook Pro 15 M6500QC-LK742WS Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,76990,"Octa Core,",4GB,0,512,11.25143082
+Fujitsu,UH-X ‎4ZR1L12857 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,74990,10 Cores,Intel,0,512,11.22511005
+Fujitsu,UH-X ‎4ZR1L12856 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,89990,12 Cores,Intel,0,512,11.40745383
+HP,15s-fq3073TU Laptop Intel Pentium Silver N6000/ 8GB/ 512GB SSD/ Win11 Home),"Quad Core, 4 Threads",8,Intel Integrated UHD Graphics,Windows 11  OS,15.6,29999,"Quad Core,",Intel,0,512,10.30891933
+HP,ZBook Firefly 16 G9 2023 Workstation Laptop,"10 Cores (2P + 8E), 12 Threads",16,4GB NVIDIA RTX A500 ,Windows 11 OS,16,97705,10 Cores,4GB,0,512,11.48970801
+HP,ZBook Studio G9 16 Workstation WQUXGA Laptop,"14 Cores (6P + 8E), 20 Threads",32,6GB NVIDIA GeForce RTX 3060,Windows 11 OS,16,240707,14 Cores,6GB,0,1000,12.39133571
+HP,ZBook Studio G9 WUXGA Workstation Laptop,"14 Cores (6P + 8E), 20 Threads",16,8GB NVIDIA GeForce RTX 3070 Ti ,Windows 11 OS,16,234990,14 Cores,8GB,0,1000,12.36729824
+HP,ZBook Studio G9 16 WUXGA Workstation Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 3060,Windows 11 OS,16,209990,14 Cores,6GB,0,1000,12.25481519
+HP,ZBook Studio G9 2023 Workstation WQUXGA Laptop,"14 Cores (6P + 8E), 20 Threads",32,12GB NVIDIA GeForce RTX 3080 Ti,Windows 11 OS,16,390914,14 Cores,12GB,0,1000,12.87624287
+HP,ZBook Studio G9 Workstation WQUXGA Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 3060,Windows 11 OS,16,172588,14 Cores,6GB,0,1000,12.05866253
+HP,ZBook Studio G9 Workstation Laptop,"14 Cores (6P + 8E), 20 Threads",16,8GB NVIDIA GeForce RTX 3070 Ti ,Windows 11 OS,16,254657,14 Cores,8GB,0,1000,12.44767282
+LG,gram360 16 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics ,Windows 11 OS,16,152499,12 Cores,Intel,0,1000,11.93491332
+Lenovo,IdeaPad 1 82V6005CIN Laptop,"Dual Core, 2 Threads",4,Intel UHD Graphics 600,Windows 11 OS,11.6,23990,"Dual Core,",Intel,0,256,10.08539236
+Asus,ROG Zephyrus G14 GA402NJ-L8094WS Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 3050 ,Windows 11 OS,14,119990,"Octa Core,",6GB,0,512,11.69516368
+LG,UltraPC 16 ‎16U70R-G.AH56A2 Laptop,"Hexa Core, 12 Threads",16,AMD Radeon 7 Graphics,Windows 11 OS,16,78299,"Hexa Core,",AMD,0,512,11.26829011
+LG,Gram 14 2023 ‎14Z90R-G.CH75A2 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,115990,12 Cores,Intel,0,512,11.66125926
+Asus,Vivobook 15 2023 X1504VA-NJ544WS Laptop,"10 Cores (2P + 8E), 12 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,61990,10 Cores,Integrated,0,512,11.03472836
+HP,255 G8 6E3Z0PA Laptop,"Dual Core, 4 Threads",8,AMD Radeon Graphics,DOS OS,15.6,26999,"Dual Core,",AMD,0,512,10.20355511
+HP,Omen 16-wd0990TX Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,16.1,103099,Octa Core,6GB,0,512,11.54344497
+Infinix,Zerobook 13 ZL513 2023 Laptop,"14 Cores (6P + 8E), 20 Threads",32,Intel Integrated Iris Xe,Windows 11 OS,15.6,64990,14 Cores,Intel,0,1000,11.08198869
+Lenovo,S14 Gen 3 82TW001CIH Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel UHD Graphics,Windows 11 OS,14,47990,10 Cores,Intel,0,512,10.77874793
+Lenovo,IdeaPad 1 14IGL7 82V6005EIN Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD,Windows 10 OS,14,24990,"Dual Core,",Intel,0,256,10.12623102
+Lenovo,ThinkPad T14 Gen 2 20W0S16Q00 Laptop,"Quad Core, 8 Threads",16,2GB NVIDIA GeForce MX450,Windows 11 OS,14,130800,"Quad Core,",2GB,0,512,11.78142472
+MSI,Thin GF63 11SC-1462IN Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,57990,"Octa Core,",4GB,0,512,10.96802586
+Lenovo,ThinkBook 15 21JF002CIN Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,DOS OS,15.6,38500,"Quad Core,",AMD,0,512,10.55841352
+MSI,Thin GF63 11SC-1477IN Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,47990,"Hexa Core,",4GB,0,512,10.77874793
+Lenovo,ThinkPad E14 21JRS00Y00 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,44990,"Quad Core,",AMD,0,512,10.71419552
+MSI,Katana GF66 12UCOK 2023 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,69990,Octa Core,4GB,0,512,11.15610765
+Asus,Vivobook 15 2023 X1504VA-NJ543WS Laptop,"10 Cores (2P + 8E), 12 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,61990,10 Cores,Integrated,0,512,11.03472836
+Asus,Vivobook 16X 2023 K3605ZU-MB541WS Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA Geforce RTX 4050,Windows 11 OS,16,89990,Octa Core,6GB,0,512,11.40745383
+Asus,Vivobook 15 OLED 2023 X1505VAU-LK543WS Laptop,"10 Cores (2P + 8E), 12 Threads",16,Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,65990,10 Cores,Integrated,0,512,11.09725849
+Lenovo,ThinkPad E14 21JRS00T00 Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,58990,"Hexa Core,",AMD,0,512,10.98512322
+HP,Envy x360 15-fe0028TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,94990,10 Cores,Intel,0,512,11.4615269
+HP,Envy x360 15-fh0019AU Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,15.6,86490,"Octa Core,",AMD,0,512,11.36778408
+HP,Envy x360 15-fh0015AU Laptop,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,15.6,77490,"Hexa Core,",AMD,0,512,11.25790417
+HP,Envy x360 15-fh0016AU Laptop,"Hexa Core, 12 Threads",16,AMD Radeon AMD,Windows 11 OS,15.6,85490,"Hexa Core,",AMD,0,512,11.35615469
+Lenovo,IdeaPad Slim 3 2023 82X70033IN Laptop,"5 Cores (1P + 4E), 6 Threads",8,Integrated Intel UHD Graphics,Windows 11 OS,15.6,44000,5 Cores,Integrated,0,512,10.69194491
+HP,14-em0027AU Laptop,"Quad Core, 8 Threads",16,AMD Radeon AMD,Windows 11 OS,14,51990,"Quad Core,",AMD,0,512,10.85880667
+Dell,Vostro 15 3510 Laptop,"Dual Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,37990,"Dual Core,",Intel,0,0,10.54507825
+HP,14-em0025AU Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,14,34990,"Quad Core,",AMD,0,512,10.46281759
+Lenovo,ThinkPad E14 21JRS00U00 Laptop,"Hexa Core, 12 Threads",16,AMD Radeon Graphics,Windows 11 OS,14,57799,"Hexa Core,",AMD,0,512,10.96472675
+Lenovo,Thinkpad E15 21E6S05B00 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,65990,10 Cores,Intel,0,512,11.09725849
+Lenovo,Thinkbook 15 21DJ00EXIH Laptop,"10 Cores (2P + 8E), 12 Threads",8,Iris Xe Graphics,Windows 11 OS,15.6,53990,10 Cores,Iris,0,512,10.89655412
+Lenovo,IdeaPad Gaming 3 15ACH6 82K2025JIN Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,49990,"Hexa Core,",4GB,0,512,10.81957826
+MSI,Stealth 15 A13VF-074IN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,171990,10 Cores,8GB,0,1000,12.05519161
+HP,14-gr0000TU Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD Graphics,Windows 11 OS,14,44990,Hexa Core,Intel,0,512,10.71419552
+HP,Envy 15-fe0032TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris X Graphics,Windows 11 OS,15.6,115990,10 Cores,Intel,0,1000,11.66125926
+HP,14-hr0000AU Laptop,"Quad Core, 8 Threads",16,AMD Radeon AMD,Windows 11 OS,14,50990,"Quad Core,",AMD,0,512,10.83938481
+HP,Envy 15-fe0030TU Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris X Graphics,Windows 11 OS,15.6,109990,10 Cores,Intel,0,512,11.60814473
+Acer,One 14 Z2-493 Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,14,29990,"Quad Core,",AMD,0,256,10.30861927
+Asus,ROG Zephyrus G14 2023 GA402XU-N2045WS Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,14,163999,"Octa Core,",6GB,0,1000,12.00761561
+Asus,TUF Gaming F15 FX506HF-HN026W Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,58990,"Hexa Core,",4GB,0,1000,10.98512322
+Dell,Inspiron 5430 2023 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,83990,10 Cores,Intel,0,512,11.33845302
+Dell,Inspiron 3525 Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Radeon Graphics,Windows 11 OS,15.6,43890,"Hexa Core,",AMD,0,512,10.68944178
+Ninkear,A16 Gaming Laptop,"Octa Core, 16 Threads",32,AMD Radeon 680M,Windows 11 OS,16,79999,"Octa Core,",AMD,0,2000,11.28976941
+Lenovo,IdeaPad 3 15ITL05 81X800N2IN Laptop,"Dual Core, 4 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,15.6,35490,"Dual Core,",Intel,0,512,10.47700625
+HP,Zbook Power G4-A ZHAN 99 Laptop,"Octa Core, 16 Threads",32,4GB NVIDIA Quadro T600,Windows 11 OS,15.6,137890,"Octa Core,",4GB,0,1000,11.83421154
+Dell,Inspiron 7420 2in1 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,94990,10 Cores,Intel,0,512,11.4615269
+Lenovo,IdeaPad Gaming 3 15IAH7 82S9014KIN Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,67990,Octa Core,4GB,0,512,11.12711591
+HP,14-em0026AU Laptop,"Quad Core, 8 Threads",8,AMD Radeon AMD,Windows 11 OS,14,46990,"Quad Core,",AMD,0,512,10.75769009
+Asus,Vivobook 16X 2023 K3605ZU-MB741WS Laptop,"10 Cores (6P + 4E), 16 Threads",16,6GB NVIDIA Geforce RTX 4050,Windows 11 OS,16,94990,10 Cores,6GB,0,512,11.4615269
+MSI,GF75 Thin 10SCXR-007IN Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 10  OS,17.3,83500,"Hexa Core,",4GB,0,512,11.33260191
+MSI,Cyborg 15 A12VE-051IN Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,91990,Octa Core,6GB,0,512,11.42943515
+MSI,Cyborg 15 A12VF-049IN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,111990,10 Cores,8GB,0,512,11.62616486
+HP,250 G9 701H5PA Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,15.6,67990,10 Cores,Intel,0,512,11.12711591
+Lenovo,Thinkpad E14 21E3S06300 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe,DOS OS,14,67999,10 Cores,Intel,0,512,11.12724828
+Lenovo,‎ThinkPad E14 Gen 4 21E3S06Q00 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD,DOS OS,14,46200,Hexa Core,Intel,0,512,10.74073508
+Dell,Vostro 5620 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD,Windows 11  OS,16,52998,Hexa Core,Intel,0,512,10.87800946
+Dell,Vostro 3525 D560926WIN9B Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,45499,"Hexa Core,",AMD,0,512,10.72544563
+Lenovo,‎ThinkPad E14 Gen 4 21E3S06D00 Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel UHD,Windows 11 OS,14,49999,Hexa Core,Intel,0,512,10.81975828
+Acer,Aspire 3 A315-510P Laptop,"Octa Core, 8 Threads",8,Intel UHD Graphics,Windows 11 OS,15.6,29980,"Octa Core,",Intel,0,256,10.30828577
+Dell,Inspiron 16 5635 Laptop,"Hexa Core, 12 Threads",8,AMD Radeon Graphics,Windows 11 OS,16,57290,"Hexa Core,",AMD,0,512,10.95588137
+HP,Pavilion 14-dv1043TU Laptop,"Quad Core, 8 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,14,58990,"Quad Core,",Intel,0,512,10.98512322
+Razer,Blade 14 2023 Gaming Laptop,"Octa Core, 16 Threads",32,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,14,199990,"Octa Core,",8GB,0,1000,12.20602264
+MSI,Bravo 15 C7UDXK-092IN Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,79990,"Octa Core,",6GB,0,512,11.28965691
+MSI,Bravo 15 C7UDXK-093IN Gaming Laptop,"Hexa Core, 12 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,78990,"Hexa Core,",6GB,0,512,11.27707654
+Acer,Aspire 5 A514-56M 2023 Gaming Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,51990,10 Cores,Intel,0,512,10.85880667
+MSI,Bravo 17 C7VFK-034IN Gaming Laptop,"Octa Core, 16 Threads",16,8GB Nvidia GeForce RTX 4060,Windows 11 OS,17.3,104990,"Octa Core,",8GB,0,1000,11.56162039
+MSI,Bravo 15 C7VFK-087IN Gaming Laptop,"Octa Core, 16 Threads",16,8GB Nvidia GeForce RTX 4060,Windows 11 OS,15.6,104990,"Octa Core,",8GB,0,1000,11.56162039
+Acer,One 14 2023 Z8-415 ‎Laptop,"Quad Core, 8 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,39990,"Quad Core,",Intel,0,512,10.5963847
+MSI,Thin GF63 11UCX-1441IN Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,59990,"Octa Core,",4GB,0,512,11.00193316
+MSI,Thin GF63 11UCX-1471IN Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,47990,"Hexa Core,",4GB,0,512,10.77874793
+Asus,Vivobook 15 X1504ZA-NJ521WS Laptop,"10 Cores (2P + 8E), 12 Threads",8,Integrated Intel Iris Xe Graphics,Windows 11 OS,15.6,47890,10 Cores,Integrated,0,512,10.77666199
+MSI,Bravo 15 C7VEK-089IN Gaming Laptop,"Hexa Core, 12 Threads",16,6GB Nvidia GeForce RTX 4050,Windows 11 OS,15.6,85490,"Hexa Core,",6GB,0,512,11.35615469
+MSI,Bravo 15 C7VEK-088IN Gaming Laptop,"Octa Core, 16 Threads",16,6GB Nvidia GeForce RTX 4050,Windows 11 OS,15.6,94990,"Octa Core,",6GB,0,1000,11.4615269
+MSI,Bravo 17 C7VEK-035IN Gaming Laptop,"Octa Core, 16 Threads",16,6GB Nvidia GeForce RTX 4050,Windows 11 OS,17.3,95490,"Octa Core,",6GB,0,1000,11.46677681
+HP,255 G9 7M654PA Laptop,"Hexa Core (2P + 4E), 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,54999,Hexa Core,AMD,0,512,10.91507028
+Lenovo,ThinkPad T14 2022 Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,159000,12 Cores,Intel,0,512,11.97665948
+Dell,Inspiron 5620 ICC-C783531WIN8 Laptop,"12 Cores (4P + 8E), 16 Threads",16,2GB NVIDIA GeForce MX570,Windows 11  OS,16,80610,12 Cores,2GB,0,512,11.29737799
+MSI,Prestige 13 Evo A12M-085IN Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Integrated Iris Xe,Windows 11 OS,13.3,77990,12 Cores,Intel,0,512,11.26433589
+Dell,XPS 17 9730 Laptop,"14 Cores (6P + 8E), 20 Threads",32,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,17,303490,14 Cores,8GB,0,1000,12.62310394
+Dell,XPS 13 Plus 9320 2023 Laptop,"12 Cores (4P + 8E), 16 Threads",32,Intel Iris Xe Graphics,Windows 11 OS,13.4,201990,12 Cores,Intel,0,1000,12.21597347
+Dell,XPS 9530 2023 Laptop,"14 Cores (6P + 8E), 20 Threads",32,6GB NVIDIA RTX 4050,Windows 11 OS,15.6,278290,14 Cores,6GB,0,1000,12.53641901
+Lenovo,Legion Pro 7i 2023 Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",32,12GB NVIDIA Geforce RTX 4080,Windows 11 OS,16,286200,24 Cores,12GB,0,1000,12.56444615
+Lenovo,Legion Slim 7i 2023 Gaming Laptop,"12 Cores (4P + 8E), 16 Threads",16,8GB NVIDIA Geforce RTX 4060,Windows 11 OS,16,157544,12 Cores,8GB,0,1000,11.96746006
+Lenovo,Legion Pro 5 82WM00B5IN 2023 Gaming Laptop,"Octa Core, 16 Threads",16,8GB NVIDIA Geforce RTX 4060,Windows 11 OS,16,140990,"Octa Core,",8GB,0,1000,11.85644424
+Lenovo,Thinkpad E14 G4 21E3S02M00 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,133000,10 Cores,Intel,0,512,11.79810441
+Lenovo,Thinkpad E14 G4 21E3006UIG Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,DOS OS,14,72500,10 Cores,Intel,0,512,11.19134184
+LG,Gram 14 2023 14Z90R Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,127000,12 Cores,Intel,0,512,11.75194237
+LG,Gram 17 2023 17Z90R-G.CH77A2 Laptop,"12 Cores (4P + 8E), 16 Threads",16,4GB Nvidia RTX 3050,Windows 11 OS,17,146990,12 Cores,4GB,0,1000,11.89811984
+LG,Gram 16 2023 16Z90R Laptop,"12 Cores (4P + 8E), 16 Threads",16,4GB Nvidia RTX 3050,Windows 11 OS,16,142990,12 Cores,4GB,0,1000,11.87052998
+LG,Gram 2 in 1 16 Laptop,"12 Cores (4P + 8E), 16 Threads",8,Intel Iris Xe Graphics ,Windows 11 OS,16,205000,12 Cores,Intel,0,256,12.23076526
+LG,UltraPC 16 16U70R-G.AH76A2 Laptop,"Octa Core, 16 Threads",16,AMD Radeon 7 Graphics,Windows 11 OS,16,89799,"Octa Core,",AMD,0,512,11.40532912
+Lenovo,Thinkbook 14 Gen 4 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Integrated Intel UHD Graphics,Windows 11 OS,14,63999,10 Cores,Integrated,0,1000,11.06662274
+Dell,Inspiron 3525 D560927WIN9S Laptop,"Hexa Core, 12 Threads",8,AMD Radeon,Windows 11 OS,15.6,43490,"Hexa Core,",AMD,0,512,10.68028631
+AXL,Vayu Book LAP01 Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD Graphics,Windows 11 OS,14.1,12990,"Dual Core,",Intel,0,128,9.47193511
+AXL,Vayu Book LAP02 Laptop,"Dual Core, 2 Threads",4,Intel Integrated UHD Graphics,Windows 11 OS,15.6,15990,"Dual Core,",Intel,0,256,9.679718806
+MSI,Modern 14 C12M-444IN Laptop,"Hexa Core (2P + 4E), 8 Threads",16,Intel Integrated UHD,Windows 11 OS,14,36990,Hexa Core,Intel,0,512,10.51840288
+Asus,Vivobook 14X 90NB11H2-M004D0 Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,14,63990,Octa Core,4GB,0,512,11.0664821
+Lenovo,S14 82TW0019IH Laptop,"10 Cores (2P + 8E), 12 Threads",8,Integrated Intel UHD Graphics,Windows 11 OS,14,45990,10 Cores,Integrated,0,512,10.73617926
+Lenovo,V15 G2 ALC 82KDA01YIH Laptop,"Hexa Core, 12 Threads",8,AMD Radeon AMD,DOS OS,15.6,34990,"Hexa Core,",AMD,0,512,10.46281759
+Lenovo,ThinkBook 15 G3 ACL 21A4A08VIH Laptop,"Hexa Core, 12 Threads",8,AMD Radeon AMD,Windows 11 OS,15.6,41490,"Hexa Core,",AMD,0,512,10.63320771
+Asus,Vivobook Pro 15 M6500QF-HN741WS  Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 2050,Windows 11 OS,15.6,64990,"Octa Core,",4GB,0,512,11.08198869
+HP,Victus 16 7K4J6PAACJ Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650 ,Windows 11 OS,16.1,57990,"Hexa Core,",4GB,0,512,10.96802586
+Acer,Aspire 7 A715-76G UN.QMESI.003 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,54990,Octa Core,4GB,0,512,10.91490663
+Dell,Alienware x14 R2 Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",16,6GB NVIDIA GEFORCE RTX 4050,Windows 11 OS,14,208990,10 Cores,6GB,0,1000,12.25004168
+Asus,Vivobook S15 OLED 2023 S5504VA-MA554WS Laptop,"12 Cores (4P + 8E), 16 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,91560,12 Cores,Intel,0,1000,11.42474977
+Lenovo,Thinkpad E14 20TA00J2IG Laptop,"Quad Core, 8 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,74000,"Quad Core,",Intel,0,512,11.21182037
+Lenovo,V15 G3 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,51999,10 Cores,Intel,0,512,10.85897977
+Lenovo,V15 G3 ‎‎82C7007SGE Laptop,"Quad Core, 8 Threads",8,AMD Radeon Graphics,Windows 11 OS,15.6,31990,"Quad Core,",AMD,0,512,10.37317863
+Lenovo,IdeaPad 3 15ITL6 82H803HLIN Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,32490,"Dual Core,",Intel,0,256,10.38868763
+Lenovo,IdeaPad 5 15ITL05 82FG01UUIN Laptop,"Quad Core, 8 Threads",16,2GB NVIDIA GeForce MX450,Windows 11 OS,15.6,74888,"Quad Core,",2GB,0,512,11.22374894
+HP,Victus 16-d0302TX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,16.1,66500,"Hexa Core,",4GB,0,512,11.10495723
+Dell,‎G16-7630 2023 Gaming Laptop,14 Cores (6P + 8E),16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,156799,14 Cores,8GB,0,1000,11.96272001
+Dell,2023 ‎G16-7630 Gaming Laptop,14 Cores (6P + 8E),32,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,166899,14 Cores,8GB,0,1000,12.02514412
+Dell,Inspiron 7430 IC7430FD64T001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,89990,10 Cores,Intel,0,512,11.40745383
+HP,Omen 17-cm2003TX Gaming Laptop,"16 Cores (8P + 8E), 24 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,17.3,171499,16 Cores,8GB,0,1000,12.05233271
+HP,14s-dr3003TU 832T7PA Laptop,"Quad Core, 4 Threads",8,Intel UHD Graphics,Windows 11 OS,14,29999,"Quad Core,",Intel,0,512,10.30891933
+Lenovo,IdeaPad 3 15ITL6 82H8038WIN Laptop,"Dual Core, 4 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,35998,"Dual Core,",Intel,0,512,10.49121866
+Dell,Inspiron 15 3530 Laptop,"5 Cores (1P + 4E), 6 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,44989,5 Cores,Intel,0,512,10.71417329
+Acer,Aspire 3 A315-59 NX.K6TSI.00C Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Iris Xe Graphics ,Windows 11 OS,15.6,34990,Hexa Core,Intel,0,512,10.46281759
+Infinix,INBook X2 Slim Series XL23 Laptop,"Quad Core, 8 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,14,48990,"Quad Core,",Intel,0,512,10.79937147
+Dell,Inspiron 7430 IC7430PXXWC001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,72990,10 Cores,Intel,0,512,11.19807772
+Dell,Inspiron 5430 IN54308TR2G001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Iris Xe Graphics,Windows 11 OS,14,71570,10 Cores,Intel,0,512,11.17843127
+HP,Victus 15-fb0137AX Gaming Laptop,"Octa Core, 16 Threads",16,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,74990,"Octa Core,",4GB,0,512,11.22511005
+Asus,Eeebook 15 E510MA-EJ011WS Laptop,"Dual Core, 2 Threads",8,Intel UHD Integrated,Windows 11 OS,15.6,25990,"Dual Core,",Intel,0,256,10.16546713
+HP,ProBook 445 G8 7K2J8PA Business Laptop,"Octa Core, 16 Threads",8,AMD Radeon,DOS OS,14,46490,"Octa Core,",AMD,0,512,10.74699251
+Dell,Inspiron 5430 IN5430YXVW9M01ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,14,64590,10 Cores,Intel,0,512,11.07581488
+Dell,Inspiron 3530 IN3530NM1NN001ORS1 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Integrated UHD,Windows 11 OS,15.6,63990,10 Cores,Intel,0,512,11.0664821
+MSI,Creator Z17 HX Studio A13V Laptop,"14 Cores (6P + 8E), 20 Threads",32,8GB NVIDIA GeForce RTX 4070,Windows 11 OS,17,247999,14 Cores,8GB,0,1000,12.42117999
+Dell,Inspiron 7630 IC7630GHHRH001ORS1 2 in 1 Laptop,"10 Cores (2P + 8E), 12 Threads",8,Intel Iris Xe Graphics,Windows 11 OS,16,93990,10 Cores,Intel,0,512,11.45094367
+HP,Victus 15-fb0131AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB AMD Radeon RX 5600M ,Windows 11 OS,15.6,51990,"Hexa Core,",4GB,0,512,10.85880667
+Asus,Vivobook 16 2023 M1605YA-MB521WS Laptop,"Hexa Core, 12 Threads",8,AMD Radeon AMD,Windows 11 OS,16,47990,"Hexa Core,",AMD,0,512,10.77874793
+Lenovo,V14 G3 82TSA01KIH Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Intel Integrated UHD,DOS OS,14,34390,Hexa Core,Intel,0,512,10.4455211
+Acer,Aspire 7 A715-76G NH.QMESI.003 Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",8,4GB NVIDIA GeForce GTX 1650,Windows 11 OS,15.6,50990,Octa Core,4GB,0,512,10.83938481
+HP,15s-fq3071TU Laptop,"Dual Core, 2 Threads",8,Intel Integrated UHD Graphics,Windows 11  OS,15,28490,"Dual Core,",Intel,0,512,10.25730843
+MSI,Katana 15 B12UDXK-1017IN Gaming Laptop,"10 Cores (6P + 4E), 16 Threads",8,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,79990,10 Cores,6GB,0,512,11.28965691
+MSI,Katana 15 B12UDXK-1019IN Gaming Laptop,"Octa Core (4P + 4E), 12 Threads",16,6GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,79990,Octa Core,6GB,0,1000,11.28965691
+Acer,One 14 Z2-493 Business Laptop,"Quad Core, 8 Threads",8,AMD Radeon Radeon Graphics,Windows 11 OS,14,29990,"Quad Core,",AMD,0,512,10.30861927
+HP,Victus 15-fb0135AX Gaming Laptop,"Hexa Core, 12 Threads",8,4GB NVIDIA GeForce RTX 3050,Windows 11 OS,15.6,59990,"Hexa Core,",4GB,0,512,11.00193316
+Acer,Swift Edge 16 2023 Laptop,"Octa Core, 16 Threads",16,AMD Radeon AMD,Windows 11 OS,16,107399,"Octa Core,",AMD,0,1000,11.58430615
+Dell,G15-5530 Gaming 2023 Laptop,14 Cores (6P + 8E),16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,15.6,129199,14 Cores,8GB,0,512,11.76910913
+Dell,G15-5530 Gaming Laptop,14 Cores (6P + 8E),16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,119990,14 Cores,6GB,0,512,11.69516368
+Dell,‎G16-7630 Gaming Laptop,"24 Cores (8P + 16E), 32 Threads",16,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,16,187490,24 Cores,8GB,0,1000,12.14148079
+Dell,G15-5530 2023 Gaming Laptop,14 Cores (6P + 8E),16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,125699,14 Cores,6GB,0,512,11.74164544
+Acer,Aspire Vero AV14-52P NX.KJTSI.002 Laptop,"Hexa Core (2P + 4E), 8 Threads",16,Intel Integrated UHD,Windows OS,14,49990,Hexa Core,Intel,0,512,10.81957826
+Acer,Aspire 5 A515-58M NX.KHGSI.002 Gaming Laptop,"10 Cores (2P + 8E), 12 Threads",16,Intel Integrated Iris Xe,Windows 11 OS,15.6,56990,10 Cores,Intel,0,512,10.95063109
+Asus,Vivobook 15X 2023 K3504VAB-NJ321WS Laptop,"Hexa Core (2P + 4E), 8 Threads",8,Integrated Intel UHD Graphics,Windows 11 OS,15.6,44990,Hexa Core,Integrated,0,512,10.71419552
+Asus,TUF A15 FA577RM-HQ032WS Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 3060,Windows 11  OS,15.6,110000,"Octa Core,",6GB,0,1000,11.60823564
+Asus,ROG Zephyrus G14 2023 GA402XV-N2034WS Gaming Laptop,"Octa Core, 16 Threads",32,8GB NVIDIA GeForce RTX 4060,Windows 11 OS,14,189990,"Octa Core,",8GB,0,1000,12.15472672
+Asus,TUF Gaming F15 2023 FX507VU-LP083WS Gaming Laptop,"14 Cores (6P + 8E), 20 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,129990,14 Cores,6GB,0,512,11.7752128
+Asus,TUF Gaming A15 2023 FA577XU-LP041WS Gaming Laptop,"Octa Core, 16 Threads",16,6GB NVIDIA GeForce RTX 4050,Windows 11 OS,15.6,131990,"Octa Core,",6GB,0,1000,11.79048144

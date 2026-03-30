@@ -1,0 +1,1 @@
+{"summary": "hp victus", "intent": "Troubleshooting", "detected_fault": "Screen flickering or going black", "suggested_solution": ["Update BIOS from F29 to F30", "Disable hall sensor"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2025-10-05", "periodo_referencia": "2025-10"}}

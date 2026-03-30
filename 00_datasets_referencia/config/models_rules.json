@@ -1,0 +1,36 @@
+{
+  "termos_genericos": [
+    "\\blaptop\\b",
+    "\\bnotebook\\b",
+    "\\bultrabook\\b",
+    "\\bbrand new\\b"
+  ],
+  "padroes_corte": [
+    "\\s*\\(",
+    "\\s*\\[",
+    "\\b\\d{1,2}th\\s+gen\\b",
+    "\\bintel\\b",
+    "\\bamd\\b",
+    "\\bnvidia\\b",
+    "\\bradeon\\b",
+    "\\bgeforce\\b",
+    "\\brtx\\b",
+    "\\bgtx\\b",
+    "core\\s+i\\d",
+    "ryzen\\s+\\d",
+    "\\b\\d+\\s?gb\\b",
+    "\\b\\d+\\s?tb\\b",
+    "win(?:dows)?\\s?\\d+",
+    "\\bwith\\b",
+    "\\bbattery\\b",
+    "\\b\\d+\\.?\\d*[\"\\s-]*inch\\b",
+    "\\bai\\s+powered\\b",
+    "\\bai\\s+pc\\b",
+    "\\bdual\\b",
+    "\\bhexa\\b",
+    "\\bocta\\b",
+    "\\bquad\\b",
+    "\\bcore\\b",
+    "\\s+-\\s+"
+  ]
+}

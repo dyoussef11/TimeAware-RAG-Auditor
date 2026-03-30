@@ -1,0 +1,1 @@
+{"summary": "asus rog flow x16", "intent": "analysis", "detected_fault": "Thermal Throttling, BSOD", "suggested_solution": "Update drivers and BIOS to latest versions", "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-03-15", "ancoragem_temporal": {"data_post": "2023-07-22", "periodo_referencia": "2023-07"}}

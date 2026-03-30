@@ -1,0 +1,4 @@
+[DEFAULT]
+client_id=SEU_CLIENT_ID_AQUI
+client_secret=SEU_CLIENT_SECRET_AQUI
+user_agent=TimeAwareRAG_Research_Bot_v1

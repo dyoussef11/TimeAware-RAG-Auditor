@@ -1,0 +1,1 @@
+{"summary": "acer nitro 5 2023", "intent": "Troubleshooting", "detected_fault": "GPU stuck at low wattage", "suggested_solution": ["Roll back to older NVIDIA drivers", "Update BIOS"], "technical_severity": "Medium", "discussion_timeline": "2023-01-01 to 2023-12-31", "ancoragem_temporal": {"data_post": "2025-11-19", "periodo_referencia": "2025-11"}}

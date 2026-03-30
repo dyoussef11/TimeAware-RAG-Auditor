@@ -1,0 +1,1 @@
+{"summary": "asus rog zephyrus g15", "intent": "fix thermal throttling issue", "detected_fault": "inadequate cooling system", "suggested_solution": ["upgrade to liquid cooling solution", "ensure proper airflow"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-01-02", "periodo_referencia": "2025-01"}}

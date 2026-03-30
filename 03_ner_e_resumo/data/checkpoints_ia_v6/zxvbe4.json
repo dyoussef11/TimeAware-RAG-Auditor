@@ -1,0 +1,1 @@
+{"summary": "asus tuf a17 gaming", "intent": "Performance Issues", "detected_fault": "Low FPS and GPU Bottlenecking", "suggested_solution": ["Upgrade RAM", "GPU Upgrade", "Thermal Management"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2022-12-29", "periodo_referencia": "2022-12"}}

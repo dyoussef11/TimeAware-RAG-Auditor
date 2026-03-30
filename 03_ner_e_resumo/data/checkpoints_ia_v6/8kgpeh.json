@@ -1,0 +1,1 @@
+{"summary": "msi sword 15 gaming", "intent": "Performance Issue", "detected_fault": "Frame Rate Drop in SkyrimSE", "suggested_solution": ["Revert to previous version of Windows", "Update BIOS", "Adjust pagefile settings"], "technical_severity": "High", "discussion_timeline": "2018-04 to 2023-02", "ancoragem_temporal": {"data_post": "2018-05-18", "periodo_referencia": "2018-05"}}

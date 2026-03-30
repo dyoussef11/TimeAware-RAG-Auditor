@@ -1,0 +1,1 @@
+{"summary": "asus vivobook gaming", "intent": "Troubleshooting", "detected_fault": "Network Adapter Issue", "suggested_solution": ["Roll back driver", "Update drivers", "BIOS update", "System file checks"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2022-08-15", "periodo_referencia": "2022-08"}}

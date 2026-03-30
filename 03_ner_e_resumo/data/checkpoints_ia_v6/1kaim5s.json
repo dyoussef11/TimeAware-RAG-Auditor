@@ -1,0 +1,1 @@
+{"summary": "Dell Inspiron 5520", "intent": "Troubleshooting", "detected_fault": "Display Issue", "suggested_solution": ["Try using a VGA cable", "Remove the SSD and attempt booting with a Linux bootable USB"], "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-02-25", "ancoragem_temporal": {"data_post": "2025-04-29", "periodo_referencia": "2025-04"}}

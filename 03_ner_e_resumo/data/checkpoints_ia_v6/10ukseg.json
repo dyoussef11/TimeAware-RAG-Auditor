@@ -1,0 +1,1 @@
+{"summary": "msi gf75 thin", "intent": "fix issue with random crashes and freezes", "detected_fault": "outdated BIOS version", "suggested_solution": ["update BIOS to E17F5IMS.105"], "technical_severity": "Medium", "discussion_timeline": "2021-04-14 to 2021-06-25", "ancoragem_temporal": {"data_post": "2023-02-05", "periodo_referencia": "2023-02"}}

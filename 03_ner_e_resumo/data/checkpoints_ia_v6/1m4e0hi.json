@@ -1,0 +1,1 @@
+{"summary": "hp victus 15", "intent": "diagnosis", "detected_fault": "thermal management issues", "suggested_solution": ["Monitor Cycle Count", "Adjust Charging Habits", "Enable Adaptive Battery Optimization"], "technical_severity": "Medium", "discussion_timeline": "2023-02-01 to 2023-05-31", "ancoragem_temporal": {"data_post": "2025-07-19", "periodo_referencia": "2025-07"}}

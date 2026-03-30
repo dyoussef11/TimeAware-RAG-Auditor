@@ -1,0 +1,1 @@
+{"summary": "hp envy", "intent": "Technical Analysis", "detected_fault": "Graphics Driver Conflict", "suggested_solution": ["Update graphics drivers", "Disable Multi-Plane Overlay (MPO)"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2025-07-02", "periodo_referencia": "2025-07"}}

@@ -1,0 +1,1 @@
+{"summary": "msi gf75 thin", "intent": "analyze system state baseline", "detected_fault": "thermal throttling", "suggested_solution": ["adjust fan profiles", "thermal throttling", "power management"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2022-06-14", "periodo_referencia": "2022-06"}}

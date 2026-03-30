@@ -1,0 +1,1 @@
+{"summary": "msi raider 18 hx", "intent": "Hardware Analysis", "detected_fault": "Thermal Throttling", "suggested_solution": "Check for latest driver and BIOS updates, ensure proper cooling and ventilation", "technical_severity": "High", "discussion_timeline": "2023-02-01 to 2023-03-31", "ancoragem_temporal": {"data_post": "2024-02-23", "periodo_referencia": "2024-02"}}

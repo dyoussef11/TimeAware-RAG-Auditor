@@ -1,0 +1,1 @@
+{"summary": "msi raider 18 hx", "intent": "Hardware Analysis", "detected_fault": "Thermal Throttling (HTT)", "suggested_solution": ["Upgrade RAM", "Use liquid cooling system", "Adjust fan settings"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-10-16", "periodo_referencia": "2025-10"}}

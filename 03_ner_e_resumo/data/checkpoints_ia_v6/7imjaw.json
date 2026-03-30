@@ -1,0 +1,1 @@
+{"summary": "msi stealth 15", "intent": "Analyze System Failure Mode", "detected_fault": "Power Supply Issue", "suggested_solution": ["Swap Power Supply (PSU)"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2023-12-31", "ancoragem_temporal": {"data_post": "2017-12-09", "periodo_referencia": "2017-12"}}

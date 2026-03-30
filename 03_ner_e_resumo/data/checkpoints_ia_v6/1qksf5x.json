@@ -1,0 +1,1 @@
+{"summary": "acer nitro 5 gaming", "intent": "fix thermal throttling issue", "detected_fault": "Thermal Throttling", "suggested_solution": "Apply PTM7950 (Thermal Grizzly PhaseSheet) thermal paste", "technical_severity": "High", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2026-01-23", "periodo_referencia": "2026-01"}}

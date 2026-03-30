@@ -1,0 +1,1763 @@
+{
+    "modelo_busca_utilizado": "dell inspiron 5520",
+    "posts": [
+        {
+            "id": "4d1i65",
+            "titulo": "Upgrading the HDD in a 2013 laptop to an SSD or SSHD. Is it worth it? Which one is better?",
+            "conteudo_post": "Hi! I have a 2013 Dell Inspiron 15R 5520 and I think it's time to install an SSD or SSHD in place of the slow HDD. The HDD will replace the optical drive since I don't use DVDs. The big question is SSD or SSHD? I want the OS to run smoother since whenever I open the Task Manager the disk runs at 100% when I do some more intense work and everything starts to lag. This and sometimes the RAM are obviously the bottlenecks in terms of performance. Since I already have a 1TB disk that can replace the DVD-ROM, would it be that bad to get a smaller 120GB SSD for the OS instead of a larger 500GB or 1TB SSHD? I know that I will not get to use the new disk at full speed since I only have SATA2, but I intend to use it in my new laptop which I will buy in about a year. Thank you very much for your help! :)",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 18,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/techsupport/comments/4d1i65/upgrading_the_hdd_in_a_2013_laptop_to_an_ssd_or/",
+            "data_post": 1459603964.0,
+            "comentarios": [
+                {
+                    "id": "d1my11l",
+                    "conteudo": "I'd go for at least 250gb of SSD. Especially if you plan to use it in a future laptop. When SSD's were relatively new I did use a 120gb just for windows, but can't recommend it. It fills up despite your best efforts, and 250gb+ isn't that expensive anymore.",
+                    "score": 3,
+                    "data_comentario": 1459604242.0
+                },
+                {
+                    "id": "d1n01hf",
+                    "conteudo": "This should help a lot, the Inspirons were (are?) a lower end model and I bet it even has a 5400rpm drive. As others have said I'd go 250, I have like 5 programs on my PC and it taken up almost 140Gb. I personally prefer the Samsung EVO drives and the 256Gb is under $100 these days. EDIT: Dell says it supports 16Gb of RAM as well, you don't mention what you have now but upgrading that as well can help significantly too, with RAM and an SSD your 3 year old laptop won't need replacing for a few years.",
+                    "score": 3,
+                    "data_comentario": 1459608771.0
+                },
+                {
+                    "id": "d1mz83p",
+                    "conteudo": "I put an SSD in my 2011 laptop and it made a huge difference in OS and program loading times.",
+                    "score": 2,
+                    "data_comentario": 1459607059.0
+                },
+                {
+                    "id": "d1mzig0",
+                    "conteudo": "SSDs are hugely worth it. They make such a difference plus you can keep our and user it even of you get a new machine in a month.",
+                    "score": 2,
+                    "data_comentario": 1459607682.0
+                },
+                {
+                    "id": "d1n13z6",
+                    "conteudo": "Yes, but I guess that when you get a new laptop, you want to format the drive and start fresh.",
+                    "score": 2,
+                    "data_comentario": 1459610815.0
+                },
+                {
+                    "id": "d1n1kd2",
+                    "conteudo": "Lol you don't replace your HDD/SSD if you want to start fresh. You just backup your data, do a clean install and put your data back.",
+                    "score": 2,
+                    "data_comentario": 1459611640.0
+                },
+                {
+                    "id": "d1n381w",
+                    "conteudo": "Brainfart.",
+                    "score": 2,
+                    "data_comentario": 1459614496.0
+                },
+                {
+                    "id": "d1n9x52",
+                    "conteudo": "The SSHD tries to be an intermediate between a SSD and a HDD but a SSD is better. Get at least a 250 GB-500 GB SSD. P.S. according to Crucial it is SATA3 and not SATA2:",
+                    "score": 1,
+                    "data_comentario": 1459625642.0
+                },
+                {
+                    "id": "d1mza73",
+                    "conteudo": "You are probably right about the fact that it fills up quickly. I have a 100GB partition for the OS and it is 3/4 full.",
+                    "score": 1,
+                    "data_comentario": 1459607185.0
+                },
+                {
+                    "id": "d1n117u",
+                    "conteudo": "You are right about the 5400rpm drive. Currently I have 4GB of RAM and it is mostly at ~85% full. How was your computer after installing an SSD?",
+                    "score": 1,
+                    "data_comentario": 1459610676.0
+                },
+                {
+                    "id": "d1n12ft",
+                    "conteudo": "This sounds great!",
+                    "score": 1,
+                    "data_comentario": 1459610738.0
+                },
+                {
+                    "id": "d1n39jl",
+                    "conteudo": "I guess that is the minimum amount to work with.",
+                    "score": 1,
+                    "data_comentario": 1459614568.0
+                },
+                {
+                    "id": "d1nbpta",
+                    "conteudo": "You are actually right! A friend of mine told me so many times that my laptop is too old to have SATA3 that I actually believed him. Damn, this is good news!",
+                    "score": 1,
+                    "data_comentario": 1459628676.0
+                },
+                {
+                    "id": "d1nce52",
+                    "conteudo": "Pretty much any Dell hardware 2012 or later has a UEFI BIOS with SATA 3 or mSATA, m.2. I advise ensuring your UEFI BIOS is up to date. Then Downloading a Windows 10 TH2 .iso (of the correct Edition), making a Bootable USB (FAT32 formatted - GPT for UEFI). Then enabling UEFI and SecureBoot, changing the SATA operation to AHCI and clean installing. You should see a significant difference in performance.",
+                    "score": 1,
+                    "data_comentario": 1459629813.0
+                },
+                {
+                    "id": "d1ndlja",
+                    "conteudo": "I think I did most of those things you said when I installed windows 10 on my current HDD. Thank you anyways, I will definitely look over your comment after I buy an SSD .",
+                    "score": 1,
+                    "data_comentario": 1459631947.0
+                },
+                {
+                    "id": "d1n3r0f",
+                    "conteudo": "Lol that's OK. I'll remove my downvote since your gracious and fantastically worded comment.",
+                    "score": 1,
+                    "data_comentario": 1459615402.0
+                },
+                {
+                    "id": "d1nxjzu",
+                    "conteudo": "I give more details here:",
+                    "score": 1,
+                    "data_comentario": 1459676580.0
+                },
+                {
+                    "id": "d1o26nd",
+                    "conteudo": "Nice! Thank you very much! Keep up the good work on YouTube",
+                    "score": 1,
+                    "data_comentario": 1459692161.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Upgrade recommendation for thermal throttling issue",
+                "detected_fault": "Thermal throttling",
+                "suggested_solution": "SSD upgrade (250GB or larger)",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2013-01-01 to 2023-02-28",
+                "ancoragem_temporal": {
+                    "data_post": "2016-04-02",
+                    "periodo_referencia": "2016-04"
+                }
+            }
+        },
+        {
+            "id": "gwxvoh",
+            "titulo": "Dedicated GPU not being used",
+            "conteudo_post": "I have a dell Inspiron 5520 with a dedicated AMD Radeon 7600M GPU. The game is literally unplayable for me, as I cannot switch the game to use the dedicated GPU (I tried adding different valorant exe files to high performance using display settings and configurable graphics, but no luck). It defaults to intel integrated graphics and my GPU springs back to life at random instances, creating HUGE FPS drops (it's even dropped to 5FPS) and the entire screen flickers with RGB colored lines appearing horizontally (I'm sure there's a term for this). I'm not sure what I'm supposed to do. Edit 1: Starting practice maps crashes my display, and then the game. And I also discovered that the game is locked at 20FPS, no matter what settings I choose.",
+            "subreddit": "VALORANT",
+            "flair": null,
+            "score": 4,
+            "upvote_ratio": 1.0,
+            "num_comments": 5,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/VALORANT/comments/gwxvoh/dedicated_gpu_not_being_used/",
+            "data_post": 1591331950.0,
+            "comentarios": [
+                {
+                    "id": "fsy1tc2",
+                    "conteudo": "With nvidia theres nvidia control panel you can access and choose what programs use dedicated gpu manually. Is that not a thing with AMD?",
+                    "score": 1,
+                    "data_comentario": 1591336868.0
+                },
+                {
+                    "id": "fsy2pj9",
+                    "conteudo": "There's a \"configure switchable graphics\" option for AMD which has worked for all the games that I've had. Not for this tho, no idea why",
+                    "score": 1,
+                    "data_comentario": 1591337563.0
+                },
+                {
+                    "id": "gbnf6rh",
+                    "conteudo": "Have u fixed the problem yet? I have exact same laptop and exact same problem, couldnt find any solution myself..",
+                    "score": 1,
+                    "data_comentario": 1604868474.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Hardware Issue",
+                "detected_fault": "Dedicated AMD Radeon 7600M GPU not being used",
+                "suggested_solution": [
+                    "Update graphics drivers",
+                    "Check and update BIOS",
+                    "Verify switchable graphics configuration"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2020-06-05",
+                    "periodo_referencia": "2020-06"
+                }
+            }
+        },
+        {
+            "id": "e78dn1",
+            "titulo": "Huge fps drops in games new Windows 10 updates",
+            "conteudo_post": "Ok here's the thing, I wanted to upgrade my old laptop (Dell Inspiron 5520,CPU: i5-3210m, GPU: AMD HD Graphics 7600M series, 8gb RAM) on a new Windows 10 version (from 1709 to a newer). The system works pretty good but when it comes to games, well the fps drops are huge. I.E. when i play r/Warframe fps is around 15 which is unplayable on the new update, but when I play on a 1709, everything is fine(40-50fps). I suppose that there is a conflict or something with drivers, but I've tried everything and nothing came through. Can anyone help me with this I really want to solve this. Thanks in advance. Cheers.",
+            "subreddit": "Windows10",
+            "flair": "Gaming",
+            "score": 1,
+            "upvote_ratio": 0.55,
+            "num_comments": 2,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/Windows10/comments/e78dn1/huge_fps_drops_in_games_new_windows_10_updates/",
+            "data_post": 1575684982.0,
+            "comentarios": [
+                {
+                    "id": "f9wg1en",
+                    "conteudo": "The game is probably running on the integrated Intel HD graphics chip hence the low fps.",
+                    "score": 1,
+                    "data_comentario": 1575692063.0
+                },
+                {
+                    "id": "f9xmlre",
+                    "conteudo": "Hmm, i've monitored it in Catalyst and it was running on amd graphics",
+                    "score": 1,
+                    "data_comentario": 1575714342.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Fault Detection and Resolution",
+                "detected_fault": "Thermal Throttling and Driver Conflicts (Intel HD Graphics Chip)",
+                "suggested_solution": [
+                    "Update BIOS to latest version",
+                    "Install latest Intel HD Graphics Driver and configure as primary driver",
+                    "Monitor system temperatures and adjust cooling settings"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2019-12-06",
+                    "periodo_referencia": "2019-12"
+                }
+            }
+        },
+        {
+            "id": "2qzlxq",
+            "titulo": "Help for a Laptop User?",
+            "conteudo_post": "I've been stuck on just a laptop for a little over a year now, and I'm looking to learn more about desktop advantages over my current laptop. The problem is the video card. It's integrated, and this somewhat hampers my gaming. Now, I can still play Skyrim on medium graphics, Fallout: New Vegas on Ultra, and a lot of modern games that my video card shouldn't allow, but the simple fact is that I'm not playing like I could be. Also using a laptop isn't comfortable for certain games (I'm looking at you, every first-person RPG). So, my question is: what are some tips people would suggest for, let's say, a first gaming desktop? Should I save up a certain amount of money, and flat out buy the parts at once, or slowly buy parts here and there as they go on sale? Can I salvage things from this laptop if need be? (that is, if I have everything buy a certain thing to finish the desktop. I will not be without any computer). Just for reference, my last desktop was an ancient XP with a 512MB of RAM. It now runs with Puppy Linux. TL;DR: I need to upgrade from a laptop to a PC, but want at least what I had in my laptop. Specs: I have a Dell Inspiron 15r (5520) with 8GB RAM, 1TB HDD, Dualcore Processor (The standard Intel i5-3210M).",
+            "subreddit": "pcmasterrace",
+            "flair": "Tech Support",
+            "score": 1,
+            "upvote_ratio": 0.6,
+            "num_comments": 8,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/pcmasterrace/comments/2qzlxq/help_for_a_laptop_user/",
+            "data_post": 1420093169.0,
+            "comentarios": [
+                {
+                    "id": "cnb0okj",
+                    "conteudo": "I say save up money if there is a really good deal go ahead and pick something up but mostly just save up a chunk. If you are planning on getting the r9 270x with the option of upgrading to the 280 later. You might as well save an extra $50 so you don't waste money on the 270x. Draw out the pc you want, and just plan for it. As new tech comes out swap out pieces. Like the 960 is coming out in january the r9 300 series in february. So your build may change as you save for it. But if you would have bough the 270 and the 370 came out before you had your whole build done, then you would already be behind. I suggest doing your best at saving until you can do the whole purchase so you start out having the newest stuff. Not something you picked up a month before new tech came out.",
+                    "score": 2,
+                    "data_comentario": 1420093453.0
+                },
+                {
+                    "id": "cnb0o62",
+                    "conteudo": "We need a budget OP",
+                    "score": 1,
+                    "data_comentario": 1420093413.0
+                },
+                {
+                    "id": "cnb0rvj",
+                    "conteudo": "Thanks! I'm technically new to building (I did some a long time ago, but things seem to have changed) and I basically have no idea about the 'rules' for buying. I'll try to save up enough.",
+                    "score": 1,
+                    "data_comentario": 1420093770.0
+                },
+                {
+                    "id": "cnb0tmb",
+                    "conteudo": "I'm not really asking for an exact budget on a machine as much as one that would at least match my laptop in RAM, storage, and processing (that one isn't hard in the least) and have a decent video card. I don't have a wad of cash at the moment, so I'm also looking for some buying strategies (as that guy over there said).",
+                    "score": 1,
+                    "data_comentario": 1420093945.0
+                },
+                {
+                    "id": "cnb0tnr",
+                    "conteudo": "Yeah when you have a good amount then start doing a ton of research. Go piece by piece and make sure you have a million reasons why that is the piece for you. Use cpu benchmarks and gpu benchmarks to find the best one in your price range. Learn about the different hard drives and solid state drives. Find which cases have the best cooling, but still look appealing. And you can ask us about any of that stuff.",
+                    "score": 1,
+                    "data_comentario": 1420093949.0
+                },
+                {
+                    "id": "cnb1421",
+                    "conteudo": "Is there anything I should be careful of, money wise? I'm hoping to get around a $600 base fund, then find a time when as much is on sale as possible. I'm not interested aesthetics in this exact case, as I'll be trying to create a space that's as minimalist as possible (hidden case and such).",
+                    "score": 1,
+                    "data_comentario": 1420094976.0
+                },
+                {
+                    "id": "cnb162t",
+                    "conteudo": "It is hard to say now, there is quite a few small things like the right ram and whatnot, but i'll tell you to use pcpartpicker as much as possible it checks to make sure everything is compatible. And before you order your build ask around for advice, we give honest advice. And $600 is a good budget, it's right below the sweet spot, but way more than console destroying budget. People ask for advice alll the time.",
+                    "score": 1,
+                    "data_comentario": 1420095173.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Hardware Analysis",
+                "detected_fault": "Integrated video card limitations in gaming performance",
+                "suggested_solution": "Upgrade individual parts or consider a new GPU",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2015-01-01",
+                    "periodo_referencia": "2015-01"
+                }
+            }
+        },
+        {
+            "id": "4u4r5j",
+            "titulo": "GTA V on integrated graphics: FPS drop when driving",
+            "conteudo_post": "I have GTA 5 on my laptop. It runs pretty well (I get about 20-35 fps when I start playing) however when I attempt to drive any sort of fast moving vehicle my frame rate drops SIGNIFICANTLY (I'm talking like 5-10 fps). I've seen other people play on laptops similar to mine and they can drive cars just fine so I know it can be done I just lack the knowledge to make it work. I'll just list what I have to work with here: Dell Inspiron 5520 (made in 2012) Processor: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz 2.50GHz System Type: 64 bit operating system, x64-based processor Installed RAM: 6.00 GB (5.87 GB usable) So If anyone has any advice I would be VERY grateful. Keep in mind I don't know a whole lot about computers so I ask you to please be patient with me. :)",
+            "subreddit": "GTAV",
+            "flair": null,
+            "score": 0,
+            "upvote_ratio": 0.5,
+            "num_comments": 4,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/GTAV/comments/4u4r5j/gta_v_on_integrated_graphics_fps_drop_when_driving/",
+            "data_post": 1469218569.0,
+            "comentarios": [
+                {
+                    "id": "d5myesh",
+                    "conteudo": "Your pc specs are just barely meeting the minimum requirements to run GTA V. What kind of video card do you have? My gaming pc fan starts to get loud after a few hours of playing. I can imagine your laptop is over heating.",
+                    "score": 2,
+                    "data_comentario": 1469225879.0
+                },
+                {
+                    "id": "d5mulxy",
+                    "conteudo": "Are your settings as low as they go?",
+                    "score": 1,
+                    "data_comentario": 1469220371.0
+                },
+                {
+                    "id": "d68nh0r",
+                    "conteudo": "My laptop does tend to get really hot when playing...come to think of it, that may be the cause. I can drive pretty well when I just start up my computer. Is there any way to fix that?",
+                    "score": 1,
+                    "data_comentario": 1470630745.0
+                },
+                {
+                    "id": "d68nhqg",
+                    "conteudo": "Yep. That's why I'm so confused. (^_-;)\\",
+                    "score": 1,
+                    "data_comentario": 1470630789.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Analyze system state baseline for thermal throttling and potential BSOD due to overheating issues.",
+                "detected_fault": "Thermal Throttling and Potential BSOD",
+                "suggested_solution": [
+                    "Check system temperature using software like SpeedFan or HWMonitor",
+                    "Adjust graphics settings in GTA V to reduce load on integrated graphics",
+                    "Consider upgrading RAM to 8 GB or more",
+                    "Ensure proper airflow around laptop"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2016-07-22",
+                    "periodo_referencia": "2016-07"
+                }
+            }
+        },
+        {
+            "id": "2jp6lx",
+            "titulo": "Dell Inspiron sending/receiving bytes after turning off wireless; some virus-like symptoms?",
+            "conteudo_post": "My laptop has recently been overheating (by my standards; it hasn't issued a warning yet), and when it plays videos, sometimes it stutters in video and/or audio (sometimes just one). From what I can tell, the videos that cause it problems are Flash-based. When the stuttering begins, the mouse lags too. On occasion, the display driver stops responding and recovers. I don't know if this is related, but I'm going to look into getting a different driver. Anyway, my first thought was that I had a virus. I have the Windows Firewall still running, but ESet as an antivirus. (I've heard antiviruses and firewalls can interfere with one another - but I wasn't sure enough to shut either off.) I did a scan last night and didn't find any issues, although I did notice there were files it couldn't access, because they were in use. I imagine that's normal, although I would have thought concurrent reading would be no problem. I used the task manager to look through all the applications/services/processes and started looking them up on sites like \"shouldIRemoveIt\". There's nothing out of the ordinary. I'm sure a virus could disguise itself as another program, if not hide itself entirely - so I haven't ruled out an infection of some sort. I tried turning off the Wifi; I *thought* this shut off the NIC, but according to the resource monitor, svchost was still sending/receiving data after I did this. Maybe the values reported by the resource monitor are more of a rolling average than an instantaneous measurement, but I waited a little while, and it looked like it was still sending/receiving. I'm using Windows 7 Home Premium 64-bit; this is a Dell Inspiron 5520. It recently got into a fight with some coffee, no fault of my own, but I don't know how much of this could be due to corrosion. The display driver issues and overheating started before 'the incident', in any case. Is there anything you can tell me, or suggest? Thanks! - | - --:|:-- Processor | i5-3210M @2.50GHz Ram | 8 GB Display | HD Graphics 4000 Network | Centrino Wireless-N 2230 ... | (more on request)",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 4,
+            "upvote_ratio": 0.99,
+            "num_comments": 4,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/techsupport/comments/2jp6lx/dell_inspiron_sendingreceiving_bytes_after/",
+            "data_post": 1413734609.0,
+            "comentarios": [
+                {
+                    "id": "cldvqqe",
+                    "conteudo": ">svchost was still sending/receiving data after I did this This is normal. Svchost is used to host off-kernel services necessary for the system to function. Most communication happens through named pipes/mailslots/shared memory. However, some communications are done via local network sockets, so you'll see network traffic even with the network adapter disabled.",
+                    "score": 3,
+                    "data_comentario": 1413743871.0
+                },
+                {
+                    "id": "cldtgex",
+                    "conteudo": "Somewhat relevant, I had a PCI WiFi adapter in my desktop, and whenever there was interference on the wifi/dropped packets, etc. It would make my whole computer lag and stutter. It might be your laptop's wireless card.",
+                    "score": 1,
+                    "data_comentario": 1413739588.0
+                },
+                {
+                    "id": "cldrj76",
+                    "conteudo": "Fantastic, thank you! Seeing it live in action, cutting the wireless does stop all packets. (Turning it back on lets a flood in, maybe the router saves them up?)",
+                    "score": 1,
+                    "data_comentario": 1413735288.0
+                },
+                {
+                    "id": "cldthlh",
+                    "conteudo": "I didn't find anything out of the ordinary - fortunately? I'm going to run MalwareBytes in the meantime. Thank you for helping!",
+                    "score": 1,
+                    "data_comentario": 1413739656.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Hardware Issue Analysis",
+                "detected_fault": "Intermittent wireless connectivity issues, stuttering in video and audio playback, display driver crashes, lagging mouse performance",
+                "suggested_solution": [
+                    "Run a thorough virus scan using MalwareBytes and ensure that Windows Firewall is enabled.",
+                    "Update graphics drivers to the latest version.",
+                    "Check for BIOS updates and apply them if available.",
+                    "Monitor system temperatures and consider cleaning dust from the laptop's vents to prevent overheating.",
+                    "Consider replacing the wireless card or adjusting settings to minimize interference."
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2014-10-19",
+                    "periodo_referencia": "2014-10"
+                }
+            }
+        },
+        {
+            "id": "1xgoac",
+            "titulo": "Wondering is my HDD Speed is Abnormally Low",
+            "conteudo_post": "I have a Dell Inspiron 5520, and the drive I tested was a 5400RPM 1TB Drive. It is a WD Scorpio Blue drive. Here is a link to the benchmark results.",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 5,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/techsupport/comments/1xgoac/wondering_is_my_hdd_speed_is_abnormally_low/",
+            "data_post": 1391981568.0,
+            "comentarios": [
+                {
+                    "id": "cfb5wxd",
+                    "conteudo": "What about those numbers give you the idea you have a slow hard drive? If anything it seems a bit on the faster side compared to a 5400 rpm. Here's my 7200 rpm 1TB results",
+                    "score": 3,
+                    "data_comentario": 1391981978.0
+                },
+                {
+                    "id": "cfb60ar",
+                    "conteudo": "That is comforting, I am troubleshooting my SO's PC, and I didn't have too much to compare it too. This place seemed like a good place to ask. It is just behaving much slower than it should. It is a quad core 3rd gen i7, 8GB ram, etc. that is behaving slower than my 2nd gen i5 dual core laptop.",
+                    "score": 1,
+                    "data_comentario": 1391982199.0
+                },
+                {
+                    "id": "cfb65e0",
+                    "conteudo": "Well it makes sense because you're using a 5400 RPM drive with your operating system on it. Chances are in your laptop you have a faster hard drive which just makes everything seem snappier. The speed of the hard drive dictates everything from boot times to opening program to even right clicking and having menus open up. A lower rpm hard drive is generally better to use for storage while having a faster drive with your OS on it. If you want to give a nice gift, and if they value speed over space. Then consider getting your SO an SSD (120GB should be fine).",
+                    "score": 1,
+                    "data_comentario": 1391982544.0
+                },
+                {
+                    "id": "cfb69uy",
+                    "conteudo": "That makes sense, was hoping it was something that I could fix and all would be well, but I figured it might be something of that nature as well. Thank you. I might just do that, a tech filled Valentines Day! (Happy cake day by the way!)",
+                    "score": 1,
+                    "data_comentario": 1391982846.0
+                },
+                {
+                    "id": "cfb6ch6",
+                    "conteudo": "Glad to help, and thank you =]",
+                    "score": 1,
+                    "data_comentario": 1391983014.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Analyze and recommend improvements for slow performance issues.",
+                "detected_fault": "Abnormally slow performance due to 5400RPM HDD",
+                "suggested_solution": "Replace 5400RPM HDD with an SSD or upgrade to a faster HDD/ add more RAM",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2014-02-09",
+                    "periodo_referencia": "2014-02"
+                }
+            }
+        },
+        {
+            "id": "2wj5fg",
+            "titulo": "[1.6] Why doesn't my Inspiron 5520 get a constant 100 fps in all settings?",
+            "conteudo_post": "I get a constant 100.5 fps if I'm not looking at anyone. However, when there's multiple people on my screen my fps drops to 60-80 fps. Smoke is even worse. Could someone explain that to me why a newer laptop can't run a CS1.6 at max? These are the specs of my computer: System Model: Dell Inspiron 5520 Memory: 8192MB RAM Processor: Intel(R) Core(TM) i5-3210M @ 2.5Ghz (4CPUs) Operating System: Windows 7 Home Edition 64-bit Video: Intel(R) HD Graphics 4000 (~1.686 mb memory) My in-game settings are: fps_max 99.5 rate 80000 cl_cmdrate 102 cl_updaterate 102 vsync turned off SO WHY?! My laptop seems overqualified for such an old game. Help please.",
+            "subreddit": "counterstrike",
+            "flair": null,
+            "score": 2,
+            "upvote_ratio": 0.67,
+            "num_comments": 2,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/counterstrike/comments/2wj5fg/16_why_doesnt_my_inspiron_5520_get_a_constant_100/",
+            "data_post": 1424423381.0,
+            "comentarios": [
+                {
+                    "id": "corcitr",
+                    "conteudo": "fps_max 101 rate 25000 cl_cmdrate 101 cl_updaterate 101",
+                    "score": 1,
+                    "data_comentario": 1424427035.0
+                },
+                {
+                    "id": "corci8e",
+                    "conteudo": "Yeah, these are my launch codes: -noforcemaccel -noforcemparms -noforcemspd -nofbo -noaafont I thought integrated from this era would be able to play this too... :( it sucks that my shitty desktop with 500 mb video card can run this game better than my laptop",
+                    "score": 1,
+                    "data_comentario": 1424426955.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Performance Issues with CS1.6",
+                "detected_fault": "Graphics Card Limitations and Processor Power Constraints",
+                "suggested_solution": [
+                    "Update Drivers and BIOS",
+                    "Adjust Graphics Settings",
+                    "Consider a Dedicated Graphics Card"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2015-02-20",
+                    "periodo_referencia": "2015-02"
+                }
+            }
+        },
+        {
+            "id": "1kaim5s",
+            "titulo": "Dell laptop no display",
+            "conteudo_post": "Hey good folks! I'm trying to save my 13yo laptop from e-waste. Here's what all I did. Problem 1: Issue started with screen. Laptop would boot normally however it simply won't display anything on screen. Just blank. External display was also same. Fan would keep spinning, indicating the laptop was ON yet no display. I fixed it by replacing RAM and force restarting a bunch of times using power button. Screen was dying most probably since it had Red spots all over it. Problem 2: Laptop was overheating a lot so I opened it, cleaned it thoroughly, removed speakers (since it wasn't working) and changed thermal paste as well. I made sure to completely remove existing paste with cotton and then replaced it with new paste from Cooler master. Laptop was working great afterwards. Immediate drop in temps and fan was running less since I had cleaned the choked up heat sink also. Upgrade: Bumped up RAM to 2x8GB DDR3L RAM. Upgraded HDD to 500GB Crucial SSD. Epiphany: I thought of ditching the screen since it was dying anyways and planned to make a 3D printed case for it. Opened it up again and removed the screen. But now it won't display anything on external. Everytime I boot it, I can see the external display senses signal but it won't display anything. Tried it on multiple displays but same behaviour. What am I missing? Spec: Name: Dell Inspiron 15R 5520 Processor: Intel i3 2nd Gen RAM: 2x8GB DDR3L GPU: AMD 7600M HD Any help would be much appreciated. Please help me save this beautiful machine from going into a landfill. It's capable of running all PS3 PC ports smoothly at high settings.",
+            "subreddit": "diyelectronics",
+            "flair": "Project",
+            "score": 0,
+            "upvote_ratio": 0.25,
+            "num_comments": 11,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/diyelectronics/comments/1kaim5s/dell_laptop_no_display/",
+            "data_post": 1745913647.0,
+            "comentarios": [
+                {
+                    "id": "mpmo03n",
+                    "conteudo": "Does the external display return if you re-connect the screen? Just wondering whether the GPU might check for something attached. Alternatively, does the BIOS have a setting to use the external display as primary?",
+                    "score": 1,
+                    "data_comentario": 1745917301.0
+                },
+                {
+                    "id": "mpo7ptr",
+                    "conteudo": "There is a security on dells who make it not to boot if screen if removed (normaly your charge led should blink amber and white). I dont know if it's on all dells but i Saw it a couple of times. So even if the display is dead better to leave it plugged. For the screen issue it can be the screen câble or the screen itself.",
+                    "score": 1,
+                    "data_comentario": 1745939732.0
+                },
+                {
+                    "id": "mpmu1ma",
+                    "conteudo": "Even if I reconnect the internal display now, no change. It still shows a blank display. No, sadly the BIOS version doesn't have an option for setting external display as default. I had checked this while internal screen was still working and it was showing external display.",
+                    "score": 1,
+                    "data_comentario": 1745921103.0
+                },
+                {
+                    "id": "mpobut6",
+                    "conteudo": "Even with the bad display plugged in, I'm seeing same blank screen on external display. Tried with VGA cable instead of HDMI but sadly it didn't work. The monitor recognised signal and went from no-signal to blank screen with VGA cable. Same as HDMI cable. Now next experiment: - Remove SSD, put a bootable USB with linux and hope it goes to POST with VGA - Remove CMOS and attempt boot with USB ChatGPT said it's most likely that BIOS sees missing or non-working screen when it doesn't receive EDID through LVDS port and then doesn't know what to do. So it's failing at POST and getting stuck there.",
+                    "score": 1,
+                    "data_comentario": 1745940922.0
+                },
+                {
+                    "id": "mpmx5ta",
+                    "conteudo": "Ah, ok - are you connecting the external by VGA or HDMI?",
+                    "score": 1,
+                    "data_comentario": 1745922863.0
+                },
+                {
+                    "id": "mpnjeh2",
+                    "conteudo": "I'm connecting external via HDMI",
+                    "score": 1,
+                    "data_comentario": 1745932180.0
+                },
+                {
+                    "id": "mpnu54x",
+                    "conteudo": "Just wondering whether VGA, being and older/simpler format, might be worth a shot...",
+                    "score": 1,
+                    "data_comentario": 1745935701.0
+                },
+                {
+                    "id": "mpnxmt1",
+                    "conteudo": "I ordered a VGA cable today to test that theory. Might be worth a shot because other than a LVDS controller, I've exhausted all options.",
+                    "score": 1,
+                    "data_comentario": 1745936762.0
+                },
+                {
+                    "id": "mpo02qn",
+                    "conteudo": "Yeah, the LVDS would have been my last idea, but I know even less about that! Fingers crossed that the VGA cable does the trick!",
+                    "score": 1,
+                    "data_comentario": 1745937492.0
+                },
+                {
+                    "id": "mpobl9a",
+                    "conteudo": "Sadly it didn't work. The monitor recognised signal and went from no-signal to blank screen with VGA cable. Same as HDMI cable. Now next experiment: - Remove SSD, put a bootable USB with linux and hope it goes to POST with VGA - Remove CMOS and attempt boot with USB ChatGPT said it's most likely that BIOS sees missing or non-working screen when it doesn't receive EDID through LVDS port and then doesn't know what to do. So it's failing at POST and getting stuck there.",
+                    "score": 1,
+                    "data_comentario": 1745940847.0
+                },
+                {
+                    "id": "mpojsxu",
+                    "conteudo": "Bugger :/ Hope the next experiment is the successful one!",
+                    "score": 1,
+                    "data_comentario": 1745943261.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Troubleshooting",
+                "detected_fault": "Display Issue",
+                "suggested_solution": [
+                    "Try using a VGA cable",
+                    "Remove the SSD and attempt booting with a Linux bootable USB"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-02-25",
+                "ancoragem_temporal": {
+                    "data_post": "2025-04-29",
+                    "periodo_referencia": "2025-04"
+                }
+            }
+        },
+        {
+            "id": "1kailue",
+            "titulo": "Dell Laptop no display",
+            "conteudo_post": "Hey good folks! I'm trying to save my 13yo laptop from e-waste. Here's what all I did. Problem 1: Issue started with screen. Laptop would boot normally however it simply won't display anything on screen. Just blank. External display was also same. Fan would keep spinning, indicating the laptop was ON yet no display. I fixed it by replacing RAM and force restarting a bunch of times using power button. Screen was dying most probably since it had Red spots all over it. Problem 2: Laptop was overheating a lot so I opened it, cleaned it thoroughly, removed speakers (since it wasn't working) and changed thermal paste as well. I made sure to completely remove existing paste with cotton and then replaced it with new paste from Cooler master. Laptop was working great afterwards. Immediate drop in temps and fan was running less since I had cleaned the choked up heat sink also. Upgrade: Bumped up RAM to 2x8GB DDR3L RAM. Upgraded HDD to 500GB Crucial SSD. Epiphany: I thought of ditching the screen since it was dying anyways and planned to make a 3D printed case for it. Opened it up again and removed the screen. But now it won't display anything on external. Everytime I boot it, I can see the external display senses signal but it won't display anything. Tried it on multiple displays but same behaviour. What am I missing? Spec: Name: Dell Inspiron 15R 5520 Processor: Intel i3 2nd Gen RAM: 2x8GB DDR3L GPU: AMD 7600M HD Any help would be much appreciated. Please help me save this beautiful machine from going into a landfill. It's capable of running all PS3 PC ports smoothly at high settings.",
+            "subreddit": "techsupport",
+            "flair": "Open | Hardware",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 8,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/techsupport/comments/1kailue/dell_laptop_no_display/",
+            "data_post": 1745913612.0,
+            "comentarios": [
+                {
+                    "id": "mpmiy24",
+                    "conteudo": "Your Dell laptop needs the internal screen (even if broken) connected because the BIOS expects it during boot; without it, the external monitor won't initialize properly. Reconnect the screen cable, boot, and use Fn + F8 to toggle display output, then set the external monitor as primary in the OS.",
+                    "score": 1,
+                    "data_comentario": 1745913988.0
+                },
+                {
+                    "id": "mpmka5e",
+                    "conteudo": "Thank you for the suggestion. I tried it but there was no difference. The external display is still blank.",
+                    "score": 1,
+                    "data_comentario": 1745914859.0
+                },
+                {
+                    "id": "mpn1kf5",
+                    "conteudo": "Try a full CMOS reset and boot from a Linux USB to force external display output, or use the VGA port if available, as HDMI may depend on the dedicated AMD GPU.",
+                    "score": 1,
+                    "data_comentario": 1745925059.0
+                },
+                {
+                    "id": "mpnk1ks",
+                    "conteudo": "I've ordered a VGA cable to test this last resort. If it doesn't work out then I'll remove the CMOS and try booting to Linux via USB",
+                    "score": 1,
+                    "data_comentario": 1745932402.0
+                },
+                {
+                    "id": "mpodri8",
+                    "conteudo": "If VGA fails, you’re left with CMOS reset and a Linux usb boot.",
+                    "score": 1,
+                    "data_comentario": 1745941464.0
+                },
+                {
+                    "id": "mpoea5h",
+                    "conteudo": "Sadly it didn't work. The monitor recognised signal and went from no-signal to blank screen with VGA cable. Same as HDMI cable. Now next experiment: - Remove SSD, put a bootable USB with linux and hope it goes to POST with VGA - Remove CMOS and attempt boot with USB ChatGPT said it's most likely that BIOS sees missing or non-working screen when it doesn't receive EDID through LVDS port and then doesn't know what to do. So it's failing at POST and getting stuck there.",
+                    "score": 1,
+                    "data_comentario": 1745941612.0
+                },
+                {
+                    "id": "mpoex9z",
+                    "conteudo": "Have you tried any other external displays?",
+                    "score": 1,
+                    "data_comentario": 1745941796.0
+                },
+                {
+                    "id": "mpoglpf",
+                    "conteudo": "Yep, tried 2 different external displays with 3 different HDMI cables. Then finally the VGA cable and same outcome. Signal recognised but blank display",
+                    "score": 1,
+                    "data_comentario": 1745942276.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Troubleshooting",
+                "detected_fault": "Blank screen with no external display output",
+                "suggested_solution": [
+                    "Reconnect internal screen cable and set external monitor as primary in OS",
+                    "Perform full CMOS reset and boot from Linux USB via VGA port",
+                    "Replace or repair internal screen"
+                ],
+                "technical_severity": "High",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2025-04-29",
+                    "periodo_referencia": "2025-04"
+                }
+            }
+        },
+        {
+            "id": "4yaxkv",
+            "titulo": "Student, Casual Gamer, Crafter - Budget Build Help with Corsair 240 Case - Under $350 USD",
+            "conteudo_post": ">**What will you be doing with this PC? Be as specific as possible, and include specific games or programs you will be using.** * **I'm majoring in microbio** - would need to do **research** (shitloads of *chrome tabs*), most likely watching **Netflix/Youtube** or listening to music at the same time or having a chatting program open (LINE). * **Casual gaming** - I play a lot of Sims 4, Stardew Valley (I also use the program tIDE to edit files from this game), some OSRS, and I would like to have a build that would run Dota 2 and intense games *without overheating or sounding like ten hairdryers* (currently have a dell laptop rn). I would like to not have to put everything at the lowest setting, but *I don't mind sacrificing some graphics or performance for my budget*, I can always spend money later for upgrades. * **Crafting** - I spend quite a bit of time in **Adobe programs** such as Photoshop, Illustrator, InDesign, etc. On my laptop bigger files tend to lag and the wait time for moving something one pixel annoys me. I also use a quilting program - Electric Quilt, I sometimes use Marvelous Designer for patterns, and an embroidery digitizing program. I use Brackets as well for coding. * **Rainmeter** - got to have some nice cosmetic stuff on my desktop. >**What is your maximum budget before rebates/shipping/taxes?** * $350 USD >**When do you plan on building/buying the PC? Note: beyond a week or two from today means any build you receive will be out of date when you want to buy.** * As soon as possible, but no rush - I don't want to overspend to get things expedited. >**What, exactly, do you need included in the budget? (Tower/OS/monitor/keyboard/mouse/etc\\)** * CPU * MOBO * RAM * HDD or SSD * GPU * PSU * OS - *see extra info section* * Monitor - *see extra info section* >**Which country (and state/province) will you be purchasing the parts in? If you're in US, do you have access to a Microcenter location?** * US - NW Orange County, California, the closest Microcenter to me is in Tustin and I can always go to a Fry's as well. I don't mind ordering parts online either - Ebay, Amazon, Jet, Newegg, etc. >**If reusing any parts (including monitor(s)/keyboard/mouse/etc), what parts will you be reusing? Brands and models are appreciated.** * [Corsair 240 Mini-Tower Case]( * [Corsair Scimitar RGB Mouse]( * [Corsair Strafe RBG Keyboard]( >**Will you be overclocking? If yes, are you interested in overclocking right away, or down the line? CPU and/or GPU?** * I don't really know that much about overclocking but from the gist of it, I'll be okay with doing that later on. >**Are there any specific features or items you want/need in the build? (ex: SSD, large amount of storage or a RAID setup, CUDA or OpenCL support, etc)** * I think I would need at least 250GB storage, 500GB would be ideal but not necessary. I've almost filled up my laptop to 900GB but there's some useless files. * I want to be able to play better games without my build working overtime, it's fine if graphics are at a low-med setting, as long as I can play them. No Man's Sky looks great and I wanted to try out Subnautica but I just couldn't run it, I want to be able to run Sims 4 as well on some med graphics settings. >**Do you have any specific case preferences (Size like ITX/microATX/mid-tower/full-tower, styles, colors, window or not, LED lighting, etc), or a particular color theme preference for the components?** * Theme is just black and white. I already have the Corsair 240 microATX case in white. >**Do you need a copy of Windows included in the budget? If you do need one included, do you have a preference?** * I do need one, whatever is cheapest (Win 7 - Win 10 is fine). I'm also a student so any links to discounts for the OS would be nice >**Extra info or particulars:** * I mostly need a computer to replace my dying laptop - I'll be upgrading from a Dell Inspiron 15R (the older version 5520) - i5-3120M, 16GB Ram, 1TB HDD, Intel Graphics 4000 I purchased it in 2012 I think, so anything that will be better than this laptop would be ideal. * If the build hits my budget and I'm not able to afford the **OS and/or monitor** then I'll wait on those two parts and get them at a later date (Late August or September) but I would still like recommendations for the monitor and OS.",
+            "subreddit": "buildapcforme",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 0.6,
+            "num_comments": 7,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/buildapcforme/comments/4yaxkv/student_casual_gamer_crafter_budget_build_help/",
+            "data_post": 1471505288.0,
+            "comentarios": [
+                {
+                    "id": "d6mr3wj",
+                    "conteudo": "Go get second opinions. You need it for ease of mind. :)",
+                    "score": 2,
+                    "data_comentario": 1471536848.0
+                },
+                {
+                    "id": "d6mc935",
+                    "conteudo": "[PCPartPicker part list]( / [Price breakdown by merchant]( Type|Item|Price :----|:----|:---- **CPU** | [Intel Core i5-6500 3.2GHz Quad-Core Processor]( | $198.99 @ SuperBiiz **Motherboard** | [ASRock H110M-HDS Micro ATX LGA1151 Motherboard]( | $51.99 @ SuperBiiz **Memory** | [G.Skill Aegis 8GB (1 x 8GB) DDR4-2133 Memory]( | $30.98 @ Newegg **Storage** | [Western Digital Caviar Blue 1TB 3.5\" 7200RPM Internal Hard Drive]( | $47.49 @ OutletPC **Case** | [Corsair Air 240 MicroATX Mid Tower Case]( | Purchased For $0.00 **Power Supply** | [EVGA 450W 80+ Bronze Certified ATX Power Supply]( | $37.49 @ SuperBiiz | *Prices include shipping, taxes, rebates, and discounts* | | **Total** | **$366.94** | Generated by [PCPartPicker]( 2016-08-18 03:42 EDT-0400 | Just wait. You don't need a discrete GPU for your requirements. i5 because you run Adobe programs.",
+                    "score": 1,
+                    "data_comentario": 1471506231.0
+                },
+                {
+                    "id": "d6mdhrt",
+                    "conteudo": "I think I forgot to mention that I need to be able to connect to the internet, does this build include a wifi adapter?",
+                    "score": 1,
+                    "data_comentario": 1471510380.0
+                },
+                {
+                    "id": "d6mdix9",
+                    "conteudo": "I thought you're going to use wired Internet?",
+                    "score": 1,
+                    "data_comentario": 1471510495.0
+                },
+                {
+                    "id": "d6mdnfx",
+                    "conteudo": "Sorry, no because I won't be able to run the cable to the location of where the desktop will be at :( Edit: but if the budget rn doesn't have room for the os or monitor I can put off the wifi for rn too.",
+                    "score": 1,
+                    "data_comentario": 1471510935.0
+                },
+                {
+                    "id": "d6mfoo5",
+                    "conteudo": "Sorry it didnt end up $350 as you wished but it's better to save a few more than to purchase under 350 and upgrade later. I merely edited the one that was suggested before. I changed it to dual channel so you could get more performance out of the internal graphics since you wont be using a GPU at the moment. I also added an adapter for wifi. [PCPartPicker part list]( / [Price breakdown by merchant]( Type|Item|Price :----|:----|:---- **CPU** | [Intel Core i5-6500 3.2GHz Quad-Core Processor]( | $198.99 @ SuperBiiz **Motherboard** | [Gigabyte GA-B150M-DS3H Micro ATX LGA1151 Motherboard]( | $63.98 @ Newegg **Memory** | [G.Skill Ripjaws V Series 8GB (2 x 4GB) DDR4-2400 Memory]( | $39.99 @ Newegg **Storage** | [Western Digital Caviar Blue 1TB 3.5\" 7200RPM Internal Hard Drive]( | $47.49 @ OutletPC **Case** | [Corsair Air 240 MicroATX Mid Tower Case]( | Purchased For $0.00 **Power Supply** | [Corsair Builder 500W 80+ Bronze Certified ATX Power Supply]( | $29.99 @ Newegg **Wireless Network Adapter** | [TP-Link TL-WN781ND PCI-Express x1 802.11b/g/n Wi-Fi Adapter]( | $12.11 @ Newegg | *Prices include shipping, taxes, rebates, and discounts* | | Total (before mail-in rebates) | $422.55 | Mail-in rebates | -$30.00 | **Total** | **$392.55** | Generated by [PCPartPicker]( 2016-08-18 06:54 EDT-0400 |",
+                    "score": 1,
+                    "data_comentario": 1471517816.0
+                },
+                {
+                    "id": "d6mpbxt",
+                    "conteudo": "Oh thank you! Do you think it's okay to post these builds on r/buildapc for second opinions? I'll wait to see if anyone suggests another build too",
+                    "score": 1,
+                    "data_comentario": 1471534651.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Upgrade",
+                "detected_fault": "Thermal Throttling and BSOD due to aging hardware components.",
+                "suggested_solution": "Upgrade processor, RAM, and storage with compatible components.",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2016-08-18",
+                    "periodo_referencia": "2016-08"
+                }
+            }
+        },
+        {
+            "id": "4nckux",
+            "titulo": "Laptop shutting down, seems to be overheating",
+            "conteudo_post": "Hello, I've got a Dell Inspiron 7520 that has lately started shutting down with zero warnings. I'm pretty sure it's overheating. This laptop has always had some sort of heating problem because the fan seems to be on all the time. Lately the keyboard has also been getting pretty warm. I was thinking of taking it apart and cleaning the cooling fan and applying some thermal paste, but it's been a very long time since I've built a PC or played around with any PC hardware. I started reading around and I'm seeing something about using thermal pads or copper shims instead of thermal paste, but I'm not sure if that applies in my case.I also read that I can damage my laptop if I apply too much paste or too little, or that I should use paste AND the pad. I was looking at some dissasembly videos for my laptop and I found [this one]( where you can see the moment he takes apart the cooling fan. All I see is thermal paste. Also, searching around, I found [this replacement for the fan]( which shows two thermal pads and an aluminum pad, which I don't know what it's for. I would like to do this job myself but I'll probably end up taking it to a tech, but I'm currently stuck in a small town where I'm not sure if the tech guys actually know what they are doing. I wanted to ask the community what the proper solution is so I can at least ask a tech support guy and see what they propose. Thanks!",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 5,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/techsupport/comments/4nckux/laptop_shutting_down_seems_to_be_overheating/",
+            "data_post": 1465501880.0,
+            "comentarios": [
+                {
+                    "id": "d42rm89",
+                    "conteudo": "Any qualified tech guy would first look to see if the laptop is dirty and clean it out before disassembling the processor. If your fan is running, even at high speeds, it means it's probably working just fine. And it's a ~3yo laptop, so unless you're overclocking it, the problem is probably not the thermal paste. If you're hesitant, ask any tech guy what they think the problem is, and what they plan to do, and if you don't like the answer, take your computer to the next guy.",
+                    "score": 2,
+                    "data_comentario": 1465503880.0
+                },
+                {
+                    "id": "d430c9d",
+                    "conteudo": "Like I said, it's been a long time since I messed with any hardware. What does the age of the laptop have to do with the thermal paste?",
+                    "score": 1,
+                    "data_comentario": 1465516763.0
+                },
+                {
+                    "id": "d430g5y",
+                    "conteudo": "I actually used a monitoring software and saw some pretty high temperatures , around 95 C. But I'll try yours, and see if it logs the temp to a file so I can leave the laptop running and check the temp when it shuts down.",
+                    "score": 1,
+                    "data_comentario": 1465516941.0
+                },
+                {
+                    "id": "d439e97",
+                    "conteudo": "Ah yes, I understand now. Thanks!",
+                    "score": 1,
+                    "data_comentario": 1465532170.0
+                },
+                {
+                    "id": "d439nb0",
+                    "conteudo": "I just checked the temps, it's running pretty high right now. It'll probably shut down any minute now. [Here are the readings](",
+                    "score": 1,
+                    "data_comentario": 1465532671.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Analyze system state baseline for overheating issues",
+                "detected_fault": "Thermal Throttling and Overheating",
+                "suggested_solution": [
+                    "Clean laptop exterior and interior",
+                    "Inspect cooling fan",
+                    "Apply thermal paste or alternative solutions"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2016-06-09",
+                    "periodo_referencia": "2016-06"
+                }
+            }
+        },
+        {
+            "id": "2ybmem",
+            "titulo": "what linux I should install for my lap top DELL Inspiron 15R 5520",
+            "conteudo_post": "I want to try to use linux for my laptop but problem is its compatibility which my laptop, I tried ubuntu, mint but the heat of my laptop went up and hot as you can cook with it so I don't know which distro I should use. Of course, I am noob so don't recommend some thing for geek like arch. I plan to try ZORIN OS because through some review on Youtube, it have Windows 7 GUI.",
+            "subreddit": "linux4noobs",
+            "flair": null,
+            "score": 0,
+            "upvote_ratio": 0.5,
+            "num_comments": 6,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/linux4noobs/comments/2ybmem/what_linux_i_should_install_for_my_lap_top_dell/",
+            "data_post": 1425803620.0,
+            "comentarios": [
+                {
+                    "id": "cp80oqg",
+                    "conteudo": "Have you tried a less resource-hungry variant of Ubuntu? Lubuntu and Xubuntu might work better on your laptop.",
+                    "score": 2,
+                    "data_comentario": 1425804644.0
+                },
+                {
+                    "id": "cp87pz5",
+                    "conteudo": "Laptop extras is what you need(laptop-mode-tools). Don't know why there never install by default. Since most people use laptops more then desktops. I'm not one of them, I'm a desktop user through in through. But, I do like my laptop when I'm on a trip.",
+                    "score": 2,
+                    "data_comentario": 1425831761.0
+                },
+                {
+                    "id": "cp81fi0",
+                    "conteudo": "I would also recommend Lubuntu for the laptop",
+                    "score": 2,
+                    "data_comentario": 1425808318.0
+                },
+                {
+                    "id": "cp82mbu",
+                    "conteudo": "did you try the mate variant of mint, or ubuntu mate. As the others had mentioned some thing with a more light weight desktop like xfce lxde, or mate. lxde(lubuntu) is the lightest.",
+                    "score": 1,
+                    "data_comentario": 1425814662.0
+                },
+                {
+                    "id": "cp82okt",
+                    "conteudo": "Does it have the switchable graphics thing? If so, try to see what happens if you tun off the more powerful GPU in your bios, and then run Ubuntu. The laptop itself should me more than powerful enough to run *any* variety of linux. If the machine does not heat up with the more powerful GPU turned off, you need to install the proprietary drivers in order to make sure the switching and cooling takes place correctly.",
+                    "score": 1,
+                    "data_comentario": 1425814996.0
+                },
+                {
+                    "id": "cp82p7g",
+                    "conteudo": "The weakest processor on that is a current generation dual core, and all other options are i*x* processors or similar. No way it needs a lean linux.",
+                    "score": 0,
+                    "data_comentario": 1425815087.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Hardware Analysis",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": "Install less resource-hunggy Linux distribution like Lubuntu or Xubuntu, and Laptop-mode-tools for power management and cooling.",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2015-03-08",
+                    "periodo_referencia": "2015-03"
+                }
+            }
+        },
+        {
+            "id": "2whmis",
+            "titulo": "Overheated laptop",
+            "conteudo_post": "About a month ago my laptop became overheated and at the time it made a clicking noise before I shut it down. I am able to boot up my laptop in normal mode but after 5 minutes windows freezes and I am unable to do anything. In safe mode though it works perfectly fine. I am using Windows 7 on a Dell Inspiron 5520. I mostly want to narrow down what is wrong with my laptop rather than having to replace the whole thing.",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 2,
+            "upvote_ratio": 0.67,
+            "num_comments": 2,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/techsupport/comments/2whmis/overheated_laptop/",
+            "data_post": 1424389845.0,
+            "comentarios": [
+                {
+                    "id": "coqxcj1",
+                    "conteudo": "Hard to say without opening it up. I suspect it's either dirty, a fan is dead, or there is thermal paste that was poorly applied or old.",
+                    "score": 1,
+                    "data_comentario": 1424390751.0
+                },
+                {
+                    "id": "coqzfd6",
+                    "conteudo": "Get a straw, or can of compressed air, and blow straight into the fan. It's probably just got clogged up, it only takes a tiny amount of dust to start your laptop running slow. I would also suggest looking in MSCONFIG (WinKey + R -> msconfig), make sure there's not tons of hidden things (Spotify, Java, Flash, etc updates, anti virus scans) eating your CPU and memory when you start up the machine. If it's working fine in safe mode, I would say either: running Windows Update and trying to update some drivers or any windows updates. OR try restoring your computer to a previous restore point, from before it started overheating. Windows Restore doesn't alter any of your files, just the OS update settings so don't worry about your files. But my money is on a faulty Windows Update or a program that you've updated, with an auto start and a memory leak.",
+                    "score": 1,
+                    "data_comentario": 1424394471.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Troubleshooting",
+                "detected_fault": "Overheating issues with clicking noise and thermal throttling",
+                "suggested_solution": [
+                    "Clean the fans",
+                    "Check MSCONFIG",
+                    "Run Windows Update",
+                    "Restore from a previous restore point"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2015-02-19",
+                    "periodo_referencia": "2015-02"
+                }
+            }
+        },
+        {
+            "id": "2k8cbn",
+            "titulo": "Laptop shows no sign of life.",
+            "conteudo_post": "My Dell Inspiron 15R 5520 is completely unresponsive. After crashing last night and feeling very hot (the first time this has happened) the laptop has not been able to turn on whatsoever. I have tried with a different battery and still nothing. When I plug the power adapter into it, the adapter seems to short, as in the indicator light on the adapter turns off and requires being unplugged and re plugged to re illuminate the indicator light. I have tried this with 2 different power adapters. My question is, does this sound like a fixable problem or is it likely that the overheating has fried components that wouldn't be repairable? If it was a case of swapping out the dc port then I think I would be capable of doing it I just don't know if it would be worth it if it was irreparable. Anyway any help would be hugely appreciated. Sorry if this question sounds dumb. I'm not hugely knowledgable in this area.",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 2,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/techsupport/comments/2k8cbn/laptop_shows_no_sign_of_life/",
+            "data_post": 1414183956.0,
+            "comentarios": [
+                {
+                    "id": "clivsm9",
+                    "conteudo": "Take the CMOs battery out, take all the RAM and the main battery out, hold the power button down for 30 seconds. Plug in to mains and push power on. If beeps count them and google the code, if no beeps somethings fried, maybe the adapter maybe the motherboard.",
+                    "score": 2,
+                    "data_comentario": 1414185842.0
+                },
+                {
+                    "id": "cliw6s2",
+                    "conteudo": "Alright, will try this now. Thanks",
+                    "score": 2,
+                    "data_comentario": 1414186680.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Technical Brief",
+                "detected_fault": "Thermal-related issue, possible motherboard damage",
+                "suggested_solution": "Swap out DC port, attempt troubleshooting steps, contact Dell support if under warranty",
+                "technical_severity": "High",
+                "discussion_timeline": "2023-02-20 to 2023-02-25",
+                "ancoragem_temporal": {
+                    "data_post": "2014-10-24",
+                    "periodo_referencia": "2014-10"
+                }
+            }
+        },
+        {
+            "id": "1mxglal",
+            "titulo": "Final Review for LENOVO THINKBOOK 16 GEN 7 AMD",
+            "conteudo_post": "[For Configuration]( Cant Post this review in r/ThinkBook cause their MOD didn't accept my request to post **1.) Performance :** Ran Multiple cinebench r23 tests on it and this machine didnt go below 11500 multicore score (Dunno about single core score cause I am always fascinated about MULTI CORE scores) and handles all day to day tasks as well like multiple chrome tabs, 1-2 pdfs , and VS CODE as well. [\\\\\"Performance Mode\\\\\" in Lenovo Vantage and \\\\\"Best Performance\\\\\" selected from Power options]( **2.) Keyboard :** Gives absolute premium experience while typing *Note* \\- Was using Dell Latitude 3420 before (Dad's Office Lap) and Dell inspiron 15R 5520 (Like 12 - 13 years old Laptop) **3.) Battery and Charging :** Good Battery performance. Dropped from 75% to 40% in 2 - 2.5 hrs while using Youtube and Vs code side by side with multiple chrome tabs and installations as well. But still i would suggest to go with 4 cell battery option through customization option if anyone wants more battery life. Talking about charging part Lenovo Vnatage software has 3 modes of charging Rapid Charge mode charged 65 % battery in 50-60 mins as per my use case. (Like surfing, using 1 or 2 applications which demands negligible resources, etc.) [I would Personally like to prefer CONSERVATION MODE while gaming or while doing certain performance centric task]( **4.) Display :** NIce Display as compared to other brands laptop in same price range for day to day and educational use. Some fellow redditors are concerned about that IPS glow at some spots. Do not worry about it cause I noticed this same issue in [Lenovo Thinkpad E14 GEN 6's review]( (from notebookcheck) which offers the same screen as this one. (Check the display section) [Backlight bleed of Thinkpad E14 GEN 6]( [Screen bleed from my Machine]( **5.) FP Reader :** Great response time. **6.) Build :** Above Average build quality at this price range. Neglible top lid and keyboard flex but palmrest has a little flex below space bar still no need to worry about it cause longetivity depends upon us so Handle with care. **7.) SSD :** Fast as expected with GEN 4 SSDs. These are read and write speeds below (Please do mention are those speeds acceptable according to its capabilties or not) [Didn't used any performance mode for this so this won't affect the speeds right?]( **8.) Speakers :** Below AVG to Average quality but still does the Job for Video lectures or anything else. **9.) Ram :** I suggest to upgrade from 16GB to 32GB cause only 13.3GB is usable and increase in ram can increase performance as well. **Conclusion : For 56k (Current Pricing) this is definitely bang for buck Laptop** [Love This MACHINE](",
+            "subreddit": "Lenovo",
+            "flair": null,
+            "score": 22,
+            "upvote_ratio": 1.0,
+            "num_comments": 79,
+            "categoria": "display",
+            "url": "https://reddit.com/r/Lenovo/comments/1mxglal/final_review_for_lenovo_thinkbook_16_gen_7_amd/",
+            "data_post": 1755892389.0,
+            "comentarios": [
+                {
+                    "id": "na6z1ya",
+                    "conteudo": "r/ThinkBook is obsolete. You can post on r/LenovoThinkBook . Thanks!",
+                    "score": 3,
+                    "data_comentario": 1755921617.0
+                },
+                {
+                    "id": "na7726h",
+                    "conteudo": "Got the same laptop, everything feels great except for the speaker as you said is below average and display is okayish I mean it ain't 100% srgb so it's evident. I actually ran some games too and they worked great, no heating issue at all so ig its bang for buck since I got it at 50k",
+                    "score": 2,
+                    "data_comentario": 1755925491.0
+                },
+                {
+                    "id": "nb3h75l",
+                    "conteudo": "Brother check dm",
+                    "score": 2,
+                    "data_comentario": 1756368686.0
+                },
+                {
+                    "id": "ne0dzw0",
+                    "conteudo": "Hey, how's your impression? I'm thinking about buying this ThinkBook 16, but in my country there is a problem with finding the version with a 71Wh battery. How does the working time on this 45Wh battery with Ryzen 7 look like? I ask because for me it would be important for the laptop to work for a long time on a single charge. If working time is important to me, should I look more at Ryzen 5 or Intel versions? Or is it good enough in this version with working time?",
+                    "score": 2,
+                    "data_comentario": 1757778383.0
+                },
+                {
+                    "id": "nequdun",
+                    "conteudo": "what about the hinges man, would it last unlike the ideapads",
+                    "score": 2,
+                    "data_comentario": 1758132153.0
+                },
+                {
+                    "id": "ngfgkdj",
+                    "conteudo": "From where did you buy?",
+                    "score": 2,
+                    "data_comentario": 1758947636.0
+                },
+                {
+                    "id": "nhgv3p7",
+                    "conteudo": "r/Lenovo I did expect a great performance with this laptop. The first one (G6) I bought I had issues with the camera (did not display my video) and internet connection, so I return the laptop. I have recently bought a G7 as you describe, but I am still having performance issues. Specifically, when using youtube, many times, at half of the video, it stops loading due to connection and then the video quality adapts to <360p to balance the connection. I've never experienced this issue with any of my previous laptops (e.g., HP intel core i5, 8GB RAM). I would really appreciate some suggestions and potential solutions for this issue.",
+                    "score": 2,
+                    "data_comentario": 1759454161.0
+                },
+                {
+                    "id": "njwble2",
+                    "conteudo": "Thank you for this elaborate review !! ✨✨",
+                    "score": 2,
+                    "data_comentario": 1760664396.0
+                },
+                {
+                    "id": "ni1smmj",
+                    "conteudo": "Can you let me know from where you got it for 50K? On lenovo site its showing around 54K. I am planning to buy this same model.",
+                    "score": 2,
+                    "data_comentario": 1759749459.0
+                },
+                {
+                    "id": "ne3m4fx",
+                    "conteudo": "Definitely go with the larger battery capacity laptop if u really care about longer battery backup Talking about this laptop from 80% charge level I used youtube vs code and other certain applications as well and in 2-3 hrs battery dropped for 75 % to somewhere around 30-40 % U can judge accordingly But this laptop (Thinkbook 16 AMD) does have some space for upgrading the battery as well.",
+                    "score": 2,
+                    "data_comentario": 1757816444.0
+                },
+                {
+                    "id": "nfd26zu",
+                    "conteudo": "Yes there are dual slots for SSD and RAM as well. About the processor if u have that budget get the Ryzen 7 variant. And about the charging feature YES there is a mode called conservation mode which charge the device up to 80% But if u want another limit then u can use ghelper as well",
+                    "score": 2,
+                    "data_comentario": 1758426641.0
+                },
+                {
+                    "id": "naa5egu",
+                    "conteudo": "Depends on usage, the GPU with the Ryzen 7 7735HS performs nearly twice as well as the GPU with the Ryzen 5 7535HS. So if your usage requires strong integrated graphics then you can go with Ryzen 7. Other than that, I don't think you'll notice any difference in normal tasks on both cpus.",
+                    "score": 2,
+                    "data_comentario": 1755971356.0
+                },
+                {
+                    "id": "naa5ivn",
+                    "conteudo": "Btw I have ordered the Ryzen 5 variant",
+                    "score": 2,
+                    "data_comentario": 1755971392.0
+                },
+                {
+                    "id": "nd88fju",
+                    "conteudo": "At what Price mate ? Or else get this same one from Lenovo with 16 gb ram and licensed windows as well And talking about ur windows thing they install windows through some pendrive sort of thing which can be done by u as well through some YT videos and all But still I suggest Lenovo's official website for it",
+                    "score": 2,
+                    "data_comentario": 1757404499.0
+                },
+                {
+                    "id": "nhcpv8r",
+                    "conteudo": "Depends upon your use case But this one do have grt build according to its price point",
+                    "score": 2,
+                    "data_comentario": 1759407905.0
+                },
+                {
+                    "id": "na9lbfy",
+                    "conteudo": "Gta 5, got avg 100fps on medium-high settings and minecraft only until now will test more later",
+                    "score": 2,
+                    "data_comentario": 1755965061.0
+                },
+                {
+                    "id": "nfqfkls",
+                    "conteudo": "4-5 hours on energy saver for light work",
+                    "score": 2,
+                    "data_comentario": 1758615761.0
+                },
+                {
+                    "id": "nfdm5ki",
+                    "conteudo": "thank you!",
+                    "score": 2,
+                    "data_comentario": 1758436785.0
+                },
+                {
+                    "id": "nhh5iie",
+                    "conteudo": "I am not so sure. It happens to me in different locations. I will be adjusting some settings and let you know then :)",
+                    "score": 2,
+                    "data_comentario": 1759457809.0
+                },
+                {
+                    "id": "naarh2a",
+                    "conteudo": "Can u share the settings and fps video in gta 5 I want to test it but don't have time right now Thanks for the information though 😃😃",
+                    "score": 2,
+                    "data_comentario": 1755978400.0
+                },
+                {
+                    "id": "nayiax8",
+                    "conteudo": "Bro if you ever try rdr2 please do tell me how much fps u getting I really need it 😫",
+                    "score": 2,
+                    "data_comentario": 1756306551.0
+                },
+                {
+                    "id": "nh1uclc",
+                    "conteudo": "How much RAM do you have? Also is it single channel or dual channel?",
+                    "score": 2,
+                    "data_comentario": 1759256805.0
+                },
+                {
+                    "id": "nheerpy",
+                    "conteudo": "This review shows around 60fps for gta V, how to get 100fps??",
+                    "score": 2,
+                    "data_comentario": 1759426371.0
+                },
+                {
+                    "id": "nei948b",
+                    "conteudo": "Hey man. What could be battery life if i use it for Excel at medium brighteness?",
+                    "score": 2,
+                    "data_comentario": 1758022335.0
+                },
+                {
+                    "id": "nfsws8c",
+                    "conteudo": "I'm thinking of buying it for my uni, just for assignments and I need to use it for my exams so would u suggest me to get it? I'm looking at 5 years of usage",
+                    "score": 2,
+                    "data_comentario": 1758648738.0
+                },
+                {
+                    "id": "ne6l9fr",
+                    "conteudo": "Oh I didn't knew about that motherboard thing then I don't know whether we can upgrade the battery or not Thanks a lot",
+                    "score": 2,
+                    "data_comentario": 1757864450.0
+                },
+                {
+                    "id": "nhp9tta",
+                    "conteudo": "Which did you get ryzan 7 or 5",
+                    "score": 2,
+                    "data_comentario": 1759577519.0
+                },
+                {
+                    "id": "ndlncgt",
+                    "conteudo": "It will work the exact same way. You might have to install some drivers but that's easy too. Windows license you can get from any third-party website for cheap. Works perfectly for lifetime. If you don't need specific applications, install Linux Mint. However, try to get 16GB DDR5 RAM",
+                    "score": 2,
+                    "data_comentario": 1757579287.0
+                },
+                {
+                    "id": "nkx4tp9",
+                    "conteudo": "Nah from lenovo's official website , like it was for 43999 with 4000 coupon code from their tech utsav I got it for 39999 the model is thinking book 16 G7 Ryzen 5 7535hs 16gb ram",
+                    "score": 2,
+                    "data_comentario": 1761205173.0
+                },
+                {
+                    "id": "nayq1mg",
+                    "conteudo": "Surely bro my next game's gonna be rdr2 ;)",
+                    "score": 2,
+                    "data_comentario": 1756308767.0
+                },
+                {
+                    "id": "nhekoz1",
+                    "conteudo": "Fsr mode",
+                    "score": 2,
+                    "data_comentario": 1759428047.0
+                },
+                {
+                    "id": "nhka5bo",
+                    "conteudo": "Can you tell by watching the review I have linked if the review is genuine. 7535hs is performing better than 7735hs in review done by the same channel.",
+                    "score": 2,
+                    "data_comentario": 1759505923.0
+                },
+                {
+                    "id": "neqbg4g",
+                    "conteudo": "I'm confused between this and Asus expertbook p1 with 13620H. Can u please guide me 😭. My main motive is finance.i am a student and i want to learn everything about finance. I also want some flexibility like video editing maybe once a year. This laptop doesn't even have a single review on yt. Only one in reddit. How is the keyboard, trackpad, build quality, heating in this?",
+                    "score": 2,
+                    "data_comentario": 1758126833.0
+                },
+                {
+                    "id": "nkxvwch",
+                    "conteudo": "Oh ok , but I had searched reviews for Ryzen 5 so thought u were searching for Ryzen 5 Btw did u order or u will if still didn't order try speen wheel in lenovo's website u might get 4k off coupon code try from diff accounts today is last",
+                    "score": 2,
+                    "data_comentario": 1761219977.0
+                },
+                {
+                    "id": "neqgjjz",
+                    "conteudo": "Imo lenovo would be better than asus as I have heard asus after sales service is pretty bad, asus would be better in gaming laptop range and this laptop far more better than 13620h also I am in finance too so dw apart from battery life everything else is good, keyboard is too good, trackpad is good, build seems sturdy until now and barely any heating there if used on an elevation",
+                    "score": 2,
+                    "data_comentario": 1758128275.0
+                },
+                {
+                    "id": "nhkbh62",
+                    "conteudo": "But why are benchmark scores same/lower in above review. Even game fps are same for both. Also SSD speed is slower, I have checked in real life as well.",
+                    "score": 2,
+                    "data_comentario": 1759506301.0
+                },
+                {
+                    "id": "neqkjkn",
+                    "conteudo": "Also r u an Indian? Should i wait for Diwali sale in Lenovo website. Can i purchase from somewhere else and can i get the 3yr warranty+adp for 4k in buyalenovo site after purchasing the laptop?",
+                    "score": 2,
+                    "data_comentario": 1758129400.0
+                },
+                {
+                    "id": "nj1qm3x",
+                    "conteudo": "I am looking for a laptop for mostly coding and occasional lightweight video editing. I also watched the reviews from that channel and I am confused for which one to buy. Based on your research, do you still think 7535hs is performing better than 7735hs in Thinkbook 16?",
+                    "score": 2,
+                    "data_comentario": 1760239623.0
+                },
+                {
+                    "id": "neuuo21",
+                    "conteudo": "From where and What warranty did u purchase? Like i heard from various subs that there's a 3yr warranty+adp for 4k from buyalenovo site",
+                    "score": 2,
+                    "data_comentario": 1758186746.0
+                },
+                {
+                    "id": "na9jmqr",
+                    "conteudo": "Is the ryzen 7 one worth the extra 10k or should I go with the ryzen 5 variant?",
+                    "score": 1,
+                    "data_comentario": 1755964528.0
+                },
+                {
+                    "id": "nat12zd",
+                    "conteudo": "Hey does some sound come from under the keyboard? It's very less but it is there in my laptop. Try to listen by taking ear near to keyboard, on whole keyboard left to right",
+                    "score": 1,
+                    "data_comentario": 1756231644.0
+                },
+                {
+                    "id": "nd7ab48",
+                    "conteudo": "I am getting this laptop in offline market with same specs, except it has 8 GB DDR5 and NO OS....Is that good? The seller says they will install licenced windows....I don't know how they will do that",
+                    "score": 1,
+                    "data_comentario": 1757387353.0
+                },
+                {
+                    "id": "neqdgjh",
+                    "conteudo": "I'm confused between this and expertbook p1 with 13620H. Can u please guide me😭. I want to learn everything about finance and also video editing type stuff maybe once a year.",
+                    "score": 1,
+                    "data_comentario": 1758127411.0
+                },
+                {
+                    "id": "nhc0rle",
+                    "conteudo": "Thinkbook 16 gen 7 Ryzen 5 7535hs VS thinkpad E14 Gen6 Ryzen 5 7535hs........Will thinkbook last long?",
+                    "score": 1,
+                    "data_comentario": 1759395367.0
+                },
+                {
+                    "id": "nhpame0",
+                    "conteudo": "I am going to buy Lenovo thinkbook 16 but I am stuck between amd 5 or amd 7 (both with 7735hs series) main priority is coading and battery both should go smoothly,in my country I have no option other then 45wh battery size for both amd 5 and 7 so which should I go for Thanks you",
+                    "score": 1,
+                    "data_comentario": 1759577896.0
+                },
+                {
+                    "id": "niqp9b4",
+                    "conteudo": "Bro how's thermal management? Do let me know please.",
+                    "score": 1,
+                    "data_comentario": 1760085910.0
+                },
+                {
+                    "id": "nlup2c7",
+                    "conteudo": "So grateful for your detailed feedback -- it means a lot!! 💛",
+                    "score": 1,
+                    "data_comentario": 1761668768.0
+                },
+                {
+                    "id": "nmhyqsq",
+                    "conteudo": "I got the Ryzen 7 Version of this Laptop and I would say stay away from this model. Has hanged like 20 times..almost everything after I switch on the Laptop I have to restart it at least once...Performance is damn slow...you can't multitask smoothly...Dont know if its processor or the system as a whole...Battery life is also meh...very disappointed overall..Should have got Dell with intel processor...",
+                    "score": 1,
+                    "data_comentario": 1761980893.0
+                },
+                {
+                    "id": "nqla6fa",
+                    "conteudo": "Found a BF deal on AMZ - 16/512 GB $499 [",
+                    "score": 1,
+                    "data_comentario": 1764016857.0
+                },
+                {
+                    "id": "nx0rpqd",
+                    "conteudo": "I'm considering getting this laptop used from marketplace but it's the Intel version. Would that be good enough. Price is $325 and the QR code on the laptop shows that it has a 25 month warranty on it",
+                    "score": 1,
+                    "data_comentario": 1767235385.0
+                },
+                {
+                    "id": "na7ugfc",
+                    "conteudo": "Oh Happy for you as well Which games though?",
+                    "score": 1,
+                    "data_comentario": 1755938888.0
+                },
+                {
+                    "id": "naqr8ch",
+                    "conteudo": "How will old Fifas will work with Ryzen 5 7535HS radeon 660M",
+                    "score": 1,
+                    "data_comentario": 1756206210.0
+                },
+                {
+                    "id": "nfpyp2k",
+                    "conteudo": "How abt the battery life",
+                    "score": 1,
+                    "data_comentario": 1758604823.0
+                },
+                {
+                    "id": "nm1vo4f",
+                    "conteudo": "Well at least it's got a metal chasis, meaning the hinges are not metal bolt onto plastic but at least metal on metal. Still, a macbook would offer better hinges, though I've heard people complain about display cables breaking instead on those.",
+                    "score": 1,
+                    "data_comentario": 1761762104.0
+                },
+                {
+                    "id": "nhgztcj",
+                    "conteudo": "Is this even happening for other platforms like Netflix and all If so then u might have issues with ur wifi card But my lap's wifi works grt though",
+                    "score": 1,
+                    "data_comentario": 1759455825.0
+                },
+                {
+                    "id": "naarr9a",
+                    "conteudo": "Depends everything upon your usage Still Ryzen 5 is grt though",
+                    "score": 1,
+                    "data_comentario": 1755978493.0
+                },
+                {
+                    "id": "nbp2pm2",
+                    "conteudo": "Nah there wasn't any sound Can u send the video please",
+                    "score": 1,
+                    "data_comentario": 1756661435.0
+                },
+                {
+                    "id": "nhq8q5j",
+                    "conteudo": "In that case ryzen 5 is more battery efficient nd its gd for lightweight coding as well (btw u from which country?)",
+                    "score": 1,
+                    "data_comentario": 1759590324.0
+                },
+                {
+                    "id": "nxe6654",
+                    "conteudo": "Cant be judged without specs",
+                    "score": 1,
+                    "data_comentario": 1767420411.0
+                },
+                {
+                    "id": "ni1z2j6",
+                    "conteudo": "There was 10% cashback offer going on at that time on payment through credit card so I got 4k off in that also some coupons availed on site",
+                    "score": 1,
+                    "data_comentario": 1759752186.0
+                },
+                {
+                    "id": "nkwyhj7",
+                    "conteudo": "Bro i got this for 39k",
+                    "score": 1,
+                    "data_comentario": 1761201388.0
+                },
+                {
+                    "id": "nxfsq88",
+                    "conteudo": "I bought it for 45,500 Ryzen 5 16gb varient on 31st . Is it great laptop?",
+                    "score": 1,
+                    "data_comentario": 1767448496.0
+                },
+                {
+                    "id": "narjuqt",
+                    "conteudo": "You can play em all at medium settings I reckon, the processor is powerful enough to play old fifa games",
+                    "score": 1,
+                    "data_comentario": 1756216505.0
+                },
+                {
+                    "id": "ne50dm4",
+                    "conteudo": "The problem is that from what I found, the lenovo thinkbook 16 laptops with a 71Wh battery are limited by the region/country, and where I live they are not available. In general, it is interesting whether laptops with a 45Wh battery would be compatible with 71Wh batteries, because they have different voltages (45Wh 3s ~12V, 71Wh 4s ~15V), maybe the motherboard is the same in both versions so as not to mix with different versions",
+                    "score": 1,
+                    "data_comentario": 1757841301.0
+                },
+                {
+                    "id": "naa8jy3",
+                    "conteudo": "How much of a difference will it make in gaming tho? Can I expect 10-15fps more than 660m🤔",
+                    "score": 1,
+                    "data_comentario": 1755972320.0
+                },
+                {
+                    "id": "naa8wvo",
+                    "conteudo": "Oh great am actually waiting for sales if the ryzen 7 variant goes below 50k imma grab it",
+                    "score": 1,
+                    "data_comentario": 1755972432.0
+                },
+                {
+                    "id": "nd8waww",
+                    "conteudo": "Around 45k, I am a little tentative about the NO OS thing, if I get windows installed by myself which I know how to... Will it function exact same way like the pre-installed one....you know like some drivers issue or components not responding or pre-installed softwares like lenovo vantage",
+                    "score": 1,
+                    "data_comentario": 1757417617.0
+                },
+                {
+                    "id": "nlusg3t",
+                    "conteudo": "Did you get the cashback immediately after delivery? Even i was told abt the cashback offer but still nothing credited even 20 after the delivery.",
+                    "score": 1,
+                    "data_comentario": 1761669751.0
+                },
+                {
+                    "id": "nkx2pxk",
+                    "conteudo": "How? From Amazon? And was it Ryzen 5 processor or Ryzen 7?",
+                    "score": 1,
+                    "data_comentario": 1761203875.0
+                },
+                {
+                    "id": "nluocv3",
+                    "conteudo": "Did you get the solution for your problem??",
+                    "score": 1,
+                    "data_comentario": 1761668562.0
+                },
+                {
+                    "id": "naa993l",
+                    "conteudo": "Try finding a youtube video maybe...",
+                    "score": 1,
+                    "data_comentario": 1755972539.0
+                },
+                {
+                    "id": "nlv230v",
+                    "conteudo": "You get a concession in credit card bill not the actual cashback I got 4000rs concession on my monthly bill",
+                    "score": 1,
+                    "data_comentario": 1761672490.0
+                },
+                {
+                    "id": "neivptl",
+                    "conteudo": "3.5 hours maximum if you run it on med brightness and energy saver considering you are using it from 80% charge if you use it from 100% charge then 4hours",
+                    "score": 1,
+                    "data_comentario": 1758030448.0
+                },
+                {
+                    "id": "ne7avxf",
+                    "conteudo": "I don't know if it's possible, I'm just wondering",
+                    "score": 1,
+                    "data_comentario": 1757871555.0
+                },
+                {
+                    "id": "nkx6ay3",
+                    "conteudo": "Ohh..ok..I was looking for the Ryzen 7. That's 54K.",
+                    "score": 1,
+                    "data_comentario": 1761206092.0
+                },
+                {
+                    "id": "nayrqjp",
+                    "conteudo": "Great, just dont forget to put the review 🙌",
+                    "score": 1,
+                    "data_comentario": 1756309267.0
+                },
+                {
+                    "id": "nhkb2fh",
+                    "conteudo": "There would be no major difference between the two bro, only while doing heavy tasks like gaming or editing the 7735 would perform a lil better than 7535",
+                    "score": 1,
+                    "data_comentario": 1759506185.0
+                },
+                {
+                    "id": "neqk44y",
+                    "conteudo": "For finance the main thing is single and multi core right.13620h outperforms 7735hs in both. So i was confused between the two because thinkbook has better igpu and display resolution and size",
+                    "score": 1,
+                    "data_comentario": 1758129279.0
+                },
+                {
+                    "id": "neu0hxh",
+                    "conteudo": "Yeah it is but I don't think so it underperforms though, I have been using Excel and tally excessively and it's working fine also yes there can be a sale during Diwali wait for it",
+                    "score": 1,
+                    "data_comentario": 1758169988.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Fault Detection",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": [
+                    "Update BIOS to A17 or later",
+                    "Install latest graphics drivers (Intel HD Graphics 620 or later)",
+                    "Monitor system temperatures and adjust settings as needed"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2025-08-22",
+                    "periodo_referencia": "2025-08"
+                }
+            }
+        },
+        {
+            "id": "3kk1cv",
+            "titulo": "[HELP] Updated Windows 10 yesterday, now computer gets stuck at startup on a blue screen with rotating dots",
+            "conteudo_post": "I'm so upset...here's what happened: After around a week of not checking for updates, I did it yesterday (I assume its the latest update), and found out it was scheduled to be installed today at 8.15am. So I continued using my computer...and for other reasons, I got a BSOD due to CRITICAL_PROCESS_DIED. Once I restarted....Windows updated me before login screen and left me with a blue screen with rotating dots. I waited around 5 minutes before restarting, thinking it might be stuck... and the same shit happens no matter how many times i restart. I tried waiting for a long time, but the laptop goes to sleep after a while. I think the longest I waited was around an hour, but if I want to wait longer, I probably have to be there to keep moving the touchpad in order for it to not sleep... I'm currently at work and left the laptop running at the screen with rotating dots, and I had something pressing on the left mouse button. Hopefully it solves it when I get back, but I doubt it will. Here's what I THINK is happening: The screen flickers black and return to the blue screen with rotating dots every minute or so, as if it is installing a graphics driver. But it doesn't make sense to flicker so many times. I think the installation keeps looping non-stop... as mentioned here: I have tried System Restore --> it failed, starting in safe mode --> same thing with the rotating circles again... I don't want to lose my files, what should my next step be? My laptop is a Dell Inspiron 15R 5520 with Intel HD 4000 w/ AMD Radeon HD 7670M... anyone else with this laptop can confirm that they do/don't have this problem please?",
+            "subreddit": "Windows10",
+            "flair": null,
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 5,
+            "categoria": "display",
+            "url": "https://reddit.com/r/Windows10/comments/3kk1cv/help_updated_windows_10_yesterday_now_computer/",
+            "data_post": 1441987280.0,
+            "comentarios": [
+                {
+                    "id": "cuy10ad",
+                    "conteudo": "If it is a problem with the drivers added during the update...wouldn't Resetting the system result in the same problem again as well? Is there a way to disable the update installation scheduled to run on startup?? or am i dead",
+                    "score": 1,
+                    "data_comentario": 1441987286.0
+                },
+                {
+                    "id": "cuzj9lm",
+                    "conteudo": "Update: After waiting a while at the rotating dots flashing screen. It had an error regarding LogonUI.exe. System restore says that it is unable to extract Windows.UI.Login.dll, Resetting and keep files failed at around 54%. Safemode or any other disable settings still end up at flashing startup screen. Did chkdsk at bootmenu, didnt work. Sfc failed giving some error about windows resource protection. I pretty much did everything. Then i tried renaming the two files causing it using cmd in boot menu: LogonUI.exe and Windows.UI.Login.dll Managed to rename them, tried system restore and reset, both failed. Normal boot to startup now gives Login ui initialize error popups. Then i decided to look at the files again in cmd at boot menu. Realized LogonUI.exe wasnt modified for a month but the dll was modified on the day of the problem, so i restored LogonUI.exe and keeping the dll as not named correctly. Finally it worked, sorta. Instead of a normal login screen, i now have a cmd window that asks me for my user and pass...a login screen never looked so beautiful before. Manage to login, encountered a bad lag and amd catalyst crashing. Immediately disabled the amd graphics card via device manager, and no more lag! 100% sure its the amd driver causing it. Maybe an interrupted update or just faulty driver update. Question is, what should i do next? Its been 5 mins since i was able to login. There was also a popup saying updates were installed and i checked and confirmed the windows.ui.login.dll is still renamed (doesn't exist) Im guessing i should delete the updates files at SoftwareDistribution/Download? Then reupdate via windows update? And then should i restore the dll and do sfc? Anything else i should do to prevent this from happening again? EDIT: apparently i don't have administrator permissions by logging in this way, so i can't rename the dll to its original name EDIT2: sfc also failed with windows resource protection error... how should I get a proper copy of the Windows.UI.Logon.dll? trying gonna try windows update now, and maybe restore the dll during reboot for update EDIT3: windows update gets stuck at 32% after reboot. once i reboot again, it gives the same flashing screen problem. so i guess im stuck like this until i get the win10 iso next week to recover system files, if that solves the problem at all",
+                    "score": 1,
+                    "data_comentario": 1442104400.0
+                },
+                {
+                    "id": "cuzlsr3",
+                    "conteudo": "I'll tell you what I'd do first mate, because I haven't seen you mention this anywhere: **Backup your files**. At this point I'm sure we could troubleshoot and help you solve this, but given how easy it is to reinstall 10, I'd just do that from a USB boot drive. It's going to be the least time consuming thing that results in the most stable system. Then I'd keep the system completely clean (don't put your files back yet) and get it fully updated to see if the problem replicates. If it does we'll move from there.",
+                    "score": 1,
+                    "data_comentario": 1442109277.0
+                },
+                {
+                    "id": "cuzmcz8",
+                    "conteudo": "First, backup your data. From this thread ( it seems you will be able to login normally after you disable the graphics driver, which you seem to have already done.",
+                    "score": 1,
+                    "data_comentario": 1442110338.0
+                },
+                {
+                    "id": "cuzmzkw",
+                    "conteudo": "thanks for the replies, i'm outstation and don't have a usb/external disk with me. but i'll get one soon and mount the win10 iso on it next week. this experience made me realize how important it is to have one on standby lol.",
+                    "score": 1,
+                    "data_comentario": 1442111569.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Troubleshooting",
+                "detected_fault": "Graphics driver issue",
+                "suggested_solution": "Disable graphics driver, Reinstall Windows 10, Update system",
+                "technical_severity": "High",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2015-09-11",
+                    "periodo_referencia": "2015-09"
+                }
+            }
+        },
+        {
+            "id": "2v2blt",
+            "titulo": "Laptop seems to be going bad.",
+            "conteudo_post": "Hey guys! I have had this Dell Inspiron 5520 for about 2 and a half years now and have used it for games, programming, and school work. Recently though it has been giving me problems and I am not quite sure why. Whenever I need to restart it, it takes about 5 minutes or more to shut down. Last night I was on it, then my screen went black and then kept flickering gray to black multiple times before stopping and staying black. After I got it back to show the desktop, there were no icons or anything on my task bar. They were because I could click them and they would work, but they didn't show an icon. After rebooting (took 10 minutes), it was back to normal. Another time I needed to close a task with the manager, but when I opened the manager it didn't show up and froze my computer. I had to hold the power button to shut it down that time. I haven't had any problems today, but if anyone might know a solution or suggestion please let me know! Thank you guys in advance!",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 5,
+            "categoria": "display",
+            "url": "https://reddit.com/r/techsupport/comments/2v2blt/laptop_seems_to_be_going_bad/",
+            "data_post": 1423284802.0,
+            "comentarios": [
+                {
+                    "id": "codu5ht",
+                    "conteudo": "I would suggest doing a factory restore for your laptop. Personally, my laptop needs to be restored probably once a year, and typically it clears up those types of issues, assuming that they are software only. **This is kind of a last resort thing, and if you choose to do this, make sure you back everything up, as it will clear everything off**. If you don't know how to do a factory restore on your laptop, I found [this link]( that may help. Like I said, this should be a last resort in case there is an easier fix. But it is an option, I guess.",
+                    "score": 1,
+                    "data_comentario": 1423285178.0
+                },
+                {
+                    "id": "codu5is",
+                    "conteudo": "There can be many things that can be causing this. * Ensure that your C drive has atleast 10-15% space free. * Run [HD Sentinel]( to check whether your HDD is failing. * If the drive is OK. From an elevated command prompt (run cmd as administrator) run sfc /scannow. This will check and correct any file system errors. * Check for malwares and viruses.",
+                    "score": 1,
+                    "data_comentario": 1423285180.0
+                },
+                {
+                    "id": "codu8px",
+                    "conteudo": "Your screen flickering could have been your display driver crashing. It being slow could be explorer crashing. Those thing can happen for a lot of reasons. Let's start with something simple and work our way to longer hardware checks. GO here and hit the run eset scanner link: Agree and run the prompts, choose to scan for unwanted programs. Wait for the results and don't worry too much about the adware/PUPs it finds. Look for anything labelled elsewise (trojans, malware, etc.) After it's done reboot. In the meantime you can download and make a bootable of this: This will let you check the hardware. You can boot to it, choose dos tools, pick hard disk tools, then run something like seagate seatools. That will check the hard drive. You can then reboot and have it run memtest. That will check your RAM.",
+                    "score": 1,
+                    "data_comentario": 1423285412.0
+                },
+                {
+                    "id": "coduoko",
+                    "conteudo": "I will factory restore, if I can't find any problem and it messes up again. Thank you for this and the link.",
+                    "score": 1,
+                    "data_comentario": 1423286614.0
+                },
+                {
+                    "id": "codum4n",
+                    "conteudo": "I ran HD Sentinel and my HDD is perfect health. I have 344 GB of 455 GB free so no problem there. I am running the scan now. I will let you know what I get.",
+                    "score": 1,
+                    "data_comentario": 1423286427.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Hardware Failure Analysis",
+                "detected_fault": [
+                    "Slow shutdown (5+ minutes)",
+                    "Screen flickering and blackouts",
+                    "Missing icons on the taskbar",
+                    "Freezing of applications"
+                ],
+                "suggested_solution": [
+                    "Continue running ESET Scanner to complete scan and identify potential malware or viruses.",
+                    "Perform factory restore if necessary.",
+                    "Monitor laptop's performance closely after factory restore."
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-02-25",
+                "ancoragem_temporal": {
+                    "data_post": "2015-02-07",
+                    "periodo_referencia": "2015-02"
+                }
+            }
+        },
+        {
+            "id": "3y0j3s",
+            "titulo": "14\"-15\" gaming laptop with centered touchpad and no numpad",
+            "conteudo_post": "I'm a bit new to the laptop-buying scene, so here's to hoping I'm not looking for something incredibly rare. My current laptop, for comparison, is a blue-screening Dell Inspiron 5520, so I'm sure almost anything would be an improvement. **LAPTOP QUESTIONNAIRE** * Country of purchase: USA * Budget range: ~$1100, but I vastly prefer something under $1000. * Purpose (netbook, ultraportable, mainstream, gaming, desktop replacement, etc.): school (nothing heavy-duty; schoolwork mostly involves MS Office and Adobe Reader) & gaming * Screen size preference: 14\"-15\"; can go higher, but see critical features below. * OS preference (Windows/Mac/Linux): Windows * Gaming requirements (list example games and desired fps/settings): If it can run Dragon Age: Inquisition on Medium settings smoothly, I'll be happy. If it can run on High, I'll be ecstatic. * Other performance requirements (video editing, CAD, etc.): n/a * Portability requirements (constantly carried, frequently moved, mostly stationary, etc.): Constantly carried and frequently moved. I don't mind something a little weightier, but it should be durable. * Brand preferences and reasons (already owned accessories, familiarity, business compatibility): Preferably not HP. * Any particular style that you like (examples are great): n/a **Which of the following qualities would you prefer? (Choose one or two)** * Long battery life -vs- Low weight -vs- High performance: High performance > long battery life > low weight. * Build quality -vs- Low price: Build quality (something that can last at least 3 years) > low price. **List any critical features:** So, here's the kicker: the touchpad **must** be more-or-less centered, which means there cannot be a numpad. If the touchpad is a tad shifted to the left, that's fine, but anything too extreme is out of the question. From what I can tell, this rules out most 15\" and larger gaming laptops. **Which features would you pay a premium for?** (eg. high resolution screen, great keyboard/touchpad/audio, low noise/heat): Low heat would be great, or just a computer that's easy to clean out. My current one is nearly impossible to open up and has a propensity to overheat even when running really old games. **Considering:** Alienware 15 R2 (higher end of my budget, is there a better bang for my buck out there?) and the Lenovo Y40-80. Thanks in advance for any suggestions!",
+            "subreddit": "SuggestALaptop",
+            "flair": "Valid Form",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 2,
+            "categoria": "stability",
+            "url": "https://reddit.com/r/SuggestALaptop/comments/3y0j3s/1415_gaming_laptop_with_centered_touchpad_and_no/",
+            "data_post": 1450909645.0,
+            "comentarios": [
+                {
+                    "id": "cy9oa9z",
+                    "conteudo": "What about [this](",
+                    "score": 1,
+                    "data_comentario": 1450926740.0
+                },
+                {
+                    "id": "cy9oajk",
+                    "conteudo": "**ASUS N550JK-DS71T Intel Core i7-4700HQ 2.4GHz 15.6\" Windows 8.1 64-bit...** |||| --:|:--|:-- Current|$829.90|Amazon (3rd Party New) High|$1,365.25|Amazon (3rd Party New) Low|$362.61|Amazon (3rd Party New) [Price History Chart and Sales Rank]( | [FAQ](",
+                    "score": 1,
+                    "data_comentario": 1450926756.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Replace Laptop due to BSOD caused by overheating issues",
+                "detected_fault": "Overheating issue causing BSOD",
+                "suggested_solution": "Upgrade cooling system or consider a new laptop with better cooling capabilities",
+                "technical_severity": "High",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2015-12-23",
+                    "periodo_referencia": "2015-12"
+                }
+            }
+        },
+        {
+            "id": "1i2v0n",
+            "titulo": "Random BSoDs Making My Laptop Unusable",
+            "conteudo_post": "I have a Dell Inspiron 5520 with Windows 7 that I bought a little under a year ago. In March of this year, I began having serious issues with blue screen errors randomly occurring during use. At first I thought it was a driver-related issue, as I would update the drivers and the problem would go away for 3-4 weeks, only to return. I'd update the drivers again, and the problem would once again go away. However, after updating my drivers last week, the problem hasn't gone away this time. I have had * BAD_POOL_HEADER * PFN_LIST_CORRUPT * MEMORY_MANAGEMENT errors. Although most recently, they have primarily been MEMORY_MANAGEMENT issues. A memory diagnostic run showed possible hardware problems, but I would like to cover all the possibilities before going into that mess. Any advice or possible paths to solutions would be greatly appreciated.",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 0.66,
+            "num_comments": 4,
+            "categoria": "stability",
+            "url": "https://reddit.com/r/techsupport/comments/1i2v0n/random_bsods_making_my_laptop_unusable/",
+            "data_post": 1373550397.0,
+            "comentarios": [
+                {
+                    "id": "cb0f0ii",
+                    "conteudo": "Those hardware diagnostics are rarely wrong. You have some bad RAM (luckily, RAM is one of the few things that should be easy to replace on a laptop). If you are insistent on looking for other problems: Run a full virus scan ([Malwarebytes]( from save mode. Run a system file check from elevated command prompt sfc /scannow Run the other hardware diagnostics (Dells should have one included, F12 at boot to get to the one time boot menu, system diagnostics).",
+                    "score": 1,
+                    "data_comentario": 1373550594.0
+                },
+                {
+                    "id": "cb0f2ay",
+                    "conteudo": "Could you upload minidumps from C:/Windows/Minidump folder to then post download link here?",
+                    "score": 1,
+                    "data_comentario": 1373550763.0
+                },
+                {
+                    "id": "cb0fhb5",
+                    "conteudo": "I'm trying, but it saying I don't have permissions to open the files, despite being an administrator... Any suggestions?",
+                    "score": 1,
+                    "data_comentario": 1373552068.0
+                },
+                {
+                    "id": "cb0fiag",
+                    "conteudo": "Copy them outside of Minidump folder (for example, to desktop) and upload from there.",
+                    "score": 1,
+                    "data_comentario": 1373552150.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Troubleshooting",
+                "detected_fault": "Random Blue Screen Errors (BSODs)",
+                "suggested_solution": [
+                    "Run a full virus scan using Malwarebytes from Safe Mode.",
+                    "Run a System File Checker (SFC) scan from an elevated command prompt: sfc /scannow",
+                    "Run the Dell system diagnostics tool to check for any hardware issues.",
+                    "Copy and upload minidumps from the C:\\Windows\\Minidump folder to a secure location."
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2013-07-11",
+                    "periodo_referencia": "2013-07"
+                }
+            }
+        },
+        {
+            "id": "2buuf4",
+            "titulo": "Using a TV as external monitor--keeps disconnecting, can't figure out why",
+            "conteudo_post": "I'm using a laptop: Dell Inspiron 5520, running Windows 7. I've been using an RCA LCD TV as a second monitor, attached with a VGA cable. Every so often, the display on my laptop screen and the TV will suddenly switch to black. The display fully switches back to my laptop screen, and my TV shows the no-input blue screen. There is no interruption of sound, and I don't lose any programs or open windows. The TV display will come back as suddenly as it left. It has happened when I walk away from the computer for a few minutes, so when it is sitting absolutely still. I have checked the connection on both ends, and replaced the cable. The second cable seemed to solve the problem entirely for about 2 weeks, but it's recently started happening again. (Neither cable was brand new.) This is more of an annoyance than a huge problem, but when it happens 2-3x a day, it starts driving me crazy. Any help is appreciated.",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "stability",
+            "url": "https://reddit.com/r/techsupport/comments/2buuf4/using_a_tv_as_external_monitorkeeps_disconnecting/",
+            "data_post": 1406467873.0,
+            "comentarios": [
+                {
+                    "id": "cj94bhu",
+                    "conteudo": "My first inclination would be to check both your video card drivers, and then your power options (in case your display is just falling asleep because it's set to something like 5 minutes)",
+                    "score": 1,
+                    "data_comentario": 1406469314.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Fault Detection and Resolution",
+                "detected_fault": "Intermittent display switching between laptop screen and external TV monitor",
+                "suggested_solution": [
+                    "Verify video card drivers are up-to-date and installed correctly.",
+                    "Check power options to ensure the display is not set to 'sleep' or 'low power' mode.",
+                    "Inspect VGA cable connections and consider replacing them if they show signs of wear or damage.",
+                    "Consider updating the BIOS to the latest version (A14)"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2014-07-27",
+                    "periodo_referencia": "2014-07"
+                }
+            }
+        },
+        {
+            "id": "1vo0xf",
+            "titulo": "[WINDOWS 8] System32/config/system corrupted.",
+            "conteudo_post": "My dell inspiron 5520 laptop which isn't even a year old started to go a blue screen from boot. It states file: \\windows\\system32\\config\\system is missing or corrupted associating it with an error code: 0xc000000f. It also states that I would need a repair disk or installation data on a usb to help fix. I have been searching online for answers but all I can find is solutions for XP and 7. I have gone into boot manager and run a diagnostic, everything else was fine except for Hard drive 0. Please, what do?",
+            "subreddit": "techsupport",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 0.67,
+            "num_comments": 1,
+            "categoria": "stability",
+            "url": "https://reddit.com/r/techsupport/comments/1vo0xf/windows_8_system32configsystem_corrupted/",
+            "data_post": 1390220410.0,
+            "comentarios": [
+                {
+                    "id": "ceu61xg",
+                    "conteudo": "What did the diagnostic say about hard drive 0? My guess is you need to contact dell for a replacement drive. If you're out of warranty then you might be on your own on that one. You will also need recovery media. Dell stopped providing DVD's some time ago, but you can still request them for about $20.",
+                    "score": 1,
+                    "data_comentario": 1390224315.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Dell Inspiron 5520",
+                "intent": "Troubleshooting",
+                "detected_fault": "System32/config/system corruption issue",
+                "suggested_solution": [
+                    "Request recovery media from Dell",
+                    "Create a bootable USB drive using the recovery media",
+                    "Perform a system restore or reinstall Windows 8"
+                ],
+                "technical_severity": "High",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2014-01-20",
+                    "periodo_referencia": "2014-01"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"summary": "razer blade 15 advanced", "intent": "Technical Analysis", "detected_fault": "Battery Drain Issue", "suggested_solution": "Disable USB Charge Function in chipset tab and set Legacy USB Support to AUTO", "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2019-02-12", "periodo_referencia": "2019-02"}}

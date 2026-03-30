@@ -1,0 +1,1 @@
+{"summary": "asus tuf gaming f16", "intent": "Hardware Analysis", "detected_fault": "Thermal Throttling", "suggested_solution": ["Upgrade storage or RAM", "Update BIOS and GPU drivers", "Remove bloatware"], "technical_severity": "Medium", "discussion_timeline": "2023-01-01 to 2023-12-31", "ancoragem_temporal": {"data_post": "2025-11-20", "periodo_referencia": "2025-11"}}

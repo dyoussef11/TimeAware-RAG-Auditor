@@ -1,0 +1,1 @@
+{"summary": "hp victus gaming", "intent": "diagnosis", "detected_fault": "stuttering/physics stalling in games", "suggested_solution": ["Upgrade CPU", "Monitor Software", "Task Manager", "Adjust Power Configuration"], "technical_severity": "High", "discussion_timeline": "2023-02-01 to 2023-03-31", "ancoragem_temporal": {"data_post": "2026-02-24", "periodo_referencia": "2026-02"}}

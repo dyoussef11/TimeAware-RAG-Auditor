@@ -1,0 +1,1 @@
+{"summary": "dell 5530 g15 gaming", "intent": "Troubleshooting", "detected_fault": "Screen Glitches", "suggested_solution": ["Update NVIDIA GeForce drivers", "Check for BIOS updates", "Monitor GPU temperatures"], "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-02-25", "ancoragem_temporal": {"data_post": "2025-12-07", "periodo_referencia": "2025-12"}}

@@ -1,0 +1,1 @@
+{"summary": "Lenovo Legion 5 15ACH6", "intent": "Analyze Hardware Issue", "detected_fault": "Thermal Throttling", "suggested_solution": "Upgrade RAM to 3200MHz or higher, Monitor System Temperature", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2022-12-05", "periodo_referencia": "2022-12"}}

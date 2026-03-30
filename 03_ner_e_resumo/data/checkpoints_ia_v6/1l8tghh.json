@@ -1,0 +1,1 @@
+{"summary": "hp victus ai", "intent": "Fault Detection", "detected_fault": "Thermal Throttling", "suggested_solution": "Update BIOS to latest version and ensure proper cooling system maintenance.", "technical_severity": "Medium", "discussion_timeline": "2023-01-01 to 2023-01-31", "ancoragem_temporal": {"data_post": "2025-06-11", "periodo_referencia": "2025-06"}}

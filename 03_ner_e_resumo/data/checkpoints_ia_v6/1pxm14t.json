@@ -1,0 +1,1 @@
+{"summary": "hp envy", "intent": "Hardware Analysis", "detected_fault": "Thermal Throttling", "suggested_solution": "Upgrade cooling system or consider alternative devices", "technical_severity": "Medium", "discussion_timeline": "2023-12-01 to 2024-03-31", "ancoragem_temporal": {"data_post": "2025-12-28", "periodo_referencia": "2025-12"}}

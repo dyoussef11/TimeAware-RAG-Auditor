@@ -1,0 +1,1 @@
+{"summary": "acer nitro 5", "intent": "fix", "detected_fault": "Undervolting", "suggested_solution": ["Panic BIOS Reinstall", "Hardware Diagnostic Test", "BIOS Update"], "technical_severity": "High", "discussion_timeline": "2023-02-20 to 2023-02-20", "ancoragem_temporal": {"data_post": "2024-06-04", "periodo_referencia": "2024-06"}}

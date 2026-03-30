@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/sohaibdevv/modern-laptop-prices-and-specifications?select=laptop_prices.csv

@@ -1,0 +1,1 @@
+{"summary": "msi delta 15 gaming", "intent": "fix thermal throttling issue", "detected_fault": "inadequate cooling system", "suggested_solution": ["external fan", "cooling deck or pad", "optimize system settings"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2023-02-15", "periodo_referencia": "2023-02"}}

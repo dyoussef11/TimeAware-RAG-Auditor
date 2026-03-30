@@ -1,0 +1,538 @@
+==== RELATÓRIO CIENTÍFICO RAG V3 - RASTREABILIDADE DE FONTES ====
+
+================================================================================
+ID TESTE: TC_STATIC_01
+QUERY: What is the maximum RAM capacity for the Acer Nitro 5 AN515-56?
+FONTES RECUPERADAS:
+- I need help (2026-01-25) [Fault: Thermal Throttling and RAM Overload]
+- Acer Nitro 5 AN515-58 cant limit battery to 80% anymore (2023-04-10) [Fault: Battery capacity limitation reduced to below 80%]
+- Acer Nitro 5 AN515-55-59KS BSOD after RAM upgrade (2023-09-24) [Fault: BSOD related to memory issues]
+- Acer Nitro 5 An5 53 Display Issues (2026-02-05) [Fault: Display Issue]
+- Acer 15.6 Nitro V 15 Gaming Laptop Ryzen 5 16/512GB RTX3050 or msi Thin 15 B13UC 2024 Gaming Laptop - 15.6" FHD IPS - 144Hz 8-CoreIntel i5-13420H - 16GB DDR4 512GB SSD - NVIDIA GeForce RTX 3050 4GB (2026-01-21) [Fault: Thermal Throttling due to lower power GPU in MSI Thin 15 B13UC 2024]
+- acer nitro 5 AN515-58 Overheat and FPS DROP (REALLY NEED HELP) (2025-07-23) [Fault: Thermal Throttling and Overheating]
+- Huge battery drain on Acer nitro 5 an515-58 (2023-11-24) [Fault: Battery Drain Issue]
+- Acer 15.6 Nitro V 15 Gaming Laptop Ryzen 5 16/512GB RTX3050 or msi Thin 15 B13UC 2024 Gaming Laptop - 15.6" FHD IPS - 144Hz 8-CoreIntel i5-13420H - 16GB DDR4 512GB SSD - NVIDIA GeForce RTX 3050 4GB (2026-01-21) [Fault: Thermal Throttling due to lower power GPU in MSI Thin 15 B13UC 2024]
+- Repasted laptop 12900H it can now sustain 90W! (2026-01-24) [Fault: Thermal Throttling (CPU)]
+- Acer Nitro AN515-57 (i5-11400H + RTX 3070) CPU always in high temp even after multiple repastes — need expert advice (2026-01-27) [Fault: Persistent High CPU Temperatures]
+--------------------------------------------------------------------------------
+RESPOSTA IA: The maximum RAM capacity for the Acer Nitro 5 AN515-56 is not specified in the provided technical context. While the Acer Nitro 5 series supports up to 64GB of RAM in certain configurations, the exact maximum capacity for the AN515-56 model is not documented in the available data. For accurate and verified specifications, refer to Acer's official product documentation or support resources for the AN515-56 model.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.12
+   💡 MOTIVO: The score is 0.12 because the retrieval context does not contain any statement that directly or accurately specifies the maximum RAM capacity for the Acer Nitro 5 AN515-56. While one statement mentions 'increase RAM to 32 GB or more' in the context of 'RAM Overload' and 'Thermal Throttling', it is tied to a general 'Acer Nitro 5' model and lacks confirmation of the AN515-56 variant or official capacity limits. Additionally, a statement about the Acer Nitro V 15 with 16GB DDR4 is irrelevant due to model mismatch. The context fails to provide verifiable, specific RAM capacity data for the AN515-56, and all other statements discuss overheating, battery, or general troubleshooting, not RAM capacity. Thus, the relevance is minimal and unsupported.
+
+[✅] Retrieval_Precision: 1.00
+   💡 MOTIVO: The score is 1.00 because the first node, which states that 'increase RAM to 32 GB or more' is a recommended action for the Acer Nitro 5 model, directly and explicitly addresses the query about maximum RAM capacity, aligning with the expected output. All subsequent nodes with 'no' verdicts either discuss unrelated topics like battery life, thermal throttling, or display issues, or reference different models or only specify 16GB without confirming maximum capacity or the AN515-56 variant. None of these 'no' verdicts provide relevant information about RAM capacity for the AN515-56, and thus they are correctly ranked below the first node. The contextual precision score remains at 1.00 because the only relevant node is ranked first, and all irrelevant nodes are properly ranked lower, with no conflicting or overlapping information that would reduce precision.
+
+[✅] Retrieval_Recall: 1.00
+   💡 MOTIVO: The score is 1.00 because the expected output's first sentence is fully supported by node 1 in retrieval context, which states 'Increase RAM to 32 GB or more', aligning with the specified maximum RAM capacity of 32GB DDR4 3200MHz in the Acer Nitro 5 AN515-56.
+
+[❌] Gen_Faithfulness: 0.75
+   💡 MOTIVO: The score is 0.75 because the actual output claims the Acer Nitro 5 AN515-56 supports up to 64GB of RAM, but the retrieval context does not mention any specific RAM capacity for this model nor confirm such a specification. While RAM-related issues are noted in other AN515 variants, there is no evidence in the context to support the claim about the AN515-56. This contradiction reduces faithfulness, as the output invents unsupported technical detail beyond the retrieval facts.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the answer directly addresses the input question with precise information about the Acer Nitro 5 AN515-56's maximum RAM capacity, and there are no irrelevant statements. The response is accurate, relevant, and fully aligned with the query.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The Actual Output correctly states that the maximum RAM capacity for the Acer Nitro 5 AN515-56 is not specified in the provided technical context. The Retrieval Context contains no direct specification of RAM capacity for the AN515-56 model, and all sources reference other models (e.g., AN515-55, AN515-58) or general Acer Nitro 5 series issues. The output does not invent or extrapolate specific RAM values (e.g., 64GB) without RAG evidence. The timeline of the sources (all from 2022–2026) is consistent with retrieval context, and no temporal anomaly is introduced. The response adheres to the evaluation steps by avoiding unsupported technical details and citing the lack of documentation in the sources.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output discusses the RAM capacity of the Acer Nitro 5 AN515-56, stating it is not specified in the provided context. However, no retrieval context title explicitly mentions the AN515-56 model or its RAM specifications. While SOURCE_2 references RAM upgrades in the AN515-55-59KS model and SOURCE_4 mentions 16GB DDR4 in a different model, none directly address the AN515-56 or its maximum RAM. The output does not introduce any new information not supported by the retrieval context titles. Therefore, the response avoids inventing specific RAM values and correctly references the lack of documentation. However, the absence of a matching title for AN515-56 in the Retrieval Context means any claim about RAM capacity for that model cannot be validated by a [RAG] tag. Since no [RAG] tag is present in the output, the evaluation steps are satisfied as there is no instance of a [RAG] tag being used to introduce unsupported information. The response is grounded in the available data and does not generalize or infer beyond the titles. Thus, it aligns with the evaluation steps.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_STATIC_02
+QUERY: How many M.2 SSD slots does the Acer Nitro 5 AN515-56 have?
+FONTES RECUPERADAS:
+- Acer Nitro 5 An5 53 Display Issues (2026-02-05) [Fault: Display Issue]
+- Acer 15.6 Nitro V 15 Gaming Laptop Ryzen 5 16/512GB RTX3050 or msi Thin 15 B13UC 2024 Gaming Laptop - 15.6" FHD IPS - 144Hz 8-CoreIntel i5-13420H - 16GB DDR4 512GB SSD - NVIDIA GeForce RTX 3050 4GB (2026-01-21) [Fault: Thermal Throttling due to lower power GPU in MSI Thin 15 B13UC 2024]
+- Acer Nitro 5 AN515-44 Freezing / stuttering (2023-07-09) [Fault: Freezing/Stuttering Issue]
+- Gigabyte M27U Monitor Review (27-inch 4K, 160Hz) (2025-08-25) [Fault: Thermal throttling, BSOD, or other issues]
+- Which of these custom laptops should I buy ? (2025-10-29) [Fault: Thermal Throttling due to inadequate cooling system design or insufficient heat dissipation mechanisms.]
+- Help Deciding on a Laptop 🙏 (2026-01-09) [Fault: ['Thermal Throttling', 'BSOD (Blue Screen of Death)']]
+- acer nitro 5 AN515-58 Overheat and FPS DROP (REALLY NEED HELP) (2025-07-23) [Fault: Thermal Throttling and Overheating]
+- Top 10 Best Budget Gaming Laptops of 2024 - Beginner's Guide (2024-03-03) [Fault: Inadequate cooling system leading to thermal throttling]
+- Undervolting bricked my Acer Nitro 5 AN515-57 11900H @2.5 16GB DDR4 RTX3060 LAPTOP. Can't get into BIOS or Safe Mode (2024-06-04) [Fault: Undervolting]
+- Laptop (2019 Acer Nitro 5 with RTZ 2060 and i5 9300h) inexplicably always BSOD’ing for no reason after I opened and closed it (2024-05-18) [Fault: Unknown]
+--------------------------------------------------------------------------------
+RESPOSTA IA: The provided context does not specify the number of M.2 SSD slots for the Acer Nitro 5 AN515-56 model. Without official technical documentation or product specifications for this exact SKU, the number of M.2 SSD slots cannot be determined from the available information.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.00
+   💡 MOTIVO: The score is 0.00 because the retrieval context does not mention the number of M.2 SSD slots in the Acer Nitro 5 AN515-56, nor does it provide any specific hardware configuration details about storage slots. All statements in the context either discuss software issues, thermal performance, or unrelated models (e.g., AN515-58, A515-56-347N), and none specify M.2 SSD slots or their count for the AN515-56 model. The statement 'Acer Nitro 5 AN515-56 has M.2 SSD slots' is not supported by the context, and the context contains no information about the physical storage configuration relevant to the query.
+
+[✅] Retrieval_Precision: 1.00
+   💡 MOTIVO: The score is 1.00 because the first node, which states 'This model features two M.2 SSD slots and one 2.5-inch SATA HDD bay for storage expansion', directly and accurately answers the input question about the Acer Nitro 5 AN515-56 and is ranked first, while all subsequent nodes with 'no' verdicts either discuss unrelated models, irrelevant topics like thermal throttling or BIOS issues, or fail to mention M.2 SSD slots or the AN515-56 specifically. The relevant node is clearly prioritized and all irrelevant nodes are properly ranked below it, ensuring maximum contextual precision.
+
+[❌] Retrieval_Recall: 0.00
+   💡 MOTIVO: The score is 0.00 because the expected output claims the presence of two M.2 SSD slots and one 2.5-inch SATA HDD bay for storage expansion, but no node in the retrieval context mentions any physical drive bays, SSD types, or storage expansion configurations. All retrieved nodes discuss thermal throttling, BIOS updates, or storage performance without specifying hardware bays or drive types, making the claim unsupported by any retrieval context (nodes SOURCE_0 through SOURCE_9).
+
+[✅] Gen_Faithfulness: 1.00
+   💡 MOTIVO: The score is 1.00 because there are no contradictions between the actual output and the retrieval context.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the answer directly addresses the input question with accurate, relevant information about the Acer Nitro 5 AN515-56's M.2 SSD slots, and there are no irrelevant statements. The response is precise, factual, and fully aligned with the query.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The input specifies the Acer Nitro 5 AN515-56, a specific SKU. The retrieval context contains no source that mentions M.2 SSD slots or storage configuration for this model. All sources discuss issues like thermal throttling, BIOS updates, or storage performance in general, but none provide technical details about M.2 SSD slots. The output correctly acknowledges the lack of information in the retrieval context without inventing specifications. There is no temporal anomaly, as all sources are dated from 2022 to 2026, but none contain data about the AN515-56's M.2 SSD slots. The output adheres to the evaluation steps by not asserting a specific hardware specification unsupported by retrieval evidence, thus fulfilling the requirements of Faithfulness and Recency Bias.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output does not contain any [RAG] tags, so there is no need to verify matches between titles in the Retrieval Context and [RAG] tags. The response correctly acknowledges the absence of information about M.2 SSD slots for the Acer Nitro 5 AN515-56 model, citing a lack of official documentation and specific technical details in the retrieval context. All content is consistent with the available context, and no [RAG] tag is used to introduce unsupported information. The evaluation steps are fully satisfied as no [RAG] tags exist to evaluate.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_TEMPORAL_01
+QUERY: Can I run the new RTX 5060 Ti drivers on my Acer Nitro 5 AN515-56?
+FONTES RECUPERADAS:
+- Acer nitro 5 2021 Ryzen 7 5800 H with RTX3050 TI. Slowing down to 400mhz without Thermal Throttling No PROCHOT. (2025-06-29) [Fault: CPU Clock Speed Drop]
+- What laptop to choose?? Acer Nitro V 16 AI RTX5060 vs ASUS TUF Gaming A15 RTX 4060 (2025-10-14) [Fault: Thermal throttling due to high TGP of RTX 5060 GPU]
+- 140 TGP RTX 4060 or 75W TGP RTX 5060 (2026-02-26) [Fault: Not specified]
+- Impressed by the Acer Nitro V16 (ANV16-42) battery life! (2026-01-20) [Fault: GPU driver incompatibility causing thermal throttling and BSODs]
+- A quick Review and myth busting along with a mini maintenance guide for the Nitro v15 (2025-10-09) [Fault: Graphics card driver conflict with IGPU drivers]
+- A quick Review and myth busting along with a mini maintenance guide for the Nitro v15 (2025-10-09) [Fault: Graphics card driver conflict with IGPU drivers]
+- Acer 15.6 Nitro V 15 Gaming Laptop Ryzen 5 16/512GB RTX3050 or msi Thin 15 B13UC 2024 Gaming Laptop - 15.6" FHD IPS - 144Hz 8-CoreIntel i5-13420H - 16GB DDR4 512GB SSD - NVIDIA GeForce RTX 3050 4GB (2026-01-21) [Fault: Thermal Throttling due to lower power GPU in MSI Thin 15 B13UC 2024]
+- 140 TGP RTX 4060 or 75W TGP RTX 5060 (2026-02-26) [Fault: Not specified]
+- A quick Review and myth busting along with a mini maintenance guide for the Nitro v15 (2025-10-09) [Fault: Graphics card driver conflict with IGPU drivers]
+- Undervolting bricked my Acer Nitro 5 AN515-57 11900H @2.5 16GB DDR4 RTX3060 LAPTOP. Can't get into BIOS or Safe Mode (2024-06-04) [Fault: Undervolting]
+--------------------------------------------------------------------------------
+RESPOSTA IA: No, you cannot run RTX 5060 Ti drivers on your Acer Nitro 5 AN515-56. As of December 2023, the RTX 5060 Ti is not a released or available GPU, and no drivers exist for it. Additionally, the Acer Nitro 5 AN515-56 is a model equipped with an older generation GPU (typically RTX 3050 or RTX 3060), and it does not support the RTX 5060 Ti. Attempting to install such drivers would result in system instability or failure to boot. For compatibility, ensure your laptop's GPU is supported by the driver version, and verify with official NVIDIA and Acer documentation.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.06
+   💡 MOTIVO: The score is 0.06 because the retrieval context mentions an RTX 4050 GPU and an Acer Aspire 5 model, which are inconsistent with the query about the RTX 5060 Ti on an Acer Nitro 5 AN515-56. The context does not reference the RTX 5060 Ti, the AN515-56 model, or driver compatibility, and instead discusses a workaround for IGPU driver conflicts on a different system. Multiple reasons state that the GPU model (RTX 3050 or RTX 4050) and device model (Acer Aspire 5) are irrelevant to the query about the RTX 5060 Ti on the AN515-56, and no statement confirms or denies compatibility of RTX 5060 Ti drivers on that specific laptop. The context fails to address the core question of driver compatibility for a future GPU on a specific device.
+
+[❌] Retrieval_Precision: 0.59
+   💡 MOTIVO: The score is 0.59 because the first node (rank 1) correctly identifies the Acer Nitro 5 AN515-56's actual GPU as an RTX 3050, which is directly relevant to the question about running RTX 5060 Ti drivers on such a device, and the sixth and seventh nodes (ranks 6 and 7) reinforce this by confirming the RTX 3050 configuration and its incompatibility with RTX 5060 Ti drivers. However, the second node (rank 2) and others (ranks 3, 4, 5, 8, 9, 10) contain 'no' verdicts that reference speculative or future-timeline content about the RTX 5060 Ti, which does not confirm its existence or availability as of late 2023, and thus fail to provide reliable evidence. These 'no' verdicts are not grounded in real-world product availability and are therefore irrelevant. The contextual precision is limited because the relevant nodes (which confirm hardware incompatibility) are not ranked higher than the speculative, future-timeline nodes that incorrectly suggest the RTX 5060 Ti exists or functions. As a result, the score is not higher because the retrieval contexts do not prioritize evidence of actual product availability over speculative future references, and the 'yes' nodes are not sufficiently ranked above the 'no' nodes that contain speculative or mismatched content.
+
+[❌] Retrieval_Recall: 0.50
+   💡 MOTIVO: The score is 0.50 because the second sentence of the expected output is supported by node 9 in retrieval context, which references the AN515-56's RTX 3050 or 3050 Ti GPU, while the first sentence—claiming the RTX 5060 Ti is unavailable in late 2023—is not supported by any retrieval node, as no source discusses the RTX 5060 Ti or its availability, and all references to RTX 5060 are future or hypothetical, with no timeline alignment to late 2023.
+
+[✅] Gen_Faithfulness: 1.00
+   💡 MOTIVO: The score is 1.00 because there are no contradictions between the actual output and the retrieval context.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the answer directly addresses the input question about running RTX 5060 Ti drivers on an Acer Nitro 5 AN515-56, and there are no irrelevant statements. The response is accurate, relevant, and fully aligned with the query, as the RTX 5060 Ti is a future GPU (post-2024 release), and the answer appropriately acknowledges the lack of available drivers for such a non-existent hardware, thus maintaining factual and contextual integrity without overreaching or inventing specifications.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The output correctly identifies that the RTX 5060 Ti is not a released GPU as of 2023, which aligns with the retrieval context's temporal boundaries. The retrieval context includes sources dated up to 2026, but all references to RTX 5060 Ti are speculative or hypothetical (e.g., in a comparison context), and no actual product release or driver exists for it. The output does not fabricate technical specifications (e.g., RAM, TGP, or GPU model) for the Acer Nitro 5 AN515-56, and it correctly notes the laptop's typical RTX 3050 or RTX 3060 GPU. The response avoids introducing a temporal anomaly by not claiming a released product. All claims are supported by the retrieval context, which contains no evidence of an RTX 5060 Ti being available or supported. Thus, the output adheres to the evaluation steps, particularly in avoiding speculative hardware specs and correctly citing the non-existence of the RTX 5060 Ti prior to 2024.
+
+[❌] Audit_Attribution: 0.40
+   💡 MOTIVO: The Actual Output mentions the RTX 5060 Ti, which is not a released GPU as of December 2023, and correctly states that no drivers exist for it. However, none of the titles in the Retrieval Context refer to the Acer Nitro 5 AN515-56 or any model with an RTX 5060 Ti. The only references to RTX 5060 are in titles discussing hypothetical or future GPUs (e.g., RTX 5060 in a comparison or TGP context), and these are not tied to the AN515-56 model. The output introduces the concept of RTX 5060 Ti drivers without any corresponding title in the Retrieval Context, violating Step 3 and Step 4. Thus, the response fails to ensure that every [RAG] tag is explicitly matched to a title in the Retrieval Context, and introduces unsupported information. The score is reduced accordingly.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_CONFLICT_01
+QUERY: Is there a firmware fix for the Nitro 5 AN515-56 screen flickering issue?
+FONTES RECUPERADAS:
+- Acer Nitro 5 (AN515-57) still flickering (2025-10-10) [Fault: GPU cable or motherboard issue]
+- Acer Nitro 5 AN515-58 Screen Flicker Issue (2024-07-01) [Fault: LCD Panel Damage or Display Driver Issues]
+- Acer Nitro 5 flickering , any idea how to fix this (2025-01-17) [Fault: Thermal Throttling or Display Cable Issues or Graphics Card Issues]
+- Acer Nitro 5 screen flickering (2023-06-20) [Fault: Screen flickering issue]
+- Laptop screen periodically flickering (2025-07-26) [Fault: Screen flickering issue]
+- Acer Nitro 5 An5 53 Display Issues (2026-02-05) [Fault: Display Issue]
+- Acer Nitro 5 (2020) - AN515-55 Screen Flickering (2021-01-26) [Fault: Screen Flickering]
+- acer nitro 5 AN515-58 Overheat and FPS DROP (REALLY NEED HELP) (2025-07-23) [Fault: Thermal Throttling and Overheating]
+- TV monitor connected to laptop through HDMI will not stop quickly flickering (2024-09-28) [Fault: HDMI flickering issue]
+- What's the issue? Is there a way to fix this? (2025-05-09) [Fault: GPU failure and display cable issues]
+--------------------------------------------------------------------------------
+RESPOSTA IA: There is no information in the provided context regarding a firmware fix for the Acer Nitro 5 AN515-56 screen flickering issue. The available records cover related models (such as AN515-57, AN515-58, AN515-55) and address issues through driver updates, thermal management, cable inspection, or hardware replacement, but none reference firmware updates for the AN515-56 variant. Due to the lack of specific data for this SKU, a firmware fix cannot be confirmed or recommended based on the provided technical context.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.11
+   💡 MOTIVO: The score is 0.11 because the retrieval context does not mention a firmware fix specifically for the Nitro 5 AN515-56 model, as stated in the reasons for irrelevancy: 'The retrieval context does not mention a firmware fix, screen flickering, or any fix related to firmware for the Nitro 5 AN515-56. The context states the fault is 'GPU failure and display cable issues', which are hardware issues, not firmware-related.' While the relevant statement in the context mentions 'Update drivers and firmware' in the resolution, it does not confirm the existence of a firmware fix for the AN515-56 model, nor does it specify that such a fix is available or applicable to this exact model, making the relevance extremely low.
+
+[✅] Retrieval_Precision: 0.80
+   💡 MOTIVO: The score is 0.80 because the first four nodes with 'yes' verdicts are ranked higher than the irrelevant nodes, with the first node explicitly addressing screen flickering in AN515-57 and recommending firmware updates, the third node generalizing a firmware update solution for Nitro 5, and the fourth and fifth nodes directly referencing firmware updates for screen flickering issues in 2023 and on gaming laptops respectively. The 'no' verdicts, such as the sixth node discussing AN5 model without specificity to AN515-56 and the seventh node addressing AN515-55 with no firmware fix, are less relevant and appear later in the ranking. The final three 'no' verdicts discuss unrelated models or issues, such as HDMI on a different laptop or GPU failure, which do not connect to the AN515-56 or firmware fix. Thus, the relevant nodes are prioritized, but the sixth, seventh, and eighth nodes contain partial or indirect relevance, preventing a perfect score of 1.0.
+
+[❌] Retrieval_Recall: 0.50
+   💡 MOTIVO: The score is 0.50 because the expected output references a specific 2024 firmware update (v1.12) and BIOS v1.12 or later, which is not supported by any node in retrieval context—despite general mentions of firmware updates, no node specifies a versioned update in 2024 or a v1.12 requirement. This absence directly contradicts the claim in sentence 1 of the expected output, which is tied to node(s) in retrieval context that only discuss HDMI or thermal issues without versioned or temporal specificity.
+
+[✅] Gen_Faithfulness: 1.00
+   💡 MOTIVO: The score is 1.00 because there are no contradictions between the actual output and the retrieval context.
+
+[✅] Gen_Answer_Rel: 0.80
+   💡 MOTIVO: The score is 0.80 because the answer correctly addresses the query about firmware fixes for the Nitro 5 AN515-56 screen flickering issue, but it fails to specifically mention any known firmware update or fix for that exact model. The mention of related models is irrelevant and reduces relevance, preventing a higher score. The answer is still partially useful by acknowledging the issue and directing toward potential solutions, but lacks direct, targeted information for the AN515-56 variant.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The output correctly identifies that there is no information in the retrieval context about a firmware fix for the Acer Nitro 5 AN515-56 screen flickering issue. It accurately notes that related models (AN515-57, AN515-58, AN515-55) are covered, and that resolutions involve driver updates, thermal management, or hardware replacement, not firmware fixes. The output does not introduce any specific hardware specifications (e.g., RAM, battery) or SKU that contradict the retrieval context. All technical details are directly supported by the sources, with no extrapolation from internal knowledge. The retrieval context includes a 2025 source (SOURCE_8) mentioning firmware updates for graphics card firmware in an HDMI flickering scenario, but this is not generalized to AN515-56 or screen flickering. There is no temporal anomaly, as all sources are within or after 2022 and do not reference a 2025+ product release for AN515-56. The response adheres strictly to the retrieval context and avoids fabricating or implying firmware fixes for the AN515-56 model.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output correctly states there is no information about a firmware fix for the Acer Nitro 5 AN515-56 screen flickering issue. It accurately notes that available records cover related models (AN515-57, AN515-58, AN515-55) and address issues through driver updates, thermal management, cable inspection, or hardware replacement, but none reference firmware updates for AN515-56. The output does not introduce any [RAG] tags, and all claims are supported by explicit matches to titles in the Retrieval Context. No [RAG] tag is used to introduce unsupported information. The reasoning is grounded in the provided context without generalizing or inventing specific firmware details. All references are consistent with the titles and their content in the Retrieval Context.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_SKU_01
+QUERY: Does my Acer Nitro 5 AN515-56 support Thunderbolt 4?
+FONTES RECUPERADAS:
+- Acer Nitro 5 An5 53 Display Issues (2026-02-05) [Fault: Display Issue]
+- undervolt help (2026-02-12) [Fault: Thermal Throttling and High CPU Temperatures (>90°C)]
+- Acer nitro 5 2021 Ryzen 7 5800 H with RTX3050 TI. Slowing down to 400mhz without Thermal Throttling No PROCHOT. (2025-06-29) [Fault: CPU Clock Speed Drop]
+- Black Friday Laptop Deals & Buying Guide: How to Choose a Good Laptop and Avoid Bad Deals (2025-11-04) [Fault: Inadequate cooling system]
+- Undervolting bricked my Acer Nitro 5 AN515-57 11900H @2.5 16GB DDR4 RTX3060 LAPTOP. Can't get into BIOS or Safe Mode (2024-06-04) [Fault: Undervolting]
+- 2025 Laptop Buying Guide India (2025-11-17) [Fault: Overheating due to inadequate ventilation and poor cooling system design.]
+- MSI GS66 Stealth not charging through Thinderbolt 4 Port (2025-06-22) [Fault: Thunderbolt 4 Charging Issue]
+- Acer Nitro 5 AN515-44 Freezing / stuttering (2023-07-09) [Fault: Freezing/Stuttering Issue]
+- acer nitro 5 AN515-58 Overheat and FPS DROP (REALLY NEED HELP) (2025-07-23) [Fault: Thermal Throttling and Overheating]
+- Please help in undervolting! i5-11400H acer nitro 5 an515-57 (2025-01-21) [Fault: Thermal throttling and high CPU temperatures]
+--------------------------------------------------------------------------------
+RESPOSTA IA: The provided context does not contain any information about the Acer Nitro 5 AN515-56 model's support for Thunderbolt 4. Therefore, based on the available data, it cannot be confirmed whether this specific SKU supports Thunderbolt 4. For accurate information, official Acer product specifications for the AN515-56 should be consulted.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.00
+   💡 MOTIVO: The score is 0.00 because the retrieval context does not contain any information about Thunderbolt 4 support in the Acer Nitro 5 AN515-56 model, nor does it mention the specific model or connectivity features relevant to the query. All statements in the context relate to display issues, thermal throttling, or other unrelated models like the Acer Aspire 5 14 or MSI GS66 Stealth, and none address Thunderbolt 4 support or specifications for the AN515-56. There are no relevant statements in the retrieval context to support the input question.
+
+[✅] Retrieval_Precision: 1.00
+   💡 MOTIVO: The score is 1.00 because the first node, which has a 'yes' verdict, directly addresses the query by explicitly stating that the AN515-56 does not support Thunderbolt 4 and clarifies that Thunderbolt 4 is typically found on higher-end models or specific AN515-57 variants, making it the only relevant context. All subsequent nodes with 'no' verdicts are irrelevant due to discussing unrelated topics like cooling, overheating, or undervolting on different model variants, and none of them mention Thunderbolt 4 or connectivity features for the AN515-56. The first node is ranked highest and provides a clear, accurate answer, while all other nodes are either about different models or unrelated issues, ensuring that relevant content is prioritized and irrelevant nodes are correctly ranked lower.
+
+[❌] Retrieval_Recall: 0.00
+   💡 MOTIVO: The score is 0.00 because the expected output claims USB 3.2 Gen 2 and Thunderbolt 4 connectivity on specific Acer AN515-56 and AN515-57 models, but no node in the retrieval context mentions these features or specifies them for any AN515 variant, including the Predator Helios series, which is referenced only in general terms and not linked to Thunderbolt 4 or Acer models. Source 6, which discusses Thunderbolt 4, does so in the context of MSI, not Acer, and no node references AN515-56 or AN515-57 with connectivity specs. Thus, the claims in sentence 1 of the expected output have no support in the retrieval context.
+
+[✅] Gen_Faithfulness: 1.00
+   💡 MOTIVO: The score is 1.00 because there are no contradictions between the actual output and the retrieval context.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the answer directly addresses the input question about Thunderbolt 4 support on the Acer Nitro 5 AN515-56, and there are no irrelevant statements. The response is accurate, relevant, and fully aligned with the query, with no deviations or unsupported claims. Given the absence of any irrelevant content, the score is at its maximum.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The input asks about Thunderbolt 4 support in the Acer Nitro 5 AN515-56, a specific SKU. The retrieval context contains no information about Thunderbolt 4 support in any Acer Nitro 5 model, including AN515-56. While SOURCE_6 mentions a Thunderbolt 4 charging issue on an MSI Stealth, it does not relate to Acer or the AN515-56. The actual output correctly states that the provided context lacks information on Thunderbolt 4 support, avoiding any speculative or extrapolated technical details. There is no temporal anomaly, as all sources are from 2023–2026, but none contain relevant specifications for Thunderbolt 4 in Acer Nitro 5 models. The output adheres to the retrieval context and does not invent hardware specs or introduce a SKU mismatch. Thus, it satisfies all evaluation steps, particularly Step 3 and 4, by not extrapolating from internal knowledge or presenting unsupported technical details.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output states that there is no information about the Acer Nitro 5 AN515-56 model's support for Thunderbolt 4 in the provided context. This is accurate because none of the Retrieval Context titles mention Thunderbolt 4 or the AN515-56 model specifically in relation to it. The context includes references to Thunderbolt 4 only in a different model (MSI GS66 Stealth) and does not contain any title that matches the AN515-56 model with Thunderbolt 4 support. Therefore, the output correctly avoids asserting unsupported information. No [RAG] tags are present, so the evaluation steps regarding [RAG] tag matching do not apply. The response adheres to the Retrieval Context by not introducing unsupported claims and correctly concludes that official specifications should be consulted. This demonstrates strong alignment with the evaluation steps, particularly in verifying that no [RAG] tag is used to introduce information not supported by a corresponding title.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_HYBRID_01
+QUERY: What is the benefit of the dual-fan design in the Nitro 5 AN515-56?
+FONTES RECUPERADAS:
+- Acer Nitro AN515-57 (i5-11400H + RTX 3070) CPU always in high temp even after multiple repastes — need expert advice (2026-01-27) [Fault: Persistent High CPU Temperatures]
+- Acer Nitro 5 AN515 gets very hot both GPU-wise and CPU-wise, what to do? (2025-06-18) [Fault: Overheating or motherboard issues]
+- acer nitro 5 AN515-58 Overheat and FPS DROP (REALLY NEED HELP) (2025-07-23) [Fault: Thermal Throttling and Overheating]
+- Acer nitro v16s Vs Asus Tuf f16 (2026-02-26) [Fault: Thermal Throttling due to inadequate cooling system]
+- Help me choose: Acer Nitro V16 AI vs Lenovo LOQ vs Legion 5i (Need good cooling for HOT weather [RTX 5050] (2026-01-19) [Fault: Thermal Throttling due to limited power limit for the GPU TDP (135W)]
+- Acer Nitro 5 AN515 gets very hot both GPU-wise and CPU-wise, what to do? (2025-06-18) [Fault: Overheating or motherboard issues]
+- Which of these custom laptops should I buy ? (2025-10-29) [Fault: Thermal Throttling due to inadequate cooling system design or insufficient heat dissipation mechanisms.]
+- Repasted laptop 12900H it can now sustain 90W! (2026-01-24) [Fault: Thermal Throttling (CPU)]
+- I need help (2026-01-25) [Fault: Thermal Throttling and RAM Overload]
+- Hi everyone, I’m currently choosing between two gaming laptops and I’d love to hear some real world feedback from people who have experience with them. Here are the two models I’m considering: (2025-07-15) [Fault: Thermal Throttling and Potential for BSOD due to Driver/BiOS Incompatibilities or Overheating Issues]
+--------------------------------------------------------------------------------
+RESPOSTA IA: The provided technical context does not contain specific information about the dual-fan design in the Acer Nitro 5 AN515-56 model. As a result, no accurate, SKU-specific benefit of the dual-fan design can be confirmed based on the available data. For precise details, official Acer product documentation or technical specifications for the AN515-56 variant are required.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.21
+   💡 MOTIVO: The score is 0.21 because the retrieval context fails to address the specific benefit of a dual-fan design in the Nitro 5 AN515-56, as explicitly stated in the reasons for irrelevancy: 'The retrieval context does not mention the Nitro 5 AN515-56 model or any specific benefit of a dual-fan design.' Despite the relevant statements like 'The dual-fan design in the Nitro 5 AN515-56 helps prevent thermal throttling and overheating,' these are overshadowed by the absence of direct linkage to the model and the lack of specificity in the context, making the overall relevance low.
+
+[❌] Retrieval_Precision: 0.17
+   💡 MOTIVO: The score is 0.17 because only the fifth node in the retrieval contexts, which states that 'Thermal Throttling due to inadequate cooling system design or insufficient heat dissipation mechanisms' is a problem and recommends upgrading the cooling system by replacing fans with more efficient ones or adding heat sinks, directly addresses the benefit of dual-fan design by linking improved cooling to enhanced airflow and heat dissipation. All other nodes, including the first through fourth, sixth through tenth, are 'no' verdicts that either fail to mention dual fans, discuss overheating generally, or imply cooling improvements without specifying dual-fan benefits. The 'reason' fields in these 'no' verdicts do not contain sufficient specificity to support the query, and the absence of any other 'yes' verdicts after the fifth node means only one relevant node exists. Given that the relevant node is ranked fifth, and all others are irrelevant, the contextual precision score remains low at 0.17, as the relevant information is not ranked higher than the majority of irrelevant nodes that contain only indirect or general references to cooling.
+
+[❌] Retrieval_Recall: 0.00
+   💡 MOTIVO: The score is 0.00 because the expected output claims specific hardware features—dual fans and quad exhaust ports—and their impact on heat dissipation efficiency—that are not supported by any node in retrieval context. Node(s) in retrieval context discuss general airflow improvements and cooling system upgrades but do not specify fan or exhaust port configurations or their effect on heat dissipation efficiency. The [INTERNAL] assertion about increased efficiency lacks retrieval-based evidence and is therefore not validated by any retrieval node.
+
+[✅] Gen_Faithfulness: 1.00
+   💡 MOTIVO: The score is 1.00 because there are no contradictions between the actual output and the retrieval context.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the answer directly addresses the input question by explaining the benefit of the dual-fan design in the Nitro 5 AN515-56, and there are no irrelevant statements. The response is focused, accurate, and fully relevant to the query, with no deviations or unsupported claims.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The input specifies the Acer Nitro 5 AN515-56, a specific SKU, and asks about the benefit of its dual-fan design. The retrieval context contains multiple entries discussing overheating and cooling issues in Acer Nitro 5 models, including AN515-57 and AN515-58, but none mention a dual-fan design or its specific benefits. The actual output correctly acknowledges the lack of specific information about the dual-fan design in the AN515-56 model, citing the absence of data in the retrieval context. It does not invent technical specifications or introduce a temporal anomaly. All claims are grounded in the available sources, which focus on thermal issues and cooling solutions rather than hardware design features. The output adheres to the evaluation steps by avoiding unsupported details and clearly stating the limitation of available data.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output does not contain any [RAG] tags, so there is no need to verify matches between titles in the Retrieval Context and [RAG] tags. The response correctly acknowledges the absence of specific information about the dual-fan design in the Acer Nitro 5 AN515-56 model, and appropriately cites the lack of available data. All claims are consistent with the Retrieval Context, which focuses on overheating, thermal throttling, and cooling system issues across various AN515 variants, but does not mention dual-fan design specifics. Since no [RAG] tags are present, the evaluation steps are satisfied by default. The response avoids inventing hardware specifications (e.g., RAM, battery) or introducing unsupported details. It adheres to the principle of not using [INTERNAL] memory to fabricate SKU-specific technical details. Thus, the response is faithful and aligned with the evaluation steps.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_TIME_01
+QUERY: What is the latest stable BIOS version for the Helios Neo 16 as of 2026?
+FONTES RECUPERADAS:
+- ACER PREDATOR HELIOS NEO 16 UNDERVOLT!!! (2025-06-05) [Fault: Undervoltage protection issue]
+- Acer Predator Helios Neo 16s Ai -Intel 9 with Rtx 5070ti (2026-02-26) [Fault: Thermal Throttling (high temperatures)]
+- ⚠️ Acer Predator Helios 16 (PH16-71 – BIOS v1.16) & Helios Neo 16 (PHN16-71 – BIOS v1.18) — Random Black Screens / Event 153 (nvlddmkm.sys) After BIOS Update — Users Please Report to Acer Support (2025-10-26) [Fault: A faulty NVIDIA driver or corrupted system files may be causing the display driver reset event (Event ID 153 - nvlddmkm.sys).]
+- Acer Predator Helios Neo 16 AI (2026-02-27) [Fault: Thermal Throttling: Possible due to high-performance components and limited cooling system.]
+- Predator Helios Neo 16 AI PHN16-73-934N Benchmarks (2025-12-09) [Fault: Thermal Throttling due to high GPU temperatures during intense gaming sessions.]
+- UPDATE: HELP ME FIX THIS | EVENT ID 153 NVLDDMKM REVIEW | Frequent Graphics Crashing on Acer Predator Helios Neo 16 | PHN 16-71 (2025-10-10) [Fault: Hardware failure (CPU and/or GPU issues)]
+- Predator Helios Neo 16 (i9-14900HX) – sudden BSOD storm (2025-12-14) [Fault: Recurring Blue Screen of Death (BSOD) crashes due to hardware issues]
+- ✨💻 🎉January's 2026 Buyers Guide For General Use Laptops, Budget Gaming, Video Editing, Professional Use & Students 🎉✨💻 (2026-01-12) [Fault: Thermal Throttling]
+- Update on Acer Predator Neo Helios 16s: how I unlocked 82 degrees and made my laptop quieter and cooler (2025-12-24) [Fault: Thermal Throttling due to inadequate cooling system]
+- Acer Predator Helios Neo 16 AI (2026-02-27) [Fault: Thermal Throttling: Possible due to high-performance components and limited cooling system.]
+--------------------------------------------------------------------------------
+RESPOSTA IA: The latest stable BIOS version for the Acer Predator Helios Neo 16 as of 2026 cannot be determined from the provided context. All referenced BIOS versions (e.g., v1.16, v1.18) are from 2023 and pertain to earlier model variants (PH16-71, PHN16-71). No data exists in the context regarding BIOS updates for the Helios Neo 16 as of 2026. Therefore, the information is not available or time-compatible with the reference date of 2026-03-26.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.11
+   💡 MOTIVO: The score is 0.11 because the retrieval context does not provide the latest stable BIOS version for the Helios Neo 16 as of 2026. While it mentions 'BIOS v1.18' for the Helios Neo 16, this version is from a 2023 timeline and does not indicate the current status as of 2026, and there is no evidence of any updates after 2023. The statement 'Update BIOS to latest version' is generic and does not specify the actual version number, and no RAG evidence confirms a version released after 2023. Thus, the context fails to address the specific query about the latest stable BIOS version as of 2026.
+
+[❌] Retrieval_Precision: 0.20
+   💡 MOTIVO: The score is 0.20 because the only relevant node is the fifth node in retrieval contexts, which specifies a BIOS update to version F12 in January 2026 and directly supports the expected output. This node is ranked fifth, meaning it is significantly lower in ranking than the first four nodes, all of which are 'no' verdicts and contain irrelevant information. The first node mentions BIOS v1.18 but does not confirm it is the latest version or date, the second node discusses thermal throttling without any version, the third node specifies BIOS v1.18 but does not state it is the latest or released in 2026, the fourth node references firmware updates without version details, and the eighth node mentions 'latest version' without specification. These 'no' verdicts are not only irrelevant but also contain no specific version or date, making them clearly less relevant. The contextual precision score is low because the only relevant node is far from the top, and no earlier nodes provide sufficient specificity or recency to justify a higher score. The fifth node, despite being the only one with a specific version and date, is not ranked first, which prevents a higher score from being achieved.
+
+[❌] Retrieval_Recall: 0.00
+   💡 MOTIVO: The score is 0.00 because the sentence in expected output claims a version 'v2.10' released in 'Feb 2026' that fixes freezing issues, but no node in retrieval context mentions version numbers, freezing issues, or a release in 2026. [SOURCE_7] references a BIOS update to F12 in January 2026, which is unrelated to version v2.10 or freezing fixes, and no node addresses the specific claim made in the sentence. Thus, the assertion has no grounding in the retrieval context.
+
+[❌] Gen_Faithfulness: 0.25
+   💡 MOTIVO: The score is 0.25 because three contradictions directly challenge the actual output's claim that BIOS update data is unavailable or time-incompatible with 2026. The retrieval context explicitly mentions BIOS version 1.18 and its relevance to the Helios Neo 16, including updates from 2023, which directly contradicts any assertion that no data exists or that the information is not time-compatible. The actual output falsely claims a lack of data, while the context provides specific, timely information about BIOS updates. Only a minimal portion of the output aligns with the context, making the faithfulness low.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the answer directly addresses the input question about the latest stable BIOS version for the Helios Neo 16 as of 2026, and there are no irrelevant statements. The response is accurate, focused, and fully relevant to the query, with no deviations or unsupported claims. Given the absence of any irrelevant content, the score is at its maximum and justified.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The output correctly acknowledges that no data exists in the retrieval context regarding BIOS updates for the Helios Neo 16 as of 2026, which aligns with the temporal boundaries of the sources. All referenced BIOS versions (e.g., v1.16, v1.18) are tied to earlier model variants (PH16-71, PHN16-71) and timelines from 2023, with no source mentioning a stable BIOS version for 2026. The output does not invent or extrapolate a specific BIOS version or timeline beyond the retrieval context. It also correctly identifies that the information is not available or time-compatible with the reference date. This satisfies all evaluation steps, particularly Step 3 (retrieval context support) and Step 4 (no temporal anomaly or SKU mismatch).
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output correctly identifies that no data exists in the Retrieval Context regarding BIOS updates for the Helios Neo 16 as of 2026. It explicitly references BIOS versions (v1.16, v1.18) from earlier model variants (PH16-71, PHN16-71) and notes the absence of information for the 2026 reference date. All [RAG] tags (if any) are not present in the output, so Step 1 is satisfied by absence. The output does not introduce any information not supported by the Retrieval Context, and all claims are grounded in the titles and content of the sources. The reasoning is accurate, specific, and directly tied to the available context without overreaching or inferring. There is no mismatch between [RAG] tags and titles because no such tags exist. The evaluation steps are fully met.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_TIME_SENS_01_ACTIVE
+QUERY: My Nitro 5 was purchased in Jan 2024. Is the standard 12-month warranty still active?
+FONTES RECUPERADAS:
+- Decisions... upgrading laptop after 8 YRs (2025-12-21) [Fault: None]
+- Laptop died after 5 years. (2026-01-10) [Fault: ['thermal throttling', 'BSOD']]
+- How long will acer nitro 5 last (2024-05-28) [Fault: Frequent crashing and blue screens when running graphics-intensive applications]
+- 2020 Acer Nitro 5 stuck on automatic repair after BSOD (2023-09-23) [Fault: Thermal Throttling and BSODs]
+- My acer experience (2024-03-13) [Fault: Thermal Throttling and Screen Flickering]
+- Acer Nitro V ANV16-42 crashes on battery unless on old NVIDIA driver (2026-01-13) [Fault: Kernel Mode Heap Corruption BSOD]
+- Issues With Laptop Acer Nitro 5 (2025-05-20) [Fault: thermal throttling and slow performance]
+- ✨💻 ❄️ [December's Buyers Guide] ----> Deals on General Use Laptops, Budget Gaming Laptops, Video Editing, Professional Use & Student Laptops In The List Below. ❄️✨💻 (2025-12-11) [Fault: Random rebooting and system repair issues]
+- My Review of the Acer Nitro 16 [AN16-41] bought from Flipkart. (2024-08-24) [Fault: None]
+- What on earth exactly is this? (Acer Nitro 5 165 Hz QHD Display) (2023-11-25) [Fault: Screen Defect (IPS Glow/Backlight Bleed)]
+--------------------------------------------------------------------------------
+RESPOSTA IA: No, the standard 12-month warranty is no longer active. Since your Acer Nitro 5 was purchased in January 2024, the warranty period ended in January 2025. As of August 2024, the warranty has expired. For post-warranty support, you may need to contact Acer directly or consider purchasing an extended support plan.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.24
+   💡 MOTIVO: The score is 0.24 because the retrieval context mentions the Acer Nitro 5 model and a 2023 purchase timeline, but does not address the validity of a 12-month warranty for a Nitro 5 purchased in January 2024. The statement 'purchase a warranty or extended support plan from the manufacturer' is irrelevant to the input question about whether the standard 12-month warranty is still active, as it recommends action rather than confirming validity. The context also references a 2022-2023 timeline and a 'critical' fault, which does not establish warranty status or provide any information about the 12-month warranty's current validity for a 2024 purchase. None of the relevant statements confirm or deny the active status of the standard warranty, and the absence of any warranty-specific information directly undermines the contextual relevancy.
+
+[✅] Retrieval_Precision: 1.00
+   💡 MOTIVO: The score is 1.00 because the first node, which is ranked first in retrieval contexts, directly answers the question with a specific confirmation that the warranty is active until January 2025, making it highly relevant. The subsequent 'no' verdicts, such as the second node stating general hardware knowledge without specifying the Nitro 5 or current status, are not directly useful to confirm the active status of the warranty. The later 'no' verdicts discuss unrelated topics like thermal issues, driver updates, or model-specific reviews that do not address warranty validity at all. Since the only relevant node is ranked first and all irrelevant nodes are ranked lower, the contextual precision is maximized at 1.00.
+
+[❌] Retrieval_Recall: 0.00
+   💡 MOTIVO: The score is 0.00 because no node in retrieval context (1st to 9th) contains information about warranty expiration dates or manufacturer warranty durations tied to invoice dates, and the [RAG] claim of a warranty until January 2025 is not supported by any retrieval node. The [INTERNAL] general knowledge about 12-month warranties is not derived from any specific retrieval context node and thus cannot be attributed to any retrieval context source.
+
+[✅] Gen_Faithfulness: 1.00
+   💡 MOTIVO: The score is 1.00 because there are no contradictions between the actual output and the retrieval context.
+
+[⚠️ ERROR] Gen_Answer_Rel: 1 validation error for AnswerRelevancyVerdict
+verdict
+  Field required [type=missing, input_value={'ver_': 'yes'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+
+[❌] Audit_Zero_Trust: 0.40
+   💡 MOTIVO: The output correctly addresses the warranty status based on the input purchase date of January 2024, stating the warranty ends in January 2025 and has expired by August 2024. This aligns with a standard 12-month warranty period. However, the retrieval context contains no source that explicitly mentions warranty duration or expiration timelines for the Acer Nitro 5. All sources discuss technical issues like thermal throttling, BSODs, or driver updates, not warranty policies. The output introduces a specific timeline (warranty ending in January 2025) and a claim about expiration in August 2024 without any supporting evidence from the retrieval context. This constitutes an extrapolation from internal knowledge rather than being directly supported by RAG sources, violating Step 3 of the evaluation steps. Therefore, the response fails to meet the requirement of being directly supported by retrieved sources.
+
+[❌] Audit_Attribution: 0.00
+   💡 MOTIVO: The Actual Output contains no [RAG] tags, so there is no need to verify matches against the Retrieval Context titles. The response discusses warranty expiration based on a purchase date in January 2024, but none of the Retrieval Context entries provide information about warranty periods or their expiration dates. All titles in the Retrieval Context focus on technical issues like thermal throttling, BSODs, or driver updates, not warranty timelines. Therefore, the output introduces information (warranty expiration in January 2025) not supported by any title in the Retrieval Context, violating Step 4. This constitutes a failure to ensure that [RAG] tags (or their absence) are aligned with actual content in the Retrieval Context, resulting in a lack of faithfulness to the provided evidence.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_TIME_SENS_01_EXPIRED
+QUERY: My Nitro 5 was purchased in Jan 2024. Is the standard 12-month warranty still active?
+FONTES RECUPERADAS:
+- Decisions... upgrading laptop after 8 YRs (2025-12-21) [Fault: None]
+- Laptop died after 5 years. (2026-01-10) [Fault: ['thermal throttling', 'BSOD']]
+- Acer Nitro V ANV16-42 crashes on battery unless on old NVIDIA driver (2026-01-13) [Fault: Kernel Mode Heap Corruption BSOD]
+- ✨💻 ❄️ [December's Buyers Guide] ----> Deals on General Use Laptops, Budget Gaming Laptops, Video Editing, Professional Use & Student Laptops In The List Below. ❄️✨💻 (2025-12-11) [Fault: Random rebooting and system repair issues]
+- Acer Nitro 5 An5 53 Display Issues (2026-02-05) [Fault: Display Issue]
+- Acer Nitro 5 GPU stuck at low wattage (2025-11-19) [Fault: GPU stuck at low wattage]
+- Issues With Laptop Acer Nitro 5 (2025-05-20) [Fault: thermal throttling and slow performance]
+- Received the IdeaPad pro 5 today from flipkart but warranty left is only 6 months, is this a issue? (2026-01-23) [Fault: None]
+- ✅Best 1440p Gaming Monitors of 2025 (So Far) for the MONTHLY UPDATED (2025-10-27) [Fault: None]
+- Battery problem please help (2026-01-24) [Fault: Battery health issue with sudden shutdowns at low battery levels]
+--------------------------------------------------------------------------------
+RESPOSTA IA: The provided context does not contain explicit information about the standard warranty duration for an Acer Nitro 5 purchased in January 2024. While general warranty practices and repair recommendations are discussed for various Nitro 5 models, no entry specifies the warranty period for a 2024 model. Therefore, based on the available data, the standard 12-month warranty cannot be confirmed. For definitive information, you should consult the original purchase receipt, the manufacturer’s official warranty policy, or contact Acer customer support directly.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.16
+   💡 MOTIVO: The score is 0.16 because the retrieval context contains no information about the standard 12-month warranty status for an Acer Nitro 5 purchased in January 2024, as explicitly stated in the reasons for irrelevancy: 'The retrieval context contains no information about warranty status, ownership duration, or validity periods for the Acer Nitro 5.' While the context mentions 'MODEL: acer nitro 5' and 'SUMMARY: acer nitro 5', these only identify the model and do not address warranty validity, duration, or status after a January 2024 purchase. The statement 'purchase a warranty or extended support plan' is a recommendation, not a confirmation of the standard 12-month warranty being active, and is not supported by any evidence regarding its current validity or timeline.
+
+[✅] Retrieval_Precision: 1.00
+   💡 MOTIVO: The score is 1.00 because the first node (rank 1) provides a direct and accurate answer to the query by stating that the standard warranty expired in January 2025, which clearly indicates that as of January 2024, the 12-month warranty was still active. The second node (rank 2) offers supplementary guidance about extended warranty plans, which is relevant even if it does not confirm the status of the standard warranty. Both relevant nodes are ranked higher than the irrelevant nodes, which correctly address or relate to the query about warranty status. The 'no' verdicts, such as those in nodes 3 through 10, fail to mention warranty timelines or expiration dates for Acer Nitro 5 models or any relevant warranty information, making them irrelevant. Thus, the ranking ensures that only the most pertinent information is presented, and no irrelevant content is elevated above the relevant nodes, justifying the full contextual precision score.
+
+[❌] Retrieval_Recall: 0.50
+   💡 MOTIVO: The score is 0.50 because the expected output claims a warranty expiration in January 2025, which is not supported by any node in retrieval context, while the suggestion to check extended warranty plans is indirectly supported by SOURCE_0. Node 7 in retrieval context discusses a Lenovo device with a 6-month warranty and does not relate to the Acer Nitro 5 or a January 2025 expiration, making the specific claim unsupported and thus reducing the contextual recall.
+
+[✅] Gen_Faithfulness: 0.80
+   💡 MOTIVO: The score is 1.0 because there are no contradictions between the actual output and the retrieval context.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the answer directly addresses the input question about the warranty status of the Nitro 5, which was purchased in January 2024, and correctly states that the standard 12-month warranty is still active. There are no irrelevant statements, and the response is fully aligned with the query. The information provided is consistent with typical warranty policies for devices of this class, and no specific internal or RAG data contradicts this. Thus, the response is both relevant and accurate, achieving the maximum relevancy score.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The input specifies a Nitro 5 purchased in January 2024, and the actual output correctly acknowledges that the retrieval context does not contain explicit information about warranty duration for that model or timeframe. The output avoids inventing specific warranty details (e.g., 12-month) or technical specs, and instead recommends consulting official sources. All retrieved sources are from 2022–2026, but none mention warranty periods for the Nitro 5, and no source provides a direct statement about a 12-month standard warranty. The output does not introduce temporal anomalies or SKU mismatches, and all claims are grounded in the absence of evidence in the retrieval context. This aligns fully with the evaluation steps, particularly Steps 2, 3, and 4, which require avoidance of unsupported specifications and reliance on retrieved evidence.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output does not contain any [RAG] tags, so the evaluation steps regarding [RAG] tag matching do not apply. The response correctly acknowledges the absence of explicit information about warranty duration for an Acer Nitro 5 purchased in January 2024, and avoids inventing specific warranty periods. It references general warranty practices and directs users to official sources, which aligns with the Retrieval Context's content about thermal issues, display problems, and driver updates—none of which mention warranty duration. Since no [RAG] tags are present, there is no need to verify title matches or introduce unsupported information. The response is factually cautious and consistent with the available context, satisfying the evaluation criteria without violating any rules.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_RECENCY_CONFLICT_01
+QUERY: What is the maximum RAM for the Nitro 5 AN515-56?
+FONTES RECUPERADAS:
+- Acer Nitro 5 AN515-55-59KS BSOD after RAM upgrade (2023-09-24) [Fault: BSOD related to memory issues]
+- Acer Nitro 5 AN515-58 cant limit battery to 80% anymore (2023-04-10) [Fault: Battery capacity limitation reduced to below 80%]
+- I need help (2026-01-25) [Fault: Thermal Throttling and RAM Overload]
+- Acer Nitro 5 An5 53 Display Issues (2026-02-05) [Fault: Display Issue]
+- acer nitro 5 AN515-58 Overheat and FPS DROP (REALLY NEED HELP) (2025-07-23) [Fault: Thermal Throttling and Overheating]
+- Acer Nitro AN515-57 (i5-11400H + RTX 3070) CPU always in high temp even after multiple repastes — need expert advice (2026-01-27) [Fault: Persistent High CPU Temperatures]
+- Acer 15.6 Nitro V 15 Gaming Laptop Ryzen 5 16/512GB RTX3050 or msi Thin 15 B13UC 2024 Gaming Laptop - 15.6" FHD IPS - 144Hz 8-CoreIntel i5-13420H - 16GB DDR4 512GB SSD - NVIDIA GeForce RTX 3050 4GB (2026-01-21) [Fault: Thermal Throttling due to lower power GPU in MSI Thin 15 B13UC 2024]
+- Impressed by the Acer Nitro V16 (ANV16-42) battery life! (2026-01-20) [Fault: GPU driver incompatibility causing thermal throttling and BSODs]
+- Acer Nitro V16s (ANV16S-71 / RTX 5050) battery not charging / draining while gaming plugged in — normal? (2026-01-24) [Fault: Insufficient power supply from charger]
+- Repasted laptop 12900H it can now sustain 90W! (2026-01-24) [Fault: Thermal Throttling (CPU)]
+--------------------------------------------------------------------------------
+RESPOSTA IA: The maximum RAM capacity for the Acer Nitro 5 AN515-56 is not specified in the provided technical context. While other AN515 models in the series support up to 64GB of RAM in dual-channel configurations, the AN515-56 variant does not have documented RAM specifications in the available data. For accurate and verified information, refer to Acer's official product specifications for the AN515-56 model.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.18
+   💡 MOTIVO: The score is 0.18 because the retrieval context fails to address the specific query about the maximum RAM for the Nitro 5 AN515-56; instead, it mentions RAM overload and recommends increasing RAM to 32 GB or more in a troubleshooting scenario involving the AN515-55-59KS model, which differs from the input model. The statement 'Increase RAM to 32 GB or more' is not a specification of the maximum RAM capacity for the AN515-56, and no official RAM limit is provided. Additionally, the context includes irrelevant details about thermal throttling, display issues, and other models (e.g., AN515-58, ANV16-42), which do not support the query. The only relevant statement is about RAM upgrade recommendations, but it lacks model specificity and official capacity data, making it insufficient for answering the input.
+
+[❌] Retrieval_Precision: 0.00
+   💡 MOTIVO: The score is 0.00 because all nodes in retrieval contexts have a 'no' verdict, and none of the nodes provide a direct, specific, or confirmed maximum RAM capacity for the Nitro 5 AN515-56. The third node mentions 'Increase RAM to 32 GB or more' as a resolution, which implies a potential capacity but lacks confirmation of 64GB or DDR4 specifications, and its reasoning is insufficient to justify a positive verdict. All other nodes either discuss unrelated issues like battery, thermal throttling, or GPU drivers, or reference different models. Since no node contains a relevant, specific, or verifiable statement about the maximum RAM capacity of the AN515-56, and all are ranked before any relevant content, the contextual precision score remains at 0.00. There is no node that directly or sufficiently answers the query about maximum RAM capacity, so no relevant node is ranked higher than the irrelevant ones. Thus, the score cannot be higher.
+
+[❌] Retrieval_Recall: 0.50
+   💡 MOTIVO: The score is 0.50 because the expected output claims 64GB DDR4 RAM support for the Nitro 5 AN515-56 following BIOS update v2.04 in 2024, which is not supported by any node in retrieval context—SOURCE_2 only mentions increasing RAM to 32GB or more without specifying DDR4, 64GB, or BIOS version details. While SOURCE_2 does touch on dual-channel stability and identical modules, this does not validate the specific RAM capacity or update timeline stated in the output. Thus, the claim lacks direct evidence in the retrieval context, resulting in partial recall.
+
+[❌] Gen_Faithfulness: 0.75
+   💡 MOTIVO: The score is 0.75 because the retrieval context does not support the claim that any AN515 model supports up to 64GB of RAM in dual-channel configurations, and the contradiction directly arises from the absence of such information in the provided data. While the context mentions RAM issues and resolutions for specific AN515 variants, it does not specify RAM capacity for any model, making the assertion about 64GB unsupported and thus contradictory to the retrieval context.
+
+[✅] Gen_Answer_Rel: 0.75
+   💡 MOTIVO: The score is 0.75 because the answer correctly addresses the Nitro 5 AN515-56 model's RAM capacity but includes an irrelevant comparison to other AN515 models with up to 64GB RAM, which diverts from the specific query about the AN515-56. This off-topic detail reduces relevance, preventing a higher score, even though the core information is accurate and targeted.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The output correctly acknowledges that the maximum RAM for the Acer Nitro 5 AN515-56 is not specified in the retrieval context, avoiding any false specification of RAM capacity. The retrieval context includes only general references to Acer Nitro 5 models and troubleshooting issues, with no explicit technical details about RAM capacity for the AN515-56 variant. The output does not introduce any temporal anomaly (all sources are from 2023–2026, but the timeline is consistent with the training cutoff and does not imply a 2025+ product release). It also does not invent specific RAM values (e.g., 64GB) for the AN515-56, which would violate the VERACITY LOCK rule. All claims are grounded in the available sources or explicitly stated as lacking documentation. Thus, the response adheres to all evaluation steps, particularly Steps 2, 3, and 4, by avoiding unsupported technical details and correctly identifying the absence of RAM data in the retrieval context.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output discusses RAM capacity for the Acer Nitro 5 AN515-56, stating it is not specified in the provided context. However, none of the Retrieval Context titles mention RAM capacity explicitly or specify any model variant's RAM specs. The only reference to RAM is in SOURCE_2, which mentions increasing RAM to 32GB or more in a troubleshooting context, but does not confirm the AN515-56 model's supported capacity. The output does not introduce any RAM specification not supported by a corresponding title. Therefore, the response correctly avoids inventing specific RAM values and instead acknowledges the lack of data. All claims are grounded in the Retrieval Context, with no [RAG] tags present, so there is no need to verify title matching. The response adheres to the evaluation steps by not introducing unsupported technical details and correctly refrains from asserting specific RAM capacities without evidence.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_FUTURE_ANOMALY_01
+QUERY: Should I upgrade my Nitro 5 to the new NVIDIA RTX 6080 GPU?
+FONTES RECUPERADAS:
+- Gigabyte M27U Monitor Review (27-inch 4K, 160Hz) (2025-08-25) [Fault: Thermal throttling, BSOD, or other issues]
+- A quick Review and myth busting along with a mini maintenance guide for the Nitro v15 (2025-10-09) [Fault: Graphics card driver conflict with IGPU drivers]
+- Is it worth it to update from Legion 5 Pro R7 5800H RTX 3070 to Legion Slim 5 R7 8845HS RTX 4060? (2025-02-07) [Fault: Thermal throttling and BSOD crashes due to driver issues]
+- A quick Review and myth busting along with a mini maintenance guide for the Nitro v15 (2025-10-09) [Fault: Graphics card driver conflict with IGPU drivers]
+- A quick Review and myth busting along with a mini maintenance guide for the Nitro v15 (2025-10-09) [Fault: Graphics card driver conflict with IGPU drivers]
+- Acer 15.6 Nitro V 15 Gaming Laptop Ryzen 5 16/512GB RTX3050 or msi Thin 15 B13UC 2024 Gaming Laptop - 15.6" FHD IPS - 144Hz 8-CoreIntel i5-13420H - 16GB DDR4 512GB SSD - NVIDIA GeForce RTX 3050 4GB (2026-01-21) [Fault: Thermal Throttling due to lower power GPU in MSI Thin 15 B13UC 2024]
+- Acer nitro 5 2021 Ryzen 7 5800 H with RTX3050 TI. Slowing down to 400mhz without Thermal Throttling No PROCHOT. (2025-06-29) [Fault: CPU Clock Speed Drop]
+- Sudden FPS drops on Acer Nitro 5 (i7-11800H, RTX 3060) : was fine before, now unplayable (2026-01-17) [Fault: thermal throttling]
+- My Acer Nitro 5 problem. (2025-10-27) [Fault: LCD Backlight or Graphics Card Issue]
+- Sudden FPS drops on Acer Nitro 5 (i7-11800H, RTX 3060) : was fine before, now unplayable (2026-01-17) [Fault: GPU Overheating or Insufficient RAM may be causing the FPS drops due to the RTX 3060 GPU overheating or low memory resources.]
+--------------------------------------------------------------------------------
+RESPOSTA IA: No, you should not upgrade your Acer Nitro 5 to an NVIDIA RTX 6080 GPU. As of 2026-03-24, there is no officially released or known NVIDIA GPU model named "RTX 6080." NVIDIA has not announced or released such a product, and it does not exist in any public product lineup. The RTX 6080 is not a valid SKU, and attempting to upgrade to it would be based on a fictional or non-existent hardware component. For your Acer Nitro 5, consider instead upgrading to a known, compatible, and available GPU such as the RTX 4060 or RTX 4070, depending on your performance needs and thermal constraints. Always verify compatibility with your laptop’s specifications before any upgrade.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.30
+   💡 MOTIVO: The score is 0.30 because the retrieval context does not mention any GPU model named 'NVIDIA RTX 6080', which does not exist in any known NVIDIA product line as of 2025, and the context only discusses existing GPUs like RTX 3050 or RTX 3060 in Acer Nitro 5 models, making it irrelevant to the hypothetical upgrade to a non-existent RTX 6080. The relevant statements about upgrading to a higher GPU or addressing FPS drops due to thermal throttling or driver issues do not validate the existence or feasibility of an RTX 6080, thus failing to address the input's core question.
+
+[❌] Retrieval_Precision: 0.00
+   💡 MOTIVO: The score is 0.00 because all nodes in retrieval contexts have a 'no' verdict, and none of the nodes provide information about the existence or feasibility of an RTX 6080 GPU in an Acer Nitro 5. Specifically, the first node states that the context does not address an RTX 6080 or the Nitro 5, the second node notes the absence of RTX 6080 in any model, and the subsequent nodes all discuss RTX 3050, RTX 3060, or RTX 4050/4060 in other laptops or with software issues, without validating or refuting the existence of an RTX 6080. Since no node is relevant to the query about an RTX 6080, and all nodes are irrelevant, the contextual precision score remains at 0.00. There are no 'yes' verdicts to elevate the score, and thus no relevant nodes are ranked higher than irrelevant ones.
+
+[❌] Retrieval_Recall: 0.33
+   💡 MOTIVO: The score is 0.33 because the expected output claims the existence of an RTX 6080 and references an RTX 50-series, neither of which is supported by any node in retrieval context (nodes 1 to 9), and no retrieval node mentions future GPU series beyond the RTX 40-series. While node(s) in retrieval context do support the idea of hardware limitations in laptops due to BGA soldering, the specific claims about non-existent GPU models and future series lack evidential grounding in the retrieval data.
+
+[✅] Gen_Faithfulness: 1.00
+   💡 MOTIVO: The score is 1.00 because there are no contradictions between the actual output and the retrieval context.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the response directly addresses the input question about upgrading the Nitro 5 to an NVIDIA RTX 6080, and there are no irrelevant statements. The answer remains focused and accurate within the context of the query, with no unsupported or speculative claims about hardware that do not align with known specifications or available technology. Since the RTX 6080 does not exist as of 2024, the response appropriately acknowledges this fact, maintaining both relevance and factual integrity. This ensures the answer is both accurate and on-topic, justifying the full score.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The output correctly identifies that there is no known NVIDIA GPU model named 'RTX 6080', which aligns with the retrieval context and real-world product knowledge. The response avoids inventing specific hardware specs or SKUs not present in the sources. It references valid, available GPUs like the RTX 4060 and RTX 4050, which are mentioned in the retrieval context (e.g., SOURCE_1, SOURCE_2, SOURCE_7, SOURCE_9). The temporal boundaries of the retrieval context (all dated between 2022 and 2026) are respected, and no product introduced in the output exists in any source or is implied to be released beyond known timelines. The response does not present a temporal anomaly or SKU mismatch. All technical claims are directly supported by the retrieval context or general industry knowledge, with no internal extrapolation of non-existent specifications.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output correctly states that there is no officially released NVIDIA GPU model named 'RTX 6080', which is a factual claim supported by general knowledge. However, no [RAG] tag is present in the Actual Output, so the evaluation steps regarding [RAG] tag matching to titles in the Retrieval Context do not apply. The Retrieval Context contains multiple entries about Acer Nitro 5 models with GPUs like RTX 3050, RTX 3060, and RTX 4050, but none mention an RTX 6080. The response does not introduce any information not supported by the Retrieval Context, and all claims are consistent with the available data. Since there are no [RAG] tags to evaluate against the titles, the evaluation steps are not triggered. The response is accurate and grounded in the context, with no fabricated or unsupported details. Thus, it aligns with the evaluation logic despite the absence of [RAG] tags.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_SKU_MISMATCH_01
+QUERY: Does the AN515-56 have the same Thunderbolt port as the AN515-57?
+FONTES RECUPERADAS:
+- MSI GS66 Stealth not charging through Thinderbolt 4 Port (2025-06-22) [Fault: Thunderbolt 4 Charging Issue]
+- Best Laptop Recommendations for March 🎮✂️📚 (Gaming, Editing, Student & More!) (2025-03-02) [Fault: Thermal Throttling due to inadequate cooling system]
+- Ryzen 5 5600GT vs Ryzen 7 5700X (PCI-E 3.0 vs 4.0) + RTX 5060 = Benchmarks and comparison (2025-11-14) [Fault: None]
+- Kernel Power 41 help please! (2025-06-30) [Fault: Unexpected reboots while playing specific games]
+- Top 10 Best Budget Gaming Laptops of 2024 - Beginner's Guide (2024-03-03) [Fault: Inadequate cooling system leading to thermal throttling]
+- Alienware 16 Area-51 Gaming Laptop Review (2026-03-05) [Fault: Thermal Throttling and BSOD (Blue Screen of Death)]
+- 🎮💻 Monthly Buyers Guide For General Use Laptops, Budget Gaming, Video Editing, Professional Use & Students [July 2025 Edition] 📚 (2025-07-12) [Fault: Thermal Throttling due to inadequate cooling system maintenance and outdated BIOS/Driver versions.]
+- Legion Pro 5i (Intel Core Ultra 255HX + RTX 5060) : Impressions + Benchmarks (2025-09-26) [Fault: Thermal Throttling]
+- Acer Nitro 5 An5 53 Display Issues (2026-02-05) [Fault: Display Issue]
+- Best Laptop Recommendations for March 🎮✂️📚 (Gaming, Editing, Student & More!) (2025-03-02) [Fault: Thermal Throttling due to inadequate cooling system]
+--------------------------------------------------------------------------------
+RESPOSTA IA: The provided technical context does not contain specific information about the Thunderbolt port configuration of the Acer Nitro 5 AN515-56 or AN515-57 models. As a result, it is not possible to determine whether these models have the same Thunderbolt port based on the available data. SKU-specific validation cannot be applied due to the absence of direct specifications in the reference materials.
+--------------------------------------------------------------------------------
+[❌] Retrieval_Relevancy: 0.00
+   💡 MOTIVO: The score is 0.00 because the retrieval context is entirely irrelevant to the input query: it mentions models like Acer Aspire 5 14, MSI GS66 Stealth, and Acer Nitro 5 An5 53, none of which are the AN515-56 or AN515-57, and it contains no information about Thunderbolt ports or any comparison between AN515-56 and AN515-57. There are no relevant statements in the context that address the specific hardware feature or model comparison asked in the input.
+
+[❌] Retrieval_Precision: 0.00
+   💡 MOTIVO: The score is 0.00 because all nodes in the retrieval contexts, including the first node (rank 1) and the last node (rank 10), explicitly state that the context does not mention any information about the AN515-56 or AN515-57 models or any comparison of Thunderbolt ports between them. Since no node contains relevant information about Thunderbolt ports or the specific models in question, there are no relevant nodes at all. Therefore, the contextual precision score cannot be higher than 0.00, as the absence of any useful information means all nodes are irrelevant, and no relevant node is ranked above the others.
+
+[❌] Retrieval_Recall: 0.00
+   💡 MOTIVO: The score is 0.00 because the expected output claims specific differences in port specifications between AN515-56 and AN515-57 variants, but no node in the retrieval context discusses these models, their ports, or any comparison between them. SOURCE_4 and SOURCE_6 are referenced, yet neither contains information about USB-C Gen 2, Thunderbolt 4, or variant-specific connectivity. Thus, the statement in sentence 1 of the expected output has no support in the retrieval context, and the claim is unsupported by any node in retrieval context.
+
+[✅] Gen_Faithfulness: 1.00
+   💡 MOTIVO: The score is 1.00 because there are no contradictions between the actual output and the retrieval context.
+
+[✅] Gen_Answer_Rel: 1.00
+   💡 MOTIVO: The score is 1.00 because the answer directly addresses the input question by comparing the Thunderbolt port availability between the AN515-56 and AN515-57 models, and there are no irrelevant statements. The response is accurate, focused, and fully relevant to the query without introducing unsupported or speculative details.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The input asks about the Thunderbolt port configuration of Acer Nitro 5 AN515-56 and AN515-57 models. The retrieval context contains no information about Thunderbolt ports, nor any specifications for these exact SKUs. While SOURCE_4 and SOURCE_6 mention thermal throttling and cooling issues in Acer Aspire 5 models, they do not reference Thunderbolt ports or compare AN515-56 and AN515-57. The output correctly states that no information is available in the retrieval context, avoiding any speculative or extrapolated technical details. There is no temporal anomaly, as all retrieval sources are dated between 2022 and 2026, but none discuss Thunderbolt ports. The output adheres to the evaluation steps by not inventing hardware specifications or making unsupported claims, and it accurately reflects the absence of relevant data in the retrieval context.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output does not contain any [RAG] tags, so there is no need to verify matches between titles in the Retrieval Context and [RAG] tags. As per Evaluation Step 1, since there are no [RAG] tags present, the conditions for mismatch or unsupported information do not apply. The response correctly acknowledges the absence of specific data about Thunderbolt port configuration for Acer Nitro 5 AN515-56 or AN515-57 models, and does not introduce unsupported details. The response is grounded in the available retrieval context, which includes no information about Thunderbolt ports on Acer Nitro 5 models. Thus, it adheres to the evaluation steps by avoiding unsupported claims and correctly stating limitations of available data.
+
+================================================================================
+
+================================================================================
+ID TESTE: TC_HYBRID_KNOWLEDGE_01
+QUERY: Why is my Nitro 5 reaching 95°C and how can I fix it according to the 2025 guide?
+FONTES RECUPERADAS:
+- Acer Nitro 5 AN515 gets very hot both GPU-wise and CPU-wise, what to do? (2025-06-18) [Fault: Overheating or motherboard issues]
+- acer nitro 5 AN515-58 Overheat and FPS DROP (REALLY NEED HELP) (2025-07-23) [Fault: Thermal Throttling and Overheating]
+- Acer Nitro 5 AN515 gets very hot both GPU-wise and CPU-wise, what to do? (2025-06-18) [Fault: Overheating or motherboard issues]
+- undervolt help (2026-02-12) [Fault: Thermal Throttling and High CPU Temperatures (>90°C)]
+- Please help in undervolting! i5-11400H acer nitro 5 an515-57 (2025-01-21) [Fault: Thermal throttling and high CPU temperatures]
+- Need some help with an overheating acer nitro 5 (2026-03-01) [Fault: Thermal Throttling]
+- Repasted laptop 12900H it can now sustain 90W! (2026-01-24) [Fault: Thermal Throttling (CPU)]
+- Acer Nitro AN515-57 (i5-11400H + RTX 3070) CPU always in high temp even after multiple repastes — need expert advice (2026-01-27) [Fault: Persistent High CPU Temperatures]
+- Overheating 100°c (2023-08-09) [Fault: Thermal Throttling]
+- Laptop died after 5 years. (2026-01-10) [Fault: ['thermal throttling', 'BSOD']]
+--------------------------------------------------------------------------------
+RESPOSTA IA: Your Acer Nitro 5 reaching 95°C is indicative of severe thermal throttling, likely due to degraded thermal performance or inadequate cooling. Based on the available technical records for the Acer Nitro 5 AN515 series (specifically models AN515-57, AN515-58, and AN515-2023), the following actions are recommended to address the issue:
+
+1. **Reapply high-quality thermal paste** – Degraded thermal paste between the CPU/GPU and heatsink is a common cause of elevated temperatures. Re-paste with a high-performance compound (e.g., Arctic Silver 5) ensures efficient heat transfer.
+
+2. **Inspect and clean the cooling system** – Dust accumulation in the vents and fans can significantly reduce airflow. Use compressed air to clean the intake and exhaust ports, and verify that the cooling fan is spinning freely.
+
+3. **Update BIOS and drivers** – Ensure your system has the latest BIOS version and updated drivers (especially for Intel Core i5-11400H or i5-9300H and NVIDIA GPU). Outdated firmware can affect thermal management and power delivery.
+
+4. **Undervolt the CPU (if supported)** – For models with i5-11400H or i5-9300H processors, undervolting reduces power draw and heat output. Use tools like ThrottleStop or Intel Power Gadget to safely adjust voltage and frequency settings. This is especially effective for mitigating high CPU temperatures (>90°C).
+
+5. **Monitor temperatures under load** – Use tools such as HWMonitor, Core Temp, or MSI Afterburner to track CPU and GPU temperatures during gaming or stress tests. Persistent temperatures above 95°C suggest deeper issues, such as failing components or a compromised cooling system.
+
+6. **Consider professional servicing** – If temperatures remain above 95°C after these steps, or if the system exhibits instability (e.g., crashes, BSOD), the issue may involve a failing motherboard, GPU, or power supply. In such cases, a service center inspection or component replacement may be necessary.
+
+Note: The provided context does not include a "2025 guide" or post-2023 technical documentation for the Acer Nitro 5. All recommendations are derived from verified user reports and technical troubleshooting data from 2022–2023, which remain time-compatible with the reference date of 2026-01-01 due to the stability and relevance of these foundational troubleshooting principles.
+--------------------------------------------------------------------------------
+[✅] Retrieval_Relevancy: 0.74
+   💡 MOTIVO: The score is 0.74 because the retrieval context includes relevant statements about overheating, thermal throttling, and solutions like thermal paste application, BIOS updates, and cooling system upgrades for the Acer Nitro 5, which directly address the issue of reaching 95°C. However, the timeline of the data (2023) is outdated and does not align with the 2025 guide mentioned in the input, making it less relevant. The statement 'FAULT: Thermal Throttling and High CPU Temperatures (>90°C)' and 'RESOLUTION: Re-paste laptop, optimize cooling system' are particularly relevant, while the absence of any information from a 2025 guide or updated thermal management protocols reduces the contextual relevancy.
+
+[✅] Retrieval_Precision: 1.00
+   💡 MOTIVO: The score is 1.00 because the first two nodes in retrieval contexts provide direct and specific solutions to the user's query about 95°C temperatures in the Nitro 5, with the first node explicitly mentioning undervolting and liquid metal repasting as solutions in the [RAG] context, and the second node offering a clear explanation of overheating causes. These nodes are ranked higher than the 'no' verdicts, which either lack specific solutions like undervolting or liquid metal, or are outdated (e.g., the ninth node is dated 2023), or focus on general troubleshooting without addressing the exact temperature threshold or actionable thermal management steps. The 'no' verdicts, especially those at ranks 3 to 10, fail to meet the specificity or recency required by the 2025 guide, and thus are not as relevant as the top-ranked nodes. Therefore, the contextual precision score remains at 1.00 because the most relevant nodes are correctly ranked at the top, and no higher score is possible given the absence of any node that explicitly addresses both undervolting and liquid metal in a 2025 context.
+
+[❌] Retrieval_Recall: 0.50
+   💡 MOTIVO: The score is 0.50 because the expected output claims specific 2025 maintenance recommendations involving liquid metal repasting, which is not supported by any node in retrieval context—specifically, no node mentions liquid metal or a 2025 Maintenance Guide. While general thermal paste maintenance is covered in the 3rd, 4th, and 6th nodes, the assertion about liquid metal and a 2025 guide lacks direct evidence and exceeds the scope of available retrieval content.
+
+[❌] Gen_Faithfulness: 0.78
+   💡 MOTIVO: The score is 0.78 because there are no contradictions in the actual output relative to the retrieval context.
+
+[✅] Gen_Answer_Rel: 0.95
+   💡 MOTIVO: The score is 0.95 because the response directly addresses the user's query about the Nitro 5 reaching 95°C and provides relevant troubleshooting steps aligned with the 2025 guide. There are no irrelevant statements, and the answer stays focused on the specific hardware behavior and mitigation strategies. The score is not higher because the response, while accurate and relevant, does not include any external evidence or citations from a verified 2025 guide—only general technical reasoning—which limits the potential for a perfect score. However, given the absence of irrelevant content and strong alignment with the input, this score reflects a high level of relevance and accuracy.
+
+[✅] Audit_Zero_Trust: 1.00
+   💡 MOTIVO: The output correctly identifies the Acer Nitro 5 AN515 series as a known product line with documented overheating issues in the retrieval context, all of which are tied to timelines from 2022 to 2023. The recommendations (e.g., reapplying thermal paste, BIOS updates, undervolting) are directly supported by the retrieval sources, such as SOURCE_3 and SOURCE_7, which reference thermal throttling and high CPU temperatures. The output explicitly acknowledges the absence of a '2025 guide' and grounds its advice in 2022–2023 technical data, avoiding any temporal anomaly. No specific hardware specifications (e.g., RAM, battery capacity) are introduced that contradict known product releases or timelines. All technical details are derived from the retrieval context, satisfying Step 3 and avoiding internal extrapolation. The input references a 2025 guide, but the output correctly rejects this as non-existent in the retrieval context, aligning with Step 4 and temporal boundaries.
+
+[✅] Audit_Attribution: 1.00
+   💡 MOTIVO: The Actual Output references specific actions and technical details (e.g., undervolting for i5-11400H, thermal paste application, BIOS updates) that are explicitly supported by titles in the Retrieval Context. Each [RAG] tag corresponds to a matching title: 'Acer Nitro 5 AN515 gets very hot both GPU-wise and CPU-wise' (SOURCE_0, SOURCE_2), 'undervolt help' (SOURCE_3), 'Please help in undervolting! i5-11400H acer nitro 5 an515-57' (SOURCE_4), and 'Overheating 100°c' (SOURCE_8). The recommendations are directly derived from these titles without generalization or invention. All content is grounded in the provided context, and no unsupported or inferred claims are made. The timeline of the Retrieval Context (2022–2026) includes relevant data points, and the output does not introduce post-2023 technical specifications not present in the context. Thus, all [RAG] tags are matched to titles in the Retrieval Context, satisfying Steps 1–4 of the evaluation.
+
+================================================================================
+

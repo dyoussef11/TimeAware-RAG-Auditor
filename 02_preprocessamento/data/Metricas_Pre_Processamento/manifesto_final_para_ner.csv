@@ -1,0 +1,107 @@
+﻿arquivo;modelo;qtd_posts;densidade_tecnica;temas_cobertos;status_ner
+acer_16_predator_neo.json;acer 16 predator neo;50;14.37;5;Pendente
+acer_aspire_5_14.json;acer aspire 5 14;50;9.35;5;Pendente
+acer_aspire_5_15.json;acer aspire 5 15;50;9.57;5;Pendente
+acer_aspire_5_gaming.json;acer aspire 5 gaming;50;11.2;5;Pendente
+acer_aspire_7_gaming.json;acer aspire 7 gaming;50;14.86;5;Pendente
+acer_nitro_16_gaming.json;acer nitro 16 gaming;50;12.15;5;Pendente
+acer_nitro_5.json;acer nitro 5;50;20.68;5;Pendente
+acer_nitro_5_2023.json;acer nitro 5 2023;50;12.0;5;Pendente
+acer_nitro_5_gaming.json;acer nitro 5 gaming;50;13.29;5;Pendente
+acer_nitro_gaming.json;acer nitro gaming;50;13.05;5;Pendente
+acer_nitro_v.json;acer nitro v;50;14.43;5;Pendente
+acer_predator_helios_16.json;acer predator helios 16;50;13.06;5;Pendente
+acer_predator_helios_300.json;acer predator helios 300;50;15.94;5;Pendente
+acer_predator_helios_500.json;acer predator helios 500;50;10.38;5;Pendente
+acer_predator_helios_neo.json;acer predator helios neo;50;15.63;5;Pendente
+acer_predator_triton_500.json;acer predator triton 500;50;14.17;5;Pendente
+acer_swift_x.json;acer swift x;50;11.32;5;Pendente
+alienware.json;alienware;50;12.07;5;Pendente
+asus_asus_tuf_gaming.json;asus asus tuf gaming;50;11.57;5;Pendente
+asus_proart_studiobook_pro.json;asus proart studiobook pro;44;13.03;5;Pendente
+asus_rog.json;asus rog;50;10.68;5;Pendente
+asus_rog_flow_x13.json;asus rog flow x13;50;11.33;5;Pendente
+asus_rog_flow_x16.json;asus rog flow x16;50;11.14;5;Pendente
+asus_rog_flow_z13.json;asus rog flow z13;50;11.41;5;Pendente
+asus_rog_strix_g15.json;asus rog strix g15;50;14.04;5;Pendente
+asus_rog_strix_g16.json;asus rog strix g16;50;15.6;5;Pendente
+asus_rog_strix_g17.json;asus rog strix g17;50;13.85;5;Pendente
+asus_rog_strix_scar.json;asus rog strix scar;50;13.39;5;Pendente
+asus_rog_zephyrus_duo.json;asus rog zephyrus duo;50;12.87;5;Pendente
+asus_rog_zephyrus_g14.json;asus rog zephyrus g14;50;12.65;5;Pendente
+asus_rog_zephyrus_g15.json;asus rog zephyrus g15;50;15.42;5;Pendente
+asus_rog_zephyrus_g16.json;asus rog zephyrus g16;50;15.98;5;Pendente
+asus_rog_zephyrus_m16.json;asus rog zephyrus m16;50;12.47;5;Pendente
+asus_strix_g15_gaming.json;asus strix g15 gaming;50;10.78;5;Pendente
+asus_tuf_a15.json;asus tuf a15;50;16.58;5;Pendente
+asus_tuf_a17_gaming.json;asus tuf a17 gaming;50;14.5;5;Pendente
+asus_tuf_dash_f15.json;asus tuf dash f15;50;17.34;5;Pendente
+asus_tuf_f15_2022.json;asus tuf f15 2022;50;15.92;5;Pendente
+asus_tuf_gaming_a15.json;asus tuf gaming a15;50;15.02;5;Pendente
+asus_tuf_gaming_a16.json;asus tuf gaming a16;50;13.38;5;Pendente
+asus_tuf_gaming_f15.json;asus tuf gaming f15;50;16.4;5;Pendente
+asus_tuf_gaming_f16.json;asus tuf gaming f16;50;14.69;5;Pendente
+asus_tuf_gaming_f17.json;asus tuf gaming f17;50;17.87;5;Pendente
+asus_vivobook_gaming.json;asus vivobook gaming;50;11.97;5;Pendente
+asus_vivobook_pro_14.json;asus vivobook pro 14;50;11.71;5;Pendente
+asus_vivobook_pro_15.json;asus vivobook pro 15;50;10.63;5;Pendente
+asus_vivobook_pro_16.json;asus vivobook pro 16;50;12.76;5;Pendente
+asus_zenbook_pro_duo.json;asus zenbook pro duo;50;11.71;5;Pendente
+dell.json;dell;50;8.81;5;Pendente
+dell_5530_g15_gaming.json;dell 5530 g15 gaming;50;17.5;5;Pendente
+dell_alienware.json;dell alienware;50;9.87;5;Pendente
+dell_alienware_m15_r6.json;dell alienware m15 r6;40;10.14;5;Pendente
+dell_alienware_m15_r7.json;dell alienware m15 r7;50;11.43;5;Pendente
+dell_alienware_m16_gaming.json;dell alienware m16 gaming;50;11.72;5;Pendente
+dell_alienware_m18_r1.json;dell alienware m18 r1;50;12.44;5;Pendente
+dell_alienware_x16_gaming.json;dell alienware x16 gaming;36;9.31;5;Pendente
+dell_alienware_x17_r1.json;dell alienware x17 r1;41;10.29;5;Pendente
+dell_alienware_x17_r2.json;dell alienware x17 r2;50;11.48;5;Pendente
+dell_g16_7630_gaming.json;dell g16 7630 gaming;50;17.13;5;Pendente
+dell_gaming.json;dell gaming;50;10.16;5;Pendente
+dell_inspiron_5520.json;dell inspiron 5520;22;14.91;5;Pendente
+dell_xps_15_9520.json;dell xps 15 9520;50;12.34;5;Pendente
+hp_envy.json;hp envy;50;10.24;5;Pendente
+hp_omen.json;hp omen;50;13.44;5;Pendente
+hp_omen_gaming.json;hp omen gaming;50;10.46;5;Pendente
+hp_pavilion.json;hp pavilion;50;14.12;5;Pendente
+hp_pavilion_gaming.json;hp pavilion gaming;50;11.06;5;Pendente
+hp_victus.json;hp victus;50;14.6;5;Pendente
+hp_victus_15.json;hp victus 15;50;12.57;5;Pendente
+hp_victus_ai.json;hp victus ai;50;11.4;5;Pendente
+hp_victus_gaming.json;hp victus gaming;50;15.6;5;Pendente
+hp_victus_gaming_15.json;hp victus gaming 15;50;13.99;5;Pendente
+lenovo_ideapad_gaming_3.json;lenovo ideapad gaming 3;50;13.84;5;Pendente
+lenovo_ideapad_gaming_3i.json;lenovo ideapad gaming 3i;50;19.52;5;Pendente
+lenovo_ideapad_pro_5.json;lenovo ideapad pro 5;50;11.25;5;Pendente
+lenovo_legion_5.json;lenovo legion 5;50;11.81;5;Pendente
+lenovo_legion_5_15ach6.json;lenovo legion 5 15ach6;50;13.06;5;Pendente
+lenovo_legion_5_pro.json;lenovo legion 5 pro;50;12.96;5;Pendente
+lenovo_legion_7i.json;lenovo legion 7i;50;14.62;5;Pendente
+lenovo_legion_pro_7.json;lenovo legion pro 7;50;15.64;5;Pendente
+lenovo_legion_slim_5.json;lenovo legion slim 5;50;12.73;5;Pendente
+lenovo_legion_slim_7.json;lenovo legion slim 7;50;13.07;5;Pendente
+lenovo_lenovo_legion_pro.json;lenovo lenovo legion pro;50;14.39;5;Pendente
+msi_bravo_15_gaming.json;msi bravo 15 gaming;50;15.46;5;Pendente
+msi_crosshair_15_gaming.json;msi crosshair 15 gaming;50;10.64;5;Pendente
+msi_cyborg_15_gaming.json;msi cyborg 15 gaming;50;16.02;5;Pendente
+msi_delta_15_gaming.json;msi delta 15 gaming;50;13.6;5;Pendente
+msi_gaming_katana_gf66.json;msi gaming katana gf66;50;14.23;5;Pendente
+msi_gaming_katana_gf76.json;msi gaming katana gf76;50;19.35;5;Pendente
+msi_gaming_raider_ge66.json;msi gaming raider ge66;50;16.76;5;Pendente
+msi_gf63_thin_gaming.json;msi gf63 thin gaming;50;16.91;5;Pendente
+msi_gf75_thin.json;msi gf75 thin;50;21.07;5;Pendente
+msi_gp66_leopard_gaming.json;msi gp66 leopard gaming;50;16.46;5;Pendente
+msi_katana_15_gaming.json;msi katana 15 gaming;50;16.5;5;Pendente
+msi_katana_17_gaming.json;msi katana 17 gaming;50;15.17;5;Pendente
+msi_katana_gf76.json;msi katana gf76;50;15.6;5;Pendente
+msi_pulse_gl66_gaming.json;msi pulse gl66 gaming;50;21.16;5;Pendente
+msi_raider_18_hx.json;msi raider 18 hx;50;15.2;5;Pendente
+msi_stealth.json;msi stealth;50;13.78;5;Pendente
+msi_stealth_15.json;msi stealth 15;50;11.62;5;Pendente
+msi_stealth_16_ai.json;msi stealth 16 ai;50;12.21;5;Pendente
+msi_stealth_gs66.json;msi stealth gs66;50;17.3;5;Pendente
+msi_stealth_gs66_gaming.json;msi stealth gs66 gaming;50;16.35;5;Pendente
+msi_sword_15_gaming.json;msi sword 15 gaming;50;8.49;5;Pendente
+msi_vector_gp68_hx.json;msi vector gp68 hx;39;16.03;5;Pendente
+razer_blade_15_advanced.json;razer blade 15 advanced;50;13.16;5;Pendente

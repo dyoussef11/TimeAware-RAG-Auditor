@@ -1,0 +1,1 @@
+{"summary": "Acer Predator Helios 300 (PH315-53)", "intent": "Analysis", "detected_fault": "Thermal Throttling", "suggested_solution": ["Clean cooling system", "Regularly update drivers and BIOS"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-07-01", "periodo_referencia": "2025-07"}}

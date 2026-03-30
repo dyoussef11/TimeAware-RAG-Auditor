@@ -1,0 +1,1 @@
+{"summary": "acer predator helios neo", "intent": "Fault Diagnosis", "detected_fault": "Thermal Throttling & BSOD", "suggested_solution": "Monitor temperatures, update drivers/BIOS, consider repasting", "technical_severity": "High", "discussion_timeline": "2023-01-01 to 2024-12-31", "ancoragem_temporal": {"data_post": "2025-06-28", "periodo_referencia": "2025-06"}}

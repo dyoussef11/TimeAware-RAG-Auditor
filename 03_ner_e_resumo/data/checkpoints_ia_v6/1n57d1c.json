@@ -1,0 +1,1 @@
+{"summary": "asus rog zephyrus g15", "intent": "Technical Analysis", "detected_fault": "Thermal Throttling Issues", "suggested_solution": "Upgrade to PCIe Gen4 x16 to x4 riser and ADT link Riser", "technical_severity": "Low", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-08-31", "periodo_referencia": "2025-08"}}

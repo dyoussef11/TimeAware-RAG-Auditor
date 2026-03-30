@@ -1,0 +1,2631 @@
+{
+    "modelo_busca_utilizado": "msi bravo 15 gaming",
+    "posts": [
+        {
+            "id": "t2nq36",
+            "titulo": "Recommendation for Laptop Under $900 in the List",
+            "conteudo_post": "All prices were converted from local currency. Since I'm going to buy at a local shop I might be able to bargain a bit more. Which one of this has the least issue (overheating, build quality, battery, etc.) &#x200B; Asus TUF F15 FX506L-HHN080T i5-10300H, GTX1650, 8 GB RAM USD 818 &#x200B; MSI Bravo 15 B5DD-213 Ryzen 5 5600H, Radeon RX5500M, 8 GB RAM USD 809 &#x200B; MSI Thin GF63 10SC-638 i5-10500H, GTX1650 Max-Q, 8 GB RAM USD 755 &#x200B; Acer Nitro 5 AN515-56-56LR i5-11300H, GTX1650, 8 GB RAM USD 838 &#x200B; Lenovo IdeaPad Gaming 3 15IHU6 i5-11300H, GTX1650, 8 GB RAM USD 857 &#x200B; HP Victus 16-E0127AX Ryzen 5 5600H, GTX1650, 8 GB RAM USD 878 &#x200B; Thanks in advance!",
+            "subreddit": "SuggestALaptop",
+            "flair": "Laptop Request",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/SuggestALaptop/comments/t2nq36/recommendation_for_laptop_under_900_in_the_list/",
+            "data_post": 1645966802.0,
+            "comentarios": [
+                {
+                    "id": "hyn2mvt",
+                    "conteudo": "**LAPTOP QUESTIONNAIRE** * **Total budget (in local currency) and country of purchase. Please do not use USD unless purchasing in the US:** MYR 3600, Malaysia * **Are you open to refurbs/used?** No * **How would you prioritize form factor (ultrabook, 2-in-1, etc.), build quality, performance, and battery life?** Decent build quality, good battery life especially when doing all task except gaming (I'm going to plug into power outlet when playing games) Most importantly it should have the least issue that might affect daily usage * **How important is weight and thinness to you?** Not too heavy, less than 3 kg * **Do you have a preferred screen size? If indifferent, put N/A.** N/A * **Are you doing any CAD/video editing/photo editing/gaming? List which programs/games you desire to run.** Some video editing and Photoshop, but not often * **If you're gaming, do you have certain games you want to play? At what settings and FPS do you want?** My only requirement is it can play Genshin Impact decently even at lowest settings, which all of the laptops in the list more than capable to handle It is a bonus if it can run some AAA games pre 2021 decently even at lower settings * **Any specific requirements such as good keyboard, reliable build quality, touch-screen, finger-print reader, optical drive or good input devices (keyboard/touchpad)?** - * **Leave any finishing thoughts here that you may feel are necessary and beneficial to the discussion.** -",
+                    "score": 1,
+                    "data_comentario": 1645967857.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Recommendation",
+                "detected_fault": null,
+                "suggested_solution": "MSI Bravo 15 B5DD-213",
+                "technical_severity": "Low",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2022-02-27",
+                    "periodo_referencia": "2022-02"
+                }
+            }
+        },
+        {
+            "id": "s744i3",
+            "titulo": "Constant 20fps after 5mins in PUBG and not only!",
+            "conteudo_post": "First, I will give you some story about this and then talk about my hardware and what I have tried to this point. The problem started last week when I did a fresh install of my windows 10 because I was in need for space and didn't want to manually clean everything. Note: Before the windows reinstall I was not having problems with any game; Another note: By now, I know that this problem is not happening only on PUBG, but also on ETS2 (Euro Truck Simulator 2); Also, these may not be the only games, it's just what I have tested so far. As I said in the title, the problem is that whenever I launch PUBG (or ETS2) I play for like 3-5 mins and then something happens and my fps drops to 20-30fps, it won't get back whatever I would do, I have to restart my laptop. My normal fps on PUBG is \\~140fps, same thing happens on ETS2, from 80fps to 20-30fps (from that maybe it is some kind of limitation? It doesn't seem to be directly proportional to your max framerate (hope it's a good expression of what I think)). My laptop doesn't seem to get any hotter, my fans aren't revving up or something, if that's what supposed to happen. But, a thing that I have noticed is that in the first 5 minutes (before the problem starts) my CPU usage is around 60-70% and my gpu usage is around 80%, but after my fps drops to 20 fps the CPU goes to 20-30% and gpu to 99%, maybe the CPU is going in idle?? Another thing: from the start of all this I was thinking there is something wrong with the powerplans, I checked them, I was on ultimate performance power plan, I even checked the advanced settings for it, A LOT OF TIMES, and everything seemed fine, until I tried the app called Razer Cortex as a last hope and it didn't work, but it did create a new powerplan that I have noticed, just as a last last hope I selected that power plan and then, all of a sudden PUBG and ETS2 worked, at around 75% of my normal fps tho, but it worked and was fine for me, it worked 2 days and then, today I played pubg for around 3-4 hours and after that installed Valorant and tried a fps boost tutorial on youtube by Panjo ([ after those, I tried launching into the PUBG just to play one more match as of today, but surprise surprise it was not working anymore, i was getting 20 fps, then I thought it was from the fps boost tutorial, but before I reversed the settings I just wanted to check if ETS2 was also running bad, it did.. I still reversed that settings and completely got rid of Valorant, Riot Games Launcher and Riot Vanguard. PUBG and ETS2 still don't work, that's why I'm making this post.. That being said, my laptop is MSI Bravo 15 A4DDR, if you want to get more specs about it, I will list some of them here also: CPU: AMD Ryzen 7 4800h @ 4.2GHz, AMD Radeon 5500M 4GB Vram, 8 GB Ram Thing I tried: \\- Reinstalling Windows 10 two times; \\- Updated all my drivers; \\- Tried to use both, the newest version of driver for GPU by windows and by AMD Software; \\- Scanned my laptop multiple times for malware, using the Windows Defender and software called Malwarebytes; \\- Using the Ultimate Performance power plan and the Razer Cortex power plan (which worked until today) \\- Probably more things that I forgot but will add as soon as I will remember or I will do from comments suggestions. Tomorrow I will try to plug my tv at my laptop to watch my usage and temps of CPU and GPU live and see if I can get more information, any suggestion is welcome, ask me for more information if needed!",
+            "subreddit": "computerhelp",
+            "flair": "Resolved",
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 23,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/computerhelp/comments/s744i3/constant_20fps_after_5mins_in_pubg_and_not_only/",
+            "data_post": 1642530289.0,
+            "comentarios": [
+                {
+                    "id": "ht7i6zi",
+                    "conteudo": "Remember to check our discord where you can get faster responses! *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/computerhelp) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1642530290.0
+                },
+                {
+                    "id": "huabxx7",
+                    "conteudo": "Resolved! Had to replace thermal paste..",
+                    "score": 1,
+                    "data_comentario": 1643200734.0
+                },
+                {
+                    "id": "ht7lnrh",
+                    "conteudo": "The problem with an amd laptop is the windows messes up drivers .This happen when windows downgrade your drivers in the background ,if you haven't used wushow You can't simply install drivers of amd graphics without using wushow hide it gets messed up by windows so it won't help. The procedure below is what you should follow Just do this pause windows updates for seven days Download amd clean up from google and run it click yes to go in to safe mode Go into this link and download recommended driver and install it Go into this link And get the latest chipset Now download this tool called wushowhide from Microsoft Then run this click next click hide and then select amd or advanced micro devices display driver and tick it and click okay This last step is vital and its best if you follow the order word for word..The last step prevents windows from downgrading your drivers and messing up.. Let me know once you have organised you drivers Please dont skip any steps.",
+                    "score": 1,
+                    "data_comentario": 1642531570.0
+                },
+                {
+                    "id": "ht7q3zb",
+                    "conteudo": "[ page not found. Should I install them from here?: [ Or maybe from here and auto detect?:",
+                    "score": 1,
+                    "data_comentario": 1642533221.0
+                },
+                {
+                    "id": "ht7tf9z",
+                    "conteudo": ">wushowhide I can't find wushowhide on microsoft store, was that what you meant? Should I download it from here?: [",
+                    "score": 1,
+                    "data_comentario": 1642534447.0
+                },
+                {
+                    "id": "ht7v1n6",
+                    "conteudo": "I did everything but the problem persists, thanks anyway man!",
+                    "score": 1,
+                    "data_comentario": 1642535043.0
+                },
+                {
+                    "id": "ht7q8mn",
+                    "conteudo": "Yes correct sorry for the link ,the next link is correct I hope you paused windows updates before you started and also don't forget the wushow hide step",
+                    "score": 1,
+                    "data_comentario": 1642533268.0
+                },
+                {
+                    "id": "ht7tm35",
+                    "conteudo": "Or you can get it from filehippo as well",
+                    "score": 1,
+                    "data_comentario": 1642534517.0
+                },
+                {
+                    "id": "ht80evc",
+                    "conteudo": "Is your system thermal throttling ?",
+                    "score": 1,
+                    "data_comentario": 1642537035.0
+                },
+                {
+                    "id": "ht7qh59",
+                    "conteudo": "I paused, I will download wushow hide when i get to the step",
+                    "score": 1,
+                    "data_comentario": 1642533357.0
+                },
+                {
+                    "id": "ht8b8kg",
+                    "conteudo": "Not sure how to verify that, but I don't think so, if that would be the case why is it only happening now? I have this laptop for over a year and never had this problem.",
+                    "score": 1,
+                    "data_comentario": 1642540976.0
+                },
+                {
+                    "id": "ht80g9b",
+                    "conteudo": "Could be ssd or cpu or gpu tell me the temps in hwinfo?",
+                    "score": 1,
+                    "data_comentario": 1642537049.0
+                },
+                {
+                    "id": "ht8bb9w",
+                    "conteudo": "I will as soon as possible",
+                    "score": 1,
+                    "data_comentario": 1642541003.0
+                },
+                {
+                    "id": "ht8bzeq",
+                    "conteudo": "I've downloaded it but don't really know how to use it, I think you want a graph of the temperatures, am I right? Either way please tell me how to give the information to you",
+                    "score": 1,
+                    "data_comentario": 1642541247.0
+                },
+                {
+                    "id": "ht8dsel",
+                    "conteudo": "Well keep hwinfo on ,then when you play games and this drop happens minimize and note the max cpu tctl temp the ssd max and current temps and also the gpu the 5500m temps as well in that list.",
+                    "score": 1,
+                    "data_comentario": 1642541903.0
+                },
+                {
+                    "id": "ht8er6b",
+                    "conteudo": "I will do that rn, but untill I send those, I screenshoted the graphs from msi afterburner, in case you want to look over those",
+                    "score": 1,
+                    "data_comentario": 1642542259.0
+                },
+                {
+                    "id": "ht8hol5",
+                    "conteudo": "Did it, seems like the cpu is thermal throttling, and for the ssd I didn't find anything so I assume it's the drive",
+                    "score": 1,
+                    "data_comentario": 1642543342.0
+                },
+                {
+                    "id": "htacbkp",
+                    "conteudo": "Repaste your cpu with gelid gc thermal paste",
+                    "score": 1,
+                    "data_comentario": 1642573652.0
+                },
+                {
+                    "id": "htactco",
+                    "conteudo": "I will as soon as possible, I hate getting my laptop in service, tho :(",
+                    "score": 1,
+                    "data_comentario": 1642573978.0
+                },
+                {
+                    "id": "htacwxr",
+                    "conteudo": "Please don't give it to a service centre if you can do it by yourself thats the best method. There are several videos on yt and it's very easy you just need the thermal paste and iso propyl 99",
+                    "score": 1,
+                    "data_comentario": 1642574043.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Frame rate drops during extended gaming sessions",
+                "suggested_solution": [
+                    "Replace thermal paste with Gelid GC thermal paste",
+                    "Update drivers using AMD Clean Room and WushowHide (if available)",
+                    "Verify system temperatures using HWiNFO or similar software"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2022-01-18",
+                    "periodo_referencia": "2022-01"
+                }
+            }
+        },
+        {
+            "id": "1ls1310",
+            "titulo": "Laptop Shuts Down While Gaming – Charging Only Works After Replugging Adapter",
+            "conteudo_post": "# [Laptop Specs & Info] |Item|Details| |:-|:-| |**Model**|MSI Bravo 15 B5DD| |**CPU**|Ryzen 5 5600H| |**GPU**|Radeon RX 5500M| |**Adapter**|Chicony 150W (20V, 7.5A, 4.5mm × 3.0mm)| |**Battery (52whr)**|\\~14% wear (still holds charge) about 2.5hr on Battery| |**Cooling**|Cleaned vents, new thermal paste applied| # [Power & Temperature Info] * **Gaming Temps:** * CPU: 70–75 °C * GPU: 60–65 °C * **Stress Test (OCCT):** * CPU: \\~90 °C (no throttling or errors) * GPU: \\~70 °C * Adapter sometimes gets hot, but **last crash happened even when it wasn’t too hot**. # [Problem Description] The laptop **randomly shuts down or restarts** during gaming or OCCT stress tests. No BSOD, no warning — just sudden power loss. After this, it **stops charging until I unplug and replug the power brick from the wall**. Everything works fine during light use (like browsing or watching videos). OCCT shows no hardware errors. Battery works and charges normally outside of this issue. # [New Adapter I'm Considering] I’m thinking of replacing the current adapter with a: * **MSI 180W (19.5V, 9.23A, same 4.5mm × 3.0mm plug)** Also saw some **ASUS 150W 20V adapters** that match the original specs. # [Suggestions / Questions] * Could this issue be **just the adapter** failing under load? * Is there any chance it’s something like the **PMIC or charging circuitry** on the motherboard? * Is it safe to use a **19.5V 180W adapter** in place of the original 20V 150W one? Any help or advice would be much appreciated before I go ahead and buy a replacement. Thanks!",
+            "subreddit": "techsupport",
+            "flair": "Open | Hardware",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "stability",
+            "url": "https://reddit.com/r/techsupport/comments/1ls1310/laptop_shuts_down_while_gaming_charging_only/",
+            "data_post": 1751688287.0,
+            "comentarios": [
+                {
+                    "id": "n1f323c",
+                    "conteudo": "**Getting dump files which we need for accurate analysis of BSODs.** Dump files are crash logs from BSODs. If you can get into Windows normally or through [Safe Mode]( could you check C:\\Windows\\Minidump for any dump files? If you have any dump files, copy the folder to the desktop, zip the folder and upload it. If you don't have any zip software installed, right click on the folder and select Send to → Compressed (Zipped) folder. Upload to any easy to use file sharing site. Reddit keeps blacklisting file hosts so find something that works, currently [catbox.moe]( or [mediafire.com]( seems to be working. We like to have multiple dump files to work with so if you only have one dump file, none or not a folder at all, upload the ones you have and then follow [this guide]( to change the dump type to Small Memory Dump. The \"Overwrite dump file\" option will be grayed out since small memory dumps never overwrite. *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/techsupport) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1751688288.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze system state baseline for MSI Bravo 15 B5DD laptop",
+                "detected_fault": "Random shutdown or restart during gaming/OCCT stress tests, no BSOD warning",
+                "suggested_solution": "Replace Chicony 150W adapter with high-quality alternative (e.g. MSI 180W or ASUS 150W)",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2025-07-05",
+                    "periodo_referencia": "2025-07"
+                }
+            }
+        },
+        {
+            "id": "18ixblh",
+            "titulo": "Rental comparison (or fixing old HP)",
+            "conteudo_post": "On mobile, so apologies for my delightful autocorrect, if it attacks. I spent yesterday combing through every other post asking for comparisons between Asus, Acer, HP and MSI but they ended up confusing me more, with the contradicting reviews. I recognize that I'll likely ALSO get contradicting reviews and I apologise for adding yet another comparison request, but here we are. The situation (and I'm sorry for a severe lack of technical understanding here): I have an HP... um... something? (I warned you). And lately it's been blue screen of death-ing me after being turned of for 1 minute, 1 hour, 1 day, 10 days - never know. My housemate tried to explain it to me, in Spanish, but I don't really... get it. He believes that all I have to do is change the battery, and all of the laptop's performance will improve. The dead battery is corroding the laptop functioning or something something? Currently, if it gets unplugged, it immediately dies. Usually. Sometimes not. It's a bit cantankerous. Does that resonate with anyone? You probably need the exact message it gives when it blues out. I'll try to coax it out today. Anyhow, I got the computer in 2020, and it was having a ton of other issues (which housemate thinks will be fixed by changing the battery), so I was already considering swapping to another before it started doing all this. While I am not a gamer, I am a livestreaming musician, and edit videos and audio, etc. So, when performing, I preferably want to be able to simultaneously run OBS, a DAW, a browser with several tabs, GifBot (stream overlays and antics), YouTube, Spotify, etc. The HP hated this and my stream almost always had issues during the end. Even if I ONLY had obs and a browser open, clicking to a new url page would cause the stream quality would tank or freeze for a while. So I need something that can handle that, and editing, without compromise or headache, hence my interest in something that can handle the needs of heavy gaming. Additionally, I travel a lot, and would like to be able to lug this around and use it, indoor and outdoor. Decent battery, durability (not gonna bend in a backpack), etc. In all the reviews, people were talking about this one overheats too much, that one has a crappy build, this one sounds like 45 aircraft taking off simultaneously, etc. I'd love to avoid all of these as much as possible. Especially overheating and jet engine. Other detail: I want to rent first, for various reasons, and currently have a very low budget. So, best bang for very little buck.... So, these are the options currently available from Grover in Spain (Grover.com/es-en) with in my currently acceptable price range (or are there better rental options? ): - MSI GF63 Thin 12UC-674, i5-12450H (what does the H variable mean, and what's better/worse?) -HP Victus 15-fa1058ng i5-12500H - Acer Nitro 5 AN51 i9-11900H (1tb ssd - the others are 512) - Acer Nitro 5 AN515-57-793d i7-11800H - Acer Nitro 5 AN515-57-5666 i5-11400H - HP Omen 15-ek1060ng i7-10750H (1tb ssd) - Asus TUF A15 FA506QR-HN006T AMD Ryzen 7, 5800H - MSI Thin GF 63 i5-12450H - Acer Nitro 5 AN515-56-55RP i5-11300H - HP Victus 16-d0057ng i5-11400H - Omen 15-en0263ng AMD Ryzen 7 4800H - HP Pavilion 15-dk1233ng i7-10750H - MSI Bravo 15 C7VFK-230 Ryzen 7 7735HS - Acer Nitro 5 AN515-58-70S9 i7-12700H (1tb ssd) - HP Victus 16-e0065ng Ryzen 5 5600H - HP Victus 16-s0076ng Ryzen 7 7840HS - HP Omen 15-en1266ng Ryzen 7 5800H - Asus TUF FA706QM-HX049R Ryzen 7 5800H There are a few more, but this is the gist. All 16gb, mostly 512gb ssd). Some say, whatever I get, make sure it's Ryzen. Any merit to that? What do you think of these options for a 12-18month new or refurb rental? Rental, of course, meaning that I can't do the mods other posts suggested. At best, I could buy a fan-stand (tech term), but that's yet another piece of equipment to pack n lug around with me. Which do you think would be the better fit per my desired usage? Or conversely, do you think swapping the battery on my HP would actually solve the blue screen of death issue, and then I can just deal with the other issues a bit longer and get a better laptop later? Trying to run everything from my Samsung galaxy S7 and A51 is a practice in gratitude (at least I have something) and frustration (don't ask me about editing ANYTHING 🤬). Thanks for taking the time to read through this, and to help me parse it out. I greatly appreciate the help.",
+            "subreddit": "GamingLaptops",
+            "flair": "Request",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 2,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/GamingLaptops/comments/18ixblh/rental_comparison_or_fixing_old_hp/",
+            "data_post": 1702636919.0,
+            "comentarios": [
+                {
+                    "id": "kdiy6j5",
+                    "conteudo": "renting a laptop will probably end up costing more than just buying a new or used one",
+                    "score": 1,
+                    "data_comentario": 1702676248.0
+                },
+                {
+                    "id": "kdj9df1",
+                    "conteudo": "Oh, undoubtedly",
+                    "score": 1,
+                    "data_comentario": 1702680109.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Rental Comparison",
+                "detected_fault": null,
+                "suggested_solution": [
+                    "MSI GF63 Thin 12UC-674 with i5-12450H processor",
+                    "Acer Nitro 5 AN515-57-793d with i7-11800H processor"
+                ],
+                "technical_severity": "Low",
+                "discussion_timeline": "2023-02-01 to 2023-03-31",
+                "ancoragem_temporal": {
+                    "data_post": "2023-12-15",
+                    "periodo_referencia": "2023-12"
+                }
+            }
+        },
+        {
+            "id": "s73z4d",
+            "titulo": "Constant 20fps after 5 minutes of playing PUBG (and not only)",
+            "conteudo_post": "First, I will give you some story about this and then talk about my hardware and what I have tried to this point. The problem started last week when I did a fresh install of my windows 10 because I was in need for space and didn't want to manually clean everything. Note: Before the windows reinstall I was not having problems with any game; Another note: By now, I know that this problem is not happening only on PUBG, but also on ETS2 (Euro Truck Simulator 2); Also, these may not be the only games, it's just what I have tested so far. As I said in the title, the problem is that whenever I launch PUBG (or ETS2) I play for like 3-5 mins and then something happens and my fps drops to 20-30fps, it won't get back whatever I would do, I have to restart my laptop. My normal fps on PUBG is \\~140fps, same thing happens on ETS2, from 80fps to 20-30fps (from that maybe it is some kind of limitation? It doesn't seem to be directly proportional to your max framerate (hope it's a good expression of what I think)). My laptop doesn't seem to get any hotter, my fans aren't revving up or something, if that's what supposed to happen. But, a thing that I have noticed is that in the first 5 minutes (before the problem starts) my CPU usage is around 60-70% and my gpu usage is around 80%, but after my fps drops to 20 fps the CPU goes to 20-30% and gpu to 99%, maybe the CPU is going in idle?? Another thing: from the start of all this I was thinking there is something wrong with the powerplans, I checked them, I was on ultimate performance power plan, I even checked the advanced settings for it, A LOT OF TIMES, and everything seemed fine, until I tried the app called Razer Cortex as a last hope and it didn't work, but it did create a new powerplan that I have noticed, just as a last last hope I selected that power plan and then, all of a sudden PUBG and ETS2 worked, at around 75% of my normal fps tho, but it worked and was fine for me, it worked 2 days and then, today I played pubg for around 3-4 hours and after that installed Valorant and tried a fps boost tutorial on youtube by Panjo ([ after those, I tried launching into the PUBG just to play one more match as of today, but surprise surprise it was not working anymore, i was getting 20 fps, then I thought it was from the fps boost tutorial, but before I reversed the settings I just wanted to check if ETS2 was also running bad, it did.. I still reversed that settings and completely got rid of Valorant, Riot Games Launcher and Riot Vanguard. PUBG and ETS2 still don't work, that's why I'm making this post.. That being said, my laptop is MSI Bravo 15 A4DDR, if you want to get more specs about it, I will list some of them here also: CPU: AMD Ryzen 7 4800h @ 4.2GHz, AMD Radeon 5500M 4GB Vram, 8 GB Ram Thing I tried: \\- Reinstalling Windows 10 two times; \\- Updated all my drivers; \\- Tried to use both, the newest version of driver for GPU by windows and by AMD Software; \\- Scanned my laptop multiple times for malware, using the Windows Defender and software called Malwarebytes; \\- Using the Ultimate Performance power plan and the Razer Cortex power plan (which worked until today) \\- Probably more things that I forgot but will add as soon as I will remember or I will do from comments suggestions. &#x200B; Tomorrow I will try to plug my tv at my laptop to watch my usage and temps of CPU and GPU live and see if I can get more information, any suggestion is welcome, ask me for more information if needed!",
+            "subreddit": "techsupport",
+            "flair": "Open | Software",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/techsupport/comments/s73z4d/constant_20fps_after_5_minutes_of_playing_pubg/",
+            "data_post": 1642529910.0,
+            "comentarios": [
+                {
+                    "id": "ht7h5th",
+                    "conteudo": "If you suspect you may have malware on your computer, or are trying to remove malware from your computer, please see our [malware guide]( *Please ignore this message if the advice is not relevant.* *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/techsupport) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1642529911.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Frame rate drops during gameplay",
+                "suggested_solution": [
+                    "Adjust power plan settings",
+                    "Update GPU driver and BIOS versions"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-02-25",
+                "ancoragem_temporal": {
+                    "data_post": "2022-01-18",
+                    "periodo_referencia": "2022-01"
+                }
+            }
+        },
+        {
+            "id": "1izzvqf",
+            "titulo": "My Laptops cant run anything anymore",
+            "conteudo_post": "MSI bravo 15 Cant even run anything I’ve had this gaming laptop for six months now. It has an AMD Ryzen 7 4800H, 16GB 3200MHz RAM (Upgraded as soon as i purchased it), and a Radeon RX 5500M. I bought it second-hand. At first, I only used it for schoolwork, so I didn’t notice any issues. Recently, I started playing games the game i’m playing is not a triple A games is more like Valorant, Csgo, and Football Manager, but I can’t even get 60 FPS in these games but on youtube with the exact same laptop and same games it runs very good. Sometimes on a game, when there’s a loot going on on the screens the fps even drop to 10-15 and just shuts down in the middle of a game, which made me think it was due to overheating. I tried applying new thermal paste, and while the GPU temperature became normal, the laptop still shuts down randomly during gameplay. The performance is also still trash. what do you think the problem was?",
+            "subreddit": "techsupport",
+            "flair": "Open | Hardware",
+            "score": 0,
+            "upvote_ratio": 0.5,
+            "num_comments": 15,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/techsupport/comments/1izzvqf/my_laptops_cant_run_anything_anymore/",
+            "data_post": 1740718317.0,
+            "comentarios": [
+                {
+                    "id": "mf7dw8q",
+                    "conteudo": "drivers, direct x, the c++ libraries",
+                    "score": 2,
+                    "data_comentario": 1740719920.0
+                },
+                {
+                    "id": "mf7fbgq",
+                    "conteudo": "I am a system builder, nothing wrong with MSI parts by any means....i can certainly say in my experiences their desktop mainboards and vga cards have given me far less headaches than a couple of their competitors. As far as their notebooks go though, yes they are not so good.",
+                    "score": 2,
+                    "data_comentario": 1740720569.0
+                },
+                {
+                    "id": "mf7ivf3",
+                    "conteudo": "Any chance you're using it on battery ? Check the task manager to see if the gpu is even used while gaining",
+                    "score": 1,
+                    "data_comentario": 1740722264.0
+                },
+                {
+                    "id": "mf7l6jh",
+                    "conteudo": "Are you sure your battery is okay? Pc shouldnt turn off randomly",
+                    "score": 1,
+                    "data_comentario": 1740723427.0
+                },
+                {
+                    "id": "mf7rwio",
+                    "conteudo": "How's the temperature?",
+                    "score": 1,
+                    "data_comentario": 1740727074.0
+                },
+                {
+                    "id": "mf7bu2c",
+                    "conteudo": "Not to be snarky, but MSI is not known for quality products. Reloading the operating system, updating the bios and keeping drivers up to date from the manufacturer website could help.",
+                    "score": 1,
+                    "data_comentario": 1740719001.0
+                },
+                {
+                    "id": "mf8thaj",
+                    "conteudo": "im no expert on this stuff but im gonna look it up 👀",
+                    "score": 1,
+                    "data_comentario": 1740747846.0
+                },
+                {
+                    "id": "mf8t1xi",
+                    "conteudo": "when im usingit for gaming i always plug it in, and the gpu is used i check it already",
+                    "score": 1,
+                    "data_comentario": 1740747677.0
+                },
+                {
+                    "id": "mf8swng",
+                    "conteudo": "the battery is the worst part imo, run out so fast. but does battery health had any effect on performance?",
+                    "score": 1,
+                    "data_comentario": 1740747619.0
+                },
+                {
+                    "id": "mf8srn7",
+                    "conteudo": "i had no problem with temperature",
+                    "score": 1,
+                    "data_comentario": 1740747565.0
+                },
+                {
+                    "id": "mf7pqj4",
+                    "conteudo": "I've had my used MSI laptop for 2+ years now and it's still great",
+                    "score": 1,
+                    "data_comentario": 1740725867.0
+                },
+                {
+                    "id": "mf8tmbg",
+                    "conteudo": "imo it either gpu or battery but does battery had any effect on performance, like low battery health is making your pc slower?",
+                    "score": 1,
+                    "data_comentario": 1740747901.0
+                },
+                {
+                    "id": "mfaa8zl",
+                    "conteudo": "when i format my computer the firstr thing i install to play games is the direct x and c++ libraries and the video drivers",
+                    "score": 1,
+                    "data_comentario": 1740764267.0
+                },
+                {
+                    "id": "mf8unp7",
+                    "conteudo": "I dont think so, but you said the laptop shuts down randomly (without blue screen i assume?). Which means something is wrong with the power supply Edit: hmm could be the gpu too, but last time my gpu overheats until it shuts down, the whole pc didnt turn off. just the card.",
+                    "score": 1,
+                    "data_comentario": 1740748302.0
+                },
+                {
+                    "id": "mf8vce7",
+                    "conteudo": "without blue screen, the screen goes black and all the lights (keyboard, power light, etc) is turned off at the same time. like if you hold the power button to force shutdown your laptop that’s exactly what happens",
+                    "score": 1,
+                    "data_comentario": 1740748560.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Hardware Issue Analysis",
+                "detected_fault": "Random shutdowns during gameplay",
+                "suggested_solution": [
+                    "Reload operating system",
+                    "Update BIOS",
+                    "Check power supply unit (PSU)",
+                    "Investigate battery health"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-02-28",
+                    "periodo_referencia": "2025-02"
+                }
+            }
+        },
+        {
+            "id": "1evfhb1",
+            "titulo": "Best laptop/tablet for engineering students",
+            "conteudo_post": "Hi. For starters, i have a gaming laptop (msi bravo 15) and an ipad (9th gen, also equipped with apple pencil 1st gen). I am expecting to be studying electrical engineering in university very soon. I am considering whether or not i should make changes to my setup. During pre uni, i used ipad a lot for jottering on lecture notes, tutorials and not so much of laptop usage during class. I find my laptop very inconvenient to be brought everywhere as it is heavy and the battery drains so fast. Should i maintain the same setup or should i buy lightweight laptops (macbook, hp, microsoft surface). Thank you in advance.",
+            "subreddit": "malaysiauni",
+            "flair": null,
+            "score": 3,
+            "upvote_ratio": 1.0,
+            "num_comments": 5,
+            "categoria": "energy",
+            "url": "https://reddit.com/r/malaysiauni/comments/1evfhb1/best_laptoptablet_for_engineering_students/",
+            "data_post": 1724003873.0,
+            "comentarios": [
+                {
+                    "id": "lit8u2v",
+                    "conteudo": "I would suggest you to maintain the setup. I studied mechanical eng. degree, and almost no one would bring laptops to classes. They only left it in their rooms and used it for assignments, projects and others. Even if they want to show something to lecturers, like reports progress, etc, they would show it through their ipads. Your laptop's specs are already high. Buying a lightweight laptop may downgrade the specs. You may need the high specs-laptop later during your studies for simulations, design and others. (However I'm not sure what kinds of simulations/softwares that EE students would use because I studied ME) If you have extra money, I would suggest you to invest for a 2nd monitor instead.",
+                    "score": 5,
+                    "data_comentario": 1724033235.0
+                },
+                {
+                    "id": "liw39hj",
+                    "conteudo": "Yulp. They used it to annotate slides/taking notes during the lectures.",
+                    "score": 3,
+                    "data_comentario": 1724082980.0
+                },
+                {
+                    "id": "lir2oxf",
+                    "conteudo": "Arm chips for window just entered the market recently. If u are willing to take the risks on software compatibility, go for it. I am talking about the laptops that use snapdragon x elite I personally use m2 mbp simply because my budget allows. Great machine, 10x productivity,",
+                    "score": 1,
+                    "data_comentario": 1724004824.0
+                },
+                {
+                    "id": "liuj80q",
+                    "conteudo": "Well in that case, do people use ipad a lot during lectures? If so, for what reasons?",
+                    "score": 1,
+                    "data_comentario": 1724059189.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Hardware Analysis",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": "Check for latest driver updates and BIOS versions",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2024-08-18",
+                    "periodo_referencia": "2024-08"
+                }
+            }
+        },
+        {
+            "id": "16q5hbs",
+            "titulo": "Is Asus zephyrus g16 or M16 Worth It?",
+            "conteudo_post": "I'm looking for a lightweight decent gaming/editing laptop. Preferably 2kg or 4.4lbs, could stretch up to 2.3 or 5.4lbs if super worth it. No numpad, I think that might cramp the keyboard. I can budget $1,800 USD or so comfortably. I'll probably be viewing and occasionally editing 4k Gopro/Drone footage more often than gaming, just light cuts, so I'm not sure if processing power or graphics card is more important but my current laptop is definitely on the slow side when opening 4k video nonetheless attempting to edit it. 15.6\"/16\" screen size preferred. I'm coming from FHD 144hz, so anything equal or slightly better is nice. I'm seeing a few different options for Asus Zephyrus G16. [This]( one is the most pricey but best specs. A little over $1,800 USD. [This one]( is $166 USD cheaper with only the graphics card being a bit worse, about 4,000 points worse on Benchmark - would the graphics card make a huge difference (14,988 benchmark for the lower, 18,327 for the top spec model). Finally [this one]( is only $1,334, so way cheaper, with the graphics card of the mid one and slightly worse processor + screen is slightly worse but still an upgrade from whatever I've got. So.. is going for the top-spec Zephyrus G16 really worth it or better stick to the middle or cheaper option? Also of interest is Asus Strix, but a bit heavier. Looking at [this one]( which is way cheaper. Again my issue here is I don't know how much of a difference the upgrade in graphics card / processor / screen is going to make in my browser work/editing/light gaming experience, but I do have the update to around $1,800 USD... Finally slightly interested in the Msi Cyborg and [Msi Pulse]( but Cyborg might be under-spec'd and the Pulse a bit on the heavy side. Note that I travel frequently, so lightweight is potentially critical (not sure how much .3kg difference will make, but that adds up on the back over time right? Esp. with other stuff in the bag...). Also Msi Bravo 15 of interest.",
+            "subreddit": "SuggestALaptop",
+            "flair": "Laptop Request",
+            "score": 3,
+            "upvote_ratio": 1.0,
+            "num_comments": 0,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/SuggestALaptop/comments/16q5hbs/is_asus_zephyrus_g16_or_m16_worth_it/",
+            "data_post": 1695478149.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze system state baseline for thermal throttling issue",
+                "detected_fault": "Thermal Throttling due to inadequate cooling system",
+                "suggested_solution": "Regular cleaning and maintenance of the laptop's vents and fans can help prevent overheating issues.",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2023-09-23",
+                    "periodo_referencia": "2023-09"
+                }
+            }
+        },
+        {
+            "id": "lxqe3f",
+            "titulo": "[Costco] MSI Bravo Gaming Laptop R7-4800H 15.6″ 512 + 8 RX5500 $1039",
+            "conteudo_post": "Retailer: Costco never know about gaming laptop/desktop until my 12yrs old start bugging [ … 75859.html ]( $1039 seeking wisdom and comment? Hot, warm, reasonable? cooling system?? – last to want is getting a good deal and broken in 1-2yrs humble to learn The CPU is impressive – Benchmark: 19195 faster than most newer/newest core i7 Pros and Cons AMD vs INTEL?? do i opt for a “better” CPU or a “better” GPU?? do we “need” 16gb Ram vs 8gb?? read some comment here and there stating 8gb is good enough [ … 0H&id=3676 ]( ** Processor and Memory: ** AMD Ryzen™ 7 4800H processor 8 GB DDR4 ** Drives: ** 512 GB SSD No optical drive ** Display and Video Graphics: ** 15.6 in. FHD display (1920 × 1080) 4 GB AMD Radeon™ RX5500M graphics ** Communications: ** Wi-Fi 6 + Bluetooth® 5.0 HD web camera ** Keyboard and Pointing Device: ** English-only backlit keyboard Single backlight with Anti-Ghost key Multi-gesture touchpad ** Ports: ** 2 × USB-C™ 2 × USB 3.2 1 × HDMI® 1 × headphone/microphone combo",
+            "subreddit": "ShopCanada",
+            "flair": "Computers & Electronics",
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/ShopCanada/comments/lxqe3f/costco_msi_bravo_gaming_laptop_r74800h_156_512_8/",
+            "data_post": 1614879616.0,
+            "comentarios": [
+                {
+                    "id": "gpql0ko",
+                    "conteudo": "Bad display please checkout /r/amdlaptops for reviews",
+                    "score": 1,
+                    "data_comentario": 1614917886.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze technical issues with MSI Bravo R7-4800H laptop",
+                "detected_fault": "Thermal throttling due to inadequate cooling system",
+                "suggested_solution": [
+                    "Upgrade the cooling system",
+                    "Consider upgrading the graphics card"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2021-03-04",
+                    "periodo_referencia": "2021-03"
+                }
+            }
+        },
+        {
+            "id": "1gio231",
+            "titulo": "i cant run wz properly",
+            "conteudo_post": "i have a msi bravo 15 with a 4050 and a ryzen 5, and up until yesterday the game was running smooth with consistent 60-70 fps without drops. yesterday a sort of system error had occurred in my laptop where my laptop stopped reading my graphics card but it has happened before and i just had to update my drivers and it was fixed. but then i opened warzone and everything seemed fine until it wasnt. you see i noticed that kept getting 30-60 fps on the MODE SELECTION SCREEN \\[i used to get consistent 140 fps there\\] and when i tried resetting my shaders nothing changed. then i treid to load into a match and my fps dropped from 30 to 6 and it kept saying that my gpu is too hot and when i checked in the task manager to see whats up i noticed that wz was using integrated graphic card instead of my 4050 and i tried every method like checking for bios/driver update, setting the game to high performance in graphics settings so that it forces windows to use 4050 but nothing has worked and its still the same and at this point i cant even load into the pregame lobby. pls help me... T-T",
+            "subreddit": "Warzone",
+            "flair": "Question",
+            "score": 1,
+            "upvote_ratio": 0.67,
+            "num_comments": 4,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/Warzone/comments/1gio231/i_cant_run_wz_properly/",
+            "data_post": 1730644067.0,
+            "comentarios": [
+                {
+                    "id": "lv6k48q",
+                    "conteudo": "Looking forward to Black Ops 6 Zombies? Join our community over on our [Official Discord!]( and [Subreddit!]( *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Warzone) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1730644068.0
+                },
+                {
+                    "id": "lv6kvgj",
+                    "conteudo": "ps. every other game is running smoothly without any problems and is running on my 4050",
+                    "score": 1,
+                    "data_comentario": 1730644332.0
+                },
+                {
+                    "id": "lvb7rby",
+                    "conteudo": "Sorry for being so late, use NVIDA control panel and go to warzone and it should allow you to select what input you want",
+                    "score": 1,
+                    "data_comentario": 1730702195.0
+                },
+                {
+                    "id": "lvbggxw",
+                    "conteudo": "I had to reinstall the game",
+                    "score": 1,
+                    "data_comentario": 1730707943.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "GPU Thermal Throttling and GPU Not Detected",
+                "suggested_solution": [
+                    "Update drivers and BIOS",
+                    "Run a stress test on the GPU",
+                    "Check for BIOS updates and install if available",
+                    "Update drivers to the latest version"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2024-11-03",
+                    "periodo_referencia": "2024-11"
+                }
+            }
+        },
+        {
+            "id": "qk40rs",
+            "titulo": "Need to choose a laptop for unity and gaming",
+            "conteudo_post": "Hi, I'm currently need a laptop for university, I need it for unity and play game like Subnautica, GTA V, genshin impact. So I need to choose between a MSI Bravo 15 with R5 5600H and RX 5500M vs ROG Strix 15 with R7 4800H and GTX 1650,what should I get? And should I try a bit harder to get a HP laptop with r5 5600h and RTX 3050? I don't play and can't buy game with ray tracing available,so it sound like a waste",
+            "subreddit": "Laptop",
+            "flair": null,
+            "score": 4,
+            "upvote_ratio": 0.84,
+            "num_comments": 21,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/Laptop/comments/qk40rs/need_to_choose_a_laptop_for_unity_and_gaming/",
+            "data_post": 1635732232.0,
+            "comentarios": [
+                {
+                    "id": "hiv24xd",
+                    "conteudo": "The build quality is pretty good..and it doesn't run hot in my case Edit: the highest I've seen my CPU temp is at 65-70°C",
+                    "score": 2,
+                    "data_comentario": 1635754659.0
+                },
+                {
+                    "id": "hkhqtuj",
+                    "conteudo": "You are most welcome",
+                    "score": 2,
+                    "data_comentario": 1636832667.0
+                },
+                {
+                    "id": "hiv1or0",
+                    "conteudo": "I got the Strix G15 just recently and it plays GTA very well..the hp does not have good build quality..just choose between the MSI and ASUS..both are good",
+                    "score": 1,
+                    "data_comentario": 1635754215.0
+                },
+                {
+                    "id": "hiv6z20",
+                    "conteudo": "The 5500M is better to that of the 1650, and the difference between the 4800H and 5600H isn't noticeable so I'd go for the Bravo Though if you don't mind, there's a deal on Walmart for a 5600H + 5500M for $699",
+                    "score": 1,
+                    "data_comentario": 1635759410.0
+                },
+                {
+                    "id": "hjdr459",
+                    "conteudo": "Hey, laptop enthusiast here. Do you still need assistance?",
+                    "score": 1,
+                    "data_comentario": 1636089691.0
+                },
+                {
+                    "id": "hiux9dw",
+                    "conteudo": "MSI GF series ran out of stock unfortunately, but I have a question, isn't max Q variant on the GF series usually have lower performance?",
+                    "score": 1,
+                    "data_comentario": 1635749994.0
+                },
+                {
+                    "id": "hiv1y53",
+                    "conteudo": "The HP is a victus one, they still have poor build quality right? And the ROG one, how hot is it? Is the build quality good?",
+                    "score": 1,
+                    "data_comentario": 1635754471.0
+                },
+                {
+                    "id": "hiy0fvm",
+                    "conteudo": "The benchmark said the 5500M weaker than the GTX 1650, so what now? Walmart is not available in my country,sorry",
+                    "score": 1,
+                    "data_comentario": 1635808163.0
+                },
+                {
+                    "id": "hje8ywp",
+                    "conteudo": "Yes, Intel i5 10500H/gtx 1650 max Q vs r5 5600h/ RX 5500M Which one is better?",
+                    "score": 1,
+                    "data_comentario": 1636104993.0
+                },
+                {
+                    "id": "hiy0j2p",
+                    "conteudo": "What benchmark?",
+                    "score": 1,
+                    "data_comentario": 1635808203.0
+                },
+                {
+                    "id": "hkfh7wi",
+                    "conteudo": "&#x200B; r5 5600h/ RX 5500M is better",
+                    "score": 1,
+                    "data_comentario": 1636783963.0
+                },
+                {
+                    "id": "hiv0vmk",
+                    "conteudo": "So it got higher performance? Welp, they out of stock so...",
+                    "score": 1,
+                    "data_comentario": 1635753429.0
+                },
+                {
+                    "id": "hiy7nus",
+                    "conteudo": "Here and here",
+                    "score": 1,
+                    "data_comentario": 1635811377.0
+                },
+                {
+                    "id": "hkfpklt",
+                    "conteudo": "Thank you",
+                    "score": 1,
+                    "data_comentario": 1636790500.0
+                },
+                {
+                    "id": "hiy8aj8",
+                    "conteudo": "A 5500M scores higher than 1650 on balanced power settings, performance is higher, though power usage is higher so if that bothers you, eh",
+                    "score": 1,
+                    "data_comentario": 1635811656.0
+                },
+                {
+                    "id": "hiy8pll",
+                    "conteudo": "Cool, 1 last question, I want to play some android game on my laptop, What should I go for? R7 4800H or R5 5600H",
+                    "score": 1,
+                    "data_comentario": 1635811843.0
+                },
+                {
+                    "id": "hiy91ds",
+                    "conteudo": "Well if you're gonna be emulating Android games, then single core performance is better than having more cores I'd go 5600H",
+                    "score": 1,
+                    "data_comentario": 1635811991.0
+                },
+                {
+                    "id": "hiygy25",
+                    "conteudo": "Cool,I will get the msi",
+                    "score": 1,
+                    "data_comentario": 1635815539.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "analysis",
+                "detected_fault": null,
+                "suggested_solution": null,
+                "technical_severity": "Low",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2021-10-31",
+                    "periodo_referencia": "2021-10"
+                }
+            }
+        },
+        {
+            "id": "twpt5j",
+            "titulo": "HP Victus 16-e0162AX. vs MSI Bravo 15",
+            "conteudo_post": "**HP Victus AMD Ryzen 5 5600H 16.1 inches FHD Gaming Laptop (8GB RAM/512GB SSD/4GB Radeon RX5500M Graphics/Flicker Free Display/Windows 10 Home/MS Office/Mica Silver/2.48 Kg), 16-e0162AX, Black** [Detailed Specs]( *OR* **MSI Bravo Ryzen 5 Hexa Core 5600H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/AMD Radeon RX5500M/144 Hz) Bravo 15 B5DD-043IN Gaming Laptop (15.6 inch, Black, 2.35 Kg)** [Detailed Specs]( &#x200B; I am planning on buying my first laptop but i can't decide between these two laptops with somewhat same specs. Please Help me Decide.",
+            "subreddit": "SuggestALaptop",
+            "flair": "Ask me Anything",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "display",
+            "url": "https://reddit.com/r/SuggestALaptop/comments/twpt5j/hp_victus_16e0162ax_vs_msi_bravo_15/",
+            "data_post": 1649145695.0,
+            "comentarios": [
+                {
+                    "id": "i3gryki",
+                    "conteudo": "This is a Fakespot Reviews Analysis bot. Fakespot detects fake reviews, fake products and unreliable sellers using AI. Here is the analysis for the Amazon product reviews: >**Name**: Victus by HP Ryzen 5 5600H 16.1-inch(40.9 cm) FHD Gaming Laptop (8GB RAM/512GB SSD/4GB Radeon RX5500M Graphics/Flicker Free Display/Windows 10/MS Office/Mica Silver/2.48 Kg), 16-e0162AX, Black >**Company**: Visit the HP Store >**Amazon Product Rating**: 4.4 >**Fakespot Reviews Grade**: B >**Adjusted Fakespot Rating**: 3.2 >**Analysis Performed at**: 03-29-2022 [Link to Fakespot Analysis]( | [Check out the Fakespot Chrome Extension!]( *Fakespot analyzes the reviews authenticity and not the product quality using AI. We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.* *We give an A-F letter for trustworthiness of reviews. A = very trustworthy reviews, F = highly untrustworthy reviews. We also provide seller ratings to warn you if the seller can be trusted or not.*",
+                    "score": 1,
+                    "data_comentario": 1649146872.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "analysis",
+                "detected_fault": "thermal throttling due to inadequate cooling system and high ambient temperatures",
+                "suggested_solution": [
+                    "Ensure proper ventilation and airflow around the laptop",
+                    "Use a high-quality cooling pad or external fan",
+                    "Monitor temperatures during intense gaming sessions",
+                    "Adjust power settings to balance performance and temperature"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2022-04-05",
+                    "periodo_referencia": "2022-04"
+                }
+            }
+        },
+        {
+            "id": "1bpqerh",
+            "titulo": "How to unlock global wattman/tuning option in radeon settings in MSI Bravo 15 Laptop",
+            "conteudo_post": "I want to undervolt my Laptop, but there is no tuning on the AMD radeon software as shown on the picture. If there is any method to enable it. My Laptop model is Bravo 15 A4DDR and the processor is AMD Ryzen 7 4800H with Radeon Graphics, 2900 Mhz, 8 Core(s), 16 Logical Processor(s). BIOS Version/Date is American Megatrends Inc. E16WKAMS.110, 10/29/2020 Any advice or other method about undervolt for this model are greatly appreciated",
+            "subreddit": "MSILaptops",
+            "flair": "Request",
+            "score": 3,
+            "upvote_ratio": 1.0,
+            "num_comments": 11,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/MSILaptops/comments/1bpqerh/how_to_unlock_global_wattmantuning_option_in/",
+            "data_post": 1711614224.0,
+            "comentarios": [
+                {
+                    "id": "kwyopc8",
+                    "conteudo": "you don't, you just need to use morepowertool to unlock and change some stuff and restart your pc, it should work, the flashing vbios part is unnecessary I think. I use to do this on my bravo 15 too",
+                    "score": 3,
+                    "data_comentario": 1711638005.0
+                },
+                {
+                    "id": "kwxuw64",
+                    "conteudo": "If you're on 23.3.2 and newer, you can't",
+                    "score": 2,
+                    "data_comentario": 1711626018.0
+                },
+                {
+                    "id": "kwy5elh",
+                    "conteudo": "use 23.3.1, use morepowertool and tweak your stuff, make sure to unlock voltage setting through msi afterburner then restart your pc and it should be available",
+                    "score": 2,
+                    "data_comentario": 1711630881.0
+                },
+                {
+                    "id": "locbgdh",
+                    "conteudo": "I am interested in this post because I have the same laptop, Bravo 15 A4DDR. I use Universal x86 Tuning Utility to limit the temperature and cores. I installed MSI Afterburner, but it doesn’t seem to work/recognize or modify the values of the RX5500M GPU. I understand that if I install **Radeon drivers 23.3.1**+, **MorePowerTool**, and **unlock the voltage in Afterburner**, then I could access the Radeon tuning mode (and/or MSI Afterburner?), is that correct? Could I do UV+OC to the GPU from MSI Afterburner? I am lost with AMD. I have Nvidia in my desktop and have no problems with afterburner",
+                    "score": 1,
+                    "data_comentario": 1727000337.0
+                },
+                {
+                    "id": "kwyo97h",
+                    "conteudo": "Thank you for the response, I have found a video : [ that are showing how to unlock it. In this video, its show for MSI Alpha 15 but they have the same GPU. Is it fine to install using the vbios for MSI Alpha 15 for my laptop as on Bravo 15 firmware website it doesn't have vbios?",
+                    "score": 1,
+                    "data_comentario": 1711637854.0
+                },
+                {
+                    "id": "m4yrvmk",
+                    "conteudo": "hey, have you tried it? did it work?",
+                    "score": 1,
+                    "data_comentario": 1735794482.0
+                },
+                {
+                    "id": "m5dph0n",
+                    "conteudo": "still not because no one confirm to me that it will work xd. If you try it, please share",
+                    "score": 1,
+                    "data_comentario": 1736011304.0
+                },
+                {
+                    "id": "kx760xh",
+                    "conteudo": "Okay thank you for the response, will try it later",
+                    "score": 1,
+                    "data_comentario": 1711764583.0
+                },
+                {
+                    "id": "m5uy4g2",
+                    "conteudo": "No need to install old drivers, you can undervolt your gpu from MorePowerTool itself. Infact you can adjust many different voltages in MPT.",
+                    "score": 1,
+                    "data_comentario": 1736251300.0
+                },
+                {
+                    "id": "m7nwy5c",
+                    "conteudo": "I couldn't unlock the tuning options :( But I tried what [this]( guy did. While playing elden ring [(with this frame generation mod)]( I managed to reduce both CPU and GPU temperatures from 90 to around 70-75 celcius.",
+                    "score": 1,
+                    "data_comentario": 1737136330.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": [
+                    "Update Drivers: Latest Radeon drivers (23.3.1 or newer)",
+                    "Unlock Voltage Settings: MorePowerTool and MSI Afterburner",
+                    "BIOS Unlocking: Compatible version for Bravo 15 model"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2024-03-28",
+                    "periodo_referencia": "2024-03"
+                }
+            }
+        },
+        {
+            "id": "1lre3xx",
+            "titulo": "Need Help: Chicony A18-150P1A Adapter Overheating & Causing Reboots (MSI Bravo 15 B5DD)",
+            "conteudo_post": "Hey everyone, I’ve got an MSI Bravo 15 B5DD gaming laptop, and recently it’s been **randomly restarting during gaming sessions** (especially in Apex Legends). After checking, I noticed that the **power brick (Chicony A18-150P1A, 150W)** gets **very hot to the touch** when this happens. Here’s a photo of the adapter label: Specs on the brick: * **Model**: A18-150P1A * **Output**: 20V ⎓ 7.5A = 150W * **OEM**: Chicony (original with the laptop) # Symptoms: * Random restarts while gaming (no BSOD). * Adapter gets **very hot**, borderline burning. * No thermal issues with CPU/GPU (they’re cool). * Power drain or failure happens only under heavy GPU load. # What I’ve Tried: * Battery calibration in MSI Center. * Running with and without battery plugged in (still happens). * Adapter gets super warm even with airflow around it. # Questions: 1. Could this be a **failing power brick**? 2. Is **overheating like this normal** for this model? 3. Can anyone recommend a **genuine Chicony/MSI/Any Other replacement** (preferably in India)? 4. Has anyone had similar issues with the **Bravo 15 B5DD**? 5. Will a power brick from any brand work? Any help or recommendations are appreciated. I’m considering getting a replacement but want to be sure before I spend ₹4K–₹10K on a new one. Thanks in advance",
+            "subreddit": "IndianGaming",
+            "flair": "Help",
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 6,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/IndianGaming/comments/1lre3xx/need_help_chicony_a18150p1a_adapter_overheating/",
+            "data_post": 1751619755.0,
+            "comentarios": [
+                {
+                    "id": "n19yymz",
+                    "conteudo": "Join our Discord server *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/IndianGaming) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1751619756.0
+                },
+                {
+                    "id": "n1bslr7",
+                    "conteudo": "So there are two probable issues: 1. The Power Brick is not able to deliver the 150W power needed by the system. Or maybe it is, but it is not good DC. In that case, replacing the power brick will work. 2. The Power IC on the board is going bad. The 2nd option is more likely, because if the brick was not able to supply the needed power, it will take it from battery. But if the battery is also gone, then it will try to throttle the system, not crash it. Perform a test: 1. Open a program to monitor the battery voltage and state. 2. Run Furmark or any other stress test to get the system to draw max power. 3. Keep a note of the voltages and battery state. Is the battery draining while on max power? Is the battery voltage fluctuating massively?",
+                    "score": 1,
+                    "data_comentario": 1751645328.0
+                },
+                {
+                    "id": "n1cb5wg",
+                    "conteudo": "Well I used the laptop without plugging it in and it works perfectly. About the battery fluctuations it's not happening at least I have not noticed that. Bcz until the laptop is below 100 it charges the battery and after that the charging stops and then it uses the direct adapter power and that's when the laptop restarts after 30 min on the adapter and playing the game.",
+                    "score": 1,
+                    "data_comentario": 1751650941.0
+                },
+                {
+                    "id": "n1frbba",
+                    "conteudo": "Are you able to max stress the system at battery only? Is it stable at max stress with battery? If so, it might justbe the power brick. But still, I would advise you to actually monitor the voltages with an overlay or a program with log functionality.",
+                    "score": 1,
+                    "data_comentario": 1751701629.0
+                },
+                {
+                    "id": "n1frl93",
+                    "conteudo": "Okay I will check.",
+                    "score": 1,
+                    "data_comentario": 1751701795.0
+                },
+                {
+                    "id": "n1fs1gk",
+                    "conteudo": "Well bad news on the battery, after 5 min of stress test it restarts. What should I do now.",
+                    "score": 1,
+                    "data_comentario": 1751702066.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Power Brick Overheating Issue",
+                "suggested_solution": "Replace Power Brick with Genuine or Compatible Replacement",
+                "technical_severity": "High",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2025-07-04",
+                    "periodo_referencia": "2025-07"
+                }
+            }
+        },
+        {
+            "id": "1hhbseu",
+            "titulo": "My game stutter so much whenever there's an enemy infront of me",
+            "conteudo_post": "Hi, how are you devs and all? I have this huge stuttering problem starting this new act. I've MSI Bravo 15 c7v (Laptop) connected to an external screen Asus 144 Hz with a display Port . This is my rig details : Operating system: Microsoft Windows 11 Home, Version 10.0.26100 DirectX runtime version: DirectX 12 Driver: Game Ready Driver - 566.36 - Thu Dec 5, 2024 CPU: AMD Ryzen 7 7735HS with Radeon Graphics RAM: 16.0 GB Storage: SSD - 476.9 GB Graphics card GPU processor: NVIDIA GeForce RTX 4060 Laptop GPU Direct3D feature level: 12\\_1 CUDA cores: 3072 Graphics clock: 2250 MHz Max-Q technologies: Gen-5 Dynamic Boost: Yes WhisperMode: Yes Advanced Optimus: No Maximum graphics power: 105 W Memory data rate: 16.00 Gbps Memory interface: 128-bit Memory bandwidth: 256.032 GB/s Total available graphics memory: 15973 MB Dedicated video memory: 8188 MB GDDR6 System video memory: 0 MB Shared system memory: 7785 MB Video BIOS version: 95.07.19.00.34 IRQ: Not used Bus: PCI Express x8 Gen4 Device ID: 10DE 28A0 13DD1462 Part number: 3757 0110 Display (1): Laptop display Resolution: 1920 x 1080 (recommended) Refresh rate: 60 Hz Desktop color depth: Highest (32-bit) Display (2): Ancor Communications Inc VG248 Resolution: 1920 x 1080 (recommended) Refresh rate: 144 Hz Desktop color depth: Highest (32-bit) HDCP: Supported I need help with some settings maybe idk whatever helps me :(",
+            "subreddit": "ValorantTechSupport",
+            "flair": "Technical Discussion",
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 0,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/ValorantTechSupport/comments/1hhbseu/my_game_stutter_so_much_whenever_theres_an_enemy/",
+            "data_post": 1734555974.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Stuttering issue during intense game scenes",
+                "suggested_solution": [
+                    "Update Driver",
+                    "BIOS Update",
+                    "Thermal Monitoring",
+                    "Graphics Settings Adjustment",
+                    "System Maintenance"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2024-12-05 to 2025-01-01",
+                "ancoragem_temporal": {
+                    "data_post": "2024-12-18",
+                    "periodo_referencia": "2024-12"
+                }
+            }
+        },
+        {
+            "id": "1iiuhsm",
+            "titulo": "All of a sudden can’t play games unless in windowed mode",
+            "conteudo_post": "was messing around with my MSI Bravo laptop and ended up installing express vpn, then later i enabled the windows game mode along with norton game mode on my laptop. all of a sudden i can’t play any game without the fps dropping to 1-2 when i usually get 90-120 and higher. If i push the fn or windows key whilst in full screen or windowed borderless the fps will go back up then drop back down shortly after. I already took off the function key lock thing and my drivers are all up to date. not to mention i also made sure my graphics card was preferred so im just very confused on what to do and really really need help. its an MSI Bravo 15 B7ED Processor AMD Ryzen 7 7735HS with Radeon Graphics Graphics Card AMD radeon rx 6550m",
+            "subreddit": "MSILaptops",
+            "flair": "Discussion",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 2,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/MSILaptops/comments/1iiuhsm/all_of_a_sudden_cant_play_games_unless_in/",
+            "data_post": 1738816864.0,
+            "comentarios": [
+                {
+                    "id": "mbaah2p",
+                    "conteudo": "First step, remove the Norton crap.",
+                    "score": 1,
+                    "data_comentario": 1738847176.0
+                },
+                {
+                    "id": "mbe9rw7",
+                    "conteudo": "forgot to mention this was one of the first things i did",
+                    "score": 1,
+                    "data_comentario": 1738889265.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Significant drop in frame rate when running games",
+                "suggested_solution": [
+                    "Remove all antivirus software",
+                    "Update graphics card drivers to the latest available version from AMD",
+                    "Check for BIOS updates and install the latest version from MSI",
+                    "Disable Windows Game Mode and Norton Game Mode",
+                    "Run a clean boot of the system"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-02-06",
+                    "periodo_referencia": "2025-02"
+                }
+            }
+        },
+        {
+            "id": "1cfctex",
+            "titulo": "Slow/unusable Laptop after power outage.",
+            "conteudo_post": "Model: MSI Bravo 15 Gaming Laptop,AMD Ryzen 5 7535HS, 40CM FHD 144Hz Laptop (8GB/512GB NVMe SSD/Windows 11 Home/Nvidia GeForce RTX 2050, GDDR6 4GB/Black/2.25Kg), C7UCXK-095IN I was playing a game on my laptop, plugged in. The electricity went out and the fps dropped alot. So, I connected the backup power (Inverter) and plugged in back but the lagg issue persisted. The laptop became unusable after that. It took to much time too open an app or perform any action. I decided to clean install the windows thinking a virus got in. The windows got fresh installed but It's still very slow. I don't know what is wrong. Our place currently have a ban going on (No shops are allowed to open because of underground tax issue) and I can't even go see a technician. I have no clue if it's an issue with the ram or the SSD. Please help.",
+            "subreddit": "pcmasterrace",
+            "flair": "Tech Support",
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/pcmasterrace/comments/1cfctex/slowunusable_laptop_after_power_outage/",
+            "data_post": 1714327779.0,
+            "comentarios": [
+                {
+                    "id": "loue36c",
+                    "conteudo": "hello have you found a fix?",
+                    "score": 1,
+                    "data_comentario": 1727266861.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze system state baseline for slow performance and lag issues after a power outage.",
+                "detected_fault": "Slow performance, lag issues, inability to open apps or perform actions quickly after a power outage.",
+                "suggested_solution": [
+                    "Monitor laptop's temperature during usage",
+                    "Run memory stress test (e.g., MemTest86+)",
+                    "Verify power supply functionality",
+                    "Ensure all drivers are up-to-date and installed correctly"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2024-04-28",
+                    "periodo_referencia": "2024-04"
+                }
+            }
+        },
+        {
+            "id": "1o9urvt",
+            "titulo": "Can I undervolt my laptop CPU?",
+            "conteudo_post": "I have an MSI Bravo 15 C7V with an R5 7535HS, and it constantly overheats, causing performance drops and forcing me to restart. It really affects me because games that I can normally play at 120 FPS on high settings with my 4050 have to be limited to 40 FPS on low settings to avoid overheating — otherwise, I end up playing at 15–20 FPS. I’ve tried all these undervolting options, and I’m not sure if you can help me find a solution: **BIOS:** there’s no direct option anywhere. **Ryzen Master:** gives the error “RYZEN MASTER INSTALLATION is prohibited from installation on this system.” **ThrottleStop:** “CPU not supported.” **Universal x86 Tuning Utility:** I run it, give it permissions, and nothing happens. Any suggestions?",
+            "subreddit": "AMDHelp",
+            "flair": "Help (Software)",
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/AMDHelp/comments/1o9urvt/can_i_undervolt_my_laptop_cpu/",
+            "data_post": 1760791366.0,
+            "comentarios": [
+                {
+                    "id": "nkn37z0",
+                    "conteudo": "Laptops bios usually dont allow overclocking, undervolting is a form of oc, the hardware is simply not designed for that. If your laptop is excessively overheating like that, chances are u have a problem with the cooling, most of the time it will be a simple solution of cleaning inside fans and ducts from dust, if the laptop is 3+ years old might need to repast cpu & cooling plate, if u r not comfortable opening it send it to a maintenance shop, should be a fairly easy job",
+                    "score": 1,
+                    "data_comentario": 1761070660.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze thermal throttling issue in MSI Bravo 15 Gaming laptop",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": [
+                    "Clean laptop's interior, including fans and ducts",
+                    "Replace CPU and cooling plate (if applicable)",
+                    "Consult professional maintenance shop"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-10-18",
+                    "periodo_referencia": "2025-10"
+                }
+            }
+        },
+        {
+            "id": "1ac9cpy",
+            "titulo": "msi laptop bravo 15 gpu rx5500m not working correctly /freeze",
+            "conteudo_post": "hi all, im really confused by this issue, the laptop MSI bravo 15 ryzen 4800h cpu, gpu rx5500m, either does not choose my dedicated gpu RX5500m for games and even for display or the gpu is broken, the system chooses integrated gpu for everything, and all games stutter and freeze after seconds of running, even when disabling the integrated gpu, when i click on display properties it shows unknown graphics display even though the dedicated rx5500m gpu is identified in device manager. clean Windows 11 64 bit. latest bios default bios setting, default windows settings. the system recognizes both integrated gpu and dedicated gpu in device manager. steps i took: removed graphics using DDU installed amd adrenaline, i tried normal setup, minimal setup and even driver only. using amd cleaning utility nothing seems to work, i even reinstalled clean windows installation. it does not seem hardware since the gpu is identified in the device manager, i could be mistaken. your help is appreciated.",
+            "subreddit": "pcmasterrace",
+            "flair": "Tech Support",
+            "score": 1,
+            "upvote_ratio": 0.67,
+            "num_comments": 1,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/pcmasterrace/comments/1ac9cpy/msi_laptop_bravo_15_gpu_rx5500m_not_working/",
+            "data_post": 1706356852.0,
+            "comentarios": [
+                {
+                    "id": "kjspv94",
+                    "conteudo": "This is why I don't like units with standard Optimus, it can be a mess.",
+                    "score": 0,
+                    "data_comentario": 1706357728.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Technical Analysis",
+                "detected_fault": "RX5500M GPU failure to recognize and utilize dedicated GPU for games and display output",
+                "suggested_solution": "Verify RX5500M GPU seating, check for BIOS updates, reset graphics drivers to default settings, perform clean boot of Windows 11",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2024-01-27",
+                    "periodo_referencia": "2024-01"
+                }
+            }
+        },
+        {
+            "id": "jm05rj",
+            "titulo": "MSI Bravo 15",
+            "conteudo_post": "Hi everyone, just picked up the all AMD MSI Bravo 15. Specs are Ryzen 5 4600H and AMD Radeon 5500M. I've been reading through this sub and I see a lot about temperatures, undervolting etc. Is this necessary for this particular laptop? It's my first gaming laptop ever so I'm not really sure. Cheers",
+            "subreddit": "MSILaptops",
+            "flair": "Discussion",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 2,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/MSILaptops/comments/jm05rj/msi_bravo_15/",
+            "data_post": 1604226508.0,
+            "comentarios": [
+                {
+                    "id": "gasag6r",
+                    "conteudo": "There is no software to undervolt Ryzen laptop CPUs, but it shouldn't be needed because Ryzen CPUs run much cooler than the Intel ones, and even if you need well, there is no way to undervolt it.",
+                    "score": 1,
+                    "data_comentario": 1604232055.0
+                },
+                {
+                    "id": "gbgrn6i",
+                    "conteudo": "Can you please confirm that HDMI output is 4k@30? I’m looking to use 4k external monitor",
+                    "score": 1,
+                    "data_comentario": 1604766947.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "System State Baseline Analysis",
+                "detected_fault": [
+                    "Thermal Throttling",
+                    "BSOD (Blue Screen of Death)"
+                ],
+                "suggested_solution": [
+                    "Temperature monitoring and management",
+                    "Undervolting (optional)",
+                    "Regular driver updates",
+                    "Good cooling solution"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2020-11-01",
+                    "periodo_referencia": "2020-11"
+                }
+            }
+        },
+        {
+            "id": "1pk6gdg",
+            "titulo": "Why different performance on same monitor from different laptops?",
+            "conteudo_post": "I have a work laptop and a personal laptop. The work laptop gives me migraines. I work in healthcare, and IT said the company only uses one laptop model, won't let me use another. So we're trying to recreate my personal laptop display with monitors. My MSI laptop has 144hz, no flickering, matte, gaming laptop with good GPU. The Dell work laptop has integrated graphics and 60hz refresh. The new monitor is 200hz, no flicker, matte, and when I plug in my personal laptop it's great. When I plug in my work laptop, it's terrible and I start getting a headache. What's going wrong? Models: MSI Bravo 15 C7V vs Dell Latitude 3450",
+            "subreddit": "monitor",
+            "flair": "🪛Troubleshooting🪛",
+            "score": 0,
+            "upvote_ratio": 0.5,
+            "num_comments": 0,
+            "categoria": "display",
+            "url": "https://reddit.com/r/monitor/comments/1pk6gdg/why_different_performance_on_same_monitor_from/",
+            "data_post": 1765481110.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Technical Brief: System State Baseline for MSI Bravo 15 Gaming",
+                "detected_fault": "Thermal throttling and display issues",
+                "suggested_solution": "Check for driver updates, adjust power management settings, clean dust from fans and heat pipes",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-12-11",
+                    "periodo_referencia": "2025-12"
+                }
+            }
+        },
+        {
+            "id": "1ls1422",
+            "titulo": "Laptop Shuts Down While Gaming – Charging Only Works After Replugging Adapter",
+            "conteudo_post": "# [Laptop Specs & Info] |Item|Details| |:-|:-| |**Model**|MSI Bravo 15 B5DD| |**CPU**|Ryzen 5 5600H| |**GPU**|Radeon RX 5500M| |**Adapter**|Chicony 150W (20V, 7.5A, 4.5mm × 3.0mm)| |**Battery (52whr)**|\\~14% wear (still holds charge) about 2.5hr on Battery| |**Cooling**|Cleaned vents, new thermal paste applied| # [Power & Temperature Info] * **Gaming Temps:** * CPU: 70–75 °C * GPU: 60–65 °C * **Stress Test (OCCT):** * CPU: \\~90 °C (no throttling or errors) * GPU: \\~70 °C * Adapter sometimes gets hot, but **last crash happened even when it wasn’t too hot**. # [Problem Description] The laptop **randomly shuts down or restarts** during gaming or OCCT stress tests. No BSOD, no warning — just sudden power loss. After this, it **stops charging until I unplug and replug the power brick from the wall**. Everything works fine during light use (like browsing or watching videos). OCCT shows no hardware errors. Battery works and charges normally outside of this issue. # [New Adapter I'm Considering] I’m thinking of replacing the current adapter with a: * **MSI 180W (19.5V, 9.23A, same 4.5mm × 3.0mm plug)** Also saw some **ASUS 150W 20V adapters** that match the original specs. # [Suggestions / Questions] * Could this issue be **just the adapter** failing under load? * Is there any chance it’s something like the **PMIC or charging circuitry** on the motherboard? * Is it safe to use a **19.5V 180W adapter** in place of the original 20V 150W one? Any help or advice would be much appreciated before I go ahead and buy a replacement. Thanks!",
+            "subreddit": "MSILaptops",
+            "flair": "Discussion",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/MSILaptops/comments/1ls1422/laptop_shuts_down_while_gaming_charging_only/",
+            "data_post": 1751688388.0,
+            "comentarios": [
+                {
+                    "id": "n1fc0rw",
+                    "conteudo": "* Could this issue be **just the adapter** failing under load? Could be so test it. * Is there any chance it’s something like the **PMIC or charging circuitry** on the motherboard? Could be, have a profesional diagnose it. * Is it safe to use a **19.5V 180W adapter** in place of the original 20V 150W one? It is but have polarity proper. Also it will charge slower. I would subsequently recommend: \\- clean, repaste, undervolt \\- check for BIOS and firmware updates, alongside driver updates",
+                    "score": 1,
+                    "data_comentario": 1751692880.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Fault Diagnosis and Repair",
+                "detected_fault": "Random shutdowns or restarts during gaming or OCCT stress tests",
+                "suggested_solution": [
+                    "Clean and reapply thermal paste to the CPU and GPU",
+                    "Undervolt the system to reduce power consumption",
+                    "Check for BIOS and firmware updates, alongside driver updates",
+                    "Consider replacing the Chicony 150W adapter with a new one from the same manufacturer or a compatible alternative"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-07-05",
+                    "periodo_referencia": "2025-07"
+                }
+            }
+        },
+        {
+            "id": "1dtrsn4",
+            "titulo": "Would it run on MSI Bravo 15?",
+            "conteudo_post": "Hi! Would I run the game on MSI Bravo 15? I have the AMD base and I'm worried about overheating, too. I have a cooling pad, but it's not making a difference. I really liked the game. I binge-watched a 25-episode series on YT yesterday. The guy stopped with it, all they did, actually. I can find that people stopped uploading content of it a month ago. Any idea why that would happen?",
+            "subreddit": "Bellwright",
+            "flair": null,
+            "score": 0,
+            "upvote_ratio": 0.33,
+            "num_comments": 0,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/Bellwright/comments/1dtrsn4/would_it_run_on_msi_bravo_15/",
+            "data_post": 1719941975.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze Thermal Throttling Issues",
+                "detected_fault": "Overheating",
+                "suggested_solution": [
+                    "Check system requirements",
+                    "Monitor temperatures",
+                    "Use a cooling pad",
+                    "Update drivers and BIOS"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2024-07-02",
+                    "periodo_referencia": "2024-07"
+                }
+            }
+        },
+        {
+            "id": "knohcj",
+            "titulo": "Intagrated GPU with dedicated GPU",
+            "conteudo_post": "Hello everyone, My GF just got a brand new MSI bravo 15 notebook (Ryzen 5 4600h, RX5500m). We have set up everything, Radeon software, MSI dragon Center, battery and performance settings in windows. While playing, both the GPUs are working, the integrated one (GPU1) is under around 30-70% usage, while the RX5500m (GPU2) is between 20-70% load value. The load keeps jumping between the values, usually when the GPU1 is low, the GPU2 is high and vice versa. We do not experience any performance struggle yet, but I feel like it is strange. Shouldn't GPU1 be 0 and GPU2 under full load, when I want maximal performance? (The notebook is obviously plugged in). After running a benchmark, (it is userbenchmark, what is definitely not fully reliable, but for this kind of experiment it is fine, I suppose) only GPU1 is used, GPU 2 is not even in the benchmark and does not even run. Is this behavior completely fine and usual, or is something wrong? Btw is there a way to set GPU 2 as the default, so we don't have to go in the Windows setting and apply it manually every single time there is a new game? Thank you for the help 😊. Cheers",
+            "subreddit": "Amd",
+            "flair": "Discussion",
+            "score": 2,
+            "upvote_ratio": 0.62,
+            "num_comments": 5,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/Amd/comments/knohcj/intagrated_gpu_with_dedicated_gpu/",
+            "data_post": 1609414409.0,
+            "comentarios": [
+                {
+                    "id": "ghljvr6",
+                    "conteudo": "Depends on the game. Games like ashes of singularity can take advantage of multiple gpus even if they are on a cpu. Any game with multi gpu support will use them both.",
+                    "score": 4,
+                    "data_comentario": 1609414823.0
+                },
+                {
+                    "id": "ghlzql3",
+                    "conteudo": "I have the dell g5 se...similar setup, but with the 5600m It has similar behaviour, I believe when using the laptop screen, the discrete gpu copies over the the integrated gpu frame buffer, showing some usage there As for benchmarks, you will need to download something like uniengine valley/heaven to test the discrete gpu",
+                    "score": 3,
+                    "data_comentario": 1609427169.0
+                },
+                {
+                    "id": "ghm2r8x",
+                    "conteudo": "I believe the selected GPU depends on whether you're in Power-Saving or High-Performance mode. If you lock your notebook into High Performance mode (usually by plugging it in) Windows should default to using the High Performance (discrete) GPU.",
+                    "score": 2,
+                    "data_comentario": 1609428887.0
+                },
+                {
+                    "id": "ghrol84",
+                    "conteudo": "Well, I tried my best. I thought it's rather clear, that I'm not a native speaker. If you could point out my mistakes instead of bullying, that would be appreciated.",
+                    "score": 1,
+                    "data_comentario": 1609541192.0
+                },
+                {
+                    "id": "ghrnt4v",
+                    "conteudo": "Learn how to spell like an adult and then we can talk.",
+                    "score": 0,
+                    "data_comentario": 1609540773.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze system behavior during simultaneous GPU usage",
+                "detected_fault": "Variable GPU usage levels during gaming sessions",
+                "suggested_solution": [
+                    "Benchmarking",
+                    "Power Management",
+                    "Driver Updates",
+                    "System Monitoring"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2020-12-31",
+                    "periodo_referencia": "2020-12"
+                }
+            }
+        },
+        {
+            "id": "1eh9k0v",
+            "titulo": "MSI Bravo is good for school and gaming?",
+            "conteudo_post": "Im looking for a laptop under $800 and i found it the MSI Bravo 15 Ryzen 5-7535HS with 16GB RAM DRR5 - GeForce RTX 4050 6GB Someone gets experience with this laptop and how works in the daily? Any better option?",
+            "subreddit": "MSILaptops",
+            "flair": null,
+            "score": 0,
+            "upvote_ratio": 0.25,
+            "num_comments": 18,
+            "categoria": "display",
+            "url": "https://reddit.com/r/MSILaptops/comments/1eh9k0v/msi_bravo_is_good_for_school_and_gaming/",
+            "data_post": 1722492911.0,
+            "comentarios": [
+                {
+                    "id": "lfy5kge",
+                    "conteudo": "I use the 4060 variant and it is decent. You need to be careful with the hinges as they are not \"made out of titanium\" and the battery is relatively weak. Tinkering with power settings will solve the latter. If I were you I would not buy anything which has less than 8 Gigs of VRAM.",
+                    "score": 4,
+                    "data_comentario": 1722502863.0
+                },
+                {
+                    "id": "lfy6kn8",
+                    "conteudo": "My brother is using bravo 15 but with other cpu and gpu.. It has been more than a year since he bought it..and still there is absolutely no hinge problem or any other build issue. Dont let other people shit on MSI when 90% didnt even bought it and just follow the herd. Yeah battery backup is weak which is expected in a gaming laptop. Make sure to open laptop from middle for a better hinge life and if possible buy a stand so that the dust doesnt enter your laptops fan.",
+                    "score": 3,
+                    "data_comentario": 1722503564.0
+                },
+                {
+                    "id": "lfxubi2",
+                    "conteudo": "Buy the one with a 7735 instead",
+                    "score": 2,
+                    "data_comentario": 1722495247.0
+                },
+                {
+                    "id": "lfz9671",
+                    "conteudo": "I bought this, well the C7VFK, absolute shit build quality, had issues with the display cable, was able to get a full refund though.",
+                    "score": 2,
+                    "data_comentario": 1722521860.0
+                },
+                {
+                    "id": "lfyra84",
+                    "conteudo": "You'd think by now MSI would have sorted it out, but they only give goods hinges on the HX models and up, Idk why they cut so many corners",
+                    "score": 2,
+                    "data_comentario": 1722514967.0
+                },
+                {
+                    "id": "lfyw3gj",
+                    "conteudo": "Yh some are good but they do cut corners, good to hear it's good though 👍",
+                    "score": 2,
+                    "data_comentario": 1722517014.0
+                },
+                {
+                    "id": "lfy38am",
+                    "conteudo": "gaming laptops are horrible for school and never buy a 4050 gpu please",
+                    "score": 1,
+                    "data_comentario": 1722501257.0
+                },
+                {
+                    "id": "lfylban",
+                    "conteudo": "i have this laptop i mostly play hellsdriver and some other games it runs them pretty good",
+                    "score": 1,
+                    "data_comentario": 1722512186.0
+                },
+                {
+                    "id": "lfy3c88",
+                    "conteudo": "i have had mine for my last 2-3 years of school and i wish i bought a normal laptop instead, the battery always runs out too fast, nvidia drivers mess up gpu power usage ALL THE TIME idk why",
+                    "score": 1,
+                    "data_comentario": 1722501332.0
+                },
+                {
+                    "id": "lfy5frz",
+                    "conteudo": "Just wondering why not 4050?",
+                    "score": 1,
+                    "data_comentario": 1722502774.0
+                },
+                {
+                    "id": "lg1r7d7",
+                    "conteudo": "Why not the 4050?",
+                    "score": 1,
+                    "data_comentario": 1722550465.0
+                },
+                {
+                    "id": "lfyslgs",
+                    "conteudo": "My brothers laptop is mere 60000 INR or about 700 dollars..which is the low end series by msi..yet no problem at all",
+                    "score": 1,
+                    "data_comentario": 1722515540.0
+                },
+                {
+                    "id": "lfyr5kd",
+                    "conteudo": "Well don't but it for fucking school then lmao, they are meant to be plugged in most of the time :/",
+                    "score": 1,
+                    "data_comentario": 1722514911.0
+                },
+                {
+                    "id": "lfylfe8",
+                    "conteudo": "me two i wanna know a 4050 is good enough for all the games rn",
+                    "score": 1,
+                    "data_comentario": 1722512242.0
+                },
+                {
+                    "id": "lfzqyuv",
+                    "conteudo": "yeah now i know that they are meant to be plugged in 😅",
+                    "score": 1,
+                    "data_comentario": 1722527637.0
+                },
+                {
+                    "id": "lfxr4mu",
+                    "conteudo": "Looks good",
+                    "score": 0,
+                    "data_comentario": 1722493218.0
+                },
+                {
+                    "id": "lfxucnn",
+                    "conteudo": "MSI may not be the best choice depending on if anything else is in your price range.",
+                    "score": 0,
+                    "data_comentario": 1722495268.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "analysis",
+                "detected_fault": [
+                    "thermal throttling",
+                    "weak battery life"
+                ],
+                "suggested_solution": [
+                    "adjust power settings",
+                    "consider alternative options with better GPU and hinge design"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2024-08-01",
+                    "periodo_referencia": "2024-08"
+                }
+            }
+        },
+        {
+            "id": "14gfy8i",
+            "titulo": "PC stuck in repairing disk errors",
+            "conteudo_post": "PC stuck in repairing Hello! Something weird has been happening to my laptop (MSI Bravo 15, Ryzen 5 5600H, 8GB, 512GB SSD, AMD Radeon RX5500 4GB, 15,6\" 144Hz). Sometimes out of nowhere, the main screen (laptop display) would go black and the pc would freeze (second monitor would still project image). This has been happening for maybe half a year? But its not constant, so I thought it was just the pc overheating as it tends to do when I play too much or too demanding games. However today something else happened, the typical black screen and freeze appeared and, as usual, I just rebooted the PC as I normally do, but this time in the boot screen the message \"Preparing Auto Repair\" appeared, followed by a black screen that lasted at least 10 minutes. Then appeared the \"diagnosing\" section and now it has been stuck at \"Repairing disk errors. This might take over an hour to complete\" for at least 5 hours. Is this normal? What should I do? Additional info: - My drivers are supposedly up to date according to a driver management software I use. - Antivirus scanned a few days ago with 0 results. - Neither SDD are completely full, one's at 80% other at 50%. - Had some issues with the laptop during summer 2022 where my PC would reach 110 °C when gaming. I took it to the technician and they changed the cooling system and has been working better, but still sometimes overheats to around 100 °C.",
+            "subreddit": "pchelp",
+            "flair": null,
+            "score": 3,
+            "upvote_ratio": 0.81,
+            "num_comments": 6,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/pchelp/comments/14gfy8i/pc_stuck_in_repairing_disk_errors/",
+            "data_post": 1687470084.0,
+            "comentarios": [
+                {
+                    "id": "jp59mcp",
+                    "conteudo": "Remember to check our discord where you can get faster responses! *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/pchelp) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1687470084.0
+                },
+                {
+                    "id": "jp5m476",
+                    "conteudo": "Download crystaldiskinfo or any other SMART tool and see what the drives are reporting. Maybe they’re low health.",
+                    "score": 1,
+                    "data_comentario": 1687475601.0
+                },
+                {
+                    "id": "jp84lrp",
+                    "conteudo": "You are wasting your time. Reinstal Windows it s the only way",
+                    "score": 1,
+                    "data_comentario": 1687529852.0
+                },
+                {
+                    "id": "jp5m90b",
+                    "conteudo": "The thing is I can't even boot the pc. When I boot it automatically redirects to the automatic repair.",
+                    "score": 1,
+                    "data_comentario": 1687475663.0
+                },
+                {
+                    "id": "jp85wwg",
+                    "conteudo": "I cant even boot windows from a usb without getting through the automatic repair process. ;;",
+                    "score": 1,
+                    "data_comentario": 1687530424.0
+                },
+                {
+                    "id": "jp5mgrn",
+                    "conteudo": "Let it run overnight?",
+                    "score": 1,
+                    "data_comentario": 1687475764.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Disk errors and persistent boot loop",
+                "suggested_solution": [
+                    "Run diagnostic test with SMART tools",
+                    "Check for BIOS updates",
+                    "Verify driver updates",
+                    "Run disk check or cleanup"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2023-02-28",
+                "ancoragem_temporal": {
+                    "data_post": "2023-06-22",
+                    "periodo_referencia": "2023-06"
+                }
+            }
+        },
+        {
+            "id": "1kdrcd5",
+            "titulo": "MSI Bravo 15 starts tweaking once I start to play a game",
+            "conteudo_post": "My MSI Bravo 15 starts to to flicker and show black screens about a minute after I open a game. I can have it open for hours on other programs but once I open a game it's starts doing this. I already had the lcd replaced and the loose cables foxed. What could be the problem? Also another plan of mine is to buy another laptop, what brands would y'all suggest that would have good quality for a mid end gaming laptop. Never buying from MSI again if their \"gaming\" laptop is tweaking from operating games. TYIA for all the responses.",
+            "subreddit": "techsupport",
+            "flair": "Open | Hardware",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 0,
+            "categoria": "display",
+            "url": "https://reddit.com/r/techsupport/comments/1kdrcd5/msi_bravo_15_starts_tweaking_once_i_start_to_play/",
+            "data_post": 1746273718.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Technical Brief: System State Baseline for MSI Bravo 15 Gaming",
+                "detected_fault": "Thermal Throttling and Random System Crashes (BSOD) during gaming sessions.",
+                "suggested_solution": [
+                    "Ensure proper cooling system and adequate airflow around the laptop.",
+                    "Update drivers and BIOS to the latest versions.",
+                    "Run a virus scan and malware removal tool to ensure the system is free from any malicious software.",
+                    "Consider purchasing a laptop with a more efficient cooling system, such as dual fans or liquid cooling.",
+                    "Invest in a high-quality power supply unit (PSU) to provide stable power to the system."
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2025-05-03",
+                    "periodo_referencia": "2025-05"
+                }
+            }
+        },
+        {
+            "id": "1ejnwkr",
+            "titulo": "Audio stuttering with frame rate stutters",
+            "conteudo_post": "I recently picked up the Game Capture Neo to record PS5 gameplay. While I am able to record it, I have problems with audio and video being very stuttery with the 4K Capture Utility. No matter how much I change the video quality, going as low as I can both for the Utility and the PS5 at 720p, and even with the bitrate change to many variations, the audio is stuttery and the framerate is very low. More than most likely less than 30. If it helps, I'm using the original USB-C to USB-A cord that came with the device, with the computer I use being the MSI Bravo 15 B7E. I am using the USB-A port that is 3.0 (3.2 for specification). Any kind of assistance is appreciated.",
+            "subreddit": "elgato",
+            "flair": "Technical Help",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 3,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/elgato/comments/1ejnwkr/audio_stuttering_with_frame_rate_stutters/",
+            "data_post": 1722749818.0,
+            "comentarios": [
+                {
+                    "id": "lgfabxr",
+                    "conteudo": "I'm not familiar with AMD Radeon RX 6550M, but I assume it's better than the minimum required equivariant Nvidia 10xx GPU. Your Ryzen 7 CPU, should also be just above the minimum required. Have you seen if there are newer chipset drivers available? You should be able to find them [here]( Also, could you try OBS, to see if you get similar results with the audio? You can download OBS [here](",
+                    "score": 2,
+                    "data_comentario": 1722759324.0
+                },
+                {
+                    "id": "lghax3k",
+                    "conteudo": "I tried the chipset driver download first, but it said that I was up-to-date on them. I then tried OBS to see if that had similar results, and it did not. The audio was not stuttering, or stuttering much if present, at all. It even helped with the framerate as well, which was a shock to me. Thank you so much for the help!",
+                    "score": 2,
+                    "data_comentario": 1722792463.0
+                },
+                {
+                    "id": "lghb9tz",
+                    "conteudo": "OBS it is then. :) I can't tell you why it does that, but I can tell you that OBS is very powerful and doesn't use unnecessary resources.",
+                    "score": 2,
+                    "data_comentario": 1722792582.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Audio Stuttering and Frame Rate Stutters during PS5 Gameplay Recording",
+                "suggested_solution": [
+                    "Update BIOS to latest version if available.",
+                    "Check for any newer chipset drivers for AMD Radeon RX 6550M and install them if necessary.",
+                    "Consider updating the operating system to a more recent version.",
+                    "Verify that the USB-C to USB-A cable is properly connected and not damaged."
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2024-08-04",
+                    "periodo_referencia": "2024-08"
+                }
+            }
+        },
+        {
+            "id": "1bgsdz8",
+            "titulo": "Which one to buy ?",
+            "conteudo_post": "Ok so I am confused between these two laptops because the msi one have almost no reviews and yt videos at all ?!!? Like how is that possible ik it was costly before so nobody bought it and made any video Like the 4050 is 105watt one plus my main concern is which one has better thermals and and less loud If you know someone who got any one of them, or which can a better option like the specs are almost same but idk the cpu difference cause I can't find any videos of msi bravo 15 and are the thermals and fan noise thing better in bravo ?",
+            "subreddit": "Indiangamers",
+            "flair": "PC Recommendations",
+            "score": 9,
+            "upvote_ratio": 0.85,
+            "num_comments": 15,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/Indiangamers/comments/1bgsdz8/which_one_to_buy/",
+            "data_post": 1710662575.0,
+            "comentarios": [
+                {
+                    "id": "kv9jkhg",
+                    "conteudo": "I have it and have been using it primarily for gaming for the last 6 months and never had a issue the build quality is good and I think it's after sales is better than msi in india and it definitely isn't thin and light",
+                    "score": 4,
+                    "data_comentario": 1710673079.0
+                },
+                {
+                    "id": "kv9jl67",
+                    "conteudo": "Acer nitro v I have it and it's great",
+                    "score": 3,
+                    "data_comentario": 1710673093.0
+                },
+                {
+                    "id": "kv96c56",
+                    "conteudo": "Never buy Acer Nitro!!! You can thank me later!",
+                    "score": 3,
+                    "data_comentario": 1710663173.0
+                },
+                {
+                    "id": "kv96k3y",
+                    "conteudo": "Why ?",
+                    "score": 2,
+                    "data_comentario": 1710663342.0
+                },
+                {
+                    "id": "kv9mcp6",
+                    "conteudo": "It's Great I have planning to but this variant rtx 4050 Buy from official acer site u will get 7% student discount",
+                    "score": 1,
+                    "data_comentario": 1710674986.0
+                },
+                {
+                    "id": "kv9mjve",
+                    "conteudo": "Msi usually have crappy screen (check more on the screen details. Acer usually have crappy everything. Look for Asus or Dell. even if it's a bit expensive it helps in the long run.",
+                    "score": 1,
+                    "data_comentario": 1710675117.0
+                },
+                {
+                    "id": "kv9o0v0",
+                    "conteudo": "I don't know much about that but prefer Asus though. Also i purchased Lenovo IdeaPad Gaming laptop and it runs all my games smoothly without any lag at high quality. Cooling is somehow better and overall for me it's good. The budget for mine was around 65k and i bought a wireless keyboard and mouse with it too for gaming. Also the laptop is ryzen 5 with radeon graphics, and 16+512. Just check it out on Amazon and see",
+                    "score": 1,
+                    "data_comentario": 1710676065.0
+                },
+                {
+                    "id": "kv9zl2o",
+                    "conteudo": "Bro go with new loq 2024 model with hx processor",
+                    "score": 1,
+                    "data_comentario": 1710682098.0
+                },
+                {
+                    "id": "kvao0bl",
+                    "conteudo": "Happy to Inform, I got you a deal Customized Lenovo LOQ with 95w 4050 from Lenovo's official web with a much better screen, Build, Thermals, etc ( [ ) If I were you I would also get the RAM & SSD Upgrade so I would have less problems in future I think You can get a 10% off with the help of a Student ID on Uniday sale (they run those pretty frequently), ask people on r/IndianGaming 's Discord, they can help",
+                    "score": 1,
+                    "data_comentario": 1710691477.0
+                },
+                {
+                    "id": "kvjrg0t",
+                    "conteudo": "Both are having single cooling channel....you will need powerfull cooling pad if you are planning to play games frequently.",
+                    "score": 1,
+                    "data_comentario": 1710833774.0
+                },
+                {
+                    "id": "kvbbyy8",
+                    "conteudo": "buy a 30 k pc and ps5 digital it will be worth it laptops graphic card outdate so fast",
+                    "score": 1,
+                    "data_comentario": 1710699763.0
+                },
+                {
+                    "id": "kva6hac",
+                    "conteudo": "Don’t buy any. The manufacturer is shit and rtx 3050 is dogshit",
+                    "score": 0,
+                    "data_comentario": 1710684988.0
+                },
+                {
+                    "id": "kva1ren",
+                    "conteudo": "The msi in the option is same as acer nitro but it has one additional downside, it's hinges break very easily. Also, I know a tech repair guy who told that he has repaired like 150+ msi laptop with faulty motherboards. So acer nitro is actually the better option. Both equally terrible",
+                    "score": 0,
+                    "data_comentario": 1710683046.0
+                },
+                {
+                    "id": "kv9cvkh",
+                    "conteudo": "Plus thermals are super crap",
+                    "score": 0,
+                    "data_comentario": 1710668190.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Comparison Analysis",
+                "detected_fault": [
+                    "Thermal Throttling",
+                    "Fan Noise"
+                ],
+                "suggested_solution": [
+                    "Upgrade RAM and Storage",
+                    "Invest in a Cooling Pad"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2024-03-17",
+                    "periodo_referencia": "2024-03"
+                }
+            }
+        },
+        {
+            "id": "xgcrqv",
+            "titulo": "Missing manual tuning option in amd software performance tab",
+            "conteudo_post": "Hi, I would like to overclock my laptop gpu RX5500M because I suffer playing sims 4 with millions of stutter. Its MSI Bravo 15 and the temperature is pretty much fine, I had never seen the gpu went over 80deg celcius. Anyway, msi afterburner dont have option to tune anything, I managed to make the tuning option in radeon settings exist using msi afterburner settings to disable and enable some things. Now the tuning option is there, I cant seem to tune anything.",
+            "subreddit": "overclocking",
+            "flair": "Help Request - GPU",
+            "score": 5,
+            "upvote_ratio": 1.0,
+            "num_comments": 2,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/overclocking/comments/xgcrqv/missing_manual_tuning_option_in_amd_software/",
+            "data_post": 1663389595.0,
+            "comentarios": [
+                {
+                    "id": "iosn5r7",
+                    "conteudo": "Amd locks down their laptop gpus, cannot manually tune. Programs like MPT, more power tool, can still change some of their settings but use that at your own risk. Stutter wouldn't be solved by OCing anyhow. Its probably game specific issue or overall driver issue. Could of course be cpu overloaded, wifi, or connectivity beyond your house. 6600m is supported cia drivera from at least late 2021 to present so u can try mamy different drivers.",
+                    "score": 1,
+                    "data_comentario": 1663421932.0
+                },
+                {
+                    "id": "iosrdc2",
+                    "conteudo": "you mean I can try 6600m driver on 5500m? also flash 6600m bios on 5500m? I thought this one is only for desktop but ok. Yeah the stutter turns out to be sims 4 problem but I have seen other using overclocking their rx5500m and I wonder how they do it",
+                    "score": 1,
+                    "data_comentario": 1663423917.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze thermal throttling and stuttering issues in Sims 4 on MSI Bravo 15 Gaming Laptop",
+                "detected_fault": "Thermal Throttling and Stuttering Issues",
+                "suggested_solution": [
+                    "Update drivers",
+                    "System configuration optimization",
+                    "Game optimization",
+                    "Overclocking with alternative tools"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2022-09-17",
+                    "periodo_referencia": "2022-09"
+                }
+            }
+        },
+        {
+            "id": "gv9gtp",
+            "titulo": "What's with the Heft of some Gaming Laptops?",
+            "conteudo_post": "**Svelt ones:** MSI Bravo 15 = 1.86 Kg (4.1 Lbs) Eluktronics Mag 15 = 1.88 Kg (4.15 Lbs) Mechrevo Jiaolong /Eluktronics RP15 = 1.96 Kg (4.32 Lbs) Asus G15 = 2.1 Kg (4.63 Lbs) &#x200B; **Need Diet: (my back is hurting reading this list)** HP Omen = 2.46 Kg (5.42 Lbs) Lenovo Legion = 2.5 Kg (5.5 Lbs) Dell G5 15 SE = 2.68 Kg (5.91 Lbs) WT@# Dell...you put very nice guts into a pig of a chassis. Own/Disown Test....max CPU 105 °C @ 115W! what is going on? [ Yes some are using Magnesium but are not charging more for it. Edit: Eurocom Nightsky ARX 15 is 2.6 Kg (5.7 Lb) is lighter than the Dell! This thing can handle the 3950X and RTX 2070. [",
+            "subreddit": "AMDLaptops",
+            "flair": "QUESTION",
+            "score": 0,
+            "upvote_ratio": 0.5,
+            "num_comments": 17,
+            "categoria": "energy",
+            "url": "https://reddit.com/r/AMDLaptops/comments/gv9gtp/whats_with_the_heft_of_some_gaming_laptops/",
+            "data_post": 1591112099.0,
+            "comentarios": [
+                {
+                    "id": "fsnpx3n",
+                    "conteudo": "Which one won't go above 85c?",
+                    "score": 6,
+                    "data_comentario": 1591120954.0
+                },
+                {
+                    "id": "fsnblvs",
+                    "conteudo": "The Dell G5 SE is heavier due to its mammoth cooling solution. Copper is heavy",
+                    "score": 5,
+                    "data_comentario": 1591114154.0
+                },
+                {
+                    "id": "fsnl1jw",
+                    "conteudo": "People are too spoiled nowadays.. It's a freakin gaming laptop, not an ultrabook",
+                    "score": 5,
+                    "data_comentario": 1591118656.0
+                },
+                {
+                    "id": "fsnew2h",
+                    "conteudo": "Dude, my old Asus Rog G751jt is 5.3kg, and that's before you consider the charging block which is quite heavy too (not sure the exact number)...",
+                    "score": 4,
+                    "data_comentario": 1591115734.0
+                },
+                {
+                    "id": "fsnegja",
+                    "conteudo": "Asus g14 1.6kg",
+                    "score": 2,
+                    "data_comentario": 1591115527.0
+                },
+                {
+                    "id": "fso5ifc",
+                    "conteudo": "My current Asus G53 weighs 8.5 pounds, more than 10 lbs with the power brick. 5 lbs is nothing. I can't wait to replace it with one of these relatively thin and light laptops (yes, any of them)",
+                    "score": 2,
+                    "data_comentario": 1591128233.0
+                },
+                {
+                    "id": "fsncu8m",
+                    "conteudo": "*Cries in Toshiba X205*",
+                    "score": 1,
+                    "data_comentario": 1591114749.0
+                },
+                {
+                    "id": "fsq0ves",
+                    "conteudo": "Why not consider the MAX-15? It is the only 15.6\" gaming laptop to ever weigh less than 4 pounds and it's still rocking max-p properly instead of max-q like the rest.",
+                    "score": 1,
+                    "data_comentario": 1591167240.0
+                },
+                {
+                    "id": "fsnm390",
+                    "conteudo": "Just comparing 15\" models",
+                    "score": 1,
+                    "data_comentario": 1591119150.0
+                },
+                {
+                    "id": "fsqqigj",
+                    "conteudo": "No AMD option on this chassis. RP-15 looks like based on this chassis with aluminum frame? Impressive weight though....1.73 Kg (3.82 Lb) but $250 USD more...:-(",
+                    "score": 1,
+                    "data_comentario": 1591189090.0
+                },
+                {
+                    "id": "fsnta3s",
+                    "conteudo": "I think gaming laptop. I search performance and light weight too",
+                    "score": 1,
+                    "data_comentario": 1591122534.0
+                },
+                {
+                    "id": "fsors6r",
+                    "conteudo": "Max temp 85c. The review says graph is wrong",
+                    "score": 1,
+                    "data_comentario": 1591139090.0
+                },
+                {
+                    "id": "fsp66is",
+                    "conteudo": "No where in article he said graph was wrong. Why would you say your own graph is wrong? Just paste in the correct graph. It only takes two seconds. I believe he read the SOC temp as the CPU temp.",
+                    "score": 1,
+                    "data_comentario": 1591147136.0
+                },
+                {
+                    "id": "fsp6w02",
+                    "conteudo": "Correct. Graph is wrong. Review states that. 85c max.",
+                    "score": 1,
+                    "data_comentario": 1591147536.0
+                },
+                {
+                    "id": "fsolukb",
+                    "conteudo": "Dell G5 SE Hot Hardware test max CPU temp 105.8°C [ MSI Bravo 17\" (cannot find data for 15\") max CPU temp 94°C CPU/GPU stress test [ Eluktronics RP-15 max CPU temp 94°C prime 95 [ Asus G15 max CPU temp \\~90°C gaming. No standards for thermal testing....Hot Hardware didn't say what load they were running. Need to look at more reviews.",
+                    "score": 0,
+                    "data_comentario": 1591136060.0
+                },
+                {
+                    "id": "fsnm153",
+                    "conteudo": "Competitors can cool with a lighter cooling solution.",
+                    "score": -1,
+                    "data_comentario": 1591119123.0
+                },
+                {
+                    "id": "fsnne9p",
+                    "conteudo": "All the laptops on the list are gaming laptops with 15.6\" screens....just some are better engineered than others. Average heavy laptops are 35-50% heavier than lighter ones.",
+                    "score": -2,
+                    "data_comentario": 1591119766.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze technical data for the MSI Bravo 15 Gaming Laptop",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": "None mentioned",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2020-06-02",
+                    "periodo_referencia": "2020-06"
+                }
+            }
+        },
+        {
+            "id": "1i6idhe",
+            "titulo": "My laptop doesn't recover its performance after cooling down from overheating.",
+            "conteudo_post": "I have an MSI Bravo 15, and it performs correctly under normal conditions. The fan speed changes according to usage normally and generally keeps a low profile, not making much noise. However, when I start playing a demanding game, the temperature rises quickly and reaches a point where the fans ramp up to maximum, and the GPU and CPU usage is limited to 40%, causing the temperature to drop rapidly. Within seconds, the temperature goes back to low values. However, despite this, neither the fans nor the performance recover, and I have to restart the computer for it to work again. Another note is that if I activate MSI's Cooler Boost mode before starting a game, even though the temperature reaches high (normal) values, the temperature and performance stay stable. But this only works if I have the fans at maximum before starting any demanding process. I have already tried updating the BIOS, all drivers and formatting the PC.",
+            "subreddit": "techsupport",
+            "flair": "Open | Hardware",
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 0,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/techsupport/comments/1i6idhe/my_laptop_doesnt_recover_its_performance_after/",
+            "data_post": 1737465493.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze system state baseline for thermal throttling and performance degradation",
+                "detected_fault": "Thermal Throttling and Performance Degradation",
+                "suggested_solution": [
+                    "Update BIOS to latest version",
+                    "Verify driver versions for NVIDIA GeForce RTX 3070 and Intel Core i7-11800H are up-to-date",
+                    "Monitor system temperatures during demanding gaming sessions",
+                    "Consider adjusting fan settings or adding additional cooling solutions"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-01-21",
+                    "periodo_referencia": "2025-01"
+                }
+            }
+        },
+        {
+            "id": "1k74m0r",
+            "titulo": "CPU Temperature problems on MSI Bravo 15 C7VE Laptop",
+            "conteudo_post": "CPU: AMD Ryzen 5 7535HS GPU: NVIDIA GeForce RTX 4050 So i have recently started having some problems with the CPU temperatures, even while im keeping Cooler Boost on and also keeping my laptop on a cooling bad. I have bought it 10 months-1y ago, i cant remember exactly and i have never tried repasting it. Could that be the case? The CPU reaches temps of up to 98 degrees C, after which my laptop black screens then im forced to shut it down with the power button, therefore i dont wanna use it like that for gaming anymore until i solve the problem....I also must mention it has never happened before. The GPU sits at 75C Max even at 99% load so i dont think there is a problem there. On that note, i will check/clear the fans for dust buildup as well...but im more curious about the repasting itself, and if that isnt the case, what could be? Thank you all in advance",
+            "subreddit": "laptops",
+            "flair": "Hardware",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/laptops/comments/1k74m0r/cpu_temperature_problems_on_msi_bravo_15_c7ve/",
+            "data_post": 1745531840.0,
+            "comentarios": [
+                {
+                    "id": "o5ukmae",
+                    "conteudo": "Tengo el mismo problema que tú, la única solución que he encontrado es que en ajustes de energía se limite la velocidad de reloj de la CPU a 3.8GHz-4.0GHz, con esto me ha bajado las temperaturas de 90 grados C a 75-80 grados C.",
+                    "score": 1,
+                    "data_comentario": 1771327754.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Technical Brief: System State Baseline for MSI Bravo 15 Gaming",
+                "detected_fault": "CPU Temperature Issues (Thermal Throttling)",
+                "suggested_solution": [
+                    "Check and clear dust from fans and heat sinks.",
+                    "Verify and update BIOS and driver versions.",
+                    "Monitor CPU temperatures closely during usage.",
+                    "Consider using a thermal paste cleaner or replacement if necessary.",
+                    "Limit CPU frequency to 3.8GHz-4.0GHz"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-04-24",
+                    "periodo_referencia": "2025-04"
+                }
+            }
+        },
+        {
+            "id": "1anbfnl",
+            "titulo": "Is this laptop worth buying?",
+            "conteudo_post": "Hello everyone, I am looking to buy a gaming laptop around $900. The games I wish to play are cs2 and some less demanding titles. I would also use it for other things like studying and watching movies. My current front runner is an MSI Bravo 15. CPU: AMD Ryzen 7 7735HS GPU: RTX 3050 with 6GB vram RAM: 16 GB DDR5 4800 mhz I understand that with a little more money I could get a laptop with a 4050, but I really don't need a stronger PC if this will run Cs2 somewhat fluidly. I read some concers about the display and overheating so I am very curious about your opinions.",
+            "subreddit": "laptops",
+            "flair": "Hardware",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 0,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/laptops/comments/1anbfnl/is_this_laptop_worth_buying/",
+            "data_post": 1707552494.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "evaluate laptop performance",
+                "detected_fault": "Thermal Throttling and Display Issues",
+                "suggested_solution": "Monitor laptop's performance closely, consider upgrading to a higher-end GPU (e.g., RTX 4050)",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-20",
+                "ancoragem_temporal": {
+                    "data_post": "2024-02-10",
+                    "periodo_referencia": "2024-02"
+                }
+            }
+        },
+        {
+            "id": "1lre3qk",
+            "titulo": "Need Help: Chicony A18-150P1A Adapter Overheating & Causing Reboots (MSI Bravo 15 B5DD)",
+            "conteudo_post": "Hey everyone, I’ve got an MSI Bravo 15 B5DD gaming laptop, and recently it’s been **randomly restarting during gaming sessions** (especially in Apex Legends). After checking, I noticed that the **power brick (Chicony A18-150P1A, 150W)** gets **very hot to the touch** when this happens. Here’s a photo of the adapter label: Specs on the brick: * **Model**: A18-150P1A * **Output**: 20V ⎓ 7.5A = 150W * **OEM**: Chicony (original with the laptop) # Symptoms: * Random restarts while gaming (no BSOD). * Adapter gets **very hot**, borderline burning. * No thermal issues with CPU/GPU (they’re cool). * Power drain or failure happens only under heavy GPU load. # What I’ve Tried: * Battery calibration in MSI Center. * Running with and without battery plugged in (still happens). * Adapter gets super warm even with airflow around it. # ❓ Questions: 1. Could this be a **failing power brick**? 2. Is **overheating like this normal** for this model? 3. Can anyone recommend a **genuine Chicony/MSI replacement/Any Other** (preferably in India)? 4. Has anyone had similar issues with the **Bravo 15 B5DD**? 5. Will a power brick from any brand work? Any help or recommendations are appreciated. I’m considering getting a replacement but want to be sure before I spend on a new one. Thanks in advance 🙏",
+            "subreddit": "pcmasterrace",
+            "flair": "Tech Support",
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 0,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/pcmasterrace/comments/1lre3qk/need_help_chicony_a18150p1a_adapter_overheating/",
+            "data_post": 1751619733.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Chicony A18-150P1A adapter overheating",
+                "suggested_solution": [
+                    "Replace Chicony A18-150P1A adapter with genuine MSI replacement or reputable alternative from India",
+                    "Consider purchasing power brick with higher wattage rating (e.g., 200W)"
+                ],
+                "technical_severity": "High",
+                "discussion_timeline": "2022-01-01 to 2022-01-31",
+                "ancoragem_temporal": {
+                    "data_post": "2025-07-04",
+                    "periodo_referencia": "2025-07"
+                }
+            }
+        },
+        {
+            "id": "1ohp940",
+            "titulo": "This TUF A15 FA507UI is a beast! So happy I bought it!",
+            "conteudo_post": "Hi Asus fans, I want to use this opportunity to celebrate my Asus A15 and the choice I made a few months back. Last year I was researching laptops for a month or two so I then bought the Vivobook S 14 with 8845HS and later gave it to my sister. I also researched some gaming laptops but was not satisfied for various reasons. This year in June, after I literally tried 3-4 others laptops and returned then, I finally settled with the Asus A15. And not any common one! For 1629 USD I found the **FA507UI** with AMD Ryzen 9 8945H, Nvidia 4070 140W, 15.6\" IPS matte 2560 × 1440 DCI-P3 display. And I exchanged the 16GB RAM for 2x48GB, so in total 96GB RAM. It is a beast. And this all weighs just around 2.12kg (4,67 pounds). It is unbelievable. And it can be charged with the Lenovo 68W, so I can literally just keep a phone sized charger around for a laptop! Whoa! (though not for gaming) The battery life is also incredible with these machines, as the dedicated GPU can be totally turned off so I believe 8-10 hours on WIFI (when using the total power saving mode) is achievable. Recently I was experimenting with MSI and Lenovo laptops with 5070 Ti, they are a bit heavier, yet even though they had 275HX CPU (twice as fast, per benchmarks), they were a lot more power hungry, so the battery life would be way lower. This laptop! I am finally confident that I made the right choice as unless someone has good contacts in the military or NASA or whatever or has 5000 USD to spare, there is no better laptop in this price range that can game, is not heavy and has a good battery and display. Bravo. I do not believe that there is a better TUF out there, as the A16 versions with 8940HX do not have DCI-P3 display. Though recently I have some issues switching the GPUs, as even on standard the games sometimes run on the internal AMD instead of the dedicated Nvidia. But I guess it is just a driver issue or I misclicked something somewhere (I use G-Helper). The only caveat now is whether to buy the additional 1 year warranty so I would be covered until mid 2028.",
+            "subreddit": "Asustuf",
+            "flair": "✨️ New TUF Laptop Showoff ",
+            "score": 5,
+            "upvote_ratio": 1.0,
+            "num_comments": 5,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/Asustuf/comments/1ohp940/this_tuf_a15_fa507ui_is_a_beast_so_happy_i_bought/",
+            "data_post": 1761596188.0,
+            "comentarios": [
+                {
+                    "id": "nlpj281",
+                    "conteudo": "And for the record, the 50XX Nvidia graphics series drops the PhysX support, so 40XX Nvidias can be a better choice for gamers who want to still play \"older\" games (even Witcher 3). [",
+                    "score": 2,
+                    "data_comentario": 1761596451.0
+                },
+                {
+                    "id": "nlpq8iq",
+                    "conteudo": "whaaa? didnt know about this one!",
+                    "score": 2,
+                    "data_comentario": 1761598628.0
+                },
+                {
+                    "id": "nlsl77y",
+                    "conteudo": "Yeah don't worry 4060 and 4070 are still decent despite the 8gb VRAM.",
+                    "score": 2,
+                    "data_comentario": 1761638863.0
+                },
+                {
+                    "id": "nlpi6li",
+                    "conteudo": "*Hey u/Sheetmusicman94! Just got a new laptop and not sure how to set everything up?* Check our guide! -> It covers all the essential guides like first time setup, useful tips and tutorials for maintaining your new laptop. You can also find solutions to common problems or questions you have. >Note: The guide is a work in progress, and is being updated regularly. If you have any suggestions or feedback, feel free to let us know via ModMail or Discord! --- [Join Our Discord Server Here!]( --- *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Asustuf) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1761596188.0
+                },
+                {
+                    "id": "np5bepk",
+                    "conteudo": "Hello i ve thought of buying this model and i wanted to ask if its as loud as reviewers have been saying? Also can it perform well in blender?",
+                    "score": 1,
+                    "data_comentario": 1763302503.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Technical Analysis",
+                "detected_fault": null,
+                "suggested_solution": null,
+                "technical_severity": "Low",
+                "discussion_timeline": "2023-01-01 to 2024-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2025-10-27",
+                    "periodo_referencia": "2025-10"
+                }
+            }
+        },
+        {
+            "id": "1eawvda",
+            "titulo": "FOS drop mid game",
+            "conteudo_post": "Hey, guys I bought MSI Bravo 15 last August which I have been using mostly for cs2 and withcher 3. Since last 3-4 months, there has been issues of fps dropping mid game in cs2 from 300 to 50-60. and it stays there until I restart it. The problem is this drop happens within 5 minutes of starting game. And so even if I restart it, I only get 5 minutes of good gaming. I have checked all the benchmarks, laptop does not even get heated and shows temperatures in range of 70-80 degrees and GPU usage about 50% but still fps drops. I have tried most of the recommended solutions on reddit still couldn't solve the issue. Can anybody help.",
+            "subreddit": "MSILaptops",
+            "flair": "Request",
+            "score": 5,
+            "upvote_ratio": 1.0,
+            "num_comments": 4,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/MSILaptops/comments/1eawvda/fos_drop_mid_game/",
+            "data_post": 1721812329.0,
+            "comentarios": [
+                {
+                    "id": "leq4xnp",
+                    "conteudo": "May i suggest checking the drivers , maybe reversing to old driver version might solve the issue since the gpu was working fine before",
+                    "score": 2,
+                    "data_comentario": 1721836606.0
+                },
+                {
+                    "id": "leq92da",
+                    "conteudo": "Maybe your cpu is the one that throttles.",
+                    "score": 1,
+                    "data_comentario": 1721837910.0
+                },
+                {
+                    "id": "leq5uh2",
+                    "conteudo": "Will try thanks",
+                    "score": 1,
+                    "data_comentario": 1721836893.0
+                },
+                {
+                    "id": "leqf59d",
+                    "conteudo": "yeah, clean uninstall with DDU and reinstall with nvcleanstall",
+                    "score": 1,
+                    "data_comentario": 1721839819.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze system failure mode and suggest solutions",
+                "detected_fault": "Intermittent FPS drops mid-game in CS2",
+                "suggested_solution": "Update NVIDIA drivers to the latest version (496.98) and investigate CPU throttling or overheating issues",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2024-07-24",
+                    "periodo_referencia": "2024-07"
+                }
+            }
+        },
+        {
+            "id": "1icqpry",
+            "titulo": "NVIDIA RTX 4050 STOPS USING FULL POWER AND STARTS CAPPING ITSTELF",
+            "conteudo_post": "Hi guys, first of all i'm an actual noobie in all sorts of tech and i is hard for me even detecting what is the correct issue so i'm gonna explain what happens: I have a MSI Bravo 15C7V with a RTX 4050 and integrated gpu AMD Radeon 660M and when i start monitoring the gpu usage while running a game like for example Marvel Rivals, i hit 120-160 fps at 80% gpu usage, but after some time around 15-30 minutes or when there's a ton of shit in the screen the fps drops to around 25-60, and the gpu usage is around 30-50% (The radeon gpu is still at 0% so it keeps using the RTX), and this happens with all games i play, even very easy to run games like Bendy and the ink machine or Borderlands 2 and idk if it matters but i cannot turn the fan to silent or normal mode so it locks itself on boost mode. After that, the only way to revert the RTX gpu using it's max potential is reseting the laptop and it is normal again, but the issue doesn't stop. Here's a list of all things i've tried so far: 1. Going into nvidia control panel and setting the power managment mode on prefer maximum performance for global and the game itself. 2. Updating both AMD and RTX drivers 3. Going into MSI center and selecting the discrete graphics mode and selecting the extreme performance mode. 4. If i change the game graphic to it's lowest it doesn't matter it keeps having this same exact issue 5. Uptading windows I don't actually know what is exactly happening here or why, and this doesn't happened before unless i played games without the fan on boost mode (i think it could be related to temperature bc if i payed with the fan on boost mode it didn't happen). Idk what to do guys pls help ):",
+            "subreddit": "techsupport",
+            "flair": "Open | Hardware",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 6,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/techsupport/comments/1icqpry/nvidia_rtx_4050_stops_using_full_power_and_starts/",
+            "data_post": 1738145965.0,
+            "comentarios": [
+                {
+                    "id": "m9sut81",
+                    "conteudo": "Check your temperatures: I can recommend HWiNFO - you can see the temps and when the GPU starts throttling etc. You can even put conditional beeps (example: beep when GPU starts throttling) Edit: also make sure the related game is running on your GPU and not onboard graphics - there is a system tray indicator for that in nvidia setting but I forgot what it is called.",
+                    "score": 1,
+                    "data_comentario": 1738146903.0
+                },
+                {
+                    "id": "m9sv92z",
+                    "conteudo": "You’re probably right that this is a temperature issue. When things get too hot, the computer will throttle, automatically slowing things down. Download a program called HWInfo. It will display many many things. You’ll be wanting to find and pay attention to CPU and GPU temperatures. You can run and watch the program while you’re gaming, and you can tell it to create a log file that you can review later. If your CPU is hitting 95-ish Celsius, then it’s getting too hot and you will need to take steps to correct it. You’ll be better served, if that’s the case, by creating a new post indicating the overheating difficulties you’re encountering. GPU temps can safely get higher than the CPU, but again you’ll be looking for 100+ C.",
+                    "score": 1,
+                    "data_comentario": 1738147167.0
+                },
+                {
+                    "id": "m9sw4r9",
+                    "conteudo": "In GPU-Z go to the sensors tab scroll down to PerfCap Reason see what it says next to it",
+                    "score": 1,
+                    "data_comentario": 1738147684.0
+                },
+                {
+                    "id": "m9sxcjk",
+                    "conteudo": "Your CPU is responsible for sending instructions to the GPU about how to render each frame, so I would suspect your CPU could be thermally throttling. When that happens your GPU utilization will tank because the CPU cannot keep up.",
+                    "score": 1,
+                    "data_comentario": 1738148388.0
+                },
+                {
+                    "id": "m9t6vp3",
+                    "conteudo": "It says Idle, what does that mean?",
+                    "score": 1,
+                    "data_comentario": 1738153265.0
+                },
+                {
+                    "id": "m9usrpv",
+                    "conteudo": "Sorry forgot to mention you gotta check while under load and the power dips. if the GPU is not throttling when you look its just going to say idle my bad",
+                    "score": 1,
+                    "data_comentario": 1738171746.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Technical Analysis",
+                "detected_fault": "NVIDIA RTX 4050 not utilizing full power",
+                "suggested_solution": [
+                    "Monitor Temperatures",
+                    "Check Power Management Settings",
+                    "Disable Integrated Graphics",
+                    "Adjust Fan Settings",
+                    "Thermal Management"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-01-29",
+                    "periodo_referencia": "2025-01"
+                }
+            }
+        },
+        {
+            "id": "14d9ds8",
+            "titulo": "MSI BRAVO 15",
+            "conteudo_post": "MSI Bravo 15(Ryzen 5 + Radeon 5500) user here,The power LED seems to be orange all the time.Even when laptop is in low power mode,Battery drains in less than 2 hours.All im running is an excel spreadsheet and no power hungry apps or games. Fiddling with the MSI center did not help.",
+            "subreddit": "MSILaptops",
+            "flair": null,
+            "score": 2,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "energy",
+            "url": "https://reddit.com/r/MSILaptops/comments/14d9ds8/msi_bravo_15/",
+            "data_post": 1687165808.0,
+            "comentarios": [
+                {
+                    "id": "jowwkq9",
+                    "conteudo": "For me, launching Discord activated the dedicated GPU (orange power led). Maybe there is actually something in the background?",
+                    "score": 1,
+                    "data_comentario": 1687314975.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Analyze system state baseline for potential faults and suggest solutions.",
+                "detected_fault": [
+                    "Power Management Issue",
+                    "Thermal Throttling",
+                    "Excessive Battery Drain"
+                ],
+                "suggested_solution": [
+                    "Check power settings in MSI Center",
+                    "Monitor system temperatures with HWMonitor or AIDA64",
+                    "Update Radeon 5500M drivers to latest version"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2023-06-19",
+                    "periodo_referencia": "2023-06"
+                }
+            }
+        },
+        {
+            "id": "smz2f7",
+            "titulo": "Unique problem 144 hz monitor not performing to 144 hz",
+            "conteudo_post": "Hi all. I have a unique problem and can't find anything with google searching to help me. Hoping someone knows what's going on here. I have a budget gaming laptop with a 144hz screen. Long story but my old computer died last year and I picked this up for the time being. [MSI - Bravo 15 - 15.6\" Full HD IPS Gaming Laptop - Ryzen 5 5600H Processor - 16GB Memory - 512GB Solid State Drive - 144Hz Screen - AMD Radeon RX 5500M Graphics - Windows OS - Sam's Club (samsclub.com)]( &#x200B; I have a ViewSonic monitor that I plug it into with an HDMI cord. [Amazon.com: ViewSonic Omni VX3268-PC-MHD 32 Inch Curved 1080p 1ms 165Hz Gaming Monitor with FreeSync Premium, Eye Care, HDMI and Display Port : Everything Else]( &#x200B; I have my external monitor settings set to 144hz, as that's the maximum HDMI can deliver. But when I'm playing a game, it is smoother than 60hz for sure, but it feels like it's either stuttering or not delivering 144hz. I know this because I can look at my laptop screen right next to it, and the gameplay is smoother on the laptop screen. Both screens are set to 144hz, yet one is smoother than the other. The main game I play is Assetto Corsa Competizione (racing sim). I'm averaging 70-90 fps with my settings. But with other games I've noticed the issue as well, it's just more prominent in the racing sim. With fast movement throughout the game, I can compare both screens and even though everything is telling me I'm getting 144hz, the ViewSonic monitor is not as smooth. I've tried many different things, fiddling around with Freesync, 1ms Mode, different HDMI cables, and even lowering graphic settings. Nothing seems to fix it. Is this a monitor problem? Is this a computer problem? I have until Feb 22 to return the monitor if I decide to do that. Any advice or information will be greatly appreciated.",
+            "subreddit": "pcgamingtechsupport",
+            "flair": "Graphics/display",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 5,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/pcgamingtechsupport/comments/smz2f7/unique_problem_144_hz_monitor_not_performing_to/",
+            "data_post": 1644263431.0,
+            "comentarios": [
+                {
+                    "id": "hvzh8bg",
+                    "conteudo": "Hi, thanks for posting on r/pcgamingtechsupport. [Please read the rules]( ##Your post has been approved. For **maximum efficiency**, please double check that *you used the appropriate flair. At a bare minimum you **NEED** to include the specifications and/or model number* You can also check [this post]( for more infos. Please make your post as detailed and understandable as you can. *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/pcgamingtechsupport) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1644263432.0
+                },
+                {
+                    "id": "hvzirxk",
+                    "conteudo": "This is a Fakespot Reviews Analysis bot. Fakespot detects fake reviews, fake products and unreliable sellers using AI. Here is the analysis for the Amazon product reviews: >**Name**: ViewSonic VX3268-PC-MHD 32 Inch 1080p Curved 165Hz 1ms Gaming Monitor with FreeSync Premium Eye Care HDMI and Display Port >**Company**: Visit the ViewSonic Store >**Amazon Product Rating**: 4.6 >**Fakespot Reviews Grade**: B >**Adjusted Fakespot Rating**: 4.6 >**Analysis Performed at**: 11-26-2020 [Link to Fakespot Analysis]( | [Check out the Fakespot Chrome Extension!]( *Fakespot analyzes the reviews authenticity and not the product quality using AI. We look for real reviews that mention product issues such as counterfeits, defects, and bad return policies that fake reviews try to hide from consumers.* *We give an A-F letter for trustworthiness of reviews. A = very trustworthy reviews, F = highly untrustworthy reviews. We also provide seller ratings to warn you if the seller can be trusted or not.*",
+                    "score": 1,
+                    "data_comentario": 1644264026.0
+                },
+                {
+                    "id": "hvzndc5",
+                    "conteudo": "Hmm... try setting your display settings to project to monitor only, so it doesn't display on both the monitor and laptop screen. Idk if that will work, but give a shot and see, it might increase the fps on your monitor.",
+                    "score": 1,
+                    "data_comentario": 1644265812.0
+                },
+                {
+                    "id": "hvzoqs9",
+                    "conteudo": "I tried that and it seems to help a little but not entirely. But it may just be me not having the original screen to compare it to",
+                    "score": 1,
+                    "data_comentario": 1644266344.0
+                },
+                {
+                    "id": "hvzxv3b",
+                    "conteudo": "Try completely disabling free sync on both the monitor and Radeon software. You probably have done this already but worth mentioning in case you haven't. Had a similar issue with my free sync monitor but I disabled it using the buttons on my monitor as well as in Radeon software and things were smooth after that.",
+                    "score": 1,
+                    "data_comentario": 1644269830.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Technical Analysis",
+                "detected_fault": "144Hz Monitor Not Performing to 144Hz",
+                "suggested_solution": [
+                    "Disable FreeSync Premium on both monitor and Radeon software",
+                    "Check for BIOS updates for MSI Bravo 15",
+                    "Verify HDMI cable compatibility",
+                    "Reset display settings to default values"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-01 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2022-02-07",
+                    "periodo_referencia": "2022-02"
+                }
+            }
+        },
+        {
+            "id": "1jtrdvd",
+            "titulo": "Asus ROG Strix G16 vs MSI Bravo 15 Recommendation",
+            "conteudo_post": "Hi Everyone, Looking to determine which is the better value between the following two laptops. MSI Bravo 15 Gaming Laptop 15.6\" FHD AMD Ryzen 7 7735HS GeForce RTX 4060 32GB 1TB SSD Windows 11 Home, C7VFK-057CA $1030 CAD + Tax = $1164 CAD OR: ASUS ROG Strix G16 (2024) Gaming Laptop, 16” 16:10 FHD+ 165Hz, GeForce RTX 4060, Intel Core i7-13650HX, 16GB DDR5, 1TB PCIe SSD, Wi-Fi 6E, Windows 11, G614JV-AS71-CA $1273 + Tax = $1439 CAD The Bravo has an AMD CPU and more RAM for roughly $300 less money. Wondering how its gaming performance / thermals compare against the G16? Appreciate everyone's opinions! Thank you!",
+            "subreddit": "MSILaptops",
+            "flair": "Request",
+            "score": 1,
+            "upvote_ratio": 0.67,
+            "num_comments": 3,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/MSILaptops/comments/1jtrdvd/asus_rog_strix_g16_vs_msi_bravo_15_recommendation/",
+            "data_post": 1744047927.0,
+            "comentarios": [
+                {
+                    "id": "mlxf6bn",
+                    "conteudo": "The Strix G16 is a mid-range chassis with great construction, the MSI Bravo is the cheapest crap known to man, its cheap, because its really cheaply made, avoid it at all costs.",
+                    "score": 2,
+                    "data_comentario": 1744059927.0
+                },
+                {
+                    "id": "nasofy1",
+                    "conteudo": "You should compare the adapter if they have the same specs, their thermal solution, obviously, asus rog strix win this competition, msi bravo limited both cpu and gpu max tdp",
+                    "score": 1,
+                    "data_comentario": 1756228199.0
+                },
+                {
+                    "id": "mlxh8d2",
+                    "conteudo": "Thanks so much for saving me hours of benchmarking it lol",
+                    "score": 1,
+                    "data_comentario": 1744060596.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "analysis and comparison of laptop performance",
+                "detected_fault": "Thermal Throttling and Limited CPU/GPU Performance due to Max TDP constraints",
+                "suggested_solution": "Consider alternative options or wait for potential updates/revisions that may improve the Bravo 15's performance and value proposition.",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-01 to 2023-03-31",
+                "ancoragem_temporal": {
+                    "data_post": "2025-04-07",
+                    "periodo_referencia": "2025-04"
+                }
+            }
+        },
+        {
+            "id": "1098nmy",
+            "titulo": "Dell G15 or MSI Bravo 15?",
+            "conteudo_post": "Hello everyone, I'm looking to buy a new laptop and I can get either: * Dell G15 5510: Intel Core i5-10200H / 8 GB / SSD 256 GB / 15.6\" LED Full HD 120 Hz / NVIDIA GeForce RTX 3050 --> 560 Euros * MSI Bravo 15 B5DD: AMD Ryzen 5 5600H / 8 GB / SSD 512 GB / 15.6\" LED Full HD 144 Hz / AMD Radeon RX 5500M --> 650 Euros I have a very limited budget and I play either indie games or run emulators on my current laptop. I'm worried that the i5-10200H will bottleneck the 3050 but I'm also scared that 5500M is not that great neither. I'll plan to upgrade only the RAM on the MSI, but both RAM and SSD on the Dell, so the difference between the two will be less than 50 Euros in total I guess. Which one would you recommend? Thanks in advance for your help!",
+            "subreddit": "GamingLaptops",
+            "flair": "Laptop Recommendation",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 0,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/GamingLaptops/comments/1098nmy/dell_g15_or_msi_bravo_15/",
+            "data_post": 1673453988.0,
+            "comentarios": [],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "evaluate system specifications and potential faults",
+                "detected_fault": "thermal throttling and potential driver/BIOS issues",
+                "suggested_solution": "upgrade RAM to 16 GB or more, consider faster SSD model",
+                "technical_severity": "Medium",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2023-01-11",
+                    "periodo_referencia": "2023-01"
+                }
+            }
+        },
+        {
+            "id": "t2o48j",
+            "titulo": "Which Laptop in this List Should I Buy?",
+            "conteudo_post": "All prices were converted from local currency. Since I'm going to buy at a local shop I might be able to bargain a bit more. Which one of this has the least issue (overheating, build quality, battery, etc.) My main requirement is it can run Genshin Impact decently even at lowest settings, which they all more than capable to, so I'm more concerned on the build quality and all stuffs like that Asus TUF F15 FX506L-HHN080T i5-10300H, GTX1650, 8 GB RAM USD 818 MSI Bravo 15 B5DD-213 Ryzen 5 5600H, Radeon RX5500M, 8 GB RAM USD 809 MSI Thin GF63 10SC-638 i5-10500H, GTX1650 Max-Q, 8 GB RAM USD 755 Acer Nitro 5 AN515-56-56LR i5-11300H, GTX1650, 8 GB RAM USD 838 Lenovo IdeaPad Gaming 3 15IHU6 i5-11300H, GTX1650, 8 GB RAM USD 857 HP Victus 16-E0127AX Ryzen 5 5600H, GTX1650, 8 GB RAM USD 878 Thanks in advance!",
+            "subreddit": "lowendgaming",
+            "flair": "PC Purchase Advice",
+            "score": 5,
+            "upvote_ratio": 0.78,
+            "num_comments": 13,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/lowendgaming/comments/t2o48j/which_laptop_in_this_list_should_i_buy/",
+            "data_post": 1645968139.0,
+            "comentarios": [
+                {
+                    "id": "hynnw8m",
+                    "conteudo": "You can go for the victus tbh. Intel will run hotter than AMD always because it is 10nm/14nm and AMD is 7nm. It also has GTX 1650, which has Reflex and some NVIDIA exclusive stuff like NVENC",
+                    "score": 3,
+                    "data_comentario": 1645977883.0
+                },
+                {
+                    "id": "hyr7d6k",
+                    "conteudo": "The RX 5500M is the fastest GPU in this list ([GPU chart]( so I'd recommend the MSI Bravo, OP and u/Lev22_.",
+                    "score": 3,
+                    "data_comentario": 1646036408.0
+                },
+                {
+                    "id": "hynoneu",
+                    "conteudo": "Opposite, in general the intel cpus run hotter, consume more power. That usually results in worse battery life, too.",
+                    "score": 3,
+                    "data_comentario": 1645978190.0
+                },
+                {
+                    "id": "hyrpesc",
+                    "conteudo": "I've never had or heard of glare issues with any laptop so I don't know and don't think it's a big deal.",
+                    "score": 2,
+                    "data_comentario": 1646050373.0
+                },
+                {
+                    "id": "hynzwz7",
+                    "conteudo": "I use Ryzen 5 2600 desktop version, it mostly run around 59-60 at high intensity game like Cyberpunk. So i expect with smaller cooling solution on laptop i will be maximum 70. I don’t have exact data, but you can check on youtube for benchmark that specific CPU. Keep in mind, AMD CPU being hot was about 7-10 years ago. Since Ryzen had released, it’s became obsolete to say AMD is hotter than Intel.",
+                    "score": 2,
+                    "data_comentario": 1645982618.0
+                },
+                {
+                    "id": "hyv0e34",
+                    "conteudo": "I'm sure there is no problem as you explained. Because if it were, no one would buy the laptop then.",
+                    "score": 2,
+                    "data_comentario": 1646101437.0
+                },
+                {
+                    "id": "hyv2pf5",
+                    "conteudo": "Well, I'm sure all laptop have their own problem, just a matter of severe, acceptable or negligible",
+                    "score": 2,
+                    "data_comentario": 1646102520.0
+                },
+                {
+                    "id": "hynceyu",
+                    "conteudo": "Between Acer Nitro 5 or HP Victus, those two have the best CPU in the list. If you save some money for a bit weaker CPU, then get Asus TUF. Personally, i prefer Acer Nitro since it's cheaper than Lenovo and HP but still got similar specs. Edit: just read about build quality, Asus TUF and Acer Nitro look decent afaik. Don't know much about the rest.",
+                    "score": 1,
+                    "data_comentario": 1645972963.0
+                },
+                {
+                    "id": "hyr9g33",
+                    "conteudo": "Performance aside, does it have any glaring issues? Because tbh I'm more concerned about that at this price range while the main specs (CPU and GPU) is more than enough",
+                    "score": 1,
+                    "data_comentario": 1646038024.0
+                },
+                {
+                    "id": "hyrixfu",
+                    "conteudo": "Ah i thought it's slower than 1650. I myself never tried laptop with AMD GPU, only basic knowledge about it.",
+                    "score": 1,
+                    "data_comentario": 1646045667.0
+                },
+                {
+                    "id": "hyngs6k",
+                    "conteudo": "Does the Ryzen CPU can get hotter than Intel one like some people claimed?",
+                    "score": 1,
+                    "data_comentario": 1645974915.0
+                },
+                {
+                    "id": "hyrpssm",
+                    "conteudo": "Ahh, I mean glaring issues as in \"emphasizing that it is very obvious and easily seen or noticed\" not a literal glare \"strong and dazzling light\" 😅",
+                    "score": 1,
+                    "data_comentario": 1646050621.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Technical Analysis",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": "Proper cooling and usage habits",
+                "technical_severity": "Low",
+                "discussion_timeline": "2022-01-01 to 2022-12-31",
+                "ancoragem_temporal": {
+                    "data_post": "2022-02-27",
+                    "periodo_referencia": "2022-02"
+                }
+            }
+        },
+        {
+            "id": "1o9uoyo",
+            "titulo": "puedo hacerle undervolt a mi cpu de laptop?",
+            "conteudo_post": "I have an MSI Bravo 15 C7V with an R5 7535HS, and it constantly overheats, causing performance drops and forcing me to restart. It really affects me because games that I can normally play at 120 FPS on high settings with my 4050 have to be limited to 40 FPS on low settings to avoid overheating — otherwise, I end up playing at 15–20 FPS. I’ve tried all these undervolting options, and I’m not sure if you can help me find a solution: **BIOS:** there’s no direct option anywhere. **Ryzen Master:** gives the error “RYZEN MASTER INSTALLATION is prohibited from installation on this system.” **ThrottleStop:** “CPU not supported.” **Universal x86 Tuning Utility:** I run it, give it permissions, and nothing happens. Any suggestions?",
+            "subreddit": "ThrottleStop",
+            "flair": null,
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 2,
+            "categoria": "thermal",
+            "url": "https://reddit.com/r/ThrottleStop/comments/1o9uoyo/puedo_hacerle_undervolt_a_mi_cpu_de_laptop/",
+            "data_post": 1760791145.0,
+            "comentarios": [
+                {
+                    "id": "nk6nrh6",
+                    "conteudo": "your issue probably is not your voltage , its your thermal paste , you need to repaste",
+                    "score": 2,
+                    "data_comentario": 1760813723.0
+                },
+                {
+                    "id": "nk8w92q",
+                    "conteudo": "ThrottleStop can only be used on computers with Intel CPUs. Ryzen CPUs are not supported.",
+                    "score": 1,
+                    "data_comentario": 1760842368.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Hardware Failure Analysis",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": [
+                    "Repaste CPU with new thermal paste",
+                    "Monitor system temperatures and adjust cooling settings",
+                    "Consider upgrading to liquid cooling"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-10-18",
+                    "periodo_referencia": "2025-10"
+                }
+            }
+        },
+        {
+            "id": "1ok7nue",
+            "titulo": "MSI Bravo15 underperformed",
+            "conteudo_post": "**Hey everyone, I hope I’m in the right channel!** I’m not sure if I’m dealing with a hardware or software issue — I’m hoping it’s software. Here’s the situation: I have an **MSI Bravo 15 C7VFK** with **64 GB RAM**, **RTX 4060**, and an **AMD Ryzen 7 7735HS**. When I play *Battlefield 6* on **low graphics settings**, after a few minutes the **fan ramps up to max speed**, and a bit later the **game starts stuttering**. When I check the performance overlay, it says the **CPU is overloaded**. There are **no background tools or apps** running, and in MSI Center I’m set to the **maximum performance profile**. However, the **CPU temperature stays below 40°C** the whole time. Am I in the right place to ask about this? Could anyone help me figure out what’s going on? Möchtest du, dass ich die Nachricht etwas *lockerer* oder *technischer* klinge lasse (je nach Channel-T",
+            "subreddit": "computerhelp",
+            "flair": "Software",
+            "score": 1,
+            "upvote_ratio": 1.0,
+            "num_comments": 1,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/computerhelp/comments/1ok7nue/msi_bravo15_underperformed/",
+            "data_post": 1761848997.0,
+            "comentarios": [
+                {
+                    "id": "nm8j20y",
+                    "conteudo": "Remember to check our discord where you can get faster responses! *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/computerhelp) if you have any questions or concerns.*",
+                    "score": 1,
+                    "data_comentario": 1761848998.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "Troubleshooting",
+                "detected_fault": "Underperformance during gaming sessions",
+                "suggested_solution": [
+                    "Monitor CPU temperatures and fan speeds",
+                    "Check for driver updates",
+                    "Adjust performance profile or disable overclocking",
+                    "Ensure proper airflow"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2025-10-30",
+                    "periodo_referencia": "2025-10"
+                }
+            }
+        },
+        {
+            "id": "1c4e4hu",
+            "titulo": "Is Technical City a good benchmark website for reference or is it similar to userbenchmarks? also, why are Radeon GPU scores low on this we this website? is this website biased?",
+            "conteudo_post": "Are AMD cards that bad at benchmarks or is this website biased? I am looking for a laptop for gaming as well as content creation(i.e. video editing and game development). AMD and Nvidia cards tend to get the same fps in most games (at the same price point). I came across this website, Nvidia cards ranked way higher than I expected. considering my budget, the availability of laptops with dedicated GPUs in my country, the benchmarks of this website and my needs I have settled on buying an Rtx 4050 laptop(msi 15 bravo or gigabyte g5). welp nobody will answer this here goes nothing :')",
+            "subreddit": "pcmasterrace",
+            "flair": "Question",
+            "score": 1,
+            "upvote_ratio": 0.67,
+            "num_comments": 4,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/pcmasterrace/comments/1c4e4hu/is_technical_city_a_good_benchmark_website_for/",
+            "data_post": 1713157832.0,
+            "comentarios": [
+                {
+                    "id": "kzn4is5",
+                    "conteudo": "I would avoid any website that does that. Use TechPowerUp [GPU database]( if you want to have an idea of the relative performance of the cards, just keep in mind that it's not perfect, but it is way way better than those other websites.",
+                    "score": 4,
+                    "data_comentario": 1713160729.0
+                },
+                {
+                    "id": "kzn57dr",
+                    "conteudo": "THX :D",
+                    "score": 1,
+                    "data_comentario": 1713161181.0
+                },
+                {
+                    "id": "lodwavz",
+                    "conteudo": "Technical city is a good benchmarking site. You can see benchmarks on that site showing how the RX 7900xtx wins with a 4080 so its not rigged or anything.",
+                    "score": 1,
+                    "data_comentario": 1727023435.0
+                },
+                {
+                    "id": "lr5ypc6",
+                    "conteudo": "Ya better the userbullshitbench",
+                    "score": 1,
+                    "data_comentario": 1728513447.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "msi bravo 15 gaming",
+                "intent": "diagnosis",
+                "detected_fault": "Thermal Throttling due to inadequate cooling system",
+                "suggested_solution": [
+                    "Ensure proper airflow around the laptop",
+                    "Use a high-quality cooling pad or external fan",
+                    "Monitor system temperatures during intense usage"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2024-04-15",
+                    "periodo_referencia": "2024-04"
+                }
+            }
+        },
+        {
+            "id": "ghk1kt",
+            "titulo": "** Start HERE **",
+            "conteudo_post": "**What's new from Mods** * 9/1 - a fresh update of THE LIST (see below) * 8/16 - added Tongfang barebone lists /u/Maren0000 (see below) * comparisons sheets added \\[see below\\], \\[reddit\\] collections of related posts added * How to google translate, if url link not in your native language and you dont use chrome &#x200B; and copy/paste the url of the website in the left text box Or install add-on e.g. firefox: ## [Questions most commented]( | [Active poll]( | [News]( | [Latest reviews ]( [Benchmarks ]( [Discussions]( ## [Laptops by budget class WIP ]( [Polls ]( [Wiki's]( | [News about Chromebooks]( ## [Ryzen 4000 laptops - THE LIST]( | [Comment THE LIST]( ## Barebones: [Tongfang Renoir gaming]( | [Tongfang Renoir thin]( | Tongfang Picasso thin | [Clevo Ryzen]( ## [4x00x laptops with 100% sRGB]( | [Available Chromebooks]( | [Laptops@AMD.com]( | [4xxxH\\[S\\] Laptop list]( | [4xxxH/U laptop list]( &#x200B; ## Comparison sheets: Budget | Good display | Convertible | Business | Budget gaming | [Portable powerful 4800xx]( ## Latest prices: * [4300U]( | [4500U]( | 4600U | [4700U]( | 4800U | 4900U | [4600H\\[S\\]]( | [4800H\\[S\\]]( [4900HS]( * [BestBuy]( id=pcat17071&intl=nosplash&qp=child_processormodelsv_facet%3DProcessor%20Model~AMD%204th%20Generation%20Ryzen%205%5Echild_processormodelsv_facet%3DProcessor%20Model~AMD%204th%20Generation%20Ryzen%207&sp=%2Bcurrentprice%20skuidsaas&st=amd%20ryzen%20laptop) | [Exc-PC]( | [Walmart]( | [Amazon]( | MediaMarkt | [NL]( | PH | [TH]( * **Acer store:** [RU]( | [DE]( | [TH]( | [FR]( | [Other]( * **Asus Store:** [US]( | [Other regions]( * **HP Store:** [Envy x360]( | [Probook 455 G7]( | [Probook 445 G7]( | Omen * **Lenovo Shop:** [Ideapad 3/5]( | [Ideapad 5 14\"]( | [Yoga Slim 7]( | [Legion 5]( ## Latest news sources: * [4x00U]( | [4x00H\\[S\\]]( * [**below 600$:** Ideapad 3, Lenovo V14]( * [**600-800$:** Aspire, Swift, Ideapad 5, MSI Modern 14]( * [**800-1000$:** Magicbook/Matebook, Lenovo S540-13ARE, Redmibook 14/16, Vivobook, Yoga Slim 7, Zenbook ]( * [**Business:** Thinkpad L13 L15 X13 E14 E15 T14 T14S, Probook, EliteBook]( * [**Convertible:** Vivobook TM420, Envy x360, Probook x360, Ideapad Flex 5, Inspiron 7405]( * [**Gaming:** Acer, Asus, Dell, Eluktronics, HP, Lenovo, Mechrevo, MSI, XMG]( * [Thin & powerful: Matebook 13/14, Thinn-15, KDE Slimbook, Tuxedo Pulse xx, Via 15 Pro, Mechrevo Code 1/S2 Air, Magicbook Pro]( * [AMD Chromebooks]( *To be added:* ProBook 635 Aero G7, MSI Alpha 15, Yoga Slim 7 Pro, Yoga 6, Surface Laptop 4, Thinkbook\\*",
+            "subreddit": "AMDLaptops",
+            "flair": "WIKI",
+            "score": 144,
+            "upvote_ratio": 0.99,
+            "num_comments": 1,
+            "categoria": "performance",
+            "url": "https://reddit.com/r/AMDLaptops/comments/ghk1kt/start_here/",
+            "data_post": 1589187536.0,
+            "comentarios": [
+                {
+                    "id": "fq9r1h6",
+                    "conteudo": "Thank you for all of your hard work u/csp4me!",
+                    "score": 26,
+                    "data_comentario": 1589205250.0
+                }
+            ],
+            "analise_ia": {
+                "summary": "Asus Vivobook Pro 14",
+                "intent": "Troubleshooting",
+                "detected_fault": "Thermal Throttling",
+                "suggested_solution": [
+                    "Update BIOS to version 510 or later",
+                    "Install latest NVIDIA GeForce MX350 drivers (21.2.9 or later)",
+                    "Run stress test",
+                    "Clean dust from vents and fans"
+                ],
+                "technical_severity": "Medium",
+                "discussion_timeline": "2023-02-20 to 2023-03-01",
+                "ancoragem_temporal": {
+                    "data_post": "2020-05-11",
+                    "periodo_referencia": "2020-05"
+                }
+            }
+        }
+    ]
+}

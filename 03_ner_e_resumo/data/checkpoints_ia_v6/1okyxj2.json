@@ -1,0 +1,1 @@
+{"summary": "asus vivobook gaming", "intent": "diagnosis", "detected_fault": "Thermal Throttling", "suggested_solution": ["Optimize system settings", "Use an external numpad", "Consider a dedicated graphics card"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-10-31", "periodo_referencia": "2025-10"}}

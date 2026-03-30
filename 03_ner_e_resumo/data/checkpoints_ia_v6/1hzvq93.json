@@ -1,0 +1,1 @@
+{"summary": "msi stealth 16 ai", "intent": "fix thermal throttling issue", "detected_fault": "Thermal Throttling", "suggested_solution": ["Undervolting", "MSI Center's Cooler Boost", "Thermal Settings adjustment"], "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2025-01-12", "periodo_referencia": "2025-01"}}

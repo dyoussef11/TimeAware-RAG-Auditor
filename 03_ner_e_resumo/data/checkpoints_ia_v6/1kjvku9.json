@@ -1,0 +1,1 @@
+{"summary": "msi raider 18 hx", "intent": "analysis", "detected_fault": "thermal throttling", "suggested_solution": ["Limit Turbo Boost", "Adjust Power Limits", "Cooling Improvements"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2025-05-11", "periodo_referencia": "2025-05"}}

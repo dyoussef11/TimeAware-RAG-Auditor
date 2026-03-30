@@ -1,0 +1,1 @@
+{"summary": "asus rog strix scar iii system state baseline", "intent": "diagnosis", "detected_fault": "thermal throttling", "suggested_solution": ["cooling pad", "repaste with thermal paste"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2020-04-07", "periodo_referencia": "2020-04"}}

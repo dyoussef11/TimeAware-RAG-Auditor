@@ -1,0 +1,1 @@
+{"summary": "Lenovo Legion 5 Pro (83EG0001US) System State Baseline", "intent": "Sell", "detected_fault": "IGPU glitch during video playback", "suggested_solution": "Disable hardware acceleration", "technical_severity": "Low", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-11-18", "periodo_referencia": "2025-11"}}

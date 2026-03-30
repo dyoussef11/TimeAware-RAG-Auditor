@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/alhamdulliah123/laptop-price-estimation-using-feature-scaling?select=laptop_price_predictor_FINAL.csv

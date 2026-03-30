@@ -1,0 +1,1 @@
+{"summary": "asus tuf gaming a15 fa506iu", "intent": "Hardware Failure Analysis", "detected_fault": "Memory/Motherboard Issue", "suggested_solution": ["Stress Test RAM", "Check BIOS Settings", "Run Memory Tests"], "technical_severity": "Medium", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2025-08-30", "periodo_referencia": "2025-08"}}

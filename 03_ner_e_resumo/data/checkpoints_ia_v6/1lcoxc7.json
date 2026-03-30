@@ -1,0 +1,1 @@
+{"summary": "msi katana 17 b13v", "intent": "Troubleshooting", "detected_fault": "RTX 4060 VRAM drop", "suggested_solution": ["Update BIOS", "Driver Updates", "System Monitoring", "Reinstall Driver"], "technical_severity": "High", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2025-06-16", "periodo_referencia": "2025-06"}}

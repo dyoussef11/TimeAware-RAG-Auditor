@@ -1,0 +1,1 @@
+{"summary": "Dell Inspiron 5520", "intent": "Hardware Analysis", "detected_fault": "Integrated video card limitations in gaming performance", "suggested_solution": "Upgrade individual parts or consider a new GPU", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2015-01-01", "periodo_referencia": "2015-01"}}

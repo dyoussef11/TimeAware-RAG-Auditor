@@ -1,0 +1,1 @@
+{"summary": "asus rog strix scar 18", "intent": "Technical Analysis", "detected_fault": "PSU Failure", "suggested_solution": ["Check charger temperature", "Apply heatsinks to charger"], "technical_severity": "High", "discussion_timeline": "2023-01-01 to 2023-12-31", "ancoragem_temporal": {"data_post": "2024-12-19", "periodo_referencia": "2024-12"}}

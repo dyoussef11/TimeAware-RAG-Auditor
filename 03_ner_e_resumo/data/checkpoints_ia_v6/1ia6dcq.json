@@ -1,0 +1,1 @@
+{"summary": "msi stealth", "intent": "Hardware Issue", "detected_fault": "Thermal Throttling", "suggested_solution": ["Replace battery", "Check for firmware updates", "Disable fast startup"], "technical_severity": "High", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2025-01-26", "periodo_referencia": "2025-01"}}

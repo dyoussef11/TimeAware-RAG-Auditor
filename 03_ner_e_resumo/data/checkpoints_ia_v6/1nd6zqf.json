@@ -1,0 +1,1 @@
+{"summary": "asus rog strix g16", "intent": "Fault Diagnosis", "detected_fault": "Battery stuck at 0%", "suggested_solution": "Replace battery due to suspected bloating or swelling", "technical_severity": "High", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2025-09-10", "periodo_referencia": "2025-09"}}

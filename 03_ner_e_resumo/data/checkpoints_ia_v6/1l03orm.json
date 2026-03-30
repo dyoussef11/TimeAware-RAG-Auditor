@@ -1,0 +1,1 @@
+{"summary": "asus tuf gaming f15", "intent": "gaming laptop analysis", "detected_fault": ["thermal throttling", "BSOD"], "suggested_solution": ["G-Helper", "Windows 10 or later", "regular driver and BIOS updates"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2023-12-31", "ancoragem_temporal": {"data_post": "2025-05-31", "periodo_referencia": "2025-05"}}

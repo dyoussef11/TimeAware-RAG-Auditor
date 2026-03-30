@@ -1,0 +1,1 @@
+{"summary": "Lenovo Legion 7i gen7 i9-12900hx", "intent": "Troubleshooting", "detected_fault": "Undervolting Issue", "suggested_solution": "Use K1CN31WW BIOS and adjust cache ratios for CPU cache undervolting", "technical_severity": "Low", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2022-10-14", "periodo_referencia": "2022-10"}}

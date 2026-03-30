@@ -1,0 +1,1 @@
+{"summary": "razer blade 15 advanced", "intent": "Fault Detection", "detected_fault": "Thermal Throttling", "suggested_solution": "Update drivers and BIOS, replace faulty display panel", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-01-31", "ancoragem_temporal": {"data_post": "2020-01-26", "periodo_referencia": "2020-01"}}

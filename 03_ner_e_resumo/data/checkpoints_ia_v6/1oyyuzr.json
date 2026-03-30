@@ -1,0 +1,1 @@
+{"summary": "hp pavilion", "intent": "analysis", "detected_fault": "thermal throttling and BSODs", "suggested_solution": "upgrade processor and graphics card, consider newer models with improved thermal management", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-11-16", "periodo_referencia": "2025-11"}}

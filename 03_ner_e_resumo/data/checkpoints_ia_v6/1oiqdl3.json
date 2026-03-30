@@ -1,0 +1,1 @@
+{"summary": "hp omen", "intent": "Troubleshooting", "detected_fault": "Battery Drain and Thermal Issues", "suggested_solution": ["BIOS Updates", "Graphics Settings", "Power Management", "Thermal Monitoring"], "technical_severity": "Medium", "discussion_timeline": "2023-11-01 to 2023-11-08", "ancoragem_temporal": {"data_post": "2025-10-28", "periodo_referencia": "2025-10"}}

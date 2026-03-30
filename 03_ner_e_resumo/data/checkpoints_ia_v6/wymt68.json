@@ -1,0 +1,1 @@
+{"summary": "dell xps 15 9520", "intent": "analysis", "detected_fault": "thermal throttling", "suggested_solution": ["underclocking/undervolting", "cooling solutions"], "technical_severity": "Medium", "discussion_timeline": "2023-02-01 to 2023-03-31", "ancoragem_temporal": {"data_post": "2022-08-26", "periodo_referencia": "2022-08"}}

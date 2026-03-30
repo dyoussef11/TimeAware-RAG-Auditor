@@ -1,0 +1,1 @@
+{"summary": "dell", "intent": "diagnosis", "detected_fault": "thermal throttling", "suggested_solution": ["clean dust from vents and fan blades", "replace thermal paste"], "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-06-30", "ancoragem_temporal": {"data_post": "2025-06-14", "periodo_referencia": "2025-06"}}

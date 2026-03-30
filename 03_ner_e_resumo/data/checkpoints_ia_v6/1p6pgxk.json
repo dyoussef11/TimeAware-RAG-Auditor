@@ -1,0 +1,1 @@
+{"summary": "asus rog zephyrus g14", "intent": "System State Baseline Analysis", "detected_fault": "Fan Noise Issue", "suggested_solution": "Use balanced settings and profiles to mitigate fan noise.", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2025-11-25", "periodo_referencia": "2025-11"}}

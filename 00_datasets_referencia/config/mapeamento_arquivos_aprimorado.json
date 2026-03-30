@@ -1,0 +1,112 @@
+{
+  "mapeamentos": [
+    {
+      "arquivo": "Brand Laptops Dataset - List of all brand new laptops - until 2024.csv",
+      "colunas": {
+        "brand": "marca",
+        "Model": "modelo_completo",
+        "processor_tier": "cpu",
+        "ram_memory": "ram",
+        "primary_storage_capacity": "storage",
+        "display_size": "tela"
+      }
+    },
+    {
+      "arquivo": "Brand-Wise Laptop Price Dataset.csv",
+      "colunas": {
+        "Company": "marca",
+        "Product": "modelo_completo",
+        "CPU_model": "cpu",
+        "Ram": "ram",
+        "PrimaryStorage": "storage",
+        "Inches": "tela"
+      }
+    },
+    {
+      "arquivo": "Gamming Laptop - Flipkart.csv",
+      "colunas": {
+        "Laptop Name": "modelo_completo",
+        "sizes": "tela"
+      }
+    },
+    {
+      "arquivo": "Laptop Price Estimation Using Feature Scaling.csv",
+      "colunas": {
+        "Company": "marca",
+        "Product": "modelo_completo",
+        "Cpu": "cpu",
+        "Ram": "ram",
+        "Gpu": "gpu",
+        "Inches": "tela"
+      }
+    },
+    {
+      "arquivo": "Laptop Prices and Specifications Dataset.csv",
+      "colunas": {
+        "Brand:": "marca",
+        "Product name": "modelo_completo",
+        "Processor": "cpu",
+        "Video graphics": "gpu",
+        "RAM": "ram",
+        "Hard drive": "storage",
+        "Display": "tela"
+      }
+    },
+    {
+      "arquivo": "Laptops Cleaned Dataset.csv",
+      "colunas": {
+        "brand": "marca",
+        "model": "modelo_completo",
+        "cpu_model": "cpu",
+        "gpu_model": "gpu",
+        "ram_gb": "ram",
+        "storage_gb": "storage",
+        "display_size_inch": "tela"
+      }
+    },
+    {
+      "arquivo": "Laptops Dataset - Predicting laptop prices based on specifications.csv",
+      "colunas": {
+        "brand": "marca",
+        "model_name": "modelo_completo",
+        "processor_name": "cpu",
+        "ram(GB)": "ram",
+        "ssd(GB)": "storage",
+        "screen_size(inches)": "tela"
+      }
+    },
+    {
+      "arquivo": "Laptops Specificaitons Dataset.csv",
+      "colunas": {
+        "brand": "marca",
+        "model_name": "modelo_completo",
+        "cpu": "cpu",
+        "gpu": "gpu",
+        "ram": "ram",
+        "ssd_gb": "storage",
+        "screen_size_in": "tela"
+      }
+    },
+    {
+      "arquivo": "Modern Laptop Prices and Specifications.csv",
+      "colunas": {
+        "Brand": "marca",
+        "Model": "modelo_completo",
+        "CPU": "cpu",
+        "RAM_GB": "ram",
+        "Storage_GB": "storage",
+        "GPU": "gpu"
+      }
+    },
+    {
+      "arquivo": "Unveiling the Top Gaming Laptops - Demystifying Laptop Specifications.csv",
+      "colunas": {
+        "Product": "modelo_completo",
+        "Processor": "cpu",
+        "Ram": "ram",
+        "Memory": "storage",
+        "Size": "tela"
+      }
+    }
+  ]
+}

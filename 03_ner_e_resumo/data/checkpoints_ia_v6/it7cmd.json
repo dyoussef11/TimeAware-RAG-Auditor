@@ -1,0 +1,1 @@
+{"summary": "asus vivobook pro 14", "intent": "analysis", "detected_fault": "Thermal Throttling", "suggested_solution": "Upgrade cooling system, consider adding more RAM", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2020-09-15", "periodo_referencia": "2020-09"}}

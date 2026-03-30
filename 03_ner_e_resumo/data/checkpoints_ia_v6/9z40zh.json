@@ -1,0 +1,1 @@
+{"summary": "acer predator helios 500", "intent": "Fault Diagnosis", "detected_fault": "Thermal Throttling", "suggested_solution": "Upgrade cooling system or use third-party solution", "technical_severity": "Medium", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2018-11-21", "periodo_referencia": "2018-11"}}

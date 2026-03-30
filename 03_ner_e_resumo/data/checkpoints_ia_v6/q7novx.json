@@ -1,0 +1,1 @@
+{"summary": "Acer Swift X NX.HXAEC.002", "intent": "System State Baseline", "detected_fault": "Thermal Throttling and DPC Latency", "suggested_solution": "Upgrade cooling system or adjust usage patterns", "technical_severity": "Low", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2021-10-13", "periodo_referencia": "2021-10"}}

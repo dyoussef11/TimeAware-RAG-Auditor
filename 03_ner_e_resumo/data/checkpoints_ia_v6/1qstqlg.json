@@ -1,0 +1,1 @@
+{"summary": "Asus TUF F16 System State Baseline", "intent": "Technical Analysis", "detected_fault": "Thermal Throttling", "suggested_solution": "BIOS and driver updates, thermal management improvements", "technical_severity": "Medium", "discussion_timeline": "2023-01-01 to 2025-12-31", "ancoragem_temporal": {"data_post": "2026-02-01", "periodo_referencia": "2026-02"}}

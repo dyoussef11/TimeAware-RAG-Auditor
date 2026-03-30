@@ -1,0 +1,1 @@
+{"summary": "msi pulse gl66 gaming", "intent": "replace", "detected_fault": ["thermal throttling", "BSODs"], "suggested_solution": ["ASUS Zephyrus G16", "Lenovo Legion (i or non-i)", "Lenovo LOQ"], "technical_severity": "Medium", "discussion_timeline": "2023-02-01 to 2023-03-31", "ancoragem_temporal": {"data_post": "2024-11-05", "periodo_referencia": "2024-11"}}

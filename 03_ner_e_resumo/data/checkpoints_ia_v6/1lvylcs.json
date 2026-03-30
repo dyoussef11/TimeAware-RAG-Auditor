@@ -1,0 +1,1 @@
+{"summary": "msi katana 17 gaming", "intent": "Troubleshoot", "detected_fault": "Severe screen flickering", "suggested_solution": ["Rollback Intel driver update", "Clean install of NVIDIA drivers"], "technical_severity": "High", "discussion_timeline": "2024-01-29 to 2024-02-29", "ancoragem_temporal": {"data_post": "2025-07-09", "periodo_referencia": "2025-07"}}

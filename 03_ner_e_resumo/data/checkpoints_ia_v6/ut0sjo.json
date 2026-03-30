@@ -1,0 +1,1 @@
+{"summary": "dell xps 15 9520", "intent": "analysis", "detected_fault": "Fan noise and thermal throttling during intense workloads", "suggested_solution": "Proper cooling and maintenance", "technical_severity": "Medium", "discussion_timeline": "2023-02-01 to 2023-03-31", "ancoragem_temporal": {"data_post": "2022-05-19", "periodo_referencia": "2022-05"}}

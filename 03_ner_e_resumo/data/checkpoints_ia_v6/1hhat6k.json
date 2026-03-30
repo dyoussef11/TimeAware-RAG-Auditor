@@ -1,0 +1,1 @@
+{"summary": "msi katana gf76", "intent": "Fault Detection", "detected_fault": "Thermal Issues due to Dusty Thermal Pads on Chipset", "suggested_solution": "Use Thermal Putty for Improved Thermal Management", "technical_severity": "High", "discussion_timeline": "2023-02-20 to 2023-03-01", "ancoragem_temporal": {"data_post": "2024-12-18", "periodo_referencia": "2024-12"}}

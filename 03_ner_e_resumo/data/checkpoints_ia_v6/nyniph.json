@@ -1,0 +1,1 @@
+{"summary": "asus strix g15 gaming", "intent": "Hardware Analysis", "detected_fault": "Thermal Throttling due to high GPU temperatures", "suggested_solution": "Upgrade to the optional liquid metal cooling system", "technical_severity": "High", "discussion_timeline": "2022-01-01 to 2022-12-31", "ancoragem_temporal": {"data_post": "2021-06-13", "periodo_referencia": "2021-06"}}

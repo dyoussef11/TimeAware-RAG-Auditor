@@ -1,0 +1,6 @@
+{
+  "gpu": "(?i)\\b((?:geforce[\\s-]*)?(?:rtx|gtx|gt|mx|quadro|titan)[\\s-]*\\d{3,4}[a-z0-9]*(?:[\\s-]*(?:ti|super|max-q|maxq|max q|mobile|oc|ada|lhr|ultra))?(?:[\\s-]*\\d{1,2}[\\s-]*gb)?|(?:amd[\\s-]*)?(?:radeon[\\s-]*(?:tm|™)?[\\s-]*)?(?:rx|r9|r7|r5|hd|vega)[\\s-]*(\\d{3,4}|[a-z0-9]+)(?:[\\s-]*(?:xt|xtx|gre|m|xt-m|pro|xtr))?(?:[\\s-]*\\d{1,2}[\\s-]*gb)?|(?:intel[\\s-]*)?(?:arc)[\\s-]*[ab]\\d{3,4}[a-z]*|iris[\\s-]*xe|uhd[\\s-]*graphics|radeon[\\s-]*graphics)\\b",
+  "cpu": "(?i)\\b((?:intel[\\s-]*core[\\s-]*|amd[\\s-]*ryzen[\\s-]*|apple[\\s-]*|ultra[\\s-]*|[i3579][\\s-]*|[3579][\\s-]*\\d{4}|ryzen[\\s-]*[3579])+(?:ultra[\\s-]*\\d|[i3579][\\s-]*)?[\\s-]*\\d{3,5}(?:hx|hk|hl|he|ue|ul|kf|ks|g[1-7]|[kfsthpuye])?|(?:intel[\\s-]*)?(?:pentium|celeron|atom|xeon)[\\s-]*[a-z0-9]+)\\b",
+  "ram": "(?i)(?<!rtx\\s)(?<!rtx\\d{4}\\s)(?<!rx\\s)(?<!gtx\\s)(?<!\\d{4}\\s)(?<!\\d{3}\\s)\\b(\\d{1,3}[\\s-]*gb(?:[\\s-]*(?:ddr[345]|lpddr[45][x]?)?))\\b",
+  "screen": "(?i)\\b(\\d{2,3}[\\s-]*hz|\\d{2}(\\.\\d)?[\\s-]*inch|qhd|uhd|fhd|oled|ips|\\d{3,4}[\\s-]*x[\\s-]*\\d{3,4}|1080p|1200p|1440p|1600p|4k)\\b"
+}
