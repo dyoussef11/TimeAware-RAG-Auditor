@@ -85,7 +85,7 @@ O fluxo automatizado pelo orquestrador transforma discussões informais em **Rel
 | **02 - Pre-proc** | `filtro_tecnico_conversas` | Sequência de limpeza e thresholds de volumetria. |
 | **03 - NER & Resumo** | `NerResumLLAMA3.2-3.8b.py` | Extração de entidades e sumarização via SLMs. |
 | **04 - Vetorização** | `revetorizar_multilingue.py` | Indexação densa com suporte multilingue via BGE-M3. |
-| **05 - Time-Aware** | `RAG_LinearV7.py` | Execução do motor RAG com re-ranking cronológico. |
+| **05 - Time-Aware** | `RAG_Temporal_V8.py` | Execução do motor RAG com re-ranking cronológico. |
 | **06 - Avaliação** | `evaluate_rag_deepevalNaoTemporalV3.py` | Auditoria via DeepEval (LLM-as-a-Judge). |
 
 ---
