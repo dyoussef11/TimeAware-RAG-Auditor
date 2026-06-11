@@ -119,6 +119,4 @@ Desenvolvido para ser executado em ambientes restritos (**GTX 1050 Ti 4GB**), o 
 
 ---
 
-## ⚖️ Licença e Anonimização
-
-Este repositório foi anonimizado para cumprir os requisitos de **Double-Blind Review**. Referências à instituição e autoria foram removidas desta versão para avaliação por pares.
+Por **Daniel Youssef De Hollanda Lopes**
