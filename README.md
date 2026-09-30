@@ -30,6 +30,13 @@ O projeto utiliza uma estrutura modular. Para que o diretório `/core` seja reco
 
 ### 1. Ambiente Virtual
 ```bash
+Instale o python 3.12.10, Antes de criar o venv:
+```
+https://www.python.org/downloads/release/python-31210/
+
+
+### 1.1 Ambiente Virtual
+```bash
 python -m venv .venv
 .\.venv\Scripts\activate  # Windows
 ```
